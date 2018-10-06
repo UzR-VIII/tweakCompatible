@@ -71,6 +71,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "10.3.1",
+      "repository": "MPG13's Cydia Repo",
+      "date": "2018-10-06T18:42:50Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "Doesn't work on i7+ on 10.3.1",
+          "date": "2018-10-06T18:42:50Z",
+          "userName": "deucetresthugz",
+          "issueNumber": 52352,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
