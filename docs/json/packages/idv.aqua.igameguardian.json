@@ -343,10 +343,10 @@
       "date": "2018-08-08T01:05:05Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 53,
-        "good": 14,
+        "percentage": 55,
+        "good": 15,
         "bad": 0,
-        "total": 26,
+        "total": 27,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -588,6 +588,15 @@
           "date": "2018-10-06T01:37:23Z",
           "userName": "bambuvn",
           "issueNumber": 52265,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-06T17:28:59Z",
+          "userName": "playbb123",
+          "issueNumber": 52350,
           "arch32": false
         }
       ]
