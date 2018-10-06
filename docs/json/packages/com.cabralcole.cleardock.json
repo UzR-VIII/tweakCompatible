@@ -396,10 +396,10 @@
       "date": "2018-07-10T02:06:17Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -452,6 +452,15 @@
           "date": "2018-08-26T05:20:58Z",
           "userName": "Mustafacydia",
           "issueNumber": 47262,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-06T20:32:40Z",
+          "userName": "j0k3r",
+          "issueNumber": 52357,
           "arch32": false
         }
       ]
