@@ -547,11 +547,11 @@
       "repository": "Global++ Tweaks",
       "date": "2018-10-06T03:45:10Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -568,6 +568,15 @@
           "date": "2018-10-06T03:45:10Z",
           "userName": "ferruzxca",
           "issueNumber": 52279,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "Tweak works but you’ll need something to bypass jb detection ",
+          "date": "2018-10-06T17:32:55Z",
+          "userName": "bryshaunporter",
+          "issueNumber": 52351,
           "arch32": false
         }
       ]
