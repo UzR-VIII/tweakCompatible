@@ -355,10 +355,10 @@
     {
       "id": "com.bytafont.bytafonttm",
       "name": "BytaFont Tweak Mode",
-      "latest": "1.1.4",
+      "latest": "3.6",
       "repository": "BytaFont",
       "url": "http://repo.bytafont.com/latest/",
-      "shortDescription": "BytaFont Tweak Mode",
+      "shortDescription": "BytaFont Tweak Mode for BytaFont 3.",
       "category": "Tweaks",
       "author": "BytaFont.com",
       "commercial": false,
@@ -1159,6 +1159,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.ksaiostheme",
+      "name": "KSA iOS",
+      "latest": "1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.ksaiostheme/",
+      "shortDescription": "KSA iOS is a theme that makes you fully patriotic and belonging to your device once installed.",
+      "category": "Themes",
+      "author": "@s0ftman",
+      "commercial": false,
+      "date": "2018-10-05T18:32:59Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "9.0.2",
+          "repository": "BigBoss",
+          "date": "2018-10-06T21:04:30Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.phillipt.lockquote",
       "name": "LockQuote",
       "latest": "1.5",
@@ -1729,10 +1763,10 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1216+debug",
+      "latest": "2.0.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
-      "shortDescription": "System information Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
+      "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
       "category": "Tweaks",
       "author": "ARX8x",
       "commercial": false,
@@ -1762,10 +1796,10 @@
     {
       "id": "com.cpdigitaldarkroom.taptapflip",
       "name": "TapTapFlip",
-      "latest": "1.4.2",
+      "latest": "1.3.3",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
-      "shortDescription": "Double tap to flip camera",
+      "shortDescription": "Two taps to flip camera!",
       "category": "Tweaks",
       "author": "CP Digital Darkroom",
       "commercial": false,
