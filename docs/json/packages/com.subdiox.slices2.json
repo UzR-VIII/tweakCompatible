@@ -169,10 +169,10 @@
       "date": "2018-08-11T15:32:01Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 36,
+        "percentage": 33,
         "good": 4,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -279,6 +279,15 @@
           "date": "2018-09-18T14:17:56Z",
           "userName": "zzHAMZAzz",
           "issueNumber": 50833,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-06T17:26:24Z",
+          "userName": "playbb123",
+          "issueNumber": 52349,
           "arch32": false
         }
       ]
