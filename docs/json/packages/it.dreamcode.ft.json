@@ -494,9 +494,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 32,
+        "good": 33,
         "bad": 0,
-        "total": 32,
+        "total": 33,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -792,6 +792,15 @@
           "date": "2018-09-02T16:25:34Z",
           "userName": "RiPx88",
           "issueNumber": 48743,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-10-07T13:18:57Z",
+          "userName": "dmorse2112",
+          "issueNumber": 52424,
           "arch32": false
         }
       ]
