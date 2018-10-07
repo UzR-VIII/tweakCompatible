@@ -1337,6 +1337,40 @@
       ]
     },
     {
+      "id": "xyz.willy.aupm",
+      "name": "AUPM (BETA)",
+      "latest": "1.0~beta9",
+      "repository": "xTM3x Repo",
+      "url": "http://cydia.saurik.com/package/xyz.willy.aupm/",
+      "shortDescription": "A Useless Package Manager",
+      "category": "Packaging",
+      "author": "Wilson Styres",
+      "commercial": false,
+      "date": "2018-10-04T15:43:33Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0~beta9",
+          "iOSVersion": "10.0.2",
+          "repository": "xTM3x Repo",
+          "date": "2018-10-07T15:00:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.fidele007.autolowpowermode",
       "name": "AutoLowPowerMode",
       "latest": "0.0.1-2+debug",
