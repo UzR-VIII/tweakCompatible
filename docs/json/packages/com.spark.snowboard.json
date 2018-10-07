@@ -1057,11 +1057,11 @@
       "repository": "Chariz",
       "date": "2018-10-07T01:03:48Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1078,6 +1078,15 @@
           "date": "2018-10-07T01:03:48Z",
           "userName": "DeadlySkull",
           "issueNumber": 52372,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-07T18:06:31Z",
+          "userName": "LaurentTripleOr",
+          "issueNumber": 52440,
           "arch32": false
         }
       ]
