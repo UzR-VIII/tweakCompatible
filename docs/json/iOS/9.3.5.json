@@ -4154,6 +4154,40 @@
       ]
     },
     {
+      "id": "jp.ashikase.libpackageinfo",
+      "name": "libpackageinfo",
+      "latest": "1.1.0.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/jp.ashikase.libpackageinfo/",
+      "shortDescription": "Library to retrieve package information.",
+      "category": "Development",
+      "author": "Lance Fetters (ashikase)",
+      "commercial": false,
+      "date": "2018-03-01T00:58:24Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0.1-1",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2018-10-07T09:18:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.limittheme",
       "name": "Limit",
       "latest": "0.3-2",
