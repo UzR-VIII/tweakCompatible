@@ -2728,6 +2728,40 @@
       ]
     },
     {
+      "id": "diffutils",
+      "name": "Diff Utilities",
+      "latest": "2.8.1-6",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/diffutils/",
+      "shortDescription": "compare two files for differences",
+      "category": "Development",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-04T19:01:27Z",
+      "versions": [
+        {
+          "tweakVersion": "2.8.1-6",
+          "iOSVersion": "9.3.5",
+          "repository": "Cydia/Telesphoreo",
+          "date": "2018-10-07T09:19:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "diskdev-cmds",
       "name": "diskdev-cmds",
       "latest": "421.7-4",
