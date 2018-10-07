@@ -1339,10 +1339,10 @@
       "date": "2018-07-18T16:54:39Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 64,
-        "good": 25,
+        "percentage": 65,
+        "good": 26,
         "bad": 0,
-        "total": 39,
+        "total": 40,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1701,6 +1701,15 @@
           "date": "2018-09-30T10:50:20Z",
           "userName": "wolferous",
           "issueNumber": 51931,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-07T01:01:16Z",
+          "userName": "iFred09",
+          "issueNumber": 52370,
           "arch32": false
         }
       ]
