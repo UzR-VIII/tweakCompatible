@@ -1134,10 +1134,10 @@
       "date": "2018-07-07T23:14:23Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1172,6 +1172,15 @@
           "date": "2018-07-13T23:07:19Z",
           "userName": "giinseng",
           "issueNumber": 25774,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-07T17:24:32Z",
+          "userName": "Stephxny",
+          "issueNumber": 52438,
           "arch32": false
         }
       ]
