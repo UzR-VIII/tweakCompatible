@@ -1,10 +1,10 @@
 {
   "id": "com.reddestdream.minimalhostsblocker",
   "name": "Minimal Hosts Blocker",
-  "latest": "7.1",
+  "latest": "7.3",
   "repository": "ReddestDream's Repo",
   "url": "https://reddestdream.github.io/",
-  "shortDescription": "A minimal ad blocker!",
+  "shortDescription": "A Minimal Ad Blocker! ^_^",
   "category": "Tweaks",
   "author": "ReddestDream",
   "commercial": false,
@@ -375,9 +375,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 95,
-        "good": 22,
+        "good": 23,
         "bad": 0,
-        "total": 23,
+        "total": 24,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -592,6 +592,15 @@
           "date": "2018-08-26T09:30:45Z",
           "userName": "burkybang",
           "issueNumber": 47307,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-07T04:56:36Z",
+          "userName": "kojuice182",
+          "issueNumber": 52385,
           "arch32": false
         }
       ]
