@@ -101,21 +101,22 @@
       ]
     },
     {
-      "id": "com.kstreich-dev.3gunrestrictor5",
+      "id": "com.hackyouriphone.3gunrestrictor5",
       "name": "3G Unrestrictor 5 (iOS 10/9/8/7)",
       "latest": "5.9.10",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.kstreich-dev.3gunrestrictor5/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.3gunrestrictor5/",
       "shortDescription": "Enables WiFi-Only features on 3G & LTE",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Kim Streich",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-17T11:18:01Z",
       "versions": [
         {
           "tweakVersion": "5.9.10",
           "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "date": "2018-08-20T19:49:34Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-17T11:18:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -134,22 +135,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.3gunrestrictor5",
+      "id": "com.kstreich-dev.3gunrestrictor5",
       "name": "3G Unrestrictor 5 (iOS 10/9/8/7)",
       "latest": "5.9.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.3gunrestrictor5/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.kstreich-dev.3gunrestrictor5/",
       "shortDescription": "Enables WiFi-Only features on 3G & LTE",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Kim Streich",
-      "commercial": false,
-      "date": "2018-03-17T11:18:01Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "5.9.10",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-17T11:18:01Z",
+          "repository": "BigBoss",
+          "date": "2018-08-20T19:49:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1140,7 +1140,7 @@
     {
       "id": "com.anemonetheming.anemone",
       "name": "Anemone",
-      "latest": "2.1.8-1",
+      "latest": "2.1.8-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone/",
       "shortDescription": "An awesome theme manager!",
@@ -1641,10 +1641,10 @@
     {
       "id": "com.iphonecake.appcake2",
       "name": "AppCake",
-      "latest": "5.6.0.0",
+      "latest": "5.6.0.2",
       "repository": "AppCake",
       "url": "http://iphonecake.com/forum/",
-      "shortDescription": "The new AppCake 5.6.0.0! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
       "category": "Utilities",
       "author": "Mickael liang",
       "commercial": false,
@@ -2908,38 +2908,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.automa",
-      "name": "Automa",
-      "latest": "1.0.5-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.automa/",
-      "shortDescription": "remembers popup alert choices",
-      "category": "Tweaks",
-      "author": "pNre",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5-1",
-          "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.automa",
       "name": "Automa",
       "latest": "1.0.5-1k",
@@ -2958,6 +2926,38 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.automa",
+      "name": "Automa",
+      "latest": "1.0.5-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.automa/",
+      "shortDescription": "remembers popup alert choices",
+      "category": "Tweaks",
+      "author": "pNre",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5-1",
+          "iOSVersion": "10.2",
+          "repository": "BigBoss",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -5458,7 +5458,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.5",
+      "latest": "4.2.2.7",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -6163,40 +6163,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "HYI - Tweaks",
-      "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-17T12:50:00Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-17T12:50:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -6231,6 +6197,40 @@
           "iOSVersion": "10.2",
           "repository": "BigBoss",
           "date": "2018-04-23T16:48:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "HYI - Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2018-03-17T12:50:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "10.2",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-17T12:50:00Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7008,9 +7008,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -7367,7 +7367,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.30",
+      "latest": "420.1.30-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -7399,10 +7399,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.6301",
+      "latest": "420.0.0-5",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
+      "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -9100,7 +9100,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.13",
+      "latest": "1.3.14d",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -9186,7 +9186,7 @@
     {
       "id": "com.ps.emojilibrary",
       "name": "EmojiLibrary",
-      "latest": "1.0.12",
+      "latest": "1.0.14a",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Master library for PoomSmart's emoji tweaks",
@@ -9218,10 +9218,10 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2",
+      "latest": "1.2.1",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
-      "shortDescription": "Latest emojis for iOS 10.0-11.0",
+      "shortDescription": "Latest emojis for iOS 10.0-11.4",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -10922,7 +10922,7 @@
     {
       "id": "com.a3tweaks.flipswitch",
       "name": "Flipswitch",
-      "latest": "1.0.15",
+      "latest": "1.0.16~beta2",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/com.a3tweaks.flipswitch/",
       "shortDescription": "Centralized toggle system for iOS",
@@ -11618,22 +11618,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.gifviewer",
+      "id": "com.jerryen.gifviewer",
       "name": "GIFViewer",
       "latest": "1.0.3-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gifviewer/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jerryen.gifviewer/",
       "shortDescription": "View animated GIFs in Photos.app and the image picker.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Jerry En",
-      "commercial": false,
-      "date": "2018-03-22T22:11:47Z",
+      "commercial": true,
+      "date": "2018-03-05T14:04:35Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-2",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-22T22:11:47Z",
+          "repository": "BigBoss",
+          "date": "2018-08-23T10:49:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11652,22 +11652,22 @@
       ]
     },
     {
-      "id": "com.jerryen.gifviewer",
+      "id": "com.hackyouriphone.gifviewer",
       "name": "GIFViewer",
       "latest": "1.0.3-2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jerryen.gifviewer/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gifviewer/",
       "shortDescription": "View animated GIFs in Photos.app and the image picker.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Jerry En",
-      "commercial": true,
-      "date": "2018-03-05T14:04:35Z",
+      "commercial": false,
+      "date": "2018-03-22T22:11:47Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-2",
           "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "date": "2018-08-23T10:49:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-22T22:11:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14742,7 +14742,7 @@
     {
       "id": "com.ichitaso.killbackground10",
       "name": "KillBackground10",
-      "latest": "1.1.1",
+      "latest": "1.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.ichitaso.killbackground10/",
       "shortDescription": "Kill background apps with style for iOS 10 & 11!",
@@ -17509,10 +17509,10 @@
     {
       "id": "com.reddestdream.minimalhostsblocker",
       "name": "Minimal Hosts Blocker",
-      "latest": "7.1",
+      "latest": "7.3",
       "repository": "ReddestDream's Repo",
       "url": "https://reddestdream.github.io/",
-      "shortDescription": "A minimal ad blocker!",
+      "shortDescription": "A Minimal Ad Blocker! ^_^",
       "category": "Tweaks",
       "author": "ReddestDream",
       "commercial": false,
@@ -18491,7 +18491,7 @@
     {
       "id": "com.cydiageek.mypomonella",
       "name": "Mypomonella",
-      "latest": "1.0.4-4",
+      "latest": "1.0.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.mypomonella/",
       "shortDescription": "Set on the Updates in All the Cydia Packages & More!",
@@ -21232,39 +21232,6 @@
       ]
     },
     {
-      "id": "com.creatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "4.0.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.creatix.peek-a-boo/",
-      "shortDescription": "Peek and Pop on older devices!",
-      "category": "Tweaks",
-      "author": "Creatix",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "10.0.2",
-          "iOSVersion": "10.2",
-          "repository": "(null)",
-          "date": "2018-03-04T20:59:55Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "11.0.3",
@@ -21285,6 +21252,39 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.creatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "4.0.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.creatix.peek-a-boo/",
+      "shortDescription": "Peek and Pop on older devices!",
+      "category": "Tweaks",
+      "author": "Creatix",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "10.0.2",
+          "iOSVersion": "10.2",
+          "repository": "(null)",
+          "date": "2018-03-04T20:59:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -21611,7 +21611,7 @@
     {
       "id": "pincrush",
       "name": "pincrush",
-      "latest": "0.9.2-1",
+      "latest": "0.9.2-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/pincrush/",
       "shortDescription": "optimize PNGs just like Apple does",
@@ -21707,7 +21707,7 @@
     {
       "id": "com.pokego2.pokego2",
       "name": "PokeGo++ 2.0 for Pokemon Go!",
-      "latest": "2.0r-83",
+      "latest": "2.0r-89",
       "repository": "pokego2.com",
       "url": "http://pokego2.com/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -21818,38 +21818,6 @@
       ]
     },
     {
-      "id": "com.a3tweaks.polus",
-      "name": "Polus",
-      "latest": "2.2.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.a3tweaks.polus/",
-      "shortDescription": "Control Center launcher for apps & actions",
-      "category": "Tweaks",
-      "author": "A3tweaks",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "2.2.1",
-          "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.polus",
       "name": "Polus",
       "latest": "2.2.1",
@@ -21884,12 +21852,44 @@
       ]
     },
     {
+      "id": "com.a3tweaks.polus",
+      "name": "Polus",
+      "latest": "2.2.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.a3tweaks.polus/",
+      "shortDescription": "Control Center launcher for apps & actions",
+      "category": "Tweaks",
+      "author": "A3tweaks",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.2.1",
+          "iOSVersion": "10.2",
+          "repository": "BigBoss",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.dpkgdan.powertap",
       "name": "Power Tap",
-      "latest": "1.1.3-3",
+      "latest": "1.2.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dpkgdan.powertap/",
-      "shortDescription": "tap powerdown knob to reboot, respring, safe mode",
+      "shortDescription": "Power Tap allows you to toggle the power down bar through different settings, such as \"reboot,\" \"respring,\" and \"safe mode.\" Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak \"Slide to Reboot.\"",
       "category": "Tweaks",
       "author": "Dan Saba",
       "commercial": false,
@@ -23217,10 +23217,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.0.20",
+      "latest": "3.0.17",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "shortDescription": "posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -25912,10 +25912,10 @@
     {
       "id": "com.saurik.substrate.safemode",
       "name": "Substrate Safe Mode",
-      "latest": "0.9.6001",
+      "latest": "420.0.0-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
-      "shortDescription": "safe mode safety extension (safe)",
+      "shortDescription": "A safe safety safemode extension (safe).",
       "category": "Tweaks",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -29909,10 +29909,10 @@
     {
       "id": "com.saj0vie.wififirmwareupdater",
       "name": "wifiFirmwareUpdater",
-      "latest": "4.0",
+      "latest": "1.0b1",
       "repository": "Saj0vie Repo",
       "url": "http://saj0vie.github.io/",
-      "shortDescription": "Loads iOS 11.2 wifi firmware",
+      "shortDescription": "Utilizes iOS' executable wifiFirmwareLoader to load a custom WiFi firmware. The files installed to /var/mobile/wififirmware are not mine, they are Apple and Broadcom's. I did not make the firmware, I'm simply using Apple's native executable to load it. This makes your iPhone more secure as you are using a more up-to-date firmware without needing to update iOS. This supports 64 bit iPhones only. THIS IS BETA SOFTWARE.",
       "category": "System",
       "author": "saj0vie",
       "commercial": false,
