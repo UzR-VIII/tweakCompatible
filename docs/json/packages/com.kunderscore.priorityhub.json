@@ -1,7 +1,7 @@
 {
   "id": "com.kunderscore.priorityhub",
   "name": "Priority Hub",
-  "latest": "0.0.8-1",
+  "latest": "0.0.9-2",
   "repository": "Kunderscore's Repo",
   "url": "http://cydia.saurik.com/package/com.kunderscore.priorityhub/",
   "shortDescription": "Organize your notifications!",
@@ -804,6 +804,37 @@
           "date": "2018-10-07T15:32:52Z",
           "userName": "Qaragholy",
           "issueNumber": 52434,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.9-2",
+      "iOSVersion": "11.3.1",
+      "repository": "Kunderscore's Repo",
+      "date": "2018-10-08T12:11:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "Crash and stop working when using pulltoclear",
+          "date": "2018-10-08T12:11:32Z",
+          "userName": "Sinane",
+          "issueNumber": 52497,
           "arch32": false
         }
       ]
