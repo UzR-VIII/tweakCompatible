@@ -222,21 +222,21 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone9,2",
-          "issues": "",
-          "date": "2018-10-06T01:38:10Z",
-          "userName": "bambuvn",
-          "issueNumber": 52267,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone10,6",
           "issues": "Causes endless respring boot. ",
           "date": "2018-10-06T20:37:28Z",
           "userName": "teamstreetmotion",
           "issueNumber": 52358,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-08T05:42:26Z",
+          "userName": "bambuvn",
+          "issueNumber": 52489,
           "arch32": false
         }
       ]
