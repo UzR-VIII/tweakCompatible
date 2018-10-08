@@ -3082,10 +3082,10 @@
       "date": "2018-07-09T13:48:30Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 90,
-        "good": 10,
+        "percentage": 91,
+        "good": 11,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3192,6 +3192,15 @@
           "date": "2018-08-07T11:26:33Z",
           "userName": "tommoses",
           "issueNumber": 39940,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-08T20:39:35Z",
+          "userName": "oooceees",
+          "issueNumber": 52546,
           "arch32": false
         }
       ]
