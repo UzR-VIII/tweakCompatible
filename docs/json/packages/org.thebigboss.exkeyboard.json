@@ -86,10 +86,10 @@
       "date": "2018-07-12T20:07:55Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "percentage": 66,
+        "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -142,6 +142,15 @@
           "date": "2018-07-31T22:05:46Z",
           "userName": "AxW420",
           "issueNumber": 37325,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-08T15:06:49Z",
+          "userName": "SonNguyenSpace",
+          "issueNumber": 52508,
           "arch32": false
         }
       ]
