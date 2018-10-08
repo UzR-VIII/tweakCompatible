@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-07-29T05:08:38Z",
           "userName": "PwnHkr",
           "issueNumber": 35307,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Tested with SnowBoard",
+          "date": "2018-10-07T23:58:43Z",
+          "userName": "haykam821",
+          "issueNumber": 52461,
           "arch32": false
         }
       ]
