@@ -2088,10 +2088,10 @@
       "date": "2018-07-06T23:51:48Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 91,
-        "good": 11,
+        "percentage": 92,
+        "good": 12,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2207,6 +2207,15 @@
           "date": "2018-08-07T11:25:29Z",
           "userName": "tommoses",
           "issueNumber": 39934,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-08T20:20:28Z",
+          "userName": "oooceees",
+          "issueNumber": 52540,
           "arch32": false
         }
       ]
