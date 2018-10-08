@@ -1,7 +1,7 @@
 {
   "id": "org.thebigboss.ksaiostheme",
   "name": "KSA iOS",
-  "latest": "1.0",
+  "latest": "1.0.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/org.thebigboss.ksaiostheme/",
   "shortDescription": "KSA iOS is a theme that makes you fully patriotic and belonging to your device once installed.",
@@ -86,6 +86,37 @@
           "date": "2018-10-06T21:04:30Z",
           "userName": "H-A-N-E-E-F",
           "issueNumber": 52359,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-08T18:35:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-08T18:35:35Z",
+          "userName": "rio-doro",
+          "issueNumber": 52517,
           "arch32": false
         }
       ]
