@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-07-13T20:13:09Z",
           "userName": "JohnLockeNJ",
           "issueNumber": 25583,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Works great on iPhoneX 11.3.1.",
+          "date": "2018-10-08T02:43:02Z",
+          "userName": "Neosnc",
+          "issueNumber": 52466,
           "arch32": false
         }
       ]
