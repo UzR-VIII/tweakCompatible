@@ -4,7 +4,7 @@
   "latest": "1.0.8",
   "repository": "TapSharp",
   "url": "http://cydia.saurik.com/package/com.tapsharp.whatsappdarkmode/",
-  "shortDescription": "وضع ليلي كامل للواتس اب",
+  "shortDescription": "WhatsApp Dark Mode. Perfect for battery life on OLED displays like the iPhone X.",
   "category": "Tweaks",
   "author": "Neo Ighodaro",
   "commercial": false,
@@ -552,10 +552,10 @@
       "date": "2018-09-06T18:22:40Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "percentage": 66,
+        "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -608,6 +608,15 @@
           "date": "2018-10-01T22:29:48Z",
           "userName": "yaf3i",
           "issueNumber": 52033,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "The best so far but still needs work Eg Last seen difficult to see Chat all media crashes the app...",
+          "date": "2018-10-08T04:16:14Z",
+          "userName": "anonypublic",
+          "issueNumber": 52477,
           "arch32": false
         }
       ]
