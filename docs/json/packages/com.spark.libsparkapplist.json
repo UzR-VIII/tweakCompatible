@@ -381,10 +381,10 @@
       "date": "2018-07-10T00:40:53Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 92,
         "good": 13,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -509,6 +509,15 @@
           "date": "2018-07-20T02:56:38Z",
           "userName": "Galfinite",
           "issueNumber": 30251,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Breaks homescreen. Unfunctional.",
+          "date": "2018-10-09T05:45:10Z",
+          "userName": "xFahrenheightx",
+          "issueNumber": 52576,
           "arch32": false
         }
       ]
