@@ -47,11 +47,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-03-03T20:07:19Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2018-03-07T21:22:20Z",
           "userName": "sillwiu",
           "issueNumber": 4835,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "sends me into safe mode with meridian jailbreak",
+          "date": "2018-10-09T16:39:37Z",
+          "userName": "deucetresthugz",
+          "issueNumber": 52594,
           "arch32": false
         }
       ]
