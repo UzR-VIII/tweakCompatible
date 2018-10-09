@@ -1,0 +1,45 @@
+{
+  "id": "com.midnightchips.cleantab",
+  "name": "Clean Tab",
+  "latest": "0.0.1",
+  "repository": "Dynastic Repo",
+  "url": "http://cydia.saurik.com/package/com.midnightchips.cleantab/",
+  "shortDescription": "Clean Up the iOS Tab Bar — Remove the label from the tab bar in apps like Apollo, App Store and more.",
+  "category": "Tweaks",
+  "author": "MidnightChips",
+  "commercial": false,
+  "date": "2018-10-09T05:17:19Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Dynastic Repo",
+      "date": "2018-10-09T05:17:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Love it to bits.",
+          "date": "2018-10-09T05:17:19Z",
+          "userName": "xFahrenheightx",
+          "issueNumber": 52575,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
