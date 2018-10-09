@@ -20872,40 +20872,6 @@
       ]
     },
     {
-      "id": "com.ioscreatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "11.0.3",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
-      "shortDescription": "3D Touch for Non-3D Touch Devices",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-02T01:15:51Z",
-      "versions": [
-        {
-          "tweakVersion": "11.0.3",
-          "iOSVersion": "10.3.3",
-          "repository": "Packix",
-          "date": "2018-07-30T17:37:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.creatix.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "4.0.0",
@@ -20946,6 +20912,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ioscreatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "11.0.3",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
+      "shortDescription": "3D Touch for Non-3D Touch Devices",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-02T01:15:51Z",
+      "versions": [
+        {
+          "tweakVersion": "11.0.3",
+          "iOSVersion": "10.3.3",
+          "repository": "Packix",
+          "date": "2018-07-30T17:37:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -21176,22 +21176,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.pikabu",
+      "id": "com.hackyouriphone.pikabu",
       "name": "Pikabu",
       "latest": "1.0.1",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.pikabu/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.pikabu/",
       "shortDescription": "Minimalistic volume hud on the notch, Headphone detection, Support iOS 10.0 to iOS 11.1.2",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Jeffrey Chan",
       "commercial": false,
-      "date": "2018-03-04T03:59:41Z",
+      "date": "2018-03-04T07:00:06Z",
       "versions": [
         {
           "tweakVersion": "1.0.1",
           "iOSVersion": "10.3.3",
-          "repository": "Xarold Repo",
-          "date": "2018-03-06T00:24:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-06T00:24:16Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -21210,22 +21210,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.pikabu",
+      "id": "com.repo.xarold.com.pikabu",
       "name": "Pikabu",
       "latest": "1.0.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.pikabu/",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.pikabu/",
       "shortDescription": "Minimalistic volume hud on the notch, Headphone detection, Support iOS 10.0 to iOS 11.1.2",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Jeffrey Chan",
       "commercial": false,
-      "date": "2018-03-04T07:00:06Z",
+      "date": "2018-03-04T03:59:41Z",
       "versions": [
         {
           "tweakVersion": "1.0.1",
           "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-06T00:24:16Z",
+          "repository": "Xarold Repo",
+          "date": "2018-03-06T00:24:31Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -24949,6 +24949,38 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.spotilife",
+      "name": "Spotilife",
+      "latest": "0.9",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.8",
+          "iOSVersion": "10.3.3",
+          "repository": "BiteYourApple",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.spotilife",
       "name": "Spotilife",
       "latest": "1.0",
@@ -24997,38 +25029,6 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.spotilife",
-      "name": "Spotilife",
-      "latest": "0.9",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.8",
-          "iOSVersion": "10.3.3",
-          "repository": "BiteYourApple",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
             }
           }
         }
@@ -29498,9 +29498,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
