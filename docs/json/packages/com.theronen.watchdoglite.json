@@ -127,11 +127,11 @@
       "repository": "BigBoss",
       "date": "2018-07-17T09:10:07Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 3,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -184,6 +184,15 @@
           "date": "2018-08-12T10:37:35Z",
           "userName": "tatytu",
           "issueNumber": 42423,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-08T23:47:01Z",
+          "userName": "kaykemqs",
+          "issueNumber": 52562,
           "arch32": false
         }
       ]
