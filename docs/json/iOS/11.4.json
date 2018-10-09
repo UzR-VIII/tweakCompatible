@@ -3468,6 +3468,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.barmoji",
+      "name": "Barmoji",
+      "latest": "1.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barmoji/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "HYI - Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2018-03-18T09:15:30Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T06:04:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cpdigitaldarkroom.barmoji",
       "name": "Barmoji",
       "latest": "1.3",
@@ -3569,40 +3603,6 @@
             "good": 4,
             "bad": 0,
             "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.barmoji",
-      "name": "Barmoji",
-      "latest": "1.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barmoji/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "HYI - Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2018-03-18T09:15:30Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T06:04:10Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11166,6 +11166,40 @@
       ]
     },
     {
+      "id": "io.smacpats.emojiportinstaller",
+      "name": "EmojiPortInstaller",
+      "latest": "1.0.3-1",
+      "repository": "Smacpats’ Repo",
+      "url": "http://cydia.saurik.com/package/io.smacpats.emojiportinstaller/",
+      "shortDescription": "Install emojiport and iOS 12.1 emojis automatically",
+      "category": "EmojiPort",
+      "author": "Smacpats",
+      "commercial": false,
+      "date": "2018-10-08T03:05:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "11.4",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-10-09T19:32:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.julioverne.epicentre11",
       "name": "Epicentre (iOS 11)",
       "latest": "2.0-2a",
@@ -13203,40 +13237,6 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "11.4",
-          "repository": "Spica T Repo",
-          "date": "2018-07-22T08:28:42Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
       "latest": "0.0.1-2",
@@ -13259,6 +13259,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-18T14:45:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.4",
+          "repository": "Spica T Repo",
+          "date": "2018-07-22T08:28:42Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19311,22 +19345,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
+      "id": "repo.biteyourapple.net.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "latest": "1.4-2",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "anondev",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
-          "tweakVersion": "1.5",
+          "tweakVersion": "1.4-2",
           "iOSVersion": "11.4",
-          "repository": "XModGames",
-          "date": "2018-08-21T13:56:03Z",
+          "repository": "(null)",
+          "date": "2018-09-01T13:03:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19345,21 +19378,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.localiapstore",
+      "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "anondev",
       "commercial": false,
+      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
-          "tweakVersion": "1.4-2",
+          "tweakVersion": "1.5",
           "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-09-01T13:03:14Z",
+          "repository": "XModGames",
+          "date": "2018-08-21T13:56:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25104,39 +25138,6 @@
       ]
     },
     {
-      "id": "com.conradkramer.open",
-      "name": "Open",
-      "latest": "1.1.1-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.conradkramer.open/",
-      "shortDescription": "launch apps from the command-line",
-      "category": "System",
-      "author": "Conrad Kramer",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1.1-1",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-16T05:48:11Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.opencli",
       "name": "Open",
       "latest": "1.0.0",
@@ -25157,6 +25158,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.conradkramer.open",
+      "name": "Open",
+      "latest": "1.1.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.conradkramer.open/",
+      "shortDescription": "launch apps from the command-line",
+      "category": "System",
+      "author": "Conrad Kramer",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.1-1",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-16T05:48:11Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
