@@ -3119,22 +3119,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ext3nder-installer",
+      "id": "com.julioverne.ext3nder-installer",
       "name": "Ext3nder Installer",
-      "latest": "016",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ext3nder-installer/",
+      "latest": "021a",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
       "shortDescription": "Cydia Extender Installer With Extra Features",
-      "category": "HYI - Tweaks",
+      "category": "Utilities",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-05-05T23:22:12Z",
       "versions": [
         {
           "tweakVersion": "016",
           "iOSVersion": "9.3.5",
-          "repository": "HackYouriPhone",
-          "date": "2018-05-05T23:22:12Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-05-05T23:11:50Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -3153,21 +3152,22 @@
       ]
     },
     {
-      "id": "com.julioverne.ext3nder-installer",
+      "id": "com.hackyouriphone.ext3nder-installer",
       "name": "Ext3nder Installer",
-      "latest": "021a",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
+      "latest": "016",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ext3nder-installer/",
       "shortDescription": "Cydia Extender Installer With Extra Features",
-      "category": "Utilities",
+      "category": "HYI - Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-05-05T23:22:12Z",
       "versions": [
         {
           "tweakVersion": "016",
           "iOSVersion": "9.3.5",
-          "repository": "julioverne's Repo",
-          "date": "2018-05-05T23:11:50Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-05-05T23:22:12Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -4205,6 +4205,39 @@
           "iOSVersion": "9.3.5",
           "repository": "Thireus Repository",
           "date": "2018-08-17T10:27:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.slugrail.ipainstaller",
+      "name": "IPA Installer",
+      "latest": "3.23",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.slugrail.ipainstaller/",
+      "shortDescription": "Install IPA files directly from device",
+      "category": "Utilities",
+      "author": "slugrail",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "3.23",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2018-10-10T16:28:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
