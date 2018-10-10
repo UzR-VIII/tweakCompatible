@@ -640,11 +640,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-08-20T17:28:06Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 77,
+        "calculatedStatus": "Likely working",
+        "percentage": 70,
         "good": 7,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -733,6 +733,15 @@
           "date": "2018-09-25T00:37:47Z",
           "userName": "XweAponX",
           "issueNumber": 51432,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "My device resprings to safe mode every hour. I am 99% sure that this is the cause. ",
+          "date": "2018-10-10T18:41:53Z",
+          "userName": "J0113",
+          "issueNumber": 52647,
           "arch32": false
         }
       ]
