@@ -1,10 +1,10 @@
 {
   "id": "com.vitataf.homegesture",
   "name": "Home Gesture",
-  "latest": "1.8.2",
+  "latest": "2.0.0",
   "repository": "MidnightChips",
   "url": "http://cydia.saurik.com/package/com.vitataf.homegesture/",
-  "shortDescription": "Enable iPhone X home gesture on other devices.",
+  "shortDescription": "Enable iPhone X HomeGestures on other devices. — Enable iPhone X HomeGestures on non-X devices. Blacklist certain apps from gestures from being enabled. The best way to get the iPhone X feel without having an iPhone X",
   "category": "Tweaks",
   "author": "VitaTaf",
   "commercial": false,
@@ -2277,6 +2277,37 @@
           "date": "2018-09-29T06:02:13Z",
           "userName": "SCOTT0852",
           "issueNumber": 51804,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.0",
+      "iOSVersion": "11.3.1",
+      "repository": "Dynastic Repo",
+      "date": "2018-10-10T23:25:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-10T23:25:57Z",
+          "userName": "nttnn175",
+          "issueNumber": 52658,
           "arch32": false
         }
       ]
