@@ -5091,9 +5091,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5110,6 +5110,15 @@
           "date": "2018-10-08T00:53:50Z",
           "userName": "ANDRESOSPE",
           "issueNumber": 52464,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "To much energy consumption ",
+          "date": "2018-10-10T21:00:49Z",
+          "userName": "Passsenger57",
+          "issueNumber": 52653,
           "arch32": false
         }
       ]
