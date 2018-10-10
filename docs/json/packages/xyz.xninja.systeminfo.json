@@ -1260,9 +1260,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 36,
+        "good": 37,
         "bad": 0,
-        "total": 36,
+        "total": 37,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1594,6 +1594,15 @@
           "date": "2018-08-28T16:47:48Z",
           "userName": "jenyaxo",
           "issueNumber": 47857,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-10-10T03:55:43Z",
+          "userName": "lmsldeepak",
+          "issueNumber": 52630,
           "arch32": false
         }
       ]
