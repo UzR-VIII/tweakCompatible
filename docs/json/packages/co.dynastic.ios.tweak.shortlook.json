@@ -4,7 +4,7 @@
   "latest": "1.0.4",
   "repository": "Dynastic Repo",
   "url": "http://cydia.saurik.com/package/co.dynastic.ios.tweak.shortlook/",
-  "shortDescription": "ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or R",
+  "shortDescription": "Your notifications. At a glance. — ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses",
   "category": "Tweaks",
   "author": "Dynastic Development",
   "commercial": true,
@@ -681,6 +681,37 @@
           "date": "2018-08-03T01:47:54Z",
           "userName": "Alex1331xela",
           "issueNumber": 38209,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4",
+      "iOSVersion": "11.2.6",
+      "repository": "Dynastic Repo",
+      "date": "2018-10-10T12:13:12Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Not work, don't Buy",
+          "date": "2018-10-10T12:13:12Z",
+          "userName": "tryaink",
+          "issueNumber": 52639,
           "arch32": false
         }
       ]
