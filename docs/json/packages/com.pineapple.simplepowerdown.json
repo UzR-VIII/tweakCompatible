@@ -1,7 +1,7 @@
 {
   "id": "com.pineapple.simplepowerdown",
   "name": "Simple Power Down",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.pineapple.simplepowerdown/",
   "shortDescription": "A simple Power Down menu",
@@ -108,6 +108,37 @@
           "date": "2018-10-09T02:51:50Z",
           "userName": "Stephxny",
           "issueNumber": 52570,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-10T17:45:01Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "Crashes still",
+          "date": "2018-10-10T17:45:01Z",
+          "userName": "M4ZT3R",
+          "issueNumber": 52646,
           "arch32": false
         }
       ]
