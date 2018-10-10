@@ -662,10 +662,10 @@
       "date": "2018-07-07T22:07:08Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 38,
+        "percentage": 37,
         "good": 19,
         "bad": 0,
-        "total": 50,
+        "total": 51,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1123,6 +1123,15 @@
           "date": "2018-10-06T10:58:27Z",
           "userName": "JHenriqueSCCP",
           "issueNumber": 52317,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-10T00:31:57Z",
+          "userName": "kaykemqs",
+          "issueNumber": 52627,
           "arch32": false
         }
       ]
