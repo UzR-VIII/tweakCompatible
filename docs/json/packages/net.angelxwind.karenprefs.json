@@ -4,7 +4,7 @@
   "latest": "1.4",
   "repository": "Karen's Repo",
   "url": "https://cydia.angelxwind.net/",
-  "shortDescription": "A development library that provides various conveniences and enhancements for developers seeking to write preference bundles for their tweaks.",
+  "shortDescription": "library for developer preference bundles",
   "category": "Tweaks",
   "author": "Karen／明美 (angelXwind)",
   "commercial": false,
@@ -502,10 +502,10 @@
       "date": "2018-07-29T16:27:09Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 85,
-        "good": 6,
+        "percentage": 87,
+        "good": 7,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -576,6 +576,15 @@
           "date": "2018-09-17T18:19:25Z",
           "userName": "Nawaf-NM",
           "issueNumber": 50736,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-10T00:22:03Z",
+          "userName": "kaykemqs",
+          "issueNumber": 52619,
           "arch32": false
         }
       ]
