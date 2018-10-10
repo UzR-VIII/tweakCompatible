@@ -719,7 +719,7 @@
     {
       "id": "com.anemonetheming.anemone",
       "name": "Anemone",
-      "latest": "2.1.8-1",
+      "latest": "2.1.8-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone/",
       "shortDescription": "An awesome theme manager!",
@@ -4863,7 +4863,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.13",
+      "latest": "1.3.14d",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -4915,7 +4915,7 @@
     {
       "id": "com.ps.emojilibrary",
       "name": "EmojiLibrary",
-      "latest": "1.0.13",
+      "latest": "1.0.14a",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Master library for PoomSmart's emoji tweaks",
@@ -5788,7 +5788,7 @@
     {
       "id": "com.a3tweaks.flipswitch",
       "name": "Flipswitch",
-      "latest": "1.0.15",
+      "latest": "1.0.16~beta2",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/com.a3tweaks.flipswitch/",
       "shortDescription": "Centralized toggle system for iOS",
@@ -8932,10 +8932,10 @@
     {
       "id": "com.reddestdream.minimalhostsblocker",
       "name": "Minimal Hosts Blocker",
-      "latest": "7.1",
+      "latest": "7.3",
       "repository": "ReddestDream's Repo",
       "url": "https://reddestdream.github.io/",
-      "shortDescription": "A minimal ad blocker!",
+      "shortDescription": "A Minimal Ad Blocker! ^_^",
       "category": "Tweaks",
       "author": "ReddestDream",
       "commercial": false,
@@ -14595,6 +14595,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.uasharedtools",
+      "name": "uasharedtools",
+      "latest": "2.2r-31",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.uasharedtools/",
+      "shortDescription": "shared tools for unlimapps tweaks",
+      "category": "HYI - Tweaks",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2018-03-19T17:31:12Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2r-31",
+          "iOSVersion": "10.1.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-19T17:31:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.unlimapps.uasharedtools",
       "name": "uasharedtools",
       "latest": "2.2r-61",
@@ -14649,40 +14683,6 @@
           "iOSVersion": "10.1.1",
           "repository": "beta.unlimapps.com",
           "date": "2018-08-15T08:18:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.uasharedtools",
-      "name": "uasharedtools",
-      "latest": "2.2r-31",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.uasharedtools/",
-      "shortDescription": "shared tools for unlimapps tweaks",
-      "category": "HYI - Tweaks",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2018-03-19T17:31:12Z",
-      "versions": [
-        {
-          "tweakVersion": "2.2r-31",
-          "iOSVersion": "10.1.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-19T17:31:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15254,10 +15254,10 @@
     {
       "id": "com.saj0vie.wififirmwareupdater",
       "name": "wifiFirmwareUpdater",
-      "latest": "4.0",
+      "latest": "1.0b1",
       "repository": "Saj0vie Repo",
       "url": "http://saj0vie.github.io/",
-      "shortDescription": "Loads iOS 11.2 wifi firmware",
+      "shortDescription": "Utilizes iOS' executable wifiFirmwareLoader to load a custom WiFi firmware. The files installed to /var/mobile/wififirmware are not mine, they are Apple and Broadcom's. I did not make the firmware, I'm simply using Apple's native executable to load it. This makes your iPhone more secure as you are using a more up-to-date firmware without needing to update iOS. This supports 64 bit iPhones only. THIS IS BETA SOFTWARE.",
       "category": "System",
       "author": "saj0vie",
       "commercial": false,
@@ -15287,7 +15287,7 @@
     {
       "id": "com.oly.xb-vibracall",
       "name": "XB-VibraCall",
-      "latest": "1.3",
+      "latest": "1.3.1",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.oly.xb-vibracall/",
       "shortDescription": "Vibrate when calls are connected or disconnected!",
@@ -15321,6 +15321,26 @@
           "iOSVersion": "10.1.1",
           "repository": "BigBoss",
           "date": "2018-10-05T19:47:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "10.1.1",
+          "repository": "BigBoss",
+          "date": "2018-10-10T11:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15373,38 +15393,6 @@
       ]
     },
     {
-      "id": "com.unlimapps.ytpp",
-      "name": "YouTube ++",
-      "latest": "1.4r-62",
-      "repository": "beta.unlimapps.com",
-      "url": "https://beta.unlimapps.com/",
-      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
-      "category": "Tweaks",
-      "author": "UnlimApps Inc",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4r-91",
-          "iOSVersion": "10.1.1",
-          "repository": "beta.unlimapps.com",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.ytpp",
       "name": "YouTube ++",
       "latest": "1.4r-76",
@@ -15427,6 +15415,38 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.unlimapps.ytpp",
+      "name": "YouTube ++",
+      "latest": "1.4r-62",
+      "repository": "beta.unlimapps.com",
+      "url": "https://beta.unlimapps.com/",
+      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
+      "category": "Tweaks",
+      "author": "UnlimApps Inc",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4r-91",
+          "iOSVersion": "10.1.1",
+          "repository": "beta.unlimapps.com",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
