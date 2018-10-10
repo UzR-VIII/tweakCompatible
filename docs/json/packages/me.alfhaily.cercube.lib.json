@@ -262,21 +262,21 @@
           "arch32": false
         },
         {
-          "status": "not working",
-          "device": "iPhone10,6",
-          "issues": "YouTube is messed up with this",
-          "date": "2018-08-02T07:24:13Z",
-          "userName": "moonshinejeff",
-          "issueNumber": 37976,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone10,2",
           "issues": "",
           "date": "2018-08-26T09:33:04Z",
           "userName": "burkybang",
           "issueNumber": 47314,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes on hotfix update ",
+          "date": "2018-10-10T09:10:49Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 52636,
           "arch32": false
         }
       ]
