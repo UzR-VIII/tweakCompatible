@@ -1,7 +1,7 @@
 {
   "id": "com.dgh0st.defaultpage",
   "name": "DefaultPage",
-  "latest": "0.0.16",
+  "latest": "0.0.17",
   "repository": "DGh0st",
   "url": "http://cydia.saurik.com/package/com.dgh0st.defaultpage/",
   "shortDescription": "Set the default homescreen page.",
@@ -99,6 +99,37 @@
           "date": "2018-07-21T22:29:52Z",
           "userName": "0x426f6f6d",
           "issueNumber": 31673,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.17",
+      "iOSVersion": "11.3.1",
+      "repository": "DGh0st",
+      "date": "2018-10-11T03:22:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-11T03:22:56Z",
+          "userName": "LandoVol",
+          "issueNumber": 52663,
           "arch32": false
         }
       ]
