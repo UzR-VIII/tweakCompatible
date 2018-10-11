@@ -2051,7 +2051,7 @@
     {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
-      "latest": "3.0-68",
+      "latest": "3.1-41",
       "repository": "Limneos Repo",
       "url": "http://limneos.net/repo/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -2583,7 +2583,7 @@
     {
       "id": "com.creaturecoding.bubbles",
       "name": "bubbles",
-      "latest": "0.2.9b",
+      "latest": "0.3.0b",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.bubbles/",
       "shortDescription": "Make your Messages pop!",
@@ -5585,10 +5585,10 @@
     {
       "id": "com.karimo299.dontkillmymusic",
       "name": "DontKillMyMusic",
-      "latest": "1.0.2-1",
+      "latest": "1.0.3-2",
       "repository": "Karimo299's Repo",
       "url": "http://cydia.saurik.com/package/com.karimo299.dontkillmymusic/",
-      "shortDescription": "A tweak that prevents you from killing the app that is currently playing.",
+      "shortDescription": "A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.",
       "category": "Tweaks",
       "author": "Karimo299",
       "commercial": false,
@@ -5821,39 +5821,6 @@
       ]
     },
     {
-      "id": "com.spark.easyswitcherx",
-      "name": "EasySwitcherX [Public]",
-      "latest": "0.0.4-5",
-      "repository": "Spark's Beta Repo",
-      "url": "http://beta.sparkservers.co.uk/",
-      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
-      "category": "Tweaks",
-      "author": "Spark",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-5",
-          "iOSVersion": "11.2.1",
-          "repository": "Spark's Beta Repo",
-          "date": "2018-07-08T06:41:51Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.easyswitcherx",
       "name": "EasySwitcherX [Public]",
       "latest": "0.0.4-5",
@@ -5876,6 +5843,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spark.easyswitcherx",
+      "name": "EasySwitcherX [Public]",
+      "latest": "0.0.4-5",
+      "repository": "Spark's Beta Repo",
+      "url": "http://beta.sparkservers.co.uk/",
+      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
+      "category": "Tweaks",
+      "author": "Spark",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-5",
+          "iOSVersion": "11.2.1",
+          "repository": "Spark's Beta Repo",
+          "date": "2018-07-08T06:41:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -7344,40 +7344,6 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "11.2.1",
-          "repository": "Spica T Repo",
-          "date": "2018-07-23T14:24:15Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
       "latest": "0.0.1-2",
@@ -7398,6 +7364,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-18T14:45:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.2.1",
+          "repository": "Spica T Repo",
+          "date": "2018-07-23T14:24:15Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7773,7 +7773,7 @@
     {
       "id": "com.foxfort.gmailmidnight",
       "name": "Gmail Midnight",
-      "latest": "1.0.5",
+      "latest": "1.1.0",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.gmailmidnight/",
       "shortDescription": "Night mode for Gmail",
@@ -8409,10 +8409,10 @@
     {
       "id": "com.vitataf.homegesture",
       "name": "Home Gesture",
-      "latest": "1.8.2",
+      "latest": "2.0.0",
       "repository": "MidnightChips",
       "url": "http://cydia.saurik.com/package/com.vitataf.homegesture/",
-      "shortDescription": "Enable iPhone X home gesture on other devices.",
+      "shortDescription": "Enable iPhone X HomeGestures on other devices. — Enable iPhone X HomeGestures on non-X devices. Blacklist certain apps from gestures from being enabled. The best way to get the iPhone X feel without having an iPhone X",
       "category": "Tweaks",
       "author": "VitaTaf",
       "commercial": false,
@@ -9129,7 +9129,7 @@
       "latest": "1.4",
       "repository": "Karen's Repo",
       "url": "https://cydia.angelxwind.net/",
-      "shortDescription": "A development library that provides various conveniences and enhancements for developers seeking to write preference bundles for their tweaks.",
+      "shortDescription": "library for developer preference bundles",
       "category": "Tweaks",
       "author": "Karen／明美 (angelXwind)",
       "commercial": false,
@@ -11302,6 +11302,26 @@
           "iOSVersion": "11.2.1",
           "repository": "Packix",
           "date": "2018-09-12T04:06:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.6.2",
+          "iOSVersion": "11.2.1",
+          "repository": "Packix",
+          "date": "2018-10-11T21:26:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13896,10 +13916,10 @@
     {
       "id": "com.hackingdartmouth.shiftcycle",
       "name": "ShiftCycle",
-      "latest": "1.3.2-1",
+      "latest": "1.3.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.hackingdartmouth.shiftcycle/",
-      "shortDescription": "Allows you to cycle a selection through uppercase, lowercase, and more with the Shift key.",
+      "shortDescription": "change selected text case using Shift key",
       "category": "Tweaks",
       "author": "Alex Beals",
       "commercial": false,
@@ -16454,7 +16474,7 @@
     {
       "id": "applebetas.ios.tweak.willow",
       "name": "Ultrasound",
-      "latest": "1.1",
+      "latest": "1.1.1",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/applebetas.ios.tweak.willow/",
       "shortDescription": "The volume HUD you deserve. — Since iOS 7, the volume HUD has been abysmal. Blocking a large portion of the screen when shown, requiring you to use the buttons to quickly adjust, and taking a long time to dismiss, it is one of the most comm",
