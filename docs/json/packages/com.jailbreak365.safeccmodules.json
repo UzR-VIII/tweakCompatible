@@ -1526,9 +1526,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1545,6 +1545,15 @@
           "date": "2018-08-19T03:04:06Z",
           "userName": "LiaVsHerself",
           "issueNumber": 45030,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-11T17:53:05Z",
+          "userName": "dfsek",
+          "issueNumber": 52704,
           "arch32": false
         }
       ]
