@@ -1491,21 +1491,22 @@
       ]
     },
     {
-      "id": "com.julioverne.autoshiftfix",
+      "id": "com.repo.xarold.com.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "julioverne's Repo",
-          "date": "2018-04-22T20:40:47Z",
+          "repository": "(null)",
+          "date": "2018-04-12T01:48:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1524,22 +1525,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.autoshiftfix",
+      "id": "com.julioverne.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T01:48:26Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-04-22T20:40:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2498,60 +2498,6 @@
       ]
     },
     {
-      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
-      "name": "CCClearModulesBG",
-      "latest": "1.0.1",
-      "repository": "CydiaGeek Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
-      "category": "Tweaks",
-      "author": "CydiaGeek",
-      "commercial": false,
-      "date": "2018-03-27T00:57:31Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "CydiaGeek Source - YouRepo",
-          "date": "2018-03-29T03:00:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.0.3",
-          "repository": "CydiaGeek Source - YouRepo",
-          "date": "2018-09-03T19:14:41Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
       "latest": "1.0.1",
@@ -2588,6 +2534,60 @@
           "iOSVersion": "11.0.3",
           "repository": "BigBoss",
           "date": "2018-08-19T03:15:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
+      "name": "CCClearModulesBG",
+      "latest": "1.0.1",
+      "repository": "CydiaGeek Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "date": "2018-03-27T00:57:31Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2018-03-29T03:00:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.0.3",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2018-09-03T19:14:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3229,6 +3229,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.4nni3.coolcc",
+      "name": "CoolCC",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.4nni3.coolcc/",
+      "shortDescription": "This tweak makes ControlCenter cool!",
+      "category": "Tweaks",
+      "author": "4nni3",
+      "commercial": false,
+      "date": "2018-08-26T15:12:28Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-10-11T17:58:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4268,22 +4302,22 @@
       ]
     },
     {
-      "id": "com.thecomputerwhisperer.detailedpowerusage",
+      "id": "com.hackyouriphone.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
-      "repository": "TheComputerWhisperer's Repo",
-      "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "TheComputerWhisperer",
       "commercial": false,
-      "date": "2018-03-20T05:37:40Z",
+      "date": "2018-03-23T15:19:47Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "11.0.3",
-          "repository": "TheComputerWhisperer's Repo",
-          "date": "2018-03-29T02:23:37Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4302,22 +4336,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.detailedpowerusage",
+      "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
+      "repository": "TheComputerWhisperer's Repo",
+      "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "TheComputerWhisperer",
       "commercial": false,
-      "date": "2018-03-23T15:19:47Z",
+      "date": "2018-03-20T05:37:40Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:19:47Z",
+          "repository": "TheComputerWhisperer's Repo",
+          "date": "2018-03-29T02:23:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5715,22 +5749,21 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.fiveicondockxi",
+      "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
-      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
-      "category": "Supports iOS 11",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
       "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-02T01:31:35Z",
+          "repository": "GMoran Beta Software",
+          "date": "2018-04-22T20:42:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5749,21 +5782,22 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
+      "id": "com.yourepo.kiiimo.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
+      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
+      "category": "Supports iOS 11",
       "author": "Guillermo Moran",
       "commercial": false,
+      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "GMoran Beta Software",
-          "date": "2018-04-22T20:42:27Z",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-02T01:31:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8256,22 +8290,22 @@
       ]
     },
     {
-      "id": "com.remyla.lockglyphxi",
+      "id": "com.yourepo.remyla.lockglyphxi",
       "name": "LockGlyph XI",
-      "latest": "11.2.2",
-      "repository": "remyla's repo",
-      "url": "http://cydia.saurik.com/package/com.remyla.lockglyphxi/",
-      "shortDescription": "LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.",
-      "category": "Tweaks",
-      "author": "mur1sdev, remyla",
+      "latest": "11.2",
+      "repository": "remyla Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.remyla.lockglyphxi/",
+      "shortDescription": "LockGlyph Patched for ios 11 by mur1sd3v edited by remyla for minor fixes and to be compatible with cydia. NO MORE CONFLICT WITH LIBCOLORPICKER !",
+      "category": "Addons",
+      "author": "remyla",
       "commercial": false,
-      "date": "2018-07-07T13:06:15Z",
+      "date": "2018-02-28T00:10:46Z",
       "versions": [
         {
-          "tweakVersion": "11.2.2",
+          "tweakVersion": "11.2",
           "iOSVersion": "11.0.3",
-          "repository": "remyla's repo",
-          "date": "2018-08-06T19:49:39Z",
+          "repository": "remyla Source - YouRepo",
+          "date": "2018-03-29T02:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8290,22 +8324,22 @@
       ]
     },
     {
-      "id": "com.yourepo.remyla.lockglyphxi",
+      "id": "com.remyla.lockglyphxi",
       "name": "LockGlyph XI",
-      "latest": "11.2",
-      "repository": "remyla Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.remyla.lockglyphxi/",
-      "shortDescription": "LockGlyph Patched for ios 11 by mur1sd3v edited by remyla for minor fixes and to be compatible with cydia. NO MORE CONFLICT WITH LIBCOLORPICKER !",
-      "category": "Addons",
-      "author": "remyla",
+      "latest": "11.2.2",
+      "repository": "remyla's repo",
+      "url": "http://cydia.saurik.com/package/com.remyla.lockglyphxi/",
+      "shortDescription": "LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.",
+      "category": "Tweaks",
+      "author": "mur1sdev, remyla",
       "commercial": false,
-      "date": "2018-02-28T00:10:46Z",
+      "date": "2018-07-07T13:06:15Z",
       "versions": [
         {
-          "tweakVersion": "11.2",
+          "tweakVersion": "11.2.2",
           "iOSVersion": "11.0.3",
-          "repository": "remyla Source - YouRepo",
-          "date": "2018-03-29T02:20:53Z",
+          "repository": "remyla's repo",
+          "date": "2018-08-06T19:49:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9620,22 +9654,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctis",
+      "id": "com.laughingquoll.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-03-02T03:43:45Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:43:45Z",
+          "repository": "BigBoss",
+          "date": "2018-03-14T22:34:19Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -9654,21 +9687,22 @@
       ]
     },
     {
-      "id": "com.laughingquoll.noctis",
+      "id": "com.hackyouriphone.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "LaughingQuoll",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-02T03:43:45Z",
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-14T22:34:19Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:43:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -9856,40 +9890,6 @@
       ]
     },
     {
-      "id": "com.reedhaffner.nomoreappbar",
-      "name": "NoMoreAppBar",
-      "latest": "1.0-1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.reedhaffner.nomoreappbar/",
-      "shortDescription": "Hide that annoying app bar in iMessage",
-      "category": "Tweaks",
-      "author": "Reed Haffner",
-      "commercial": false,
-      "date": "2018-03-03T22:18:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-1",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-08-19T03:22:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.nomoreappbar",
       "name": "NoMoreAppBar",
       "latest": "1.0-1+debug",
@@ -9912,6 +9912,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.reedhaffner.nomoreappbar",
+      "name": "NoMoreAppBar",
+      "latest": "1.0-1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.reedhaffner.nomoreappbar/",
+      "shortDescription": "Hide that annoying app bar in iMessage",
+      "category": "Tweaks",
+      "author": "Reed Haffner",
+      "commercial": false,
+      "date": "2018-03-03T22:18:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-08-19T03:22:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10348,6 +10382,39 @@
       ]
     },
     {
+      "id": "com.f0u4d.onlinenotify",
+      "name": "OnlineNotify",
+      "latest": "2.3.20",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
+      "shortDescription": "Track you friends on WhatsApp Messenger!",
+      "category": "Tweaks",
+      "author": "Fouad Raheb",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.3.19",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-09-07T18:18:02Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.onlinenotify",
       "name": "OnlineNotify",
       "latest": "2.3.19",
@@ -10368,39 +10435,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.f0u4d.onlinenotify",
-      "name": "OnlineNotify",
-      "latest": "2.3.20",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
-      "shortDescription": "Track you friends on WhatsApp Messenger!",
-      "category": "Tweaks",
-      "author": "Fouad Raheb",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "2.3.19",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-09-07T18:18:02Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -13684,40 +13718,6 @@
       ]
     },
     {
-      "id": "com.ioscreatix.sugarcane",
-      "name": "SugarCane",
-      "latest": "1.0.0",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
-      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-15T02:16:28Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "iOS Creatix",
-          "date": "2018-03-29T02:17:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.sugarcane",
       "name": "SugarCane",
       "latest": "1.0.0",
@@ -13740,6 +13740,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ioscreatix.sugarcane",
+      "name": "SugarCane",
+      "latest": "1.0.0",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
+      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-15T02:16:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "iOS Creatix",
+          "date": "2018-03-29T02:17:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
