@@ -32,20 +32,20 @@
       "users": [
         {
           "status": "not working",
-          "device": "iPhone10,6",
-          "issues": "Does not install, crashes. ",
-          "date": "2018-10-10T03:58:10Z",
-          "userName": "teamstreetmotion",
-          "issueNumber": 52632,
-          "arch32": false
-        },
-        {
-          "status": "not working",
           "device": "iPhone10,5",
           "issues": "not working",
           "date": "2018-10-10T14:21:57Z",
           "userName": "oskhano",
           "issueNumber": 52642,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-11T02:08:33Z",
+          "userName": "teamstreetmotion",
+          "issueNumber": 52661,
           "arch32": false
         }
       ]
