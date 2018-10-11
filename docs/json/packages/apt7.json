@@ -1,7 +1,7 @@
 {
   "id": "apt7",
   "name": "APT 0.7 Strict",
-  "latest": "0.7.25.3-9",
+  "latest": "1.4.8",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/apt7/",
   "shortDescription": "the advanced packaging tool from Debian",
@@ -842,6 +842,37 @@
           "userName": "lethinhrider",
           "issueNumber": 52556,
           "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.8",
+      "iOSVersion": "11.0.3",
+      "repository": "Electra's iOS Utilities",
+      "date": "2018-10-11T17:48:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-11T17:48:11Z",
+          "userName": "dfsek",
+          "issueNumber": 52686,
+          "arch32": false
         }
       ]
     }
