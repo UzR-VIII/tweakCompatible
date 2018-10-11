@@ -89,9 +89,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -108,6 +108,15 @@
           "date": "2018-09-30T16:46:14Z",
           "userName": "m0kum",
           "issueNumber": 51948,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Keeps sliding widgets page over.  Have to hit home button to stop it.  ",
+          "date": "2018-10-11T22:04:23Z",
+          "userName": "bweekzzz",
+          "issueNumber": 52744,
           "arch32": false
         }
       ]
