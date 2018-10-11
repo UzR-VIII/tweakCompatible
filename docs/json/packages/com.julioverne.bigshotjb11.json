@@ -439,10 +439,10 @@
       "date": "2018-09-20T14:04:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -477,6 +477,15 @@
           "date": "2018-10-01T22:28:52Z",
           "userName": "yaf3i",
           "issueNumber": 52032,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-11T15:34:46Z",
+          "userName": "giorgioiavicoli",
+          "issueNumber": 52674,
           "arch32": false
         }
       ]
