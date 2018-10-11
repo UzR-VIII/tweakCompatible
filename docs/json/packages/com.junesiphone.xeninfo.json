@@ -833,11 +833,11 @@
       "repository": "junesiphone.com",
       "date": "2018-09-15T19:22:35Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -872,6 +872,15 @@
           "date": "2018-10-11T20:15:10Z",
           "userName": "anthony6116",
           "issueNumber": 52729,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-10-11T21:53:25Z",
+          "userName": "topmeoff624",
+          "issueNumber": 52742,
           "arch32": false
         }
       ]
