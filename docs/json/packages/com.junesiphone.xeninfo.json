@@ -833,11 +833,11 @@
       "repository": "junesiphone.com",
       "date": "2018-09-15T19:22:35Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -863,6 +863,15 @@
           "date": "2018-09-20T21:02:18Z",
           "userName": "Hir3n",
           "issueNumber": 51047,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Location services constantly running making phone really hot",
+          "date": "2018-10-11T20:15:10Z",
+          "userName": "anthony6116",
+          "issueNumber": 52729,
           "arch32": false
         }
       ]
