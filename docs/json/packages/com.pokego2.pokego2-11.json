@@ -1971,11 +1971,11 @@
       "repository": "Global++ Tweaks",
       "date": "2018-10-11T06:49:39Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1992,6 +1992,15 @@
           "date": "2018-10-11T06:49:39Z",
           "userName": "vodkislov",
           "issueNumber": 52665,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Surprise surprise. Still broken",
+          "date": "2018-10-11T19:53:31Z",
+          "userName": "lineararc",
+          "issueNumber": 52727,
           "arch32": false
         }
       ]
