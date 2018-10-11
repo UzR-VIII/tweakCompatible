@@ -945,9 +945,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -982,6 +982,15 @@
           "date": "2018-04-07T13:33:49Z",
           "userName": "darch24",
           "issueNumber": 9139,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-11T18:02:10Z",
+          "userName": "dfsek",
+          "issueNumber": 52719,
           "arch32": false
         }
       ]
