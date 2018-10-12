@@ -1,7 +1,7 @@
 {
   "id": "com.foxfort.deluminator",
   "name": "Deluminator",
-  "latest": "1.1.0",
+  "latest": "1.1.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.foxfort.deluminator/",
   "shortDescription": "Night mode for the web",
@@ -334,6 +334,37 @@
           "date": "2018-10-08T02:49:22Z",
           "userName": "magicbandz",
           "issueNumber": 52470,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "11.2.1",
+      "repository": "Packix",
+      "date": "2018-10-12T20:50:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-12T20:50:24Z",
+          "userName": "OVisuals",
+          "issueNumber": 52875,
           "arch32": false
         }
       ]
