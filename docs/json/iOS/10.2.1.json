@@ -718,7 +718,7 @@
     {
       "id": "com.anemonetheming.anemone",
       "name": "Anemone",
-      "latest": "2.1.8-1",
+      "latest": "2.1.8-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone/",
       "shortDescription": "An awesome theme manager!",
@@ -948,10 +948,10 @@
     {
       "id": "com.iphonecake.appcake2",
       "name": "AppCake",
-      "latest": "5.5.9.1",
+      "latest": "5.6.0.2",
       "repository": "AppCake",
       "url": "http://iphonecake.com/forum/",
-      "shortDescription": "The new AppCake 5.5.9.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
       "category": "Utilities",
       "author": "Mickael liang",
       "commercial": false,
@@ -1369,7 +1369,7 @@
     {
       "id": "com.kunderscore.avertas",
       "name": "Avertas",
-      "latest": "9-2",
+      "latest": "9-3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.kunderscore.avertas/",
       "shortDescription": "Quick Switcher and Hot Corners",
@@ -1654,10 +1654,10 @@
     {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
-      "latest": "1.8.0~b22",
+      "latest": "1.7.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rbt.batterylife/",
-      "shortDescription": "Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11. [b13] Bugfixes. [b14] Bugfixes. [b15] Bugfixes. [b16] Fixed settings not opening. Fixed ads not disappearing. General bugfixes. [b17] Quick crashfix. [b18] Bugfixes & updated translations. Automatically saves battery stat history without the need to open the app. [b19] Bugfixes. [b20] Fixes for iOS 9 and 10. [b21] Fixed temperature unit in app. Changed App Icon to distinguish from the App Store version. [b22] Bugfixes. Should be close to final now.",
+      "shortDescription": "Displays useful information about battery health",
       "category": "Utilities",
       "author": "rbt",
       "commercial": false,
@@ -2478,7 +2478,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.6",
+      "latest": "3.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -3678,10 +3678,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.9",
+      "latest": "420.1.30-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -3711,10 +3711,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.6301",
+      "latest": "420.0.0-5",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
+      "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -4403,38 +4403,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.eclipse4",
-      "name": "Eclipse 4 (iOS 10)",
-      "latest": "4.1.3",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "System-wide Night Mode and more for iOS 10.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "4.1.1",
-          "iOSVersion": "10.2.1",
-          "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.eclipse4",
       "name": "Eclipse 4 (iOS 10)",
       "latest": "4.1.3",
@@ -4468,9 +4436,41 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.eclipse4",
+      "name": "Eclipse 4 (iOS 10)",
+      "latest": "4.1.3",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "System-wide Night Mode and more for iOS 10.",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "4.1.1",
+          "iOSVersion": "10.2.1",
+          "repository": "repo.biteyourapple.net",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.13",
+      "latest": "1.3.14e",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -4503,7 +4503,7 @@
     {
       "id": "com.ps.emojilibrary",
       "name": "EmojiLibrary",
-      "latest": "1.0.12",
+      "latest": "1.0.14b",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Master library for PoomSmart's emoji tweaks",
@@ -4536,10 +4536,10 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2",
+      "latest": "1.2.2c",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
-      "shortDescription": "Latest emojis for iOS 10.0-11.0",
+      "shortDescription": "Latest emojis for iOS 10.0-11.4",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -5759,7 +5759,7 @@
     {
       "id": "com.cpdigitaldarkroom.hidemex10",
       "name": "HideMeX (iOS 10)",
-      "latest": "1.1-1",
+      "latest": "1.1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.hidemex10/",
       "shortDescription": "The Ultimate iOS Customizing Experience",
@@ -6593,7 +6593,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-187",
+      "latest": "1.8r-191",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -7730,7 +7730,7 @@
     {
       "id": "com.ramenrepo.limelight",
       "name": "Limelight",
-      "latest": "1.7.2",
+      "latest": "1.9.6",
       "repository": "Ramen Repo",
       "url": "http://cydia.saurik.com/package/com.ramenrepo.limelight/",
       "shortDescription": "Colorful glyphs for anemone",
@@ -8245,6 +8245,40 @@
           "iOSVersion": "10.2.1",
           "repository": "BigBoss",
           "date": "2018-08-17T13:51:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "team.midnight.meridian-bootstrap",
+      "name": "Meridian Bootstrap",
+      "latest": "1.0-5",
+      "repository": "The Midnight Repo",
+      "url": "http://cydia.saurik.com/package/team.midnight.meridian-bootstrap/",
+      "shortDescription": "boot. for your strap. 'yo.",
+      "category": "System",
+      "author": "PsychoTea",
+      "commercial": false,
+      "date": "2018-09-04T07:31:16Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-5",
+          "iOSVersion": "10.2.1",
+          "repository": "The Midnight Repo",
+          "date": "2018-10-12T05:00:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9210,10 +9244,10 @@
     {
       "id": "com.dpkgdan.powertap",
       "name": "Power Tap",
-      "latest": "1.1.3-3",
+      "latest": "1.2.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dpkgdan.powertap/",
-      "shortDescription": "tap powerdown knob to reboot, respring, safe mode",
+      "shortDescription": "Power Tap allows you to toggle the power down bar through different settings, such as \"reboot,\" \"respring,\" and \"safe mode.\" Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak \"Slide to Reboot.\"",
       "category": "Tweaks",
       "author": "Dan Saba",
       "commercial": false,
@@ -9274,7 +9308,7 @@
     {
       "id": "preferenceloader",
       "name": "PreferenceLoader",
-      "latest": "2.2.4~alpha1",
+      "latest": "2.2.3-3",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/preferenceloader/",
       "shortDescription": "load preferences in style",
@@ -9925,10 +9959,10 @@
     {
       "id": "com.hackingdartmouth.shiftcycle",
       "name": "ShiftCycle",
-      "latest": "1.3.2-1",
+      "latest": "1.3.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.hackingdartmouth.shiftcycle/",
-      "shortDescription": "Allows you to cycle a selection through uppercase, lowercase, and more with the Shift key.",
+      "shortDescription": "change selected text case using Shift key",
       "category": "Tweaks",
       "author": "Alex Beals",
       "commercial": false,
@@ -10142,10 +10176,10 @@
     {
       "id": "com.abcapps.snapplus",
       "name": "Snap + for Snapchat",
-      "latest": "1.6r-111",
+      "latest": "1.7r-58",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
-      "shortDescription": "Save/share SC snaps & upload from gallery; formerly AppPlus",
+      "shortDescription": "Extend Snapchat! Formerly AppPlus. Save/Share Snaps. Upload photos/videos from gallery. Works on the latest version of SnapChat!",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -10406,10 +10440,10 @@
     {
       "id": "com.aditkamath.springy",
       "name": "Springy",
-      "latest": "1.0-1",
+      "latest": "1.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.aditkamath.springy/",
-      "shortDescription": "Respring animations & customization",
+      "shortDescription": "Animated respring theme platform",
       "category": "Tweaks",
       "author": "Adit Kamath",
       "commercial": false,
@@ -10573,10 +10607,10 @@
     {
       "id": "com.saurik.substrate.safemode",
       "name": "Substrate Safe Mode",
-      "latest": "0.9.6001",
+      "latest": "420.0.0-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
-      "shortDescription": "safe mode safety extension (safe)",
+      "shortDescription": "A safe safety safemode extension (safe).",
       "category": "Tweaks",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -10954,10 +10988,10 @@
     {
       "id": "com.cpdigitaldarkroom.taptapflip",
       "name": "TapTapFlip",
-      "latest": "1.4.2",
+      "latest": "1.3.3",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
-      "shortDescription": "Double tap to flip camera",
+      "shortDescription": "Two taps to flip camera!",
       "category": "Tweaks",
       "author": "CP Digital Darkroom",
       "commercial": false,
@@ -11605,7 +11639,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.61",
+      "latest": "1.0.62",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
