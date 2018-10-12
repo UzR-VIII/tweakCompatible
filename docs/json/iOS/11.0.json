@@ -562,7 +562,7 @@
     {
       "id": "com.anemonetheming.anemone",
       "name": "Anemone",
-      "latest": "2.1.8-1",
+      "latest": "2.1.8-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone/",
       "shortDescription": "An awesome theme manager!",
@@ -781,10 +781,10 @@
     {
       "id": "com.iphonecake.appcake2",
       "name": "AppCake",
-      "latest": "5.6.0.0",
+      "latest": "5.6.0.2",
       "repository": "AppCake",
       "url": "http://iphonecake.com/forum/",
-      "shortDescription": "The new AppCake 5.6.0.0! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
       "category": "Utilities",
       "author": "Mickael liang",
       "commercial": false,
@@ -1506,7 +1506,7 @@
     {
       "id": "com.cpdigitaldarkroom.barmoji",
       "name": "Barmoji",
-      "latest": "1.3.2",
+      "latest": "1.3",
       "repository": "CP Digital Darkroom Beta Repo",
       "url": "http://beta.cpdigitaldarkroom.com/",
       "shortDescription": "Quick emoji access for iPhone X",
@@ -1877,7 +1877,7 @@
     {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
-      "latest": "3.0-68",
+      "latest": "3.1-41",
       "repository": "Limneos Repo",
       "url": "http://limneos.net/repo/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -2282,7 +2282,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.1.5",
+      "latest": "3.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -2657,6 +2657,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.ccwallcustomizer2",
+      "name": "CCWallCustomizer 2",
+      "latest": "2.0-1",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.ccwallcustomizer2/",
+      "shortDescription": "تغير خلفية مركز التحكم من صورة مِم الألبوم ليصبح ب شكل أجمل     Set a background for the Control Center on iOS  11Configure the tweak in settings.",
+      "category": "Supports iOS 11",
+      "author": "iKilledAppl3",
+      "commercial": false,
+      "date": "2018-03-06T06:50:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0-1",
+          "iOSVersion": "11.0",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-06T06:50:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ikilledappl3.ccwallcustomizer2",
       "name": "CCWallCustomizer 2",
       "latest": "2.0.1-1",
@@ -2711,40 +2745,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.ccwallcustomizer2",
-      "name": "CCWallCustomizer 2",
-      "latest": "2.0-1",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.ccwallcustomizer2/",
-      "shortDescription": "تغير خلفية مركز التحكم من صورة مِم الألبوم ليصبح ب شكل أجمل     Set a background for the Control Center on iOS  11Configure the tweak in settings.",
-      "category": "Supports iOS 11",
-      "author": "iKilledAppl3",
-      "commercial": false,
-      "date": "2018-03-06T06:50:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0-1",
-          "iOSVersion": "11.0",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-06T06:50:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.julioverne.celldia",
       "name": "CellDia",
       "latest": "0.0~beta5",
@@ -2781,7 +2781,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.5",
+      "latest": "4.2.2.7",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -4138,7 +4138,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.13",
+      "latest": "1.3.14e",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -4171,10 +4171,10 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2",
+      "latest": "1.2.2c",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
-      "shortDescription": "Latest emojis for iOS 10.0-11.0",
+      "shortDescription": "Latest emojis for iOS 10.0-11.4",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -5701,10 +5701,10 @@
     {
       "id": "com.vitataf.homegesture",
       "name": "Home Gesture",
-      "latest": "1.8.2",
+      "latest": "2.0.0",
       "repository": "MidnightChips",
       "url": "http://cydia.saurik.com/package/com.vitataf.homegesture/",
-      "shortDescription": "Enable iPhone X home gesture on other devices.",
+      "shortDescription": "Enable iPhone X HomeGestures on other devices. — Enable iPhone X HomeGestures on non-X devices. Blacklist certain apps from gestures from being enabled. The best way to get the iPhone X feel without having an iPhone X",
       "category": "Tweaks",
       "author": "VitaTaf",
       "commercial": false,
@@ -6185,7 +6185,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-189",
+      "latest": "1.8r-191",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -6920,22 +6920,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.littlex",
+      "id": "com.ioscreatix.littlex",
       "name": "LittleX",
-      "latest": "1.3.4-1+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.littlex/",
-      "shortDescription": "iPhoneX Features for Non-X Devices on iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "Andywiik",
-      "commercial": false,
-      "date": "2018-03-02T22:30:23Z",
+      "latest": "1.3.7",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.littlex/",
+      "shortDescription": "iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": true,
+      "date": "2018-03-01T05:07:24Z",
       "versions": [
         {
-          "tweakVersion": "1.3.4",
+          "tweakVersion": "1.3.7",
           "iOSVersion": "11.0",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T22:30:23Z",
+          "repository": "Packix",
+          "date": "2018-07-13T02:15:04Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6954,22 +6954,22 @@
       ]
     },
     {
-      "id": "com.ioscreatix.littlex",
+      "id": "com.hackyouriphone.littlex",
       "name": "LittleX",
-      "latest": "1.3.7",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.littlex/",
-      "shortDescription": "iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": true,
-      "date": "2018-03-01T05:07:24Z",
+      "latest": "1.3.4-1+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.littlex/",
+      "shortDescription": "iPhoneX Features for Non-X Devices on iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "Andywiik",
+      "commercial": false,
+      "date": "2018-03-02T22:30:23Z",
       "versions": [
         {
-          "tweakVersion": "1.3.7",
+          "tweakVersion": "1.3.4",
           "iOSVersion": "11.0",
-          "repository": "Packix",
-          "date": "2018-07-13T02:15:04Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T22:30:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7602,10 +7602,10 @@
     {
       "id": "com.reddestdream.minimalhostsblocker",
       "name": "Minimal Hosts Blocker",
-      "latest": "7.1",
+      "latest": "7.3",
       "repository": "ReddestDream's Repo",
       "url": "https://reddestdream.github.io/",
-      "shortDescription": "A minimal ad blocker!",
+      "shortDescription": "A Minimal Ad Blocker! ^_^",
       "category": "Tweaks",
       "author": "ReddestDream",
       "commercial": false,
@@ -7735,22 +7735,22 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.mitsuhaxi",
+      "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
-      "latest": "0.2.0",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
-      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
+      "latest": "0.5.3",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
+      "shortDescription": "Universal iOS 11 audio visualizer",
       "category": "Tweaks",
       "author": "c0ldra1n",
       "commercial": false,
-      "date": "2018-03-21T15:36:43Z",
+      "date": "2018-02-28T09:47:30Z",
       "versions": [
         {
-          "tweakVersion": "0.2.0",
+          "tweakVersion": "0.5.3",
           "iOSVersion": "11.0",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-04-02T08:22:28Z",
+          "repository": "Packix",
+          "date": "2018-07-23T08:17:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7769,22 +7769,22 @@
       ]
     },
     {
-      "id": "io.ominousness.mitsuhaxi",
+      "id": "com.yourepo.randompacks.mitsuhaxi",
       "name": "MitsuhaXI",
-      "latest": "0.5.3",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
-      "shortDescription": "Universal iOS 11 audio visualizer",
+      "latest": "0.2.0",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
+      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
       "category": "Tweaks",
       "author": "c0ldra1n",
       "commercial": false,
-      "date": "2018-02-28T09:47:30Z",
+      "date": "2018-03-21T15:36:43Z",
       "versions": [
         {
-          "tweakVersion": "0.5.3",
+          "tweakVersion": "0.2.0",
           "iOSVersion": "11.0",
-          "repository": "Packix",
-          "date": "2018-07-23T08:17:36Z",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-04-02T08:22:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8254,7 +8254,7 @@
     {
       "id": "com.laughingquoll.noctisxi",
       "name": "NoctisXI",
-      "latest": "1.6",
+      "latest": "1.6.2",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.laughingquoll.noctisxi/",
       "shortDescription": "Dark Mode for iOS 11",
@@ -9171,7 +9171,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-89",
+      "latest": "2.0r-89d",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -9675,10 +9675,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.0.20",
+      "latest": "3.0.17",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "shortDescription": "posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -10077,10 +10077,10 @@
     {
       "id": "com.hackingdartmouth.shiftcycle",
       "name": "ShiftCycle",
-      "latest": "1.3.2-1",
+      "latest": "1.3.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.hackingdartmouth.shiftcycle/",
-      "shortDescription": "Allows you to cycle a selection through uppercase, lowercase, and more with the Shift key.",
+      "shortDescription": "change selected text case using Shift key",
       "category": "Tweaks",
       "author": "Alex Beals",
       "commercial": false,
@@ -10110,7 +10110,7 @@
     {
       "id": "com.jbrownllama.shutter",
       "name": "Shutter",
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.jbrownllama.shutter/",
       "shortDescription": "More Camera Features",
@@ -12743,6 +12743,39 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.justinpetkovic.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.0",
+          "repository": "Packix",
+          "date": "2018-10-12T01:25:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
