@@ -151,10 +151,10 @@
       "date": "2018-07-07T16:16:23Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 73,
-        "good": 17,
+        "percentage": 75,
+        "good": 18,
         "bad": 0,
-        "total": 23,
+        "total": 24,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -369,6 +369,15 @@
           "date": "2018-08-31T12:50:33Z",
           "userName": "tm5555",
           "issueNumber": 48319,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-12T13:44:49Z",
+          "userName": "teoraki09",
+          "issueNumber": 52849,
           "arch32": false
         }
       ]
