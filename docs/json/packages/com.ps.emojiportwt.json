@@ -1,7 +1,7 @@
 {
   "id": "com.ps.emojiportwt",
   "name": "EmojiPort (iOS 10)",
-  "latest": "1.2.2c",
+  "latest": "1.2.2d",
   "repository": "PoomSmart's Repo",
   "url": "http://poomsmart.github.io/repo/",
   "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -580,6 +580,37 @@
           "date": "2018-10-12T01:19:20Z",
           "userName": "Raverboss257",
           "issueNumber": 52773,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.2d",
+      "iOSVersion": "11.3.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2018-10-12T12:27:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-12T12:27:20Z",
+          "userName": "jenyaxo",
+          "issueNumber": 52843,
           "arch32": false
         }
       ]
