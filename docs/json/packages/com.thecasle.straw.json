@@ -1,7 +1,7 @@
 {
   "id": "com.thecasle.straw",
   "name": "Straw",
-  "latest": "0.0.3-1",
+  "latest": "0.0.5",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.thecasle.straw/",
   "shortDescription": "Creates banner on music item change",
@@ -246,6 +246,37 @@
           "date": "2018-08-03T01:48:37Z",
           "userName": "Alex1331xela",
           "issueNumber": 38211,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.5",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-12T01:20:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-12T01:20:32Z",
+          "userName": "MatRanc",
+          "issueNumber": 52777,
           "arch32": false
         }
       ]
