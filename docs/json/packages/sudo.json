@@ -1,10 +1,10 @@
 {
   "id": "sudo",
   "name": "sudo",
-  "latest": "1.6.9p12-1",
+  "latest": "1.8.17p1",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/sudo/",
-  "shortDescription": "temporarily assume root priviledges",
+  "shortDescription": "temporarily assume root privileges",
   "category": "Administration",
   "author": "(null)",
   "commercial": false,
@@ -142,9 +142,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -170,6 +170,15 @@
           "date": "2018-07-26T16:43:43Z",
           "userName": "Sly-Fi",
           "issueNumber": 34330,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-10-12T02:41:27Z",
+          "userName": "haykam821",
+          "issueNumber": 52795,
           "arch32": false
         }
       ]
