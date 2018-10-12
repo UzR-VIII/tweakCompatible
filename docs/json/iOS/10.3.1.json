@@ -1340,7 +1340,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "0.7.25.3-3",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -1374,7 +1374,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0.7.25.3-9",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -2517,7 +2517,7 @@
     {
       "id": "bash",
       "name": "Bourne-Again SHell",
-      "latest": "4.0.44-16",
+      "latest": "4.4.18",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/bash/",
       "shortDescription": "the best shell ever written by Brian Fox",
@@ -2650,7 +2650,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.1.5",
+      "latest": "3.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -4229,7 +4229,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.12-13",
+      "latest": "8.29-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -4263,7 +4263,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.12-9",
+      "latest": "8.29-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -4510,7 +4510,7 @@
     {
       "id": "curl",
       "name": "cURL",
-      "latest": "7.33.0-9",
+      "latest": "7.59.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/curl/",
       "shortDescription": "flexible multi-protocol file transfers",
@@ -5511,7 +5511,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.14d",
+      "latest": "1.3.14e",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -5544,7 +5544,7 @@
     {
       "id": "com.ps.emojilibrary",
       "name": "EmojiLibrary",
-      "latest": "1.0.14a",
+      "latest": "1.0.14b",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Master library for PoomSmart's emoji tweaks",
@@ -5577,7 +5577,7 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2.1",
+      "latest": "1.2.2c",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -6309,22 +6309,20 @@
       ]
     },
     {
-      "id": "com.fuyuchi.flex2",
+      "id": "repo.biteyourapple.net.flex2",
       "name": "Flex 2",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
+      "latest": "2.0k",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "Tweaks",
-      "author": "John Coates",
-      "commercial": true,
-      "date": "2018-03-05T16:58:22Z",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "2.0k",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-03-07T21:32:31Z",
+          "repository": "BiteYourApple",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6343,20 +6341,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.flex2",
+      "id": "com.fuyuchi.flex2",
       "name": "Flex 2",
-      "latest": "2.0k",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
+      "category": "Tweaks",
+      "author": "John Coates",
+      "commercial": true,
+      "date": "2018-03-05T16:58:22Z",
       "versions": [
         {
-          "tweakVersion": "2.0k",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "10.3.1",
-          "repository": "BiteYourApple",
+          "repository": "BigBoss",
+          "date": "2018-03-07T21:32:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8028,7 +8028,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-189",
+      "latest": "1.8r-191",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -8363,7 +8363,7 @@
       "latest": "1.4",
       "repository": "Karen's Repo",
       "url": "https://cydia.angelxwind.net/",
-      "shortDescription": "A development library that provides various conveniences and enhancements for developers seeking to write preference bundles for their tweaks.",
+      "shortDescription": "library for developer preference bundles",
       "category": "Tweaks",
       "author": "Karen／明美 (angelXwind)",
       "commercial": false,
@@ -10732,7 +10732,7 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "0.9.8zg-13",
+      "latest": "1.0.2n",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
       "shortDescription": "SSL library and cryptographic tools",
@@ -11366,6 +11366,38 @@
       ]
     },
     {
+      "id": "com.clezz.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "category": "Tweaks",
+      "author": "Ma Jun",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.3.1",
+          "repository": "BigBoss",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.1.1",
@@ -11386,38 +11418,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.clezz.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
-      "category": "Tweaks",
-      "author": "Ma Jun",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -12076,10 +12076,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.0.17",
+      "latest": "3.0.20",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "posts and view stories anonymously and do much more",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -15222,7 +15222,7 @@
     {
       "id": "wget",
       "name": "wget",
-      "latest": "1.16-4",
+      "latest": "1.19",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/wget/",
       "shortDescription": "simple HTTP file transfer client",
@@ -15308,6 +15308,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adriangranados.wifiexplorer.ios",
+      "name": "WiFi Explorer",
+      "latest": "1.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.adriangranados.wifiexplorer.ios/",
+      "shortDescription": "Scan, monitor & troubleshoot wifi networks",
+      "category": "Networking",
+      "author": "Adrian Granados",
+      "commercial": true,
+      "date": "2018-03-31T22:29:51Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "10.3.1",
+          "repository": "BigBoss",
+          "date": "2018-10-12T04:45:32Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
