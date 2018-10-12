@@ -814,9 +814,9 @@
       "repository": "Kunderscore's Repo",
       "date": "2018-10-08T12:11:32Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -838,21 +838,21 @@
           "arch32": false
         },
         {
-          "status": "working",
-          "device": "iPhone8,2",
-          "issues": "Finally, works much better now!",
-          "date": "2018-10-09T17:59:09Z",
-          "userName": "XweAponX",
-          "issueNumber": 52598,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone8,4",
           "issues": "",
           "date": "2018-10-11T20:39:57Z",
           "userName": "wildbirds",
           "issueNumber": 52731,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Seemed to work, then suddenly started respringing.",
+          "date": "2018-10-12T16:22:20Z",
+          "userName": "XweAponX",
+          "issueNumber": 52863,
           "arch32": false
         }
       ]
