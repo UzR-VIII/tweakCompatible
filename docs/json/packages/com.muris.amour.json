@@ -1,0 +1,45 @@
+{
+  "id": "com.muris.amour",
+  "name": "Amour",
+  "latest": "1.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.muris.amour/",
+  "shortDescription": "Brings additional animations to iOS",
+  "category": "Tweaks",
+  "author": "Luke Muris",
+  "commercial": true,
+  "date": "2018-10-12T08:13:36Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-10-12T08:13:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Great tweak. ",
+          "date": "2018-10-12T08:13:36Z",
+          "userName": "genericusernameidonotcareabout",
+          "issueNumber": 52835,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
