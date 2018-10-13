@@ -1,7 +1,7 @@
 {
   "id": "com.ps.emojilibrary",
   "name": "EmojiLibrary",
-  "latest": "1.0.14c",
+  "latest": "1.0.14d",
   "repository": "PoomSmart's Repo",
   "url": "http://poomsmart.github.io/repo/",
   "shortDescription": "Master library for PoomSmart's emoji tweaks",
@@ -575,6 +575,37 @@
           "date": "2018-10-12T14:51:39Z",
           "userName": "Scunkaneli",
           "issueNumber": 52852,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.14d",
+      "iOSVersion": "11.1.2",
+      "repository": "PoomSmart's Repo",
+      "date": "2018-10-13T11:22:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-13T11:22:21Z",
+          "userName": "redunikorn",
+          "issueNumber": 52926,
           "arch32": false
         }
       ]
