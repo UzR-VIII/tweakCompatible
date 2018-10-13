@@ -1739,10 +1739,10 @@
         {
           "status": "not working",
           "device": "iPhone8,4",
-          "issues": "",
-          "date": "2018-10-12T15:30:10Z",
+          "issues": "Processing broken. Use Beta46 instead",
+          "date": "2018-10-13T07:54:47Z",
           "userName": "Scunkaneli",
-          "issueNumber": 52856,
+          "issueNumber": 52903,
           "arch32": false
         }
       ]
