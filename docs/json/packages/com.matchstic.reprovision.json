@@ -547,9 +547,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -584,6 +584,15 @@
           "date": "2018-10-01T10:41:50Z",
           "userName": "Nano0k",
           "issueNumber": 51995,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "It removes my keyboard for logging in on my phone",
+          "date": "2018-10-13T14:15:26Z",
+          "userName": "cloud3799",
+          "issueNumber": 52935,
           "arch32": false
         }
       ]
