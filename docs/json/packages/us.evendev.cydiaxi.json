@@ -1,10 +1,10 @@
 {
   "id": "us.evendev.cydiaxi",
   "name": "CydiaXI",
-  "latest": "1.1",
+  "latest": "2.0.1",
   "repository": "CydiaXI",
   "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
-  "shortDescription": "Cydia, with a little more 11.",
+  "shortDescription": "Making Cydia look more iOS 11-ish",
   "category": "CydiaXI",
   "author": "EvenDev",
   "commercial": false,
@@ -228,6 +228,37 @@
           "date": "2018-08-27T23:50:56Z",
           "userName": "talalaq",
           "issueNumber": 47728,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "11.2.6",
+      "repository": "EvenDev",
+      "date": "2018-10-13T11:07:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-13T11:07:19Z",
+          "userName": "EvenDeveloper",
+          "issueNumber": 52924,
           "arch32": false
         }
       ]
