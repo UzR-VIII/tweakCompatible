@@ -1,7 +1,7 @@
 {
   "id": "com.junesiphone.mysb",
   "name": "mySB",
-  "latest": "0.7",
+  "latest": "0.8",
   "repository": "junesiphone.com",
   "url": "http://cydia.saurik.com/package/com.junesiphone.mysb/",
   "shortDescription": "mySB for FrontPage",
@@ -210,6 +210,37 @@
           "date": "2018-09-20T03:37:34Z",
           "userName": "Vinny000",
           "issueNumber": 50957,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.8",
+      "iOSVersion": "11.1.2",
+      "repository": "junesiphone.com",
+      "date": "2018-10-14T03:03:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-14T03:03:13Z",
+          "userName": "vanko987",
+          "issueNumber": 52986,
           "arch32": false
         }
       ]
