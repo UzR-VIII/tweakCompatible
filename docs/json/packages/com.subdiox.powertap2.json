@@ -269,15 +269,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone7,2",
-          "issues": "Works Great",
-          "date": "2018-08-15T22:16:19Z",
-          "userName": "Shengheer",
-          "issueNumber": 44074,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone6,1",
           "issues": "",
           "date": "2018-08-16T00:06:57Z",
@@ -292,6 +283,15 @@
           "date": "2018-08-25T11:25:00Z",
           "userName": "ClaudioS97",
           "issueNumber": 47037,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-14T22:15:20Z",
+          "userName": "Shengheer",
+          "issueNumber": 53043,
           "arch32": false
         }
       ]
