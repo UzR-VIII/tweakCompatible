@@ -1,7 +1,7 @@
 {
   "id": "darwintools",
   "name": "Darwin Tools",
-  "latest": "1-5",
+  "latest": "1-1",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/darwintools/",
   "shortDescription": "startupfiletool, sw_vers",
@@ -539,6 +539,37 @@
           "date": "2018-08-20T20:19:24Z",
           "userName": "lDavidl",
           "issueNumber": 45781,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-14T00:24:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-14T00:24:45Z",
+          "userName": "thelone3agle",
+          "issueNumber": 52961,
           "arch32": false
         }
       ]
