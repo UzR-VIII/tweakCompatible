@@ -321,10 +321,10 @@
       "date": "2018-07-07T09:00:48Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 47,
-        "good": 8,
+        "percentage": 50,
+        "good": 9,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -485,6 +485,15 @@
           "date": "2018-08-09T09:31:50Z",
           "userName": "megadampfnudel",
           "issueNumber": 40946,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "3D Touch menu not working",
+          "date": "2018-10-14T09:49:57Z",
+          "userName": "Superkloton",
+          "issueNumber": 53005,
           "arch32": false
         }
       ]
