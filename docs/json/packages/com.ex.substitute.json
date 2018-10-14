@@ -1,0 +1,45 @@
+{
+  "id": "com.ex.substitute",
+  "name": "Substitute",
+  "latest": "0.0.9-11",
+  "repository": "Bingner/Elucubratus",
+  "url": "http://cydia.saurik.com/package/com.ex.substitute/",
+  "shortDescription": "Substrate substitute for code substitution",
+  "category": "System",
+  "author": "comex",
+  "commercial": false,
+  "date": "2018-10-14T00:28:19Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.9-11",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-14T00:28:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-14T00:28:19Z",
+          "userName": "thelone3agle",
+          "issueNumber": 52979,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
