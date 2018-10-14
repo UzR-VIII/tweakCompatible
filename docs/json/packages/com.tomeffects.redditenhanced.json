@@ -76,11 +76,11 @@
       "repository": "BigBoss",
       "date": "2018-07-07T21:36:10Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -106,6 +106,15 @@
           "date": "2018-07-08T12:00:42Z",
           "userName": "JailbreakPill",
           "issueNumber": 15928,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-10-14T19:38:55Z",
+          "userName": "rustyblackhart",
+          "issueNumber": 53027,
           "arch32": false
         }
       ]
