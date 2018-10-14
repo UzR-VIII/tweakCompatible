@@ -1,10 +1,10 @@
 {
   "id": "com.saurik.substrate.safemode",
   "name": "Substrate Safe Mode",
-  "latest": "420.0.0-4",
+  "latest": "0.9.6001.1",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
-  "shortDescription": "A safe safety safemode extension (safe).",
+  "shortDescription": "safe mode safety extension (safe)",
   "category": "Tweaks",
   "author": "Jay Freeman (saurik)",
   "commercial": false,
@@ -590,6 +590,37 @@
           "date": "2018-10-12T05:04:34Z",
           "userName": "KadeReolance",
           "issueNumber": 52822,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.9.6001.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-14T00:27:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-14T00:27:44Z",
+          "userName": "thelone3agle",
+          "issueNumber": 52978,
           "arch32": false
         }
       ]
