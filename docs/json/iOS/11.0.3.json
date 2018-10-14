@@ -1520,7 +1520,7 @@
     {
       "id": "libassuan",
       "name": "Assuan",
-      "latest": "2.5.1",
+      "latest": "2.5.1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/libassuan/",
       "shortDescription": "GnuPG's inter-process communication",
@@ -1653,22 +1653,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.autoshiftfix",
+      "id": "com.julioverne.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T01:48:26Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-04-22T20:40:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1687,21 +1686,22 @@
       ]
     },
     {
-      "id": "com.julioverne.autoshiftfix",
+      "id": "com.repo.xarold.com.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "julioverne's Repo",
-          "date": "2018-04-22T20:40:47Z",
+          "repository": "(null)",
+          "date": "2018-04-12T01:48:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1790,7 +1790,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-4",
+      "latest": "1-1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -3643,22 +3643,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "com.hackyouriphone.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
-      "category": "Utilities",
+      "category": "HYI - Tweaks",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2018-03-23T15:31:30Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2",
           "iOSVersion": "11.0.3",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-10-11T17:57:57Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:31:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3677,22 +3677,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.cocoatop64",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.cocoatop64/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
-      "category": "HYI - Tweaks",
+      "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-23T15:31:30Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:31:30Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-10-11T17:57:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3955,7 +3955,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.29-1",
+      "latest": "8.30-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -4383,6 +4383,40 @@
       ]
     },
     {
+      "id": "com.classicxiirepo.cxls10",
+      "name": "CX.LS 10",
+      "latest": "1.0",
+      "repository": "Classicxii's Repository",
+      "url": "http://cydia.saurik.com/package/com.classicxiirepo.cxls10/",
+      "shortDescription": "Classicxii's Lockscreen Widget",
+      "category": "Widgets (CX.LS)",
+      "author": "Classicxii",
+      "commercial": false,
+      "date": "2018-07-12T20:22:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.0.3",
+          "repository": "Classicxii's Repository",
+          "date": "2018-10-14T14:04:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "cycript",
       "name": "Cycript",
       "latest": "0.9.520-XI",
@@ -4418,7 +4452,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "420.1.30-1",
+      "latest": "1.1.32~b3",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -4958,22 +4992,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.detailedpowerusage",
+      "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
+      "repository": "TheComputerWhisperer's Repo",
+      "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "TheComputerWhisperer",
       "commercial": false,
-      "date": "2018-03-23T15:19:47Z",
+      "date": "2018-03-20T05:37:40Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:19:47Z",
+          "repository": "TheComputerWhisperer's Repo",
+          "date": "2018-03-29T02:23:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4992,22 +5026,22 @@
       ]
     },
     {
-      "id": "com.thecomputerwhisperer.detailedpowerusage",
+      "id": "com.hackyouriphone.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
-      "repository": "TheComputerWhisperer's Repo",
-      "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "TheComputerWhisperer",
       "commercial": false,
-      "date": "2018-03-20T05:37:40Z",
+      "date": "2018-03-23T15:19:47Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "11.0.3",
-          "repository": "TheComputerWhisperer's Repo",
-          "date": "2018-03-29T02:23:37Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7509,22 +7543,22 @@
       ]
     },
     {
-      "id": "com.dannyglover.hidelabels10",
+      "id": "repo.biteyourapple.net.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.hidelabels10/",
       "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-03-04T20:02:05Z",
+      "date": "2018-03-03T10:32:07Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "11.0.3",
-          "repository": "Danny Glover's Repo",
-          "date": "2018-04-22T20:31:53Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-03-03T10:32:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7543,22 +7577,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.hidelabels10",
+      "id": "com.dannyglover.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.hidelabels10/",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
       "shortDescription": "Hide app labels on iOS 10.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Danny Glover",
       "commercial": false,
-      "date": "2018-03-03T10:32:07Z",
+      "date": "2018-03-04T20:02:05Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "11.0.3",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-03-03T10:32:07Z",
+          "repository": "Danny Glover's Repo",
+          "date": "2018-04-22T20:31:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8386,40 +8420,6 @@
       ]
     },
     {
-      "id": "com.yourepo.xkaosx.k-hostblocker",
-      "name": "K-Host Blocker",
-      "latest": "3.0",
-      "repository": "xkaosx Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.xkaosx.k-hostblocker/",
-      "shortDescription": "This is the IOS version of the K-Host Blocker. A modified host file that blocks advertisements, trackers, Government and many more! This also blocks Apple software updates! Works on all firmwares and devices.",
-      "category": "System",
-      "author": "King Kaos",
-      "commercial": false,
-      "date": "2018-03-04T23:47:31Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0",
-          "iOSVersion": "11.0.3",
-          "repository": "xkaosx Source - YouRepo",
-          "date": "2018-03-15T02:29:40Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.xkaosx.k-hostblocker3",
       "name": "K-Host Blocker",
       "latest": "3.3.",
@@ -8442,6 +8442,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.xkaosx.k-hostblocker",
+      "name": "K-Host Blocker",
+      "latest": "3.0",
+      "repository": "xkaosx Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.xkaosx.k-hostblocker/",
+      "shortDescription": "This is the IOS version of the K-Host Blocker. A modified host file that blocks advertisements, trackers, Government and many more! This also blocks Apple software updates! Works on all firmwares and devices.",
+      "category": "System",
+      "author": "King Kaos",
+      "commercial": false,
+      "date": "2018-03-04T23:47:31Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0",
+          "iOSVersion": "11.0.3",
+          "repository": "xkaosx Source - YouRepo",
+          "date": "2018-03-15T02:29:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -9527,40 +9561,6 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.mitsuhaxi",
-      "name": "MitsuhaXI",
-      "latest": "0.2.0",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
-      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
-      "category": "Tweaks",
-      "author": "c0ldra1n",
-      "commercial": false,
-      "date": "2018-03-21T15:36:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.0",
-          "iOSVersion": "11.0.3",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-04-06T13:56:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
       "latest": "0.5.3",
@@ -9617,6 +9617,40 @@
           "iOSVersion": "11.0.3",
           "repository": "Ominousness",
           "date": "2018-08-19T03:15:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.randompacks.mitsuhaxi",
+      "name": "MitsuhaXI",
+      "latest": "0.2.0",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
+      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
+      "category": "Tweaks",
+      "author": "c0ldra1n",
+      "commercial": false,
+      "date": "2018-03-21T15:36:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "11.0.3",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-04-06T13:56:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10310,22 +10344,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctis",
+      "id": "com.laughingquoll.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-03-02T03:43:45Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:43:45Z",
+          "repository": "BigBoss",
+          "date": "2018-03-14T22:34:19Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -10344,21 +10377,22 @@
       ]
     },
     {
-      "id": "com.laughingquoll.noctis",
+      "id": "com.hackyouriphone.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "LaughingQuoll",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-02T03:43:45Z",
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-14T22:34:19Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:43:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -11038,6 +11072,39 @@
       ]
     },
     {
+      "id": "com.f0u4d.onlinenotify",
+      "name": "OnlineNotify",
+      "latest": "2.3.20",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
+      "shortDescription": "Track you friends on WhatsApp Messenger!",
+      "category": "Tweaks",
+      "author": "Fouad Raheb",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.3.19",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-09-07T18:18:02Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.onlinenotify",
       "name": "OnlineNotify",
       "latest": "2.3.19",
@@ -11058,39 +11125,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.f0u4d.onlinenotify",
-      "name": "OnlineNotify",
-      "latest": "2.3.20",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
-      "shortDescription": "Track you friends on WhatsApp Messenger!",
-      "category": "Tweaks",
-      "author": "Fouad Raheb",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "2.3.19",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-09-07T18:18:02Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -16396,39 +16430,6 @@
       ]
     },
     {
-      "id": "be.submanifold.weatherlock",
-      "name": "WeatherLock",
-      "latest": "0.1.13",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
-      "shortDescription": "animated weather background on the lock screen",
-      "category": "Tweaks",
-      "author": "rainwolf",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "0.1.13",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-16T00:19:06Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.weatherlock",
       "name": "WeatherLock",
       "latest": "0.1.13",
@@ -16451,6 +16452,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "be.submanifold.weatherlock",
+      "name": "WeatherLock",
+      "latest": "0.1.13",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
+      "shortDescription": "animated weather background on the lock screen",
+      "category": "Tweaks",
+      "author": "rainwolf",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "0.1.13",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-03-16T00:19:06Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
