@@ -1,10 +1,10 @@
 {
   "id": "com.c1d3r.notchification",
   "name": "Notchification",
-  "latest": "1.2.3-3",
+  "latest": "1.1-5",
   "repository": "C1d3r Repo",
   "url": "http://cydia.saurik.com/package/com.c1d3r.notchification/",
-  "shortDescription": "Beautiful animated notifications for all device; In this update: Better settings (Number of loops (infinite, 1, 2, 3, etc), color picker, bug fixes",
+  "shortDescription": "Beautiful animated notifications.",
   "category": "System",
   "author": "c1d3r",
   "commercial": false,
@@ -148,15 +148,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,6",
-          "issues": "",
-          "date": "2018-08-04T18:39:12Z",
-          "userName": "noahfrag",
-          "issueNumber": 38782,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,3",
           "issues": "👍🏼👍🏼",
           "date": "2018-08-06T01:18:17Z",
@@ -207,6 +198,15 @@
           "date": "2018-08-26T02:19:36Z",
           "userName": "RiPx88",
           "issueNumber": 47237,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-14T23:03:31Z",
+          "userName": "noahfrag",
+          "issueNumber": 53049,
           "arch32": false
         }
       ]
