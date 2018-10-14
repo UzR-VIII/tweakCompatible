@@ -814,11 +814,11 @@
       "repository": "Kunderscore's Repo",
       "date": "2018-10-08T12:11:32Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -853,6 +853,15 @@
           "date": "2018-10-12T16:22:20Z",
           "userName": "XweAponX",
           "issueNumber": 52863,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "With the last update the notifications only shows one time and then they disappear, I’m using an iPhone 6s with iOS 11.3.1",
+          "date": "2018-10-14T04:44:14Z",
+          "userName": "bathkela",
+          "issueNumber": 52999,
           "arch32": false
         }
       ]
