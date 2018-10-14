@@ -1,7 +1,7 @@
 {
   "id": "coreutils-bin",
   "name": "Core Utilities (/bin)",
-  "latest": "8.29-1",
+  "latest": "8.30-2",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/coreutils-bin/",
   "shortDescription": "just the /bin folder from GNU coreutils",
@@ -797,6 +797,37 @@
           "date": "2018-10-11T17:59:00Z",
           "userName": "dfsek",
           "issueNumber": 52712,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "8.30-2",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-14T00:25:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-14T00:25:47Z",
+          "userName": "thelone3agle",
+          "issueNumber": 52967,
           "arch32": false
         }
       ]
