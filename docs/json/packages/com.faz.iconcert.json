@@ -214,11 +214,11 @@
       "repository": "BigBoss",
       "date": "2018-07-08T08:41:20Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 6,
+        "calculatedStatus": "Working",
+        "percentage": 77,
+        "good": 7,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -298,6 +298,15 @@
           "date": "2018-10-02T10:57:14Z",
           "userName": "NEX1S",
           "issueNumber": 52047,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-14T22:19:21Z",
+          "userName": "greenking2000",
+          "issueNumber": 53044,
           "arch32": false
         }
       ]
