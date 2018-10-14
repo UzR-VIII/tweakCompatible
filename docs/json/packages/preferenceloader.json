@@ -1,7 +1,7 @@
 {
   "id": "preferenceloader",
   "name": "PreferenceLoader",
-  "latest": "2.2.3-3",
+  "latest": "2.2.4~alpha1",
   "repository": "rpetrich repo",
   "url": "http://cydia.saurik.com/package/preferenceloader/",
   "shortDescription": "load preferences in style",
@@ -448,10 +448,10 @@
       "date": "2018-07-07T00:21:36Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 93,
         "good": 14,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -585,6 +585,15 @@
           "date": "2018-09-22T04:44:21Z",
           "userName": "playbb123",
           "issueNumber": 51195,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Crashes unc0ver ",
+          "date": "2018-10-14T08:11:04Z",
+          "userName": "diddlydoowoo",
+          "issueNumber": 53002,
           "arch32": false
         }
       ]
