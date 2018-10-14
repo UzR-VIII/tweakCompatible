@@ -1,10 +1,10 @@
 {
   "id": "gnupg",
   "name": "GNU Privacy Guard",
-  "latest": "1.4.8-4",
+  "latest": "2.2.9-1",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/gnupg/",
-  "shortDescription": "older encryption compatible with OpenPGP",
+  "shortDescription": "newer encryption compatible with OpenPGP",
   "category": "Security",
   "author": "(null)",
   "commercial": false,
@@ -539,6 +539,37 @@
           "date": "2018-08-20T20:20:26Z",
           "userName": "lDavidl",
           "issueNumber": 45786,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.9-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-14T00:26:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-14T00:26:43Z",
+          "userName": "thelone3agle",
+          "issueNumber": 52972,
           "arch32": false
         }
       ]
