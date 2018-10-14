@@ -1,7 +1,7 @@
 {
   "id": "profile.d",
   "name": "Profile Directory",
-  "latest": "0-2",
+  "latest": "0-1",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/profile.d/",
   "shortDescription": "makes packaging for /etc/profile reasonable",
@@ -464,6 +464,37 @@
           "userName": "lethinhrider",
           "issueNumber": 52419,
           "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-14T00:26:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-14T00:26:11Z",
+          "userName": "thelone3agle",
+          "issueNumber": 52969,
+          "arch32": false
         }
       ]
     }
