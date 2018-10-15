@@ -101,22 +101,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.3gunrestrictor5",
+      "id": "com.kstreich-dev.3gunrestrictor5",
       "name": "3G Unrestrictor 5 (iOS 10/9/8/7)",
       "latest": "5.9.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.3gunrestrictor5/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.kstreich-dev.3gunrestrictor5/",
       "shortDescription": "Enables WiFi-Only features on 3G & LTE",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Kim Streich",
-      "commercial": false,
-      "date": "2018-03-17T11:18:01Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "5.9.10",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-17T11:18:01Z",
+          "repository": "BigBoss",
+          "date": "2018-08-20T19:49:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -135,21 +134,22 @@
       ]
     },
     {
-      "id": "com.kstreich-dev.3gunrestrictor5",
+      "id": "com.hackyouriphone.3gunrestrictor5",
       "name": "3G Unrestrictor 5 (iOS 10/9/8/7)",
       "latest": "5.9.10",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.kstreich-dev.3gunrestrictor5/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.3gunrestrictor5/",
       "shortDescription": "Enables WiFi-Only features on 3G & LTE",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Kim Streich",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-17T11:18:01Z",
       "versions": [
         {
           "tweakVersion": "5.9.10",
           "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "date": "2018-08-20T19:49:34Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-17T11:18:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2908,38 +2908,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.automa",
-      "name": "Automa",
-      "latest": "1.0.5-1k",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "remembers popup alert choices",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5-1k",
-          "iOSVersion": "10.2",
-          "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.automa",
       "name": "Automa",
       "latest": "1.0.5-1",
@@ -2958,6 +2926,38 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.automa",
+      "name": "Automa",
+      "latest": "1.0.5-1k",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "remembers popup alert choices",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5-1k",
+          "iOSVersion": "10.2",
+          "repository": "repo.biteyourapple.net",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7473,10 +7473,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "420.0.0-5",
+      "latest": "0.9.6301+dummy",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
+      "shortDescription": "MobileSubstrate Dummy Package",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -11812,22 +11812,22 @@
       ]
     },
     {
-      "id": "com.jerryen.gifviewer",
+      "id": "com.hackyouriphone.gifviewer",
       "name": "GIFViewer",
       "latest": "1.0.3-2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jerryen.gifviewer/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gifviewer/",
       "shortDescription": "View animated GIFs in Photos.app and the image picker.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Jerry En",
-      "commercial": true,
-      "date": "2018-03-05T14:04:35Z",
+      "commercial": false,
+      "date": "2018-03-22T22:11:47Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-2",
           "iOSVersion": "10.2",
-          "repository": "BigBoss",
-          "date": "2018-08-23T10:49:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-22T22:11:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11846,22 +11846,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.gifviewer",
+      "id": "com.jerryen.gifviewer",
       "name": "GIFViewer",
       "latest": "1.0.3-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.gifviewer/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jerryen.gifviewer/",
       "shortDescription": "View animated GIFs in Photos.app and the image picker.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Jerry En",
-      "commercial": false,
-      "date": "2018-03-22T22:11:47Z",
+      "commercial": true,
+      "date": "2018-03-05T14:04:35Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-2",
           "iOSVersion": "10.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-22T22:11:47Z",
+          "repository": "BigBoss",
+          "date": "2018-08-23T10:49:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18158,6 +18158,40 @@
           "iOSVersion": "10.2",
           "repository": "BigBoss",
           "date": "2018-03-22T22:19:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ahrabie.morefrequentlyusedemojis",
+      "name": "MoreFrequentlyUsedEmojis",
+      "latest": "1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ahrabie.morefrequentlyusedemojis/",
+      "shortDescription": "Increase frequently used emojis count to 50.",
+      "category": "Tweaks",
+      "author": "A_H_Rabie",
+      "commercial": false,
+      "date": "2018-10-15T17:59:09Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "10.2",
+          "repository": "BigBoss",
+          "date": "2018-10-15T17:59:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
