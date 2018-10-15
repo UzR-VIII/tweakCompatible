@@ -1,7 +1,7 @@
 {
   "id": "com.pineapple.simplepowerdown",
   "name": "Simple Power Down",
-  "latest": "1.0.3",
+  "latest": "1.0.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.pineapple.simplepowerdown/",
   "shortDescription": "A simple Power Down menu",
@@ -122,7 +122,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -139,6 +139,15 @@
           "date": "2018-10-10T17:45:01Z",
           "userName": "M4ZT3R",
           "issueNumber": 52646,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-15T21:36:12Z",
+          "userName": "teamstreetmotion",
+          "issueNumber": 53122,
           "arch32": false
         }
       ]
