@@ -850,9 +850,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -869,6 +869,15 @@
           "date": "2018-07-31T21:34:30Z",
           "userName": "BrianLeek",
           "issueNumber": 37315,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-10-15T04:44:48Z",
+          "userName": "Invisible40",
+          "issueNumber": 53058,
           "arch32": false
         }
       ]
