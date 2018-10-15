@@ -1,7 +1,7 @@
 {
   "id": "com.smokin1337.privasee",
   "name": "PrivaSee",
-  "latest": "1.0",
+  "latest": "1.0.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.smokin1337.privasee/",
   "shortDescription": "Protect your privacy !!",
@@ -37,6 +37,37 @@
           "date": "2018-10-15T03:10:50Z",
           "userName": "magicbandz",
           "issueNumber": 53053,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "smokin1337's Repo",
+      "date": "2018-10-15T17:24:00Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-15T17:24:00Z",
+          "userName": "iDiddy",
+          "issueNumber": 53107,
           "arch32": false
         }
       ]
