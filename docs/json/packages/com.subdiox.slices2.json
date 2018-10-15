@@ -169,10 +169,10 @@
       "date": "2018-08-11T15:32:01Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 4,
+        "percentage": 38,
+        "good": 5,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -288,6 +288,15 @@
           "date": "2018-10-06T17:26:24Z",
           "userName": "playbb123",
           "issueNumber": 52349,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad5,3",
+          "issues": "On icon touch option causes safe mode, rest works",
+          "date": "2018-10-15T13:12:56Z",
+          "userName": "jakeajames",
+          "issueNumber": 53086,
           "arch32": false
         }
       ]
