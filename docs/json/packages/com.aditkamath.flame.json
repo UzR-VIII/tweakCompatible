@@ -500,9 +500,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -555,6 +555,15 @@
           "date": "2018-03-31T18:13:04Z",
           "userName": "slyboots",
           "issueNumber": 8720,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-15T20:49:21Z",
+          "userName": "ActiveXre",
+          "issueNumber": 53119,
           "arch32": false
         }
       ]
