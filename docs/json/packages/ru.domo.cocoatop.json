@@ -285,10 +285,10 @@
       "date": "2018-07-07T20:40:15Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 8,
+        "percentage": 7,
         "good": 1,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -404,6 +404,15 @@
           "date": "2018-07-30T16:37:18Z",
           "userName": "simoselis",
           "issueNumber": 36369,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-10-15T16:03:43Z",
+          "userName": "Ectalite",
+          "issueNumber": 53095,
           "arch32": false
         }
       ]
