@@ -16,11 +16,11 @@
       "repository": "Chariz (HASHBANG Productions)",
       "date": "2018-10-04T16:13:37Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -64,6 +64,15 @@
           "date": "2018-10-12T02:45:53Z",
           "userName": "haykam821",
           "issueNumber": 52797,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-10-15T16:03:14Z",
+          "userName": "Ectalite",
+          "issueNumber": 53094,
           "arch32": false
         }
       ]
