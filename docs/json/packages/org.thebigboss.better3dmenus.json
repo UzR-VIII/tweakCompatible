@@ -1,7 +1,7 @@
 {
   "id": "org.thebigboss.better3dmenus",
   "name": "Better3DMenus",
-  "latest": "2.0-85",
+  "latest": "2.0-86",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
   "shortDescription": "Better 3D-Touch Menus!",
@@ -77,6 +77,37 @@
           "date": "2018-10-13T10:49:07Z",
           "userName": "yaserFA",
           "issueNumber": 52922,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0-86",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-15T17:21:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-15T17:21:41Z",
+          "userName": "iDiddy",
+          "issueNumber": 53102,
           "arch32": false
         }
       ]
