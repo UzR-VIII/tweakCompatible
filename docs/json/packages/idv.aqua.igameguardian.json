@@ -583,20 +583,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone9,2",
-          "issues": "",
-          "date": "2018-10-06T01:37:23Z",
-          "userName": "bambuvn",
-          "issueNumber": 52265,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,6",
           "issues": "",
           "date": "2018-10-06T17:28:59Z",
           "userName": "playbb123",
           "issueNumber": 52350,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-15T15:49:39Z",
+          "userName": "bambuvn",
+          "issueNumber": 53092,
           "arch32": false
         }
       ]
