@@ -1,10 +1,10 @@
 {
   "id": "mobilesubstrate",
   "name": "Cydia Substrate",
-  "latest": "420.0.0-5",
+  "latest": "0.9.6301+dummy",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-  "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
+  "shortDescription": "MobileSubstrate Dummy Package",
   "category": "System",
   "author": "Jay Freeman (saurik)",
   "commercial": false,
@@ -846,6 +846,37 @@
           "date": "2018-10-12T05:07:01Z",
           "userName": "KadeReolance",
           "issueNumber": 52828,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.9.6301+dummy",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-15T16:04:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-10-15T16:04:57Z",
+          "userName": "Ectalite",
+          "issueNumber": 53099,
           "arch32": false
         }
       ]
