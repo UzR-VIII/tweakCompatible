@@ -637,6 +637,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1.2-1",
+      "iOSVersion": "11.3",
+      "repository": "Chariz",
+      "date": "2018-10-15T19:44:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-15T19:44:35Z",
+          "userName": "Zampa83500",
+          "issueNumber": 53112,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
