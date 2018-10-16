@@ -2695,40 +2695,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.artsy",
-      "name": "Artsy",
-      "latest": "0.0.4-8+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
-      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
-      "category": "HYI - Tweaks",
-      "author": "Maxwell Dausch",
-      "commercial": false,
-      "date": "2018-07-07T08:14:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-8+debug",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T07:45:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
       "latest": "1.2",
@@ -2811,6 +2777,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.artsy",
+      "name": "Artsy",
+      "latest": "0.0.4-8+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
+      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
+      "category": "HYI - Tweaks",
+      "author": "Maxwell Dausch",
+      "commercial": false,
+      "date": "2018-07-07T08:14:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-8+debug",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T07:45:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -3992,6 +3992,26 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1-1",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-10-16T04:21:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -28504,7 +28524,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-89d",
+      "latest": "2.0r-90",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -29447,22 +29467,22 @@
       ]
     },
     {
-      "id": "iosgods.com.pubgmobilefree",
+      "id": "iosgods.com.pubgmobile",
       "name": "PUBG MOBILE Cheats",
-      "latest": "0.6.3",
+      "latest": "0.7.0",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobilefree/",
+      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobile/",
       "shortDescription": "PUBG MOBILE iGMM Cheats by 0xS14T3R & DiDA for iOSGods.com!",
       "category": "Tweaks",
       "author": "0xS14T3R & DiDA",
       "commercial": false,
-      "date": "2018-07-11T10:31:24Z",
+      "date": "2018-07-08T04:08:30Z",
       "versions": [
         {
-          "tweakVersion": "0.6.1",
+          "tweakVersion": "0.7.0",
           "iOSVersion": "11.3",
           "repository": "(null)",
-          "date": "2018-07-11T18:21:39Z",
+          "date": "2018-08-02T11:05:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29481,22 +29501,22 @@
       ]
     },
     {
-      "id": "iosgods.com.pubgmobile",
+      "id": "iosgods.com.pubgmobilefree",
       "name": "PUBG MOBILE Cheats",
-      "latest": "0.7.0",
+      "latest": "0.6.3",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobile/",
+      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobilefree/",
       "shortDescription": "PUBG MOBILE iGMM Cheats by 0xS14T3R & DiDA for iOSGods.com!",
       "category": "Tweaks",
       "author": "0xS14T3R & DiDA",
       "commercial": false,
-      "date": "2018-07-08T04:08:30Z",
+      "date": "2018-07-11T10:31:24Z",
       "versions": [
         {
-          "tweakVersion": "0.7.0",
+          "tweakVersion": "0.6.1",
           "iOSVersion": "11.3",
           "repository": "(null)",
-          "date": "2018-08-02T11:05:56Z",
+          "date": "2018-07-11T18:21:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -36067,22 +36087,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.trampoline",
+      "id": "com.yourepo.patrick-knauf.trampoline",
       "name": "Trampoline",
-      "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.trampoline/",
-      "shortDescription": "A trampoline for your Springboard",
+      "latest": "1.0",
+      "repository": "Patrick-Knauf Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.patrick-knauf.trampoline/",
+      "shortDescription": "The subtle but satisfying bounce your Springboard has needed. Makes your apps bounce when opening/closing applications, and opening/closing the app switcher.",
       "category": "Tweaks",
-      "author": "Patrick",
+      "author": "Patrick Knauf",
       "commercial": false,
-      "date": "2018-07-03T11:22:41Z",
+      "date": "2018-07-29T02:20:38Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.0",
           "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-09T13:41:22Z",
+          "repository": "Patrick-Knauf Source - YouRepo",
+          "date": "2018-07-29T02:20:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -36101,22 +36121,22 @@
       ]
     },
     {
-      "id": "com.yourepo.patrick-knauf.trampoline",
+      "id": "org.thebigboss.trampoline",
       "name": "Trampoline",
-      "latest": "1.0",
-      "repository": "Patrick-Knauf Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.patrick-knauf.trampoline/",
-      "shortDescription": "The subtle but satisfying bounce your Springboard has needed. Makes your apps bounce when opening/closing applications, and opening/closing the app switcher.",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.trampoline/",
+      "shortDescription": "A trampoline for your Springboard",
       "category": "Tweaks",
-      "author": "Patrick Knauf",
+      "author": "Patrick",
       "commercial": false,
-      "date": "2018-07-29T02:20:38Z",
+      "date": "2018-07-03T11:22:41Z",
       "versions": [
         {
-          "tweakVersion": "1.0",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.3",
-          "repository": "Patrick-Knauf Source - YouRepo",
-          "date": "2018-07-29T02:20:38Z",
+          "repository": "BigBoss",
+          "date": "2018-07-09T13:41:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
