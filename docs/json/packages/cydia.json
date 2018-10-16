@@ -1,7 +1,7 @@
 {
   "id": "cydia",
   "name": "Cydia Installer",
-  "latest": "1.1.32~b5",
+  "latest": "1.1.32~b6",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/cydia/",
   "shortDescription": "graphical iPhone front-end for APT",
@@ -2391,6 +2391,37 @@
           "date": "2018-10-16T09:04:40Z",
           "userName": "Shengheer",
           "issueNumber": 53146,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.32~b6",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-16T11:25:44Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-16T11:25:44Z",
+          "userName": "Shengheer",
+          "issueNumber": 53159,
           "arch32": false
         }
       ]
