@@ -15307,40 +15307,6 @@
       ]
     },
     {
-      "id": "com.dannyglover.hidelabels10",
-      "name": "HideLabels10",
-      "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
-      "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
-      "commercial": false,
-      "date": "2018-03-04T20:02:05Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "Danny Glover's Repo",
-          "date": "2018-07-16T13:17:19Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
@@ -15363,6 +15329,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.dannyglover.hidelabels10",
+      "name": "HideLabels10",
+      "latest": "1.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
+      "shortDescription": "Hide app labels on iOS 10.",
+      "category": "Tweaks",
+      "author": "Danny Glover",
+      "commercial": false,
+      "date": "2018-03-04T20:02:05Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "Danny Glover's Repo",
+          "date": "2018-07-16T13:17:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -22875,6 +22875,40 @@
       ]
     },
     {
+      "id": "nano",
+      "name": "nano",
+      "latest": "2.2.6-6",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/nano/",
+      "shortDescription": "completely free, modern clone of Pico",
+      "category": "Text Editors",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-03T04:55:57Z",
+      "versions": [
+        {
+          "tweakVersion": "2.9.7",
+          "iOSVersion": "11.4",
+          "repository": "Electra's iOS Utilities",
+          "date": "2018-07-21T10:03:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.mc.nano",
       "name": "nano",
       "latest": "3.0.0-3",
@@ -22911,40 +22945,6 @@
           "iOSVersion": "11.4",
           "repository": "MCApollo",
           "date": "2018-09-25T08:26:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "nano",
-      "name": "nano",
-      "latest": "2.2.6-6",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/nano/",
-      "shortDescription": "completely free, modern clone of Pico",
-      "category": "Text Editors",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-03-03T04:55:57Z",
-      "versions": [
-        {
-          "tweakVersion": "2.9.7",
-          "iOSVersion": "11.4",
-          "repository": "Electra's iOS Utilities",
-          "date": "2018-07-21T10:03:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -35319,11 +35319,11 @@
           "repository": "Dynastic Repo",
           "date": "2018-10-13T08:50:55Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
