@@ -273,18 +273,18 @@
           "status": "working",
           "device": "iPhone10,3",
           "issues": "",
-          "date": "2018-07-30T11:42:06Z",
-          "userName": "8bitkitten",
-          "issueNumber": 36193,
+          "date": "2018-09-17T04:57:41Z",
+          "userName": "justinan7",
+          "issueNumber": 50694,
           "arch32": false
         },
         {
           "status": "working",
           "device": "iPhone10,3",
           "issues": "",
-          "date": "2018-09-17T04:57:41Z",
-          "userName": "justinan7",
-          "issueNumber": 50694,
+          "date": "2018-10-16T18:16:27Z",
+          "userName": "8bitkitten",
+          "issueNumber": 53180,
           "arch32": false
         }
       ]
