@@ -142,12 +142,12 @@
           "arch32": false
         },
         {
-          "status": "partial",
+          "status": "working",
           "device": "iPhone10,6",
-          "issues": "Tweak working great ",
-          "date": "2018-10-06T14:44:41Z",
+          "issues": "",
+          "date": "2018-10-16T02:37:12Z",
           "userName": "Ponnyup",
-          "issueNumber": 52323,
+          "issueNumber": 53133,
           "arch32": false
         }
       ]
