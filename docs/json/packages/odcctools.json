@@ -1,7 +1,7 @@
 {
   "id": "odcctools",
   "name": "Darwin CC Tools",
-  "latest": "895-1",
+  "latest": "895-2",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/odcctools/",
   "shortDescription": "linker and assembler for the iPhone",
@@ -68,6 +68,37 @@
           "date": "2018-10-15T08:17:04Z",
           "userName": "ELiTEiiiSkillz",
           "issueNumber": 53074,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "895-2",
+      "iOSVersion": "11.3.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-10-16T11:24:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-16T11:24:29Z",
+          "userName": "Shengheer",
+          "issueNumber": 53153,
           "arch32": false
         }
       ]
