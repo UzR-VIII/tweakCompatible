@@ -1,7 +1,7 @@
 {
   "id": "io.smacpats.emojiportinstaller",
   "name": "EmojiPortInstaller",
-  "latest": "1.0.3",
+  "latest": "1.0.4",
   "repository": "Smacpats’ Repo",
   "url": "http://cydia.saurik.com/package/io.smacpats.emojiportinstaller/",
   "shortDescription": "Install emojiport and iOS 12.1 emojis automatically",
@@ -147,9 +147,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -175,6 +175,15 @@
           "date": "2018-10-11T18:35:27Z",
           "userName": "jenyaxo",
           "issueNumber": 52726,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Very nice thx a lot 🙃",
+          "date": "2018-10-16T21:52:12Z",
+          "userName": "Passsenger57",
+          "issueNumber": 53186,
           "arch32": false
         }
       ]
