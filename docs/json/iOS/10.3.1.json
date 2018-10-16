@@ -1340,7 +1340,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8",
+      "latest": "1.4.8-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -1374,7 +1374,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.4.8",
+      "latest": "1.4.8-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1749,7 +1749,7 @@
     {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
-      "latest": "4.3.7",
+      "latest": "4.3.8",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
       "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -1882,7 +1882,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-4",
+      "latest": "1-1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -2517,7 +2517,7 @@
     {
       "id": "bash",
       "name": "Bourne-Again SHell",
-      "latest": "4.4.18",
+      "latest": "4.4.23-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/bash/",
       "shortDescription": "the best shell ever written by Brian Fox",
@@ -4229,7 +4229,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.29-1",
+      "latest": "8.30-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -4263,7 +4263,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.29-1",
+      "latest": "8.30-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -4696,7 +4696,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "420.1.30-1",
+      "latest": "1.1.32~b4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -4729,10 +4729,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "420.0.0-5",
+      "latest": "0.9.6301+dummy",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
+      "shortDescription": "MobileSubstrate Dummy Package",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -5511,7 +5511,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.14e",
+      "latest": "1.3.14f",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -5544,7 +5544,7 @@
     {
       "id": "com.ps.emojilibrary",
       "name": "EmojiLibrary",
-      "latest": "1.0.14b",
+      "latest": "1.0.14d",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Master library for PoomSmart's emoji tweaks",
@@ -5577,7 +5577,7 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2.2c",
+      "latest": "1.2.2e",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -5658,6 +5658,40 @@
           "iOSVersion": "10.3.1",
           "repository": "Packix",
           "date": "2018-09-05T05:58:46Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.evynw.repoicons",
+      "name": "EVELYN's Repo Icons",
+      "latest": "1.0",
+      "repository": "Evelyn's Collection",
+      "url": "http://cydia.saurik.com/package/com.evynw.repoicons/",
+      "shortDescription": "Official Icons for EVELYN's Repo. Icons replacing the ? marks.",
+      "category": "System",
+      "author": "Evelyn (ev_ynw)",
+      "commercial": false,
+      "date": "2018-07-08T19:29:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "10.3.1",
+          "repository": "Evelyn's Collection",
+          "date": "2018-10-16T06:05:48Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -6024,7 +6058,7 @@
     {
       "id": "findutils",
       "name": "Find Utilities",
-      "latest": "4.2.33-7",
+      "latest": "4.6.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/findutils/",
       "shortDescription": "indexes and searches filesystems",
@@ -8028,7 +8062,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-191",
+      "latest": "1.8r-193",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -10699,7 +10733,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.6p1-4",
+      "latest": "7.7p1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -11468,7 +11502,7 @@
     {
       "id": "preferenceloader",
       "name": "PreferenceLoader",
-      "latest": "2.2.3-3",
+      "latest": "2.2.4~alpha1",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/preferenceloader/",
       "shortDescription": "load preferences in style",
@@ -11623,7 +11657,7 @@
     {
       "id": "org.thebigboss.protube",
       "name": "ProTube",
-      "latest": "1.12.4-1",
+      "latest": "1.12.5",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/org.thebigboss.protube/",
       "shortDescription": "complete feature-filled YouTube app",
@@ -12634,7 +12668,7 @@
     {
       "id": "sed",
       "name": "sed",
-      "latest": "4.1.5-8",
+      "latest": "4.5-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/sed/",
       "shortDescription": "edits streams of text using patterns",
@@ -13667,10 +13701,10 @@
     {
       "id": "com.saurik.substrate.safemode",
       "name": "Substrate Safe Mode",
-      "latest": "420.0.0-4",
+      "latest": "0.9.6001.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
-      "shortDescription": "A safe safety safemode extension (safe).",
+      "shortDescription": "safe mode safety extension (safe)",
       "category": "Tweaks",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -14126,39 +14160,6 @@
       ]
     },
     {
-      "id": "com.alexzielenski.updatedtinybar",
-      "name": "TinyBar",
-      "latest": "0.2.0",
-      "repository": "Dream Code",
-      "url": "http://capt.dreamcode.it/",
-      "shortDescription": "Thins notification banners down to size!",
-      "category": "Tweaks",
-      "author": "Michele Primavera",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.2.0",
-          "iOSVersion": "10.3.1",
-          "repository": "Dream Code",
-          "date": "2018-08-23T13:47:36Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.alexzielenski.tinybar",
       "name": "TinyBar",
       "latest": "0.1.4-2",
@@ -14178,6 +14179,39 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.alexzielenski.updatedtinybar",
+      "name": "TinyBar",
+      "latest": "0.2.0",
+      "repository": "Dream Code",
+      "url": "http://capt.dreamcode.it/",
+      "shortDescription": "Thins notification banners down to size!",
+      "category": "Tweaks",
+      "author": "Michele Primavera",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "10.3.1",
+          "repository": "Dream Code",
+          "date": "2018-08-23T13:47:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
