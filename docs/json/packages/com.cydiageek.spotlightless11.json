@@ -323,10 +323,10 @@
       "date": "2018-07-22T22:00:19Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 5,
+        "percentage": 85,
+        "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -388,6 +388,15 @@
           "date": "2018-09-02T03:10:16Z",
           "userName": "Nawaf-NM",
           "issueNumber": 48644,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "Belissimo!",
+          "date": "2018-10-16T16:30:02Z",
+          "userName": "marcoms",
+          "issueNumber": 53177,
           "arch32": false
         }
       ]
