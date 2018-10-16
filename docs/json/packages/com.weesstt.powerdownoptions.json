@@ -769,10 +769,10 @@
       "date": "2018-08-01T02:30:23Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 88,
         "good": 8,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -852,6 +852,15 @@
           "date": "2018-08-19T12:36:40Z",
           "userName": "perkses",
           "issueNumber": 45214,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Does absolutely nothing.",
+          "date": "2018-10-16T18:19:09Z",
+          "userName": "TB5918",
+          "issueNumber": 53181,
           "arch32": false
         }
       ]
