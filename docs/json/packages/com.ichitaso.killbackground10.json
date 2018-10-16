@@ -372,11 +372,11 @@
       "repository": "BigBoss",
       "date": "2018-10-04T01:57:11Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -393,6 +393,15 @@
           "date": "2018-10-04T01:57:11Z",
           "userName": "gummykage",
           "issueNumber": 52100,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-10-16T17:24:34Z",
+          "userName": "burninggundam16",
+          "issueNumber": 53179,
           "arch32": false
         }
       ]
