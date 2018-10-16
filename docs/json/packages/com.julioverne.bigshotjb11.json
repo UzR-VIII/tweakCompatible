@@ -438,11 +438,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-09-20T14:04:12Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -486,6 +486,15 @@
           "date": "2018-10-11T15:34:46Z",
           "userName": "giorgioiavicoli",
           "issueNumber": 52674,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-16T02:37:34Z",
+          "userName": "Ponnyup",
+          "issueNumber": 53134,
           "arch32": false
         }
       ]
