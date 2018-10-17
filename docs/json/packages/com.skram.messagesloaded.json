@@ -93,21 +93,21 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone10,3",
-          "issues": "",
-          "date": "2018-10-13T05:01:04Z",
-          "userName": "RaZoR222",
-          "issueNumber": 52888,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone10,6",
           "issues": "",
           "date": "2018-10-13T08:58:04Z",
           "userName": "dammitjeff",
           "issueNumber": 52909,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-10-17T04:55:06Z",
+          "userName": "RaZoR222",
+          "issueNumber": 53208,
           "arch32": false
         }
       ]
