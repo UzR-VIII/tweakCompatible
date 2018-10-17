@@ -178,12 +178,12 @@
           "arch32": false
         },
         {
-          "status": "working",
+          "status": "partial",
           "device": "iPhone9,3",
-          "issues": "Very nice thx a lot 🙃",
-          "date": "2018-10-16T21:52:12Z",
+          "issues": "Installation and emojis it's ok, but you cannot send it appropiated to everyone, because that didn’t shows in iOS 11 JB & iOS 12 same",
+          "date": "2018-10-17T20:41:35Z",
           "userName": "Passsenger57",
-          "issueNumber": 53186,
+          "issueNumber": 53255,
           "arch32": false
         }
       ]
