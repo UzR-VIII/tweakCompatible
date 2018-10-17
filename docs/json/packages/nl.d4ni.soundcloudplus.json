@@ -17,10 +17,10 @@
       "date": "2018-07-09T20:41:36Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2018-09-11T22:25:44Z",
           "userName": "3rde",
           "issueNumber": 50119,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Stream does not load. Ad-skip works fine though. ",
+          "date": "2018-10-17T15:00:52Z",
+          "userName": "MylifeasO",
+          "issueNumber": 53226,
           "arch32": false
         }
       ]
