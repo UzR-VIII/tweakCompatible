@@ -129,6 +129,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.7.9",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-10-17T00:34:14Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Not working"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone5,4",
+          "issues": "Instagram crashes",
+          "date": "2018-10-17T00:34:14Z",
+          "userName": "bostiq",
+          "issueNumber": 53196,
+          "arch32": true
+        }
+      ]
     }
   ]
 }
