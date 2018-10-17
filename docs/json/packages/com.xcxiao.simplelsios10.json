@@ -1229,10 +1229,10 @@
       "date": "2018-07-16T15:34:44Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 89,
-        "good": 17,
+        "percentage": 90,
+        "good": 18,
         "bad": 0,
-        "total": 19,
+        "total": 20,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1411,6 +1411,15 @@
           "date": "2018-09-12T13:34:52Z",
           "userName": "burkybang",
           "issueNumber": 50203,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Sometimes items disappear and have to respring",
+          "date": "2018-10-17T07:56:06Z",
+          "userName": "yaserFA",
+          "issueNumber": 53216,
           "arch32": false
         }
       ]
