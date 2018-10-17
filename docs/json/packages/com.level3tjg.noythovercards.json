@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-10-09T18:19:34Z",
           "userName": "hardcoreandroid",
           "issueNumber": 52599,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Keeps turning back on every now and then. (Should also be automatically toggled off instead of on)",
+          "date": "2018-10-17T22:24:21Z",
+          "userName": "Closet0taku",
+          "issueNumber": 53256,
           "arch32": false
         }
       ]
