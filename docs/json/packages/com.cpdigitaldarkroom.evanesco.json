@@ -106,16 +106,16 @@
       "date": "2018-03-12T22:41:43Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
-          "total": 1,
-          "good": 0,
+          "total": 2,
+          "good": 1,
           "bad": 0,
-          "percentage": 0,
-          "calculatedStatus": "Not working"
+          "percentage": 50,
+          "calculatedStatus": "Likely working"
         }
       },
       "users": [
@@ -144,6 +144,15 @@
           "date": "2018-03-17T16:38:53Z",
           "userName": "genmaicha",
           "issueNumber": 7052,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,4",
+          "issues": "",
+          "date": "2018-10-17T00:32:22Z",
+          "userName": "bostiq",
+          "issueNumber": 53193,
           "arch32": true
         }
       ]
