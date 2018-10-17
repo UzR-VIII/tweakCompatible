@@ -47,11 +47,11 @@
       "repository": "BigBoss",
       "date": "2018-10-15T22:06:08Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2018-10-16T10:01:24Z",
           "userName": "burkybang",
           "issueNumber": 53147,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Removes LPM after charger. No matter lercentage",
+          "date": "2018-10-17T19:29:08Z",
+          "userName": "diddlydoowoo",
+          "issueNumber": 53254,
           "arch32": false
         }
       ]
