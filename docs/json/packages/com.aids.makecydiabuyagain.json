@@ -1339,10 +1339,10 @@
       "date": "2018-07-18T16:54:39Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 65,
+        "percentage": 63,
         "good": 26,
         "bad": 0,
-        "total": 40,
+        "total": 41,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1710,6 +1710,15 @@
           "date": "2018-10-07T01:01:16Z",
           "userName": "iFred09",
           "issueNumber": 52370,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-17T07:49:10Z",
+          "userName": "GHO5Tksa",
+          "issueNumber": 53215,
           "arch32": false
         }
       ]
