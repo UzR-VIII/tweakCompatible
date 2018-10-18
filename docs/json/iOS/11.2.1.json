@@ -2137,22 +2137,21 @@
       ]
     },
     {
-      "id": "com.spicat.blurrybadges",
+      "id": "org.thebigboss.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.2",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.2",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.2.1",
-          "repository": "Spica T Repo",
-          "date": "2018-08-08T20:54:34Z",
+          "repository": "BigBoss",
+          "date": "2018-07-08T07:10:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2171,21 +2170,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.blurrybadges",
+      "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "latest": "1.2",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "PoomSmart",
+      "author": "SpicaT",
       "commercial": false,
+      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.2",
           "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-08T07:10:18Z",
+          "repository": "Spica T Repo",
+          "date": "2018-08-08T20:54:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3669,7 +3669,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.7",
+      "latest": "4.2.2.8",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -12084,6 +12084,40 @@
       ]
     },
     {
+      "id": "me.gmoran.notchbegone",
+      "name": "NotchBeGone Beta",
+      "latest": "0.0.1-81",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.notchbegone/",
+      "shortDescription": "Remove the notch on the iPhone X!",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "date": "2018-03-02T04:34:17Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-81",
+          "iOSVersion": "11.2.1",
+          "repository": "GMoran Beta Software",
+          "date": "2018-10-18T02:32:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.neinzedd9.notepad",
       "name": "Notepad",
       "latest": "1.2.0",
@@ -16251,7 +16285,7 @@
       "latest": "1.1r-14",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.unlimapps.toneenabler/",
-      "shortDescription": "In iOS 7.x/8.x apple uses a plist in order to load ringtones in settings instead of simply iterating through the /Library/Ringtones directory. This tweak enables the old behavior that was present before 7.x and reads the tones from the directory so tones that you download from cydia or UnlimTones will now show in settings.",
+      "shortDescription": "Restore ringtone folder use on iOS 7/8",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
