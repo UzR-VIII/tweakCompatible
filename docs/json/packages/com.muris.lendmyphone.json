@@ -208,10 +208,10 @@
       "date": "2018-10-06T01:38:10Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -246,6 +246,15 @@
           "date": "2018-10-18T11:54:52Z",
           "userName": "teamstreetmotion",
           "issueNumber": 53309,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-18T14:32:30Z",
+          "userName": "Ic3wolf21",
+          "issueNumber": 53321,
           "arch32": false
         }
       ]
