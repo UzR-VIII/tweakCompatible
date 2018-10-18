@@ -16,11 +16,11 @@
       "repository": "Packix",
       "date": "2018-10-16T12:26:28Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2018-10-17T07:58:09Z",
           "userName": "yaserFA",
           "issueNumber": 53217,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Horrible ",
+          "date": "2018-10-18T21:19:26Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 53334,
           "arch32": false
         }
       ]
