@@ -222,15 +222,6 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,6",
-          "issues": "Causes endless respring boot. ",
-          "date": "2018-10-06T20:37:28Z",
-          "userName": "teamstreetmotion",
-          "issueNumber": 52358,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone9,2",
           "issues": "",
@@ -246,6 +237,15 @@
           "date": "2018-10-16T02:36:29Z",
           "userName": "Ponnyup",
           "issueNumber": 53132,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-18T11:54:52Z",
+          "userName": "teamstreetmotion",
+          "issueNumber": 53309,
           "arch32": false
         }
       ]
