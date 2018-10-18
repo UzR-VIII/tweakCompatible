@@ -2932,40 +2932,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.barrel",
-      "name": "Barrel",
-      "latest": "1.8.1.1-1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barrel/",
-      "shortDescription": "3D and other effects on icon pages!",
-      "category": "HYI - Tweaks",
-      "author": "Aaron Ash (Charybdis)",
-      "commercial": false,
-      "date": "2018-03-17T19:03:33Z",
-      "versions": [
-        {
-          "tweakVersion": "1.8.1.1-1",
-          "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-06-16T21:13:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.aaronash.barrel",
       "name": "Barrel",
       "latest": "1.8.1.2",
@@ -3013,6 +2979,40 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.barrel",
+      "name": "Barrel",
+      "latest": "1.8.1.1-1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barrel/",
+      "shortDescription": "3D and other effects on icon pages!",
+      "category": "HYI - Tweaks",
+      "author": "Aaron Ash (Charybdis)",
+      "commercial": false,
+      "date": "2018-03-17T19:03:33Z",
+      "versions": [
+        {
+          "tweakVersion": "1.8.1.1-1",
+          "iOSVersion": "10.3.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-06-16T21:13:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
             }
           }
         }
@@ -4710,40 +4710,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.callblocker",
-      "name": "CallBlocker",
-      "latest": "1.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.callblocker/",
-      "shortDescription": "Block annoying Callers!",
-      "category": "HYI - Tweaks",
-      "author": "Kiran Patil",
-      "commercial": false,
-      "date": "2018-06-30T19:00:39Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-06-30T19:00:39Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Not working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.imkpatil.callblocker",
       "name": "CallBlocker",
       "latest": "1.1",
@@ -4772,6 +4738,40 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.callblocker",
+      "name": "CallBlocker",
+      "latest": "1.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.callblocker/",
+      "shortDescription": "Block annoying Callers!",
+      "category": "HYI - Tweaks",
+      "author": "Kiran Patil",
+      "commercial": false,
+      "date": "2018-06-30T19:00:39Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "10.3.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-06-30T19:00:39Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Not working"
             }
           }
         }
@@ -5253,6 +5253,39 @@
       ]
     },
     {
+      "id": "com.rpetrich.cask",
+      "name": "Cask",
+      "latest": "0.2",
+      "repository": "rpetrich repo",
+      "url": "http://rpetri.ch/repo/",
+      "shortDescription": "Animated table scrolling inspired by Google Plus",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.2",
+          "iOSVersion": "10.3.3",
+          "repository": "rpetrich repo",
+          "date": "2018-03-24T01:36:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.kiiimo.cask",
       "name": "Cask",
       "latest": "0.2",
@@ -5315,39 +5348,6 @@
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.rpetrich.cask",
-      "name": "Cask",
-      "latest": "0.2",
-      "repository": "rpetrich repo",
-      "url": "http://rpetri.ch/repo/",
-      "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "Tweaks",
-      "author": "Ryan Petrich",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.2",
-          "iOSVersion": "10.3.3",
-          "repository": "rpetrich repo",
-          "date": "2018-03-24T01:36:40Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
             }
           }
         }
@@ -8192,6 +8192,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.datameter",
+      "name": "DataMeter",
+      "latest": "1.4-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.datameter/",
+      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
+      "category": "Addons (NotificationCenter)",
+      "author": "Minuit",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.4-3",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-08-10T11:55:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.datameter",
       "name": "DataMeter",
       "latest": "1.4-3",
@@ -8220,39 +8253,6 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.thebigboss.datameter",
-      "name": "DataMeter",
-      "latest": "1.4-3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.datameter/",
-      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
-      "category": "Addons (NotificationCenter)",
-      "author": "Minuit",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.4-3",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-08-10T11:55:57Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
             }
           }
         }
@@ -11848,6 +11848,40 @@
       ]
     },
     {
+      "id": "com.sticktron.fcum",
+      "name": "FrontCamUnMirror",
+      "latest": "2.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.sticktron.fcum/",
+      "shortDescription": "Un-mirror the camera preview for selfies.",
+      "category": "Tweaks",
+      "author": "Sticktron",
+      "commercial": false,
+      "date": "2018-02-28T21:26:48Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-10-18T06:55:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.booleanmagic.fullforce",
       "name": "FullForce",
       "latest": "1.4.1",
@@ -12733,40 +12767,6 @@
       ]
     },
     {
-      "id": "com.filippobiga.harlem",
-      "name": "Harlem Shake",
-      "latest": "1.0-1",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.filippobiga.harlem/",
-      "shortDescription": "Springboard Harlem Shake!",
-      "category": "Tweaks",
-      "author": "FilippoBiga",
-      "commercial": false,
-      "date": "2018-05-31T02:09:26Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-1",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-08-14T21:10:42Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Not working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.filippobiga.cpdigitaldarkroom.harlem",
       "name": "Harlem Shake",
       "latest": "0.4",
@@ -12795,6 +12795,40 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.filippobiga.harlem",
+      "name": "Harlem Shake",
+      "latest": "1.0-1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.filippobiga.harlem/",
+      "shortDescription": "Springboard Harlem Shake!",
+      "category": "Tweaks",
+      "author": "FilippoBiga",
+      "commercial": false,
+      "date": "2018-05-31T02:09:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-08-14T21:10:42Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Not working"
             }
           }
         }
@@ -15187,22 +15221,22 @@
       ]
     },
     {
-      "id": "com.lnx.kittloader",
+      "id": "com.yourepo.lonestarx.kittloader",
       "name": "KITTLoader",
       "latest": "1.0.2-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.lnx.kittloader/",
-      "shortDescription": "A crazy activity indicator view!",
+      "repository": "lonestarx Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.lonestarx.kittloader/",
+      "shortDescription": "A crazy activity indicator view! IPX, LITTLEX, NOTCHLESS COMPATIBLE ! iOS 8-11",
       "category": "Tweaks",
       "author": "LonestarX",
       "commercial": false,
-      "date": "2018-05-14T15:45:17Z",
+      "date": "2018-05-14T08:12:59Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0-1",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-05-16T15:20:53Z",
+          "repository": "lonestarx Source - YouRepo",
+          "date": "2018-05-22T18:28:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15221,22 +15255,22 @@
       ]
     },
     {
-      "id": "com.yourepo.lonestarx.kittloader",
+      "id": "com.lnx.kittloader",
       "name": "KITTLoader",
       "latest": "1.0.2-1",
-      "repository": "lonestarx Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.lonestarx.kittloader/",
-      "shortDescription": "A crazy activity indicator view! IPX, LITTLEX, NOTCHLESS COMPATIBLE ! iOS 8-11",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.lnx.kittloader/",
+      "shortDescription": "A crazy activity indicator view!",
       "category": "Tweaks",
       "author": "LonestarX",
       "commercial": false,
-      "date": "2018-05-14T08:12:59Z",
+      "date": "2018-05-14T15:45:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0.0-1",
           "iOSVersion": "10.3.3",
-          "repository": "lonestarx Source - YouRepo",
-          "date": "2018-05-22T18:28:37Z",
+          "repository": "BigBoss",
+          "date": "2018-05-16T15:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16260,38 +16294,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "10.3.3",
-          "repository": "BiteYourApple",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 2,
-              "good": 2,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.5",
@@ -16337,6 +16339,38 @@
             "arch32": {
               "total": 1,
               "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-2",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "10.3.3",
+          "repository": "BiteYourApple",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 2,
+              "good": 2,
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
@@ -19786,6 +19820,39 @@
       ]
     },
     {
+      "id": "com.cydiageek.nospot10",
+      "name": "NoSpot10",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.nospot10/",
+      "shortDescription": "Get Rid of the Spotlight on iOS 10!",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-03-07T07:44:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.cydiageek.nospot10",
       "name": "NoSpot10",
       "latest": "0.0.1-2",
@@ -19808,39 +19875,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.cydiageek.nospot10",
-      "name": "NoSpot10",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.nospot10/",
-      "shortDescription": "Get Rid of the Spotlight on iOS 10!",
-      "category": "Tweaks",
-      "author": "CydiaGeek",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-03-07T07:44:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 1,
               "good": 1,
@@ -20374,6 +20408,40 @@
       ]
     },
     {
+      "id": "com.repo.xarold.com.onlinenotify",
+      "name": "OnlineNotify",
+      "latest": "2.3.19",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.onlinenotify/",
+      "shortDescription": "Track you friends on WhatsApp Messenger!",
+      "category": "Tweaks",
+      "author": "Fouad Raheb",
+      "commercial": false,
+      "date": "2018-03-03T13:24:07Z",
+      "versions": [
+        {
+          "tweakVersion": "2.3.14",
+          "iOSVersion": "10.3.3",
+          "repository": "Xarold Repo",
+          "date": "2018-03-06T02:00:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.f0u4d.onlinenotify",
       "name": "OnlineNotify",
       "latest": "2.3.20",
@@ -20409,40 +20477,6 @@
           "iOSVersion": "10.3.3",
           "repository": "BigBoss",
           "date": "2018-06-18T14:00:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.repo.xarold.com.onlinenotify",
-      "name": "OnlineNotify",
-      "latest": "2.3.19",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.onlinenotify/",
-      "shortDescription": "Track you friends on WhatsApp Messenger!",
-      "category": "Tweaks",
-      "author": "Fouad Raheb",
-      "commercial": false,
-      "date": "2018-03-03T13:24:07Z",
-      "versions": [
-        {
-          "tweakVersion": "2.3.14",
-          "iOSVersion": "10.3.3",
-          "repository": "Xarold Repo",
-          "date": "2018-03-06T02:00:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21042,40 +21076,6 @@
       ]
     },
     {
-      "id": "com.ioscreatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "11.0.3",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
-      "shortDescription": "3D Touch for Non-3D Touch Devices",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-02T01:15:51Z",
-      "versions": [
-        {
-          "tweakVersion": "11.0.3",
-          "iOSVersion": "10.3.3",
-          "repository": "Packix",
-          "date": "2018-07-30T17:37:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.creatix.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "4.0.0",
@@ -21116,6 +21116,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ioscreatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "11.0.3",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
+      "shortDescription": "3D Touch for Non-3D Touch Devices",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-02T01:15:51Z",
+      "versions": [
+        {
+          "tweakVersion": "11.0.3",
+          "iOSVersion": "10.3.3",
+          "repository": "Packix",
+          "date": "2018-07-30T17:37:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -24678,21 +24712,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.hackyouriphone.snapper2",
       "name": "Snapper 2",
-      "latest": "1.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "1.3-release-candidate-2+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
-      "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
-      "commercial": true,
+      "category": "HYI - Tweaks",
+      "author": "Jonathan Winger-lang",
+      "commercial": false,
+      "date": "2018-05-04T11:05:11Z",
       "versions": [
         {
-          "tweakVersion": "1.3",
+          "tweakVersion": "1.3-release-candidate-2+debug",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-09-06T01:01:15Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-05-04T11:05:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24711,22 +24746,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.snapper2",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "1.3-release-candidate-2+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.snapper2/",
+      "latest": "1.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
-      "category": "HYI - Tweaks",
-      "author": "Jonathan Winger-lang",
-      "commercial": false,
-      "date": "2018-05-04T11:05:11Z",
+      "category": "Tweaks",
+      "author": "Jonathan Winger Lang",
+      "commercial": true,
       "versions": [
         {
-          "tweakVersion": "1.3-release-candidate-2+debug",
+          "tweakVersion": "1.3",
           "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-05-04T11:05:11Z",
+          "repository": "BigBoss",
+          "date": "2018-09-06T01:01:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25945,6 +25979,38 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.swipeselection-pro",
+      "name": "SwipeSelection Pro",
+      "latest": "1.0.3-1",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "10.3.3",
+          "repository": "BiteYourApple",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.iky1e.swipeselection-pro",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
@@ -25972,38 +26038,6 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.swipeselection-pro",
-      "name": "SwipeSelection Pro",
-      "latest": "1.0.3-1",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.3-1",
-          "iOSVersion": "10.3.3",
-          "repository": "BiteYourApple",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
             }
           }
         }
