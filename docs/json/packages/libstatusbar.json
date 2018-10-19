@@ -109,11 +109,11 @@
       "repository": "BigBoss",
       "date": "2018-07-18T13:07:51Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -157,6 +157,15 @@
           "date": "2018-08-09T13:28:43Z",
           "userName": "jimhatesyou",
           "issueNumber": 41039,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-19T06:48:53Z",
+          "userName": "580baby",
+          "issueNumber": 53365,
           "arch32": false
         }
       ]
