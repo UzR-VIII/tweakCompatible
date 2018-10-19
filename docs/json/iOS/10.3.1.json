@@ -3488,7 +3488,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.7",
+      "latest": "4.2.2.8",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -4696,7 +4696,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b4",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -6980,7 +6980,7 @@
     {
       "id": "git",
       "name": "Git",
-      "latest": "2.8.1-5",
+      "latest": "2.16.2-1",
       "repository": "Bingner",
       "url": "http://cydia.saurik.com/package/git/",
       "shortDescription": "fast content-addressable filesystem",
@@ -8062,7 +8062,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-193",
+      "latest": "1.8r-194",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -9945,6 +9945,40 @@
             "good": 0,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "net.limneos.nfcwriterx",
+      "name": "NFCWriter X",
+      "latest": "0.1-84",
+      "repository": "limneos.net",
+      "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
+      "shortDescription": "NFCWriter X for iOS",
+      "category": "Utilities",
+      "author": "Elias Limneos",
+      "commercial": false,
+      "date": "2018-10-18T23:44:25Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1-84",
+          "iOSVersion": "10.3.1",
+          "repository": "Limneos Repo",
+          "date": "2018-10-19T04:27:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -12110,7 +12144,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.0.20",
+      "latest": "3.1.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
