@@ -4,7 +4,7 @@
   "latest": "1.0.6-1",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.melior/",
-  "shortDescription": "Custom volume HUD",
+  "shortDescription": "تغيير واجهة الصوت وإعادة تصميمها",
   "category": "Tweaks",
   "author": "Spark",
   "commercial": false,
@@ -366,6 +366,37 @@
           "date": "2018-09-07T04:33:49Z",
           "userName": "skyechewables",
           "issueNumber": 49627,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.6-1",
+      "iOSVersion": "11.1.2",
+      "repository": "Dr.Cydia | د.سيديا",
+      "date": "2018-10-19T20:49:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-19T20:49:00Z",
+          "userName": "Qaragholy",
+          "issueNumber": 53407,
           "arch32": false
         }
       ]
