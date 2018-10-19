@@ -1,7 +1,7 @@
 {
   "id": "com.laughingquoll.siliqua",
   "name": "Siliqua",
-  "latest": "1.0-2",
+  "latest": "2.0",
   "repository": "apt.thebigboss.org",
   "url": "http://cydia.saurik.com/package/com.laughingquoll.siliqua/",
   "shortDescription": "AirPods Gestures and New Features",
@@ -298,6 +298,37 @@
           "date": "2018-09-21T06:17:23Z",
           "userName": "i05fr3d",
           "issueNumber": 51134,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-10-19T06:46:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-19T06:46:12Z",
+          "userName": "580baby",
+          "issueNumber": 53357,
           "arch32": false
         }
       ]
