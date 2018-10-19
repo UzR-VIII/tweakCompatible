@@ -119,10 +119,10 @@
       "date": "2018-09-11T14:25:48Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "percentage": 66,
+        "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -175,6 +175,15 @@
           "date": "2018-10-04T03:16:33Z",
           "userName": "Passsenger57",
           "issueNumber": 52108,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-19T06:49:21Z",
+          "userName": "580baby",
+          "issueNumber": 53367,
           "arch32": false
         }
       ]
