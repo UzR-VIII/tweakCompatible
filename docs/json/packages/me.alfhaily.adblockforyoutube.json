@@ -923,9 +923,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 88,
-        "good": 47,
+        "good": 48,
         "bad": 0,
-        "total": 53,
+        "total": 54,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1410,6 +1410,15 @@
           "date": "2018-09-17T18:19:44Z",
           "userName": "Nawaf-NM",
           "issueNumber": 50738,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-19T09:02:26Z",
+          "userName": "king4q",
+          "issueNumber": 53383,
           "arch32": false
         }
       ]
