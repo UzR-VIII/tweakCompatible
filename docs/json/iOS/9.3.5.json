@@ -716,10 +716,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.3.0",
+      "latest": "1.4.0-45",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -816,7 +816,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8",
+      "latest": "1.4.8-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -850,7 +850,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.4.8",
+      "latest": "1.4.8-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1139,7 +1139,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-4",
+      "latest": "1-1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -1308,7 +1308,7 @@
     {
       "id": "berkeleydb",
       "name": "Berkeley DB",
-      "latest": "6.2.23",
+      "latest": "4.6.21-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/berkeleydb/",
       "shortDescription": "Oracle's embeddable database engine",
@@ -1609,7 +1609,7 @@
     {
       "id": "bash",
       "name": "Bourne-Again SHell",
-      "latest": "4.4.18",
+      "latest": "4.4.23-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/bash/",
       "shortDescription": "the best shell ever written by Brian Fox",
@@ -1743,7 +1743,7 @@
     {
       "id": "bzip2",
       "name": "bzip2",
-      "latest": "1.0.6",
+      "latest": "1.0.5-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/bzip2/",
       "shortDescription": "compression that's slightly better than gzip",
@@ -2162,6 +2162,40 @@
       ]
     },
     {
+      "id": "com.cpdigitaldarkroom.cleo",
+      "name": "Cleo",
+      "latest": "1.0.7-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.cleo/",
+      "shortDescription": "Stock Feeling Redesigned Control Center",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom & 4urum",
+      "commercial": false,
+      "date": "2018-09-10T21:59:21Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.7-1",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2018-10-19T10:23:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop",
       "name": "CocoaTop",
       "latest": "2.0.1",
@@ -2230,7 +2264,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.29-1",
+      "latest": "8.30-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -2350,7 +2384,7 @@
     {
       "id": "curl",
       "name": "cURL",
-      "latest": "7.59.0-1",
+      "latest": "7.61.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/curl/",
       "shortDescription": "flexible multi-protocol file transfers",
@@ -2485,7 +2519,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "420.1.30-1",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -2518,10 +2552,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "420.0.0-5",
+      "latest": "0.9.6301+dummy",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
+      "shortDescription": "MobileSubstrate Dummy Package",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -2551,7 +2585,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.1.12",
+      "latest": "1.1.32~b1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -2684,7 +2718,7 @@
     {
       "id": "darwintools",
       "name": "Darwin Tools",
-      "latest": "1-5",
+      "latest": "1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/darwintools/",
       "shortDescription": "startupfiletool, sw_vers",
@@ -2786,10 +2820,10 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.18.24",
+      "latest": "1.18.25-3",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
-      "shortDescription": "package maintenance tools from Debian",
+      "shortDescription": "package maintainance tools from Debian",
       "category": "Packaging",
       "author": "(null)",
       "commercial": false,
@@ -2954,7 +2988,7 @@
     {
       "id": "diffutils",
       "name": "Diff Utilities",
-      "latest": "2.8.1-6",
+      "latest": "3.6-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/diffutils/",
       "shortDescription": "compare two files for differences",
@@ -3498,7 +3532,7 @@
     {
       "id": "findutils",
       "name": "Find Utilities",
-      "latest": "4.2.33-7",
+      "latest": "4.6.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/findutils/",
       "shortDescription": "indexes and searches filesystems",
@@ -3836,10 +3870,10 @@
     {
       "id": "gnupg",
       "name": "GNU Privacy Guard",
-      "latest": "1.4.8-4",
+      "latest": "2.2.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gnupg/",
-      "shortDescription": "older encryption compatible with OpenPGP",
+      "shortDescription": "newer encryption compatible with OpenPGP",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -4735,7 +4769,7 @@
     {
       "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.7-15",
+      "latest": "6.1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
@@ -5103,7 +5137,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.6p1-4",
+      "latest": "7.7p1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -5471,7 +5505,7 @@
     {
       "id": "preferenceloader",
       "name": "PreferenceLoader",
-      "latest": "2.2.3-3",
+      "latest": "2.2.4~alpha1",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/preferenceloader/",
       "shortDescription": "load preferences in style",
@@ -5525,7 +5559,7 @@
     {
       "id": "profile.d",
       "name": "Profile Directory",
-      "latest": "0-2",
+      "latest": "0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/profile.d/",
       "shortDescription": "makes packaging for /etc/profile reasonable",
@@ -5895,7 +5929,7 @@
     {
       "id": "sed",
       "name": "sed",
-      "latest": "4.1.5-8",
+      "latest": "4.5-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/sed/",
       "shortDescription": "edits streams of text using patterns",
@@ -6199,10 +6233,10 @@
     {
       "id": "com.saurik.substrate.safemode",
       "name": "Substrate Safe Mode",
-      "latest": "420.0.0-4",
+      "latest": "0.9.6001.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
-      "shortDescription": "A safe safety safemode extension (safe).",
+      "shortDescription": "safe mode safety extension (safe)",
       "category": "Tweaks",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -6536,7 +6570,7 @@
       "latest": "1.1r-14",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.unlimapps.toneenabler/",
-      "shortDescription": "In iOS 7.x/8.x apple uses a plist in order to load ringtones in settings instead of simply iterating through the /Library/Ringtones directory. This tweak enables the old behavior that was present before 7.x and reads the tones from the directory so tones that you download from cydia or UnlimTones will now show in settings.",
+      "shortDescription": "Restore ringtone folder use on iOS 7/8",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
