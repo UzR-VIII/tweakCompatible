@@ -1,10 +1,10 @@
 {
   "id": "com.nrkvv.easyapporientation",
   "name": "EasyAppOrientation",
-  "latest": "0.0.1",
+  "latest": "0.0.5",
   "repository": "m156@nrkvv",
   "url": "http://cydia.saurik.com/package/com.nrkvv.easyapporientation/",
-  "shortDescription": "Lock the orientation of applications",
+  "shortDescription": "Lock the orientation of application.",
   "category": "Tweaks",
   "author": "m156@nrkvv",
   "commercial": false,
@@ -68,6 +68,37 @@
           "date": "2018-09-03T17:40:52Z",
           "userName": "zackh105",
           "issueNumber": 48953,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.5",
+      "iOSVersion": "11.3.1",
+      "repository": "www.geocities.jp",
+      "date": "2018-10-19T05:30:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-19T05:30:14Z",
+          "userName": "wolferous",
+          "issueNumber": 53349,
           "arch32": false
         }
       ]
