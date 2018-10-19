@@ -1,7 +1,7 @@
 {
   "id": "xyz.willy.aupm",
   "name": "AUPM (BETA)",
-  "latest": "1.0~beta10",
+  "latest": "1.0~beta12",
   "repository": "xTM3x Repo",
   "url": "http://cydia.saurik.com/package/xyz.willy.aupm/",
   "shortDescription": "A Useless Package Manager",
@@ -130,6 +130,37 @@
           "date": "2018-10-12T12:00:33Z",
           "userName": "lDavidl",
           "issueNumber": 52837,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0~beta12",
+      "iOSVersion": "10.0.2",
+      "repository": "xTM3x Repo",
+      "date": "2018-10-19T08:12:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-19T08:12:55Z",
+          "userName": "lDavidl",
+          "issueNumber": 53380,
           "arch32": false
         }
       ]
