@@ -2073,10 +2073,10 @@
       "date": "2018-08-12T21:54:17Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2102,6 +2102,15 @@
           "date": "2018-08-13T14:39:39Z",
           "userName": "xFREAKc",
           "issueNumber": 42997,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-19T23:02:09Z",
+          "userName": "OVisuals",
+          "issueNumber": 53411,
           "arch32": false
         }
       ]
