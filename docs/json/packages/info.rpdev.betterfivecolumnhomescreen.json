@@ -601,15 +601,6 @@
           "status": "working",
           "device": "iPhone9,2",
           "issues": "",
-          "date": "2018-07-08T04:15:48Z",
-          "userName": "baebrum",
-          "issueNumber": 15055,
-          "arch32": false
-        },
-        {
-          "status": "working",
-          "device": "iPhone9,2",
-          "issues": "",
           "date": "2018-07-08T06:11:25Z",
           "userName": "mykamel",
           "issueNumber": 15247,
@@ -919,6 +910,15 @@
           "date": "2018-09-06T10:01:54Z",
           "userName": "lewii0701",
           "issueNumber": 49495,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-20T19:53:06Z",
+          "userName": "baebrum",
+          "issueNumber": 53489,
           "arch32": false
         }
       ]
