@@ -533,10 +533,10 @@
       "date": "2018-07-23T15:24:52Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 85,
-        "good": 6,
+        "percentage": 87,
+        "good": 7,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -607,6 +607,15 @@
           "date": "2018-09-16T17:51:48Z",
           "userName": "kurtbain250",
           "issueNumber": 50602,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-20T20:00:40Z",
+          "userName": "baebrum",
+          "issueNumber": 53505,
           "arch32": false
         }
       ]
