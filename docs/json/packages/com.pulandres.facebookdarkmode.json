@@ -1,0 +1,45 @@
+{
+  "id": "com.pulandres.facebookdarkmode",
+  "name": "FacebookDarkMode Patched",
+  "latest": "2.1.8",
+  "repository": "Pulandres Repo",
+  "url": "http://cydia.saurik.com/package/com.pulandres.facebookdarkmode/",
+  "shortDescription": "Dark mode for Facebook",
+  "category": "Tweaks",
+  "author": "FoxfortMobile",
+  "commercial": false,
+  "date": "2018-10-20T19:25:39Z",
+  "versions": [
+    {
+      "tweakVersion": "2.1.8",
+      "iOSVersion": "11.3.1",
+      "repository": "Pulandres Repo",
+      "date": "2018-10-20T19:25:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-10-20T19:25:39Z",
+          "userName": "jakeanderson319",
+          "issueNumber": 53478,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
