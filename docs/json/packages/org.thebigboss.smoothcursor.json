@@ -490,9 +490,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 39,
+        "good": 40,
         "bad": 0,
-        "total": 39,
+        "total": 40,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -851,6 +851,15 @@
           "date": "2018-09-11T03:48:10Z",
           "userName": "magicbandz",
           "issueNumber": 50028,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-20T20:00:55Z",
+          "userName": "baebrum",
+          "issueNumber": 53506,
           "arch32": false
         }
       ]
