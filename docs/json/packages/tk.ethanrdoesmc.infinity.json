@@ -57,10 +57,10 @@
       "date": "2018-07-10T15:25:16Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -95,6 +95,15 @@
           "date": "2018-07-27T22:43:53Z",
           "userName": "Gaming271",
           "issueNumber": 34899,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Preferences not showing ",
+          "date": "2018-10-20T10:04:38Z",
+          "userName": "zzHAMZAzz",
+          "issueNumber": 53453,
           "arch32": false
         }
       ]
