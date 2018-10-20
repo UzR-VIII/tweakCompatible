@@ -2419,6 +2419,40 @@
       ]
     },
     {
+      "id": "com.xandesign.felicity",
+      "name": "Felicity",
+      "latest": "2.2",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.xandesign.felicity/",
+      "shortDescription": "An Intense and Happy theme.",
+      "category": "Themes",
+      "author": "XanDesign",
+      "commercial": false,
+      "date": "2018-07-07T20:38:45Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2",
+          "iOSVersion": "10.3.2",
+          "repository": "BigBoss",
+          "date": "2018-10-20T10:03:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
       "latest": "3.5.2-1",
@@ -4374,21 +4408,22 @@
       ]
     },
     {
-      "id": "com.clezz.powerdown",
+      "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "latest": "1.1.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
+      "shortDescription": "PowerDown updated for new iOS",
       "category": "Tweaks",
-      "author": "Ma Jun",
+      "author": "qwertyuiop1379",
       "commercial": false,
+      "date": "2018-07-14T11:14:49Z",
       "versions": [
         {
           "tweakVersion": "1.0.5",
           "iOSVersion": "10.3.2",
-          "repository": "BigBoss",
-          "date": "2018-09-03T20:36:50Z",
+          "repository": "qwertyuiop1379's repo",
+          "date": "2018-08-25T13:55:28Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -4407,22 +4442,21 @@
       ]
     },
     {
-      "id": "com.qiop1379.powerdown",
+      "id": "com.clezz.powerdown",
       "name": "PowerDown",
-      "latest": "1.1.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
-      "shortDescription": "PowerDown updated for new iOS",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
       "category": "Tweaks",
-      "author": "qwertyuiop1379",
+      "author": "Ma Jun",
       "commercial": false,
-      "date": "2018-07-14T11:14:49Z",
       "versions": [
         {
           "tweakVersion": "1.0.5",
           "iOSVersion": "10.3.2",
-          "repository": "qwertyuiop1379's repo",
-          "date": "2018-08-25T13:55:28Z",
+          "repository": "BigBoss",
+          "date": "2018-09-03T20:36:50Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
