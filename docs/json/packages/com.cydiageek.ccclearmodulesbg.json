@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.ccclearmodulesbg",
   "name": "CCClearModulesBG",
-  "latest": "1.0.1",
+  "latest": "1.0.3",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
   "shortDescription": "Make the Control Center Modules Clear on iOS 11!",
@@ -316,6 +316,37 @@
           "date": "2018-09-06T15:34:58Z",
           "userName": "TurtleSocks",
           "issueNumber": 49532,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-20T10:34:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad4,7",
+          "issues": "",
+          "date": "2018-10-20T10:34:07Z",
+          "userName": "adil192",
+          "issueNumber": 53454,
           "arch32": false
         }
       ]
