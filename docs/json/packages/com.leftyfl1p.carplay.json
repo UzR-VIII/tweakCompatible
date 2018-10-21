@@ -734,10 +734,10 @@
       "date": "2018-09-14T11:35:59Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -808,6 +808,15 @@
           "date": "2018-10-15T13:41:42Z",
           "userName": "hellraizer02",
           "issueNumber": 53087,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-21T21:11:14Z",
+          "userName": "offspring51",
+          "issueNumber": 53600,
           "arch32": false
         }
       ]
