@@ -627,15 +627,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,2",
-          "issues": "",
-          "date": "2018-07-17T10:30:48Z",
-          "userName": "buitim",
-          "issueNumber": 28543,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,3",
           "issues": "ipx",
           "date": "2018-07-18T01:59:14Z",
@@ -785,6 +776,15 @@
           "date": "2018-10-12T22:48:04Z",
           "userName": "Straed",
           "issueNumber": 52880,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-10-21T11:56:07Z",
+          "userName": "buitim",
+          "issueNumber": 53578,
           "arch32": false
         }
       ]
