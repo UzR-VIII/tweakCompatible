@@ -177,11 +177,11 @@
       "repository": "BigBoss",
       "date": "2018-07-12T10:29:15Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -198,6 +198,15 @@
           "date": "2018-07-12T10:29:15Z",
           "userName": "YaseiYeriel",
           "issueNumber": 24099,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-21T08:24:04Z",
+          "userName": "jclegg555",
+          "issueNumber": 53542,
           "arch32": false
         }
       ]
