@@ -1,7 +1,7 @@
 {
   "id": "com.peterdev.twallve",
   "name": "Twallve",
-  "latest": "2.1",
+  "latest": "2.1.4",
   "repository": "PeterDev Repository",
   "url": "http://cydia.saurik.com/package/com.peterdev.twallve/",
   "shortDescription": "iOS 12의 배경화면을 불러옵니다.",
@@ -192,6 +192,37 @@
           "date": "2018-09-22T16:48:40Z",
           "userName": "peterprd",
           "issueNumber": 51228,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.4",
+      "iOSVersion": "11.3.1",
+      "repository": "Nexus",
+      "date": "2018-10-21T01:34:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-21T01:34:28Z",
+          "userName": "peterprd",
+          "issueNumber": 53527,
           "arch32": false
         }
       ]
