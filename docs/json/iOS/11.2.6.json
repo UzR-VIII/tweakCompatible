@@ -2319,6 +2319,40 @@
       ]
     },
     {
+      "id": "com.modmyi.batterylife",
+      "name": "BatteryLife",
+      "latest": "1.6.15",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
+      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
+      "category": "Themes (SpringBoard)",
+      "author": "rbt",
+      "commercial": false,
+      "date": "2018-07-10T16:20:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.15",
+          "iOSVersion": "11.2.6",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-07-10T16:20:42Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
       "latest": "1.7.0",
@@ -2358,40 +2392,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.modmyi.batterylife",
-      "name": "BatteryLife",
-      "latest": "1.6.15",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
-      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
-      "category": "Themes (SpringBoard)",
-      "author": "rbt",
-      "commercial": false,
-      "date": "2018-07-10T16:20:42Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.15",
-          "iOSVersion": "11.2.6",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-07-10T16:20:42Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4924,39 +4924,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-10-01T07:43:25Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -4977,6 +4944,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-10-01T07:43:25Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -5632,21 +5632,22 @@
       ]
     },
     {
-      "id": "com.artikus.cydiaxi",
+      "id": "us.evendev.cydiaxi",
       "name": "CydiaXI",
-      "latest": "1.2",
-      "repository": "cydiaxi.at.ua",
-      "url": "http://cydiaxi.at.ua/",
-      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
-      "category": "Tweaks",
-      "author": "EvenD3V and ArtikusHG",
+      "latest": "2.0.1",
+      "repository": "CydiaXI",
+      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
+      "shortDescription": "Making Cydia look more iOS 11-ish",
+      "category": "CydiaXI",
+      "author": "EvenDev",
       "commercial": false,
+      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "0.1",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-08-16T01:49:56Z",
+          "repository": "EvenDev",
+          "date": "2018-10-13T11:07:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5665,22 +5666,21 @@
       ]
     },
     {
-      "id": "us.evendev.cydiaxi",
+      "id": "com.artikus.cydiaxi",
       "name": "CydiaXI",
-      "latest": "2.0.1",
-      "repository": "CydiaXI",
-      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
-      "shortDescription": "Making Cydia look more iOS 11-ish",
-      "category": "CydiaXI",
-      "author": "EvenDev",
+      "latest": "1.2",
+      "repository": "cydiaxi.at.ua",
+      "url": "http://cydiaxi.at.ua/",
+      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
+      "category": "Tweaks",
+      "author": "EvenD3V and ArtikusHG",
       "commercial": false,
-      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "0.1",
           "iOSVersion": "11.2.6",
-          "repository": "EvenDev",
-          "date": "2018-10-13T11:07:19Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-08-16T01:49:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16947,6 +16947,40 @@
       ]
     },
     {
+      "id": "com.cc.selectmoji",
+      "name": "Selectmoji",
+      "latest": "1.2",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.cc.selectmoji/",
+      "shortDescription": "Better frequently used emojis.",
+      "category": "Tweaks",
+      "author": "cole cabral",
+      "commercial": true,
+      "date": "2018-08-10T03:56:33Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-08-13T19:29:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.selectmoji",
       "name": "Selectmoji",
       "latest": "1.0.3",
@@ -16983,40 +17017,6 @@
           "iOSVersion": "11.2.6",
           "repository": "BigBoss",
           "date": "2018-09-16T11:41:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.cc.selectmoji",
-      "name": "Selectmoji",
-      "latest": "1.2",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.cc.selectmoji/",
-      "shortDescription": "Better frequently used emojis.",
-      "category": "Tweaks",
-      "author": "cole cabral",
-      "commercial": true,
-      "date": "2018-08-10T03:56:33Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-08-13T19:29:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18093,6 +18093,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "io.ominousness.stackxi",
+      "name": "StackXI",
+      "latest": "0.2.0",
+      "repository": "Smacpats’ Repo",
+      "url": "http://cydia.saurik.com/package/io.ominousness.stackxi/",
+      "shortDescription": "Grouped notifications, iOS 12 style.",
+      "category": "Tweaks",
+      "author": "Ominousness",
+      "commercial": false,
+      "date": "2018-08-23T18:46:04Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "11.2.6",
+          "repository": "Nepeta",
+          "date": "2018-10-21T18:12:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
