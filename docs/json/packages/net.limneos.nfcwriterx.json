@@ -199,10 +199,10 @@
       "date": "2018-10-19T17:37:45Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -237,6 +237,15 @@
           "date": "2018-10-20T19:35:10Z",
           "userName": "magicbandz",
           "issueNumber": 53484,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "1 license per device :(",
+          "date": "2018-10-21T08:50:54Z",
+          "userName": "tokfrans03",
+          "issueNumber": 53543,
           "arch32": false
         }
       ]
