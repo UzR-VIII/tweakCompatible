@@ -198,11 +198,11 @@
       "repository": "Limneos Repo",
       "date": "2018-10-19T17:37:45Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -246,6 +246,15 @@
           "date": "2018-10-21T08:50:54Z",
           "userName": "tokfrans03",
           "issueNumber": 53543,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "crashes sometimes.. lock and unlock device seams to fix it.",
+          "date": "2018-10-21T21:33:45Z",
+          "userName": "goedenstorfer",
+          "issueNumber": 53602,
           "arch32": false
         }
       ]
