@@ -1,7 +1,7 @@
 {
   "id": "com.peterdev.kakaotalktools",
   "name": "KakaoTalk Tools",
-  "latest": "2.0",
+  "latest": "2.2",
   "repository": "Nexus",
   "url": "http://cydia.saurik.com/package/com.peterdev.kakaotalktools/",
   "shortDescription": "카카오톡의 사용을 편하게 해줍니다.",
@@ -99,6 +99,37 @@
           "date": "2018-09-30T10:38:00Z",
           "userName": "peterprd",
           "issueNumber": 51928,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Nexus",
+      "date": "2018-10-21T01:34:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-21T01:34:09Z",
+          "userName": "peterprd",
+          "issueNumber": 53525,
           "arch32": false
         }
       ]
