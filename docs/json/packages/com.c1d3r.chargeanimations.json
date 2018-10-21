@@ -1,10 +1,10 @@
 {
   "id": "com.c1d3r.chargeanimations",
   "name": "ChargeAnimations",
-  "latest": "1.2",
+  "latest": "1.2.1",
   "repository": "C1d3r Repo",
   "url": "http://cydia.saurik.com/package/com.c1d3r.chargeanimations/",
-  "shortDescription": "$2.00 - Beautiful animated notifications for when plugging in your device! In this update: iOS 10 Support, option to lock after animation, fixed bugs, shows quicker;",
+  "shortDescription": "Beautiful animations when plugging in your device!",
   "category": "Tweaks",
   "author": "c1d3r",
   "commercial": false,
@@ -77,6 +77,37 @@
           "date": "2018-10-20T05:39:52Z",
           "userName": "sajjadibraheem",
           "issueNumber": 53430,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "10.0.2",
+      "repository": "c1d3r's repo",
+      "date": "2018-10-21T03:38:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-21T03:38:24Z",
+          "userName": "lDavidl",
+          "issueNumber": 53531,
           "arch32": false
         }
       ]
