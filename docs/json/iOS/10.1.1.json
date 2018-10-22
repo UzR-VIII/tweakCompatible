@@ -7830,6 +7830,26 @@
               "calculatedStatus": "Unknown"
             }
           }
+        },
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "10.1.1",
+          "repository": "Alfhaily APT",
+          "date": "2018-10-22T19:09:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
         }
       ]
     },
@@ -14652,7 +14672,7 @@
     {
       "id": "ws.hbang.typestatus2",
       "name": "TypeStatus 2 (iOS 7 – 10)",
-      "latest": "2.3.1",
+      "latest": "2.4~beta3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ws.hbang.typestatus2/",
       "shortDescription": "iMessage typing/read indicators in status bar",
@@ -14699,6 +14719,40 @@
           "iOSVersion": "10.1.1",
           "repository": "HackYouriPhone",
           "date": "2018-03-19T17:30:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.uasharedtools",
+      "name": "uasharedtools",
+      "latest": "2.2r-31",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.uasharedtools/",
+      "shortDescription": "shared tools for unlimapps tweaks",
+      "category": "HYI - Tweaks",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2018-03-19T17:31:12Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2r-31",
+          "iOSVersion": "10.1.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-19T17:31:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14771,40 +14825,6 @@
           "iOSVersion": "10.1.1",
           "repository": "beta.unlimapps.com",
           "date": "2018-08-15T08:18:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.uasharedtools",
-      "name": "uasharedtools",
-      "latest": "2.2r-31",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.uasharedtools/",
-      "shortDescription": "shared tools for unlimapps tweaks",
-      "category": "HYI - Tweaks",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2018-03-19T17:31:12Z",
-      "versions": [
-        {
-          "tweakVersion": "2.2r-31",
-          "iOSVersion": "10.1.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-19T17:31:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15515,6 +15535,38 @@
       ]
     },
     {
+      "id": "com.unlimapps.ytpp",
+      "name": "YouTube ++",
+      "latest": "1.4r-62",
+      "repository": "beta.unlimapps.com",
+      "url": "https://beta.unlimapps.com/",
+      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
+      "category": "Tweaks",
+      "author": "UnlimApps Inc",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4r-91",
+          "iOSVersion": "10.1.1",
+          "repository": "beta.unlimapps.com",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.ytpp",
       "name": "YouTube ++",
       "latest": "1.4r-76",
@@ -15537,38 +15589,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.unlimapps.ytpp",
-      "name": "YouTube ++",
-      "latest": "1.4r-62",
-      "repository": "beta.unlimapps.com",
-      "url": "https://beta.unlimapps.com/",
-      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
-      "category": "Tweaks",
-      "author": "UnlimApps Inc",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4r-91",
-          "iOSVersion": "10.1.1",
-          "repository": "beta.unlimapps.com",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
