@@ -9286,22 +9286,22 @@
       ]
     },
     {
-      "id": "com.remyla.lockglyphxi",
+      "id": "com.yourepo.remyla.lockglyphxi",
       "name": "LockGlyph XI",
-      "latest": "11.2.2",
-      "repository": "remyla's repo",
-      "url": "http://cydia.saurik.com/package/com.remyla.lockglyphxi/",
-      "shortDescription": "LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.",
-      "category": "Tweaks",
-      "author": "mur1sdev, remyla",
+      "latest": "11.2",
+      "repository": "remyla Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.remyla.lockglyphxi/",
+      "shortDescription": "LockGlyph Patched for ios 11 by mur1sd3v edited by remyla for minor fixes and to be compatible with cydia. NO MORE CONFLICT WITH LIBCOLORPICKER !",
+      "category": "Addons",
+      "author": "remyla",
       "commercial": false,
-      "date": "2018-07-07T13:06:15Z",
+      "date": "2018-02-28T00:10:46Z",
       "versions": [
         {
-          "tweakVersion": "11.2.2",
+          "tweakVersion": "11.2",
           "iOSVersion": "11.0.3",
-          "repository": "remyla's repo",
-          "date": "2018-08-06T19:49:39Z",
+          "repository": "remyla Source - YouRepo",
+          "date": "2018-03-29T02:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9320,22 +9320,22 @@
       ]
     },
     {
-      "id": "com.yourepo.remyla.lockglyphxi",
+      "id": "com.remyla.lockglyphxi",
       "name": "LockGlyph XI",
-      "latest": "11.2",
-      "repository": "remyla Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.remyla.lockglyphxi/",
-      "shortDescription": "LockGlyph Patched for ios 11 by mur1sd3v edited by remyla for minor fixes and to be compatible with cydia. NO MORE CONFLICT WITH LIBCOLORPICKER !",
-      "category": "Addons",
-      "author": "remyla",
+      "latest": "11.2.2",
+      "repository": "remyla's repo",
+      "url": "http://cydia.saurik.com/package/com.remyla.lockglyphxi/",
+      "shortDescription": "LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.",
+      "category": "Tweaks",
+      "author": "mur1sdev, remyla",
       "commercial": false,
-      "date": "2018-02-28T00:10:46Z",
+      "date": "2018-07-07T13:06:15Z",
       "versions": [
         {
-          "tweakVersion": "11.2",
+          "tweakVersion": "11.2.2",
           "iOSVersion": "11.0.3",
-          "repository": "remyla Source - YouRepo",
-          "date": "2018-03-29T02:20:53Z",
+          "repository": "remyla's repo",
+          "date": "2018-08-06T19:49:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10670,21 +10670,22 @@
       ]
     },
     {
-      "id": "com.laughingquoll.noctis",
+      "id": "com.hackyouriphone.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "LaughingQuoll",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-02T03:43:45Z",
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-14T22:34:19Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:43:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -10703,22 +10704,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctis",
+      "id": "com.laughingquoll.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-03-02T03:43:45Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:43:45Z",
+          "repository": "BigBoss",
+          "date": "2018-03-14T22:34:19Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -11828,6 +11828,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kurdcy.picobanners2",
+      "name": "PicoBanners 2",
+      "latest": "0.0.1b1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kurdcy.picobanners2/",
+      "shortDescription": "Smaller iOS 11 banners                                                                                                           .",
+      "category": "Tweaks",
+      "author": "Michele Primavera",
+      "commercial": false,
+      "date": "2018-04-12T03:20:46Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1b1",
+          "iOSVersion": "11.0.3",
+          "repository": "(null)",
+          "date": "2018-04-12T03:20:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "it.dreamcode.picobanners2",
       "name": "PicoBanners 2",
       "latest": "0.0.1b2",
@@ -11863,40 +11897,6 @@
           "iOSVersion": "11.0.3",
           "repository": "Dream Code",
           "date": "2018-04-25T17:09:14Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kurdcy.picobanners2",
-      "name": "PicoBanners 2",
-      "latest": "0.0.1b1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kurdcy.picobanners2/",
-      "shortDescription": "Smaller iOS 11 banners                                                                                                           .",
-      "category": "Tweaks",
-      "author": "Michele Primavera",
-      "commercial": false,
-      "date": "2018-04-12T03:20:46Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1b1",
-          "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T03:20:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14821,40 +14821,6 @@
       ]
     },
     {
-      "id": "com.ioscreatix.sugarcane",
-      "name": "SugarCane",
-      "latest": "1.0.0",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
-      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-15T02:16:28Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "iOS Creatix",
-          "date": "2018-03-29T02:17:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.sugarcane",
       "name": "SugarCane",
       "latest": "1.0.0",
@@ -14877,6 +14843,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ioscreatix.sugarcane",
+      "name": "SugarCane",
+      "latest": "1.0.0",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
+      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-15T02:16:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "iOS Creatix",
+          "date": "2018-03-29T02:17:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16160,7 +16160,7 @@
     {
       "id": "ws.hbang.typestatus2",
       "name": "TypeStatus 2 (iOS 7 – 10)",
-      "latest": "2.3.1",
+      "latest": "2.4~beta3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ws.hbang.typestatus2/",
       "shortDescription": "iMessage typing/read indicators in status bar",
@@ -16844,6 +16844,39 @@
       ]
     },
     {
+      "id": "be.submanifold.weatherlock",
+      "name": "WeatherLock",
+      "latest": "0.1.13",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
+      "shortDescription": "animated weather background on the lock screen",
+      "category": "Tweaks",
+      "author": "rainwolf",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "0.1.13",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-03-16T00:19:06Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "repo.biteyourapple.net.weatherlock",
       "name": "WeatherLock",
       "latest": "0.1.13",
@@ -16866,39 +16899,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "be.submanifold.weatherlock",
-      "name": "WeatherLock",
-      "latest": "0.1.13",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
-      "shortDescription": "animated weather background on the lock screen",
-      "category": "Tweaks",
-      "author": "rainwolf",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "0.1.13",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-16T00:19:06Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
