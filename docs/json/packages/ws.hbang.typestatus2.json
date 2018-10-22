@@ -1,7 +1,7 @@
 {
   "id": "ws.hbang.typestatus2",
   "name": "TypeStatus 2 (iOS 7 – 10)",
-  "latest": "2.3.1",
+  "latest": "2.4~beta3",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/ws.hbang.typestatus2/",
   "shortDescription": "iMessage typing/read indicators in status bar",
@@ -1195,10 +1195,10 @@
       "date": "2018-07-30T20:18:29Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 4,
+        "percentage": 71,
+        "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1260,6 +1260,15 @@
           "date": "2018-09-16T19:47:46Z",
           "userName": "Juestrix",
           "issueNumber": 50620,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-10-22T00:16:34Z",
+          "userName": "ywmmss",
+          "issueNumber": 53609,
           "arch32": false
         }
       ]
