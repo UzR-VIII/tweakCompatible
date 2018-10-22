@@ -168,11 +168,11 @@
       "repository": "subdiox's Repo",
       "date": "2018-08-11T15:32:01Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 38,
-        "good": 5,
+        "calculatedStatus": "Likely working",
+        "percentage": 42,
+        "good": 6,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -297,6 +297,15 @@
           "date": "2018-10-15T13:12:56Z",
           "userName": "jakeajames",
           "issueNumber": 53086,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "Almost works, but the Game Center account doesn’t switch back.",
+          "date": "2018-10-22T15:12:44Z",
+          "userName": "TheRasPiGuy",
+          "issueNumber": 53624,
           "arch32": false
         }
       ]
