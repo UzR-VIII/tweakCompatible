@@ -591,21 +591,21 @@
           "arch32": false
         },
         {
-          "status": "working",
-          "device": "iPhone9,2",
-          "issues": "",
-          "date": "2018-10-15T15:49:39Z",
-          "userName": "bambuvn",
-          "issueNumber": 53092,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone9,4",
           "issues": "",
           "date": "2018-10-15T17:37:09Z",
           "userName": "StanceBaggers",
           "issueNumber": 53108,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-22T05:02:03Z",
+          "userName": "bambuvn",
+          "issueNumber": 53621,
           "arch32": false
         }
       ]
