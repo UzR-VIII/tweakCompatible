@@ -1,7 +1,7 @@
 {
   "id": "com.junesiphone.lockpluspro",
   "name": "LockPlus Pro",
-  "latest": "1.4.2",
+  "latest": "1.4.3",
   "repository": "junesiphone.com",
   "url": "http://cydia.saurik.com/package/com.junesiphone.lockpluspro/",
   "shortDescription": "The ultimate lock screen tweak!",
@@ -4141,6 +4141,37 @@
           "date": "2018-10-12T01:21:43Z",
           "userName": "Raverboss257",
           "issueNumber": 52780,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.3",
+      "iOSVersion": "11.0.3",
+      "repository": "junesiphone.com",
+      "date": "2018-10-22T01:51:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-22T01:51:58Z",
+          "userName": "LiaVsHerself",
+          "issueNumber": 53619,
           "arch32": false
         }
       ]
