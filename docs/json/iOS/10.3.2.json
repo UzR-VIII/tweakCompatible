@@ -1804,7 +1804,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.30",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -2489,10 +2489,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.5.2-4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -2673,7 +2673,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta48",
+      "latest": "3~Beta49",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -3174,6 +3174,40 @@
           "iOSVersion": "10.3.2",
           "repository": "BigBoss",
           "date": "2018-10-20T09:48:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.iphoneaddict.repoicons",
+      "name": "iPhoneAddict Cydia Icons",
+      "latest": "5.0.2",
+      "repository": "iPhoneAddict.fr",
+      "url": "http://cydia.saurik.com/package/com.iphoneaddict.repoicons/",
+      "shortDescription": "Icones officielles d'iPhoneAddict !",
+      "category": "iPhoneAddict Packaging",
+      "author": "Diabl0",
+      "commercial": false,
+      "date": "2018-10-23T04:11:47Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0.2",
+          "iOSVersion": "10.3.2",
+          "repository": "iPhoneAddict.fr",
+          "date": "2018-10-23T04:11:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4442,39 +4476,6 @@
       ]
     },
     {
-      "id": "com.clezz.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
-      "category": "Tweaks",
-      "author": "Ma Jun",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.3.2",
-          "repository": "BigBoss",
-          "date": "2018-09-03T20:36:50Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.1.1",
@@ -4509,24 +4510,25 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.priorityhub",
-      "name": "Priority Hub 2 BETA",
-      "latest": "2.0-352+debug",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Organize your notifications!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "id": "com.clezz.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "category": "Tweaks",
+      "author": "Ma Jun",
       "commercial": false,
       "versions": [
         {
-          "tweakVersion": "2.0-352+debug",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "10.3.2",
-          "repository": "repo.biteyourapple.net",
+          "repository": "BigBoss",
+          "date": "2018-09-03T20:36:50Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4555,6 +4557,38 @@
           "tweakVersion": "2.0-364+debug",
           "iOSVersion": "10.3.2",
           "repository": "Thomas Finch's repo",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.priorityhub",
+      "name": "Priority Hub 2 BETA",
+      "latest": "2.0-352+debug",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Organize your notifications!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0-352+debug",
+          "iOSVersion": "10.3.2",
+          "repository": "repo.biteyourapple.net",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
