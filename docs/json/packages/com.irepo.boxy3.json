@@ -706,10 +706,10 @@
       "date": "2018-07-11T19:14:32Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 94,
         "good": 16,
         "bad": 0,
-        "total": 16,
+        "total": 17,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -861,6 +861,15 @@
           "date": "2018-09-04T21:07:29Z",
           "userName": "jonathan200117",
           "issueNumber": 49215,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-23T10:31:01Z",
+          "userName": "cydiaz",
+          "issueNumber": 53656,
           "arch32": false
         }
       ]
