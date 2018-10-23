@@ -286,20 +286,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone9,4",
-          "issues": "",
-          "date": "2018-08-28T16:48:39Z",
-          "userName": "jenyaxo",
-          "issueNumber": 47862,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,2",
           "issues": "",
           "date": "2018-09-22T07:52:51Z",
           "userName": "buitim",
           "issueNumber": 51203,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-23T11:14:32Z",
+          "userName": "jenyaxo",
+          "issueNumber": 53657,
           "arch32": false
         }
       ]
