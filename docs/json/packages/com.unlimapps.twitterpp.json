@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.twitterpp",
   "name": "Twitter ++",
-  "latest": "1.2r-81",
+  "latest": "1.2r-82",
   "repository": "beta.unlimapps.com",
   "url": "http://beta.unlimapps.com/",
   "shortDescription": "The Twitter tweak that give you more sharing options, long tweets and much more!",
@@ -911,6 +911,37 @@
           "date": "2018-10-21T19:08:10Z",
           "userName": "PrestonGervey",
           "issueNumber": 53596,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2r-82",
+      "iOSVersion": "10.1.1",
+      "repository": "beta.unlimapps.com",
+      "date": "2018-10-23T10:24:14Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-23T10:24:14Z",
+          "userName": "DrFaf",
+          "issueNumber": 53655,
           "arch32": false
         }
       ]
