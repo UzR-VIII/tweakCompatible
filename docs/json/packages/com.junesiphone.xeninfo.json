@@ -834,10 +834,10 @@
       "date": "2018-09-15T19:22:35Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 2,
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -881,6 +881,15 @@
           "date": "2018-10-11T21:53:25Z",
           "userName": "topmeoff624",
           "issueNumber": 52742,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-10-23T09:52:15Z",
+          "userName": "J0113",
+          "issueNumber": 53654,
           "arch32": false
         }
       ]
