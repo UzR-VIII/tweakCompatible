@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-10-21T18:21:14Z",
           "userName": "GBABE98",
           "issueNumber": 53589,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-10-23T09:13:20Z",
+          "userName": "cc23489",
+          "issueNumber": 53652,
           "arch32": false
         }
       ]
