@@ -7071,20 +7071,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone9,4",
-          "issues": "",
-          "date": "2018-10-16T15:16:28Z",
-          "userName": "jenyaxo",
-          "issueNumber": 53173,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone9,2",
           "issues": "",
           "date": "2018-10-20T20:01:33Z",
           "userName": "baebrum",
           "issueNumber": 53507,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-23T09:22:00Z",
+          "userName": "jenyaxo",
+          "issueNumber": 53653,
           "arch32": false
         }
       ]
