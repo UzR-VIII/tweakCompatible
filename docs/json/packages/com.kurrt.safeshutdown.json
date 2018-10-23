@@ -1,7 +1,7 @@
 {
   "id": "com.kurrt.safeshutdown",
   "name": "SafeShutdown",
-  "latest": "1.33",
+  "latest": "1.30",
   "repository": "Kurrt's Repo",
   "url": "http://cydia.saurik.com/package/com.kurrt.safeshutdown/",
   "shortDescription": "Avoid re-jailbreaking when battery runs out.",
@@ -263,6 +263,37 @@
           "date": "2018-10-23T14:28:58Z",
           "userName": "DarkZone-World",
           "issueNumber": 53659,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.30",
+      "iOSVersion": "11.4",
+      "repository": "BigBoss",
+      "date": "2018-10-23T19:32:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-10-23T19:32:34Z",
+          "userName": "ceiliarose",
+          "issueNumber": 53687,
           "arch32": false
         }
       ]
