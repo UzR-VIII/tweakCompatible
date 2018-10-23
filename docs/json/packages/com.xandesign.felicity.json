@@ -1,7 +1,7 @@
 {
   "id": "com.xandesign.felicity",
   "name": "Felicity",
-  "latest": "2.2",
+  "latest": "2.5",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.xandesign.felicity/",
   "shortDescription": "An Intense and Happy theme.",
@@ -468,6 +468,37 @@
           "date": "2018-10-20T10:03:15Z",
           "userName": "BTZ27",
           "issueNumber": 53452,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.5",
+      "iOSVersion": "10.3.2",
+      "repository": "BigBoss",
+      "date": "2018-10-23T04:10:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-23T04:10:14Z",
+          "userName": "BTZ27",
+          "issueNumber": 53643,
           "arch32": false
         }
       ]
