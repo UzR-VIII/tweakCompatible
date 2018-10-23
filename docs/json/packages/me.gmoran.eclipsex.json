@@ -1,7 +1,7 @@
 {
   "id": "me.gmoran.eclipsex",
   "name": "Eclipse X Beta 7 (iOS 11)",
-  "latest": "5.1.4",
+  "latest": "5.1.6",
   "repository": "GMoran Beta Software",
   "url": "http://gmoran.me/repo/",
   "shortDescription": "System-wide Night Mode and more for iOS 11.",
@@ -3766,6 +3766,37 @@
           "date": "2018-09-12T11:20:28Z",
           "userName": "iamayumpig",
           "issueNumber": 50198,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.1.6",
+      "iOSVersion": "11.4",
+      "repository": "Packix",
+      "date": "2018-10-23T18:42:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-10-23T18:42:32Z",
+          "userName": "theskipster00",
+          "issueNumber": 53676,
           "arch32": false
         }
       ]
