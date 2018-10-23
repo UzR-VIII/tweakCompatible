@@ -16,9 +16,9 @@
       "repository": "(null)",
       "date": "2018-10-23T07:41:29Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -31,12 +31,12 @@
       },
       "users": [
         {
-          "status": "not working",
+          "status": "working",
           "device": "iPhone10,4",
           "issues": "",
-          "date": "2018-10-23T07:41:29Z",
+          "date": "2018-10-23T22:23:00Z",
           "userName": "KeropokLekor",
-          "issueNumber": 53649,
+          "issueNumber": 53703,
           "arch32": false
         }
       ]
