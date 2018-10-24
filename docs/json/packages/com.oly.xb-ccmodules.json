@@ -1,7 +1,7 @@
 {
   "id": "com.oly.xb-ccmodules",
   "name": "XB-CCModules",
-  "latest": "1.7.1",
+  "latest": "1.8",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.oly.xb-ccmodules/",
   "shortDescription": "CC Connectivity replacement with settings!",
@@ -343,6 +343,37 @@
           "date": "2018-10-09T07:11:22Z",
           "userName": "Nawaf-NM",
           "issueNumber": 52579,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.8",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-24T17:14:34Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-10-24T17:14:34Z",
+          "userName": "Nawaf-NM",
+          "issueNumber": 53854,
           "arch32": false
         }
       ]
