@@ -2514,9 +2514,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2533,6 +2533,15 @@
           "date": "2018-10-23T22:07:11Z",
           "userName": "vxrsce",
           "issueNumber": 53701,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-24T02:55:31Z",
+          "userName": "ROK5TAR",
+          "issueNumber": 53712,
           "arch32": false
         }
       ]
