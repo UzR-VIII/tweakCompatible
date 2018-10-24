@@ -899,15 +899,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2018-07-22T22:21:34Z",
-          "userName": "MattieThurlow96",
-          "issueNumber": 32355,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,3",
           "issues": "",
           "date": "2018-07-24T04:19:40Z",
@@ -922,6 +913,15 @@
           "date": "2018-08-11T09:47:28Z",
           "userName": "CGuti11",
           "issueNumber": 41858,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-24T08:04:54Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 53740,
           "arch32": false
         }
       ]
