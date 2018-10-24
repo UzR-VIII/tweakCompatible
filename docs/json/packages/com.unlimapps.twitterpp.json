@@ -922,10 +922,10 @@
       "date": "2018-10-23T10:24:14Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -951,6 +951,15 @@
           "date": "2018-10-23T14:36:23Z",
           "userName": "iOfficialCookie",
           "issueNumber": 53660,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-24T12:13:11Z",
+          "userName": "Gerrrhard",
+          "issueNumber": 53827,
           "arch32": false
         }
       ]
