@@ -8276,39 +8276,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-11T10:12:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -8331,6 +8298,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-11T10:12:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -9169,7 +9169,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.30-1",
+      "latest": "8.12-13",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -9864,10 +9864,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b6",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -13681,6 +13681,39 @@
       ]
     },
     {
+      "id": "me.gmoran.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.4",
+          "repository": "GMoran Beta Software",
+          "date": "2018-07-11T04:21:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 85,
+            "good": 6,
+            "bad": 0,
+            "total": 7,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
@@ -13703,39 +13736,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "me.gmoran.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.4",
-          "repository": "GMoran Beta Software",
-          "date": "2018-07-11T04:21:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 85,
-            "good": 6,
-            "bad": 0,
-            "total": 7,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19933,10 +19933,10 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.0.1",
+      "latest": "1.0.4-1+debug",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-      "shortDescription": "An awesome Preference Library!",
+      "shortDescription": "A Preference Library that doesnt suck!",
       "category": "System",
       "author": "CreatureSurvive",
       "commercial": false,
@@ -24693,6 +24693,40 @@
       ]
     },
     {
+      "id": "ncurses5-libs",
+      "name": "New Curses",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "shortDescription": "feature-complete terminal library",
+      "category": "System",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-14T00:25:17Z",
+      "versions": [
+        {
+          "tweakVersion": "5.9-1",
+          "iOSVersion": "11.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-10-24T08:16:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ncurses",
       "name": "New Curses",
       "latest": "6.1-1",
@@ -24729,40 +24763,6 @@
           "iOSVersion": "11.4",
           "repository": "Bingner/Elucubratus",
           "date": "2018-10-24T08:13:41Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ncurses5-libs",
-      "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
-      "shortDescription": "feature-complete terminal library",
-      "category": "System",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
-      "versions": [
-        {
-          "tweakVersion": "5.9-1",
-          "iOSVersion": "11.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2018-10-24T08:16:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25827,22 +25827,22 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
+      "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
       "category": "Tweaks",
-      "author": "CoolStar",
+      "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
+      "date": "2018-03-01T19:59:25Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-30T03:11:54Z",
+          "repository": "eXqusic's Repo",
+          "date": "2018-08-12T03:30:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25861,22 +25861,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
+      "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
       "category": "Tweaks",
-      "author": "Adam Seiter",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
+      "date": "2018-03-08T05:57:18Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.4",
-          "repository": "eXqusic's Repo",
-          "date": "2018-08-12T03:30:34Z",
+          "repository": "BigBoss",
+          "date": "2018-07-30T03:11:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31279,7 +31279,7 @@
     {
       "id": "com.kurrt.safeshutdown",
       "name": "SafeShutdown",
-      "latest": "1.33",
+      "latest": "1.35",
       "repository": "Kurrt's Repo",
       "url": "http://cydia.saurik.com/package/com.kurrt.safeshutdown/",
       "shortDescription": "Avoid re-jailbreaking when battery runs out.",
@@ -34746,22 +34746,22 @@
       ]
     },
     {
-      "id": "com.ex.substitute",
+      "id": "com.ex.libsubstitute",
       "name": "Substitute",
-      "latest": "0.0.9-12",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/com.ex.substitute/",
-      "shortDescription": "Substrate substitute for code substitution",
+      "latest": "0.0.7-coolstar",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/com.ex.libsubstitute/",
+      "shortDescription": "Substrate substitute for code substitution (library only)",
       "category": "System",
       "author": "comex",
       "commercial": false,
-      "date": "2018-10-14T00:28:19Z",
+      "date": "2018-03-01T01:00:32Z",
       "versions": [
         {
-          "tweakVersion": "0.0.9-12",
+          "tweakVersion": "0.0.7-coolstar",
           "iOSVersion": "11.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2018-10-24T08:09:26Z",
+          "repository": "Electra's iOS Utilities",
+          "date": "2018-07-21T10:06:58Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -34780,22 +34780,22 @@
       ]
     },
     {
-      "id": "com.ex.libsubstitute",
+      "id": "com.ex.substitute",
       "name": "Substitute",
-      "latest": "0.0.7-coolstar",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/com.ex.libsubstitute/",
-      "shortDescription": "Substrate substitute for code substitution (library only)",
+      "latest": "0.0.9-12",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/com.ex.substitute/",
+      "shortDescription": "Substrate substitute for code substitution",
       "category": "System",
       "author": "comex",
       "commercial": false,
-      "date": "2018-03-01T01:00:32Z",
+      "date": "2018-10-14T00:28:19Z",
       "versions": [
         {
-          "tweakVersion": "0.0.7-coolstar",
+          "tweakVersion": "0.0.9-12",
           "iOSVersion": "11.4",
-          "repository": "Electra's iOS Utilities",
-          "date": "2018-07-21T10:06:58Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-10-24T08:09:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -38818,7 +38818,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.63",
+      "latest": "1.0.65",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -39916,7 +39916,7 @@
     {
       "id": "xz",
       "name": "XZ Utils",
-      "latest": "5.2.4-1",
+      "latest": "5.3-1",
       "repository": "Bingner/Elucubratus",
       "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
@@ -39930,6 +39930,26 @@
           "iOSVersion": "11.4",
           "repository": "Bingner/Elucubratus",
           "date": "2018-10-24T08:16:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "5.3-1",
+          "iOSVersion": "11.4",
+          "repository": "Ricklantis",
+          "date": "2018-10-24T22:17:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
