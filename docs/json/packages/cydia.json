@@ -2514,9 +2514,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2551,6 +2551,15 @@
           "date": "2018-10-24T12:30:06Z",
           "userName": "burkybang",
           "issueNumber": 53828,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "",
+          "date": "2018-10-24T12:08:40Z",
+          "userName": "RiPx88",
+          "issueNumber": 53825,
           "arch32": false
         }
       ]
