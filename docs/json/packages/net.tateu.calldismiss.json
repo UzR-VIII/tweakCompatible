@@ -432,10 +432,10 @@
       "date": "2018-08-13T06:22:21Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 5,
+        "percentage": 85,
+        "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -497,6 +497,15 @@
           "date": "2018-10-10T19:00:01Z",
           "userName": "TheKinOfJaibreak",
           "issueNumber": 52652,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "iPhone 8",
+          "date": "2018-10-24T13:54:25Z",
+          "userName": "SanderSRB",
+          "issueNumber": 53832,
           "arch32": false
         }
       ]
