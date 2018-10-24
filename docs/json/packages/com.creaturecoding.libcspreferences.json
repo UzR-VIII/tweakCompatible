@@ -1,10 +1,10 @@
 {
   "id": "com.creaturecoding.libcspreferences",
   "name": "libCSPreferences",
-  "latest": "1.0.1",
+  "latest": "1.0.4-1+debug",
   "repository": "CreatureSurvive's Repo",
   "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-  "shortDescription": "An awesome Preference Library!",
+  "shortDescription": "A Preference Library that doesnt suck!",
   "category": "System",
   "author": "CreatureSurvive",
   "commercial": false,
@@ -1196,6 +1196,37 @@
           "date": "2018-10-08T19:06:18Z",
           "userName": "DarkZone-World",
           "issueNumber": 52519,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4-1+debug",
+      "iOSVersion": "10.3.3",
+      "repository": "(null)",
+      "date": "2018-10-24T15:04:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-24T15:04:09Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 53840,
           "arch32": false
         }
       ]
