@@ -3,7 +3,7 @@
     {
       "id": "p7zip",
       "name": "7-zip (POSIX)",
-      "latest": "4.57-3p",
+      "latest": "16.02-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/p7zip/",
       "shortDescription": "claims to be a good compressor",
@@ -2450,7 +2450,7 @@
     {
       "id": "curl",
       "name": "cURL",
-      "latest": "7.61.0-1",
+      "latest": "7.59.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/curl/",
       "shortDescription": "flexible multi-protocol file transfers",
@@ -2651,7 +2651,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.1.12",
+      "latest": "1.1.32~b1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -2920,7 +2920,7 @@
     {
       "id": "debianutils",
       "name": "Debian Utilities",
-      "latest": "3.3.3ubuntu1-1p",
+      "latest": "4.8.6-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/debianutils/",
       "shortDescription": "pretty much just run-parts. yep? run-parts",
@@ -3088,7 +3088,7 @@
     {
       "id": "diskdev-cmds",
       "name": "diskdev-cmds",
-      "latest": "421.7-4",
+      "latest": "576-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/diskdev-cmds/",
       "shortDescription": "mount, quota, fsck, fstyp, fdisk, tunefs",
@@ -3973,7 +3973,7 @@
       "latest": "2.2.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gnupg/",
-      "shortDescription": "newer encryption compatible with OpenPGP",
+      "shortDescription": "GNU privacy guard - a free PGP replacement",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -4004,7 +4004,7 @@
     {
       "id": "grep",
       "name": "grep",
-      "latest": "2.5.4-3",
+      "latest": "3.1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/grep/",
       "shortDescription": "searches files for regular expressions",
@@ -4038,7 +4038,7 @@
     {
       "id": "gzip",
       "name": "gzip",
-      "latest": "1.6-7",
+      "latest": "1.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gzip/",
       "shortDescription": "the standard Unix compression algorithm",
@@ -4683,7 +4683,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "1.2.1",
+      "latest": "2.0.0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
@@ -5270,7 +5270,7 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2n",
+      "latest": "1.0.2o-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
       "shortDescription": "SSL library and cryptographic tools",
@@ -5759,7 +5759,7 @@
     {
       "id": "readline",
       "name": "readline",
-      "latest": "6.0-8",
+      "latest": "7.0.5-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/readline/",
       "shortDescription": "command-line history management",
@@ -6063,7 +6063,7 @@
     {
       "id": "shell-cmds",
       "name": "shell-cmds",
-      "latest": "118-7",
+      "latest": "118-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/shell-cmds/",
       "shortDescription": "killall, mktemp, renice, time, which",
@@ -6145,6 +6145,40 @@
           "iOSVersion": "9.3.5",
           "repository": "BigBoss",
           "date": "2018-09-23T23:26:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "net.limneos.smarttap",
+      "name": "SmartTap",
+      "latest": "0.8-350",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/net.limneos.smarttap/",
+      "shortDescription": "Turn on the screen by tapping it!",
+      "category": "Tweaks",
+      "author": "Elias Limneos",
+      "commercial": true,
+      "date": "2018-07-07T19:17:46Z",
+      "versions": [
+        {
+          "tweakVersion": "0.8-350",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2018-10-24T10:12:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6465,7 +6499,7 @@
     {
       "id": "system-cmds",
       "name": "system-cmds",
-      "latest": "433.8-14",
+      "latest": "790.30.1-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/system-cmds/",
       "shortDescription": "iostat, login, passwd, sync, sysctl",
@@ -6499,7 +6533,7 @@
     {
       "id": "tar",
       "name": "Tape Archive",
-      "latest": "1.30",
+      "latest": "1.30-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/tar/",
       "shortDescription": "tool for making tape archives",
@@ -6976,7 +7010,7 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.12",
+      "latest": "1.1.13-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
       "shortDescription": "UIKit/GraphicsServices command line access",
@@ -7043,7 +7077,7 @@
     {
       "id": "unrar",
       "name": "unrar",
-      "latest": "3.6.8-2p",
+      "latest": "5.6.4-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unrar/",
       "shortDescription": "de-compresses files in rar format",
@@ -7111,7 +7145,7 @@
     {
       "id": "unzip",
       "name": "unzip",
-      "latest": "5.52-6",
+      "latest": "6.0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unzip/",
       "shortDescription": "de-compesses files in zip format",
@@ -7446,7 +7480,7 @@
     {
       "id": "zip",
       "name": "zip",
-      "latest": "2.32-6",
+      "latest": "2.32-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/zip/",
       "shortDescription": "standard Windows compression tool",
