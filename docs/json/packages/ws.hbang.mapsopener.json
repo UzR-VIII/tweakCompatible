@@ -196,10 +196,10 @@
       "date": "2018-07-29T03:27:48Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 8,
+        "percentage": 81,
+        "good": 9,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -297,6 +297,15 @@
           "date": "2018-09-10T21:17:23Z",
           "userName": "burkybang",
           "issueNumber": 50004,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "So far doesn’t work in yelp. Works from websites and messages",
+          "date": "2018-10-24T05:40:42Z",
+          "userName": "ROK5TAR",
+          "issueNumber": 53722,
           "arch32": false
         }
       ]
