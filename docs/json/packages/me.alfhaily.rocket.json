@@ -3465,9 +3465,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3484,6 +3484,15 @@
           "date": "2018-10-24T17:14:14Z",
           "userName": "Nawaf-NM",
           "issueNumber": 53852,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Nice shot, no glitch’s it’s ok",
+          "date": "2018-10-24T18:30:53Z",
+          "userName": "Passsenger57",
+          "issueNumber": 53866,
           "arch32": false
         }
       ]
