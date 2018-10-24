@@ -561,22 +561,22 @@
       ]
     },
     {
-      "id": "com.julioverne.appellancy11",
+      "id": "me.a1iraqi.appellancy11",
       "name": "Appellancy (iOS 11)",
       "latest": "1.1-20b",
-      "repository": "julioverne's Repo",
-      "url": "http://cydia.saurik.com/package/com.julioverne.appellancy11/",
-      "shortDescription": "Control your phone with your face!",
-      "category": "Tweaks",
+      "repository": "A Azozz ALFiras | عزوز الفراس",
+      "url": "http://cydia.saurik.com/package/me.a1iraqi.appellancy11/",
+      "shortDescription": "فتح القفل عن طريق تعرف بالوجه *لايدعم الايفوت اكس*\r",
+      "category": "iOS11.3.1",
       "author": "Elijah Frederickson, julioverne",
       "commercial": false,
-      "date": "2018-08-14T21:57:55Z",
+      "date": "2018-08-23T14:34:51Z",
       "versions": [
         {
-          "tweakVersion": "1.1-20",
+          "tweakVersion": "1.1-20b",
           "iOSVersion": "11.2",
-          "repository": "julioverne's Repo",
-          "date": "2018-08-15T03:20:11Z",
+          "repository": "A Azozz ALFiras | عزوز الفراس",
+          "date": "2018-08-23T14:34:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -595,22 +595,22 @@
       ]
     },
     {
-      "id": "me.a1iraqi.appellancy11",
+      "id": "com.julioverne.appellancy11",
       "name": "Appellancy (iOS 11)",
       "latest": "1.1-20b",
-      "repository": "A Azozz ALFiras | عزوز الفراس",
-      "url": "http://cydia.saurik.com/package/me.a1iraqi.appellancy11/",
-      "shortDescription": "فتح القفل عن طريق تعرف بالوجه *لايدعم الايفوت اكس*\r",
-      "category": "iOS11.3.1",
+      "repository": "julioverne's Repo",
+      "url": "http://cydia.saurik.com/package/com.julioverne.appellancy11/",
+      "shortDescription": "Control your phone with your face!",
+      "category": "Tweaks",
       "author": "Elijah Frederickson, julioverne",
       "commercial": false,
-      "date": "2018-08-23T14:34:51Z",
+      "date": "2018-08-14T21:57:55Z",
       "versions": [
         {
-          "tweakVersion": "1.1-20b",
+          "tweakVersion": "1.1-20",
           "iOSVersion": "11.2",
-          "repository": "A Azozz ALFiras | عزوز الفراس",
-          "date": "2018-08-23T14:34:51Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-08-15T03:20:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2026,10 +2026,10 @@
     {
       "id": "com.jakeashacks.catchathief",
       "name": "CatchaThief",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "Jakeashacks",
       "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-      "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
+      "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
       "category": "Tweaks",
       "author": "Jake James",
       "commercial": false,
@@ -3112,10 +3112,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.30",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -3444,6 +3444,40 @@
       ]
     },
     {
+      "id": "com.vedboon.disabled",
+      "name": "disabled",
+      "latest": "1.0.2-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.vedboon.disabled/",
+      "shortDescription": "no lock-out period for wrong password",
+      "category": "Tweaks",
+      "author": "Javier (VedBoon) Brito",
+      "commercial": false,
+      "date": "2018-03-18T07:41:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2-2",
+          "iOSVersion": "11.2",
+          "repository": "BigBoss",
+          "date": "2018-10-24T13:28:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.dismissprogress",
       "name": "DismissProgress",
       "latest": "1.0.3",
@@ -3749,7 +3783,7 @@
     {
       "id": "me.gmoran.eclipsex",
       "name": "Eclipse X Beta 7 (iOS 11)",
-      "latest": "5.1.4",
+      "latest": "5.1.6",
       "repository": "GMoran Beta Software",
       "url": "http://gmoran.me/repo/",
       "shortDescription": "System-wide Night Mode and more for iOS 11.",
@@ -4079,10 +4113,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.5.2-4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -5500,7 +5534,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-194",
+      "latest": "1.8r-195",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -6070,7 +6104,7 @@
     {
       "id": "com.junesiphone.lockpluspro",
       "name": "LockPlus Pro",
-      "latest": "1.4.2",
+      "latest": "1.4.4",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.lockpluspro/",
       "shortDescription": "The ultimate lock screen tweak!",
@@ -8127,7 +8161,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.1.0",
+      "latest": "3.1.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -10010,7 +10044,7 @@
     {
       "id": "ws.hbang.typestatus2",
       "name": "TypeStatus 2 (iOS 7 – 10)",
-      "latest": "2.3.1",
+      "latest": "2.4~beta3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ws.hbang.typestatus2/",
       "shortDescription": "iMessage typing/read indicators in status bar",
@@ -10587,7 +10621,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.0-12",
+      "latest": "2.1.1-1",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
