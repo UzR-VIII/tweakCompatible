@@ -497,10 +497,10 @@
       "date": "2018-07-07T00:50:43Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 91,
+        "percentage": 84,
         "good": 11,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -616,6 +616,15 @@
           "date": "2018-08-22T02:55:42Z",
           "userName": "Hideika",
           "issueNumber": 46152,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "To much battery consumption, maybe internal crash with tweaks",
+          "date": "2018-10-24T01:12:05Z",
+          "userName": "Passsenger57",
+          "issueNumber": 53710,
           "arch32": false
         }
       ]
