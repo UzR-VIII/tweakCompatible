@@ -395,15 +395,6 @@
           "arch32": false
         },
         {
-          "status": "partial",
-          "device": "iPhone10,2",
-          "issues": "Springboard will occasionally crash when invoking ",
-          "date": "2018-08-13T17:52:50Z",
-          "userName": "buitim",
-          "issueNumber": 43121,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone8,1",
           "issues": "",
@@ -428,6 +419,15 @@
           "date": "2018-09-17T16:09:48Z",
           "userName": "klarleon",
           "issueNumber": 50725,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Crashes SpringBoard often",
+          "date": "2018-10-24T10:17:16Z",
+          "userName": "buitim",
+          "issueNumber": 53815,
           "arch32": false
         }
       ]
