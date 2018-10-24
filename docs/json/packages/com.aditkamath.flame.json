@@ -1177,9 +1177,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 95,
+        "good": 96,
         "bad": 0,
-        "total": 95,
+        "total": 96,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2042,6 +2042,15 @@
           "date": "2018-10-14T22:14:51Z",
           "userName": "Shengheer",
           "issueNumber": 53042,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-24T02:56:01Z",
+          "userName": "ROK5TAR",
+          "issueNumber": 53713,
           "arch32": false
         }
       ]
