@@ -88,10 +88,10 @@
       "date": "2018-10-20T09:24:38Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -126,6 +126,15 @@
           "date": "2018-10-22T07:06:13Z",
           "userName": "Duckscreen",
           "issueNumber": 53622,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-24T20:01:08Z",
+          "userName": "tokfrans03",
+          "issueNumber": 53878,
           "arch32": false
         }
       ]
