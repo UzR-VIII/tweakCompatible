@@ -3540,6 +3540,40 @@
       ]
     },
     {
+      "id": "com.yourepo.privatebackup.badiosbad",
+      "name": "badiOSBad",
+      "latest": "1.2.5-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.badiosbad/",
+      "shortDescription": "Block iOS System Updates from the core, Castrate installd to allow 7 day certificate signed IPAs to install OTA (only when in jailbroken state), removes the Feedback Assistant App, removes update badge, removes the Software Updates Tab and destroys app revokes!",
+      "category": "System",
+      "author": "Ignition",
+      "commercial": false,
+      "date": "2018-10-25T12:33:54Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.5-debug",
+          "iOSVersion": "11.4",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-25T12:33:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.tateu.bannersounds11",
       "name": "Banner Sounds 11",
       "latest": "1.0.0~beta2-1",
@@ -3624,6 +3658,40 @@
           "iOSVersion": "11.4",
           "repository": "BigBoss",
           "date": "2018-07-19T18:14:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.barmoji",
+      "name": "Barmoji",
+      "latest": "1.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barmoji/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "HYI - Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2018-03-18T09:15:30Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T06:04:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3743,40 +3811,6 @@
             "good": 4,
             "bad": 0,
             "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.barmoji",
-      "name": "Barmoji",
-      "latest": "1.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barmoji/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "HYI - Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2018-03-18T09:15:30Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T06:04:10Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8276,6 +8310,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-11T10:12:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -8298,39 +8365,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.thebigboss.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-11T10:12:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -24415,60 +24449,6 @@
       ]
     },
     {
-      "id": "com.mc.nano",
-      "name": "nano",
-      "latest": "3.0.0-3",
-      "repository": "MCApollo",
-      "url": "http://cydia.saurik.com/package/com.mc.nano/",
-      "shortDescription": "Compiled for ARM64.",
-      "category": "Text Editors",
-      "author": "GNU",
-      "commercial": false,
-      "date": "2018-09-15T10:17:47Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0.0",
-          "iOSVersion": "11.4",
-          "repository": "MCApollo",
-          "date": "2018-09-15T10:17:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "3.0.0-3",
-          "iOSVersion": "11.4",
-          "repository": "MCApollo",
-          "date": "2018-09-25T08:26:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nano",
       "name": "nano",
       "latest": "2.9.8-1",
@@ -24505,6 +24485,60 @@
           "iOSVersion": "11.4",
           "repository": "Bingner/Elucubratus",
           "date": "2018-10-24T08:05:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.mc.nano",
+      "name": "nano",
+      "latest": "3.0.0-3",
+      "repository": "MCApollo",
+      "url": "http://cydia.saurik.com/package/com.mc.nano/",
+      "shortDescription": "Compiled for ARM64.",
+      "category": "Text Editors",
+      "author": "GNU",
+      "commercial": false,
+      "date": "2018-09-15T10:17:47Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.0",
+          "iOSVersion": "11.4",
+          "repository": "MCApollo",
+          "date": "2018-09-15T10:17:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.0.0-3",
+          "iOSVersion": "11.4",
+          "repository": "MCApollo",
+          "date": "2018-09-25T08:26:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27226,6 +27260,39 @@
       ]
     },
     {
+      "id": "com.conradkramer.open",
+      "name": "Open",
+      "latest": "1.1.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.conradkramer.open/",
+      "shortDescription": "launch apps from the command-line",
+      "category": "System",
+      "author": "Conrad Kramer",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.1-1",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-16T05:48:11Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.alfhaily.opencli",
       "name": "Open",
       "latest": "1.0.0",
@@ -27246,39 +27313,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.conradkramer.open",
-      "name": "Open",
-      "latest": "1.1.1-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.conradkramer.open/",
-      "shortDescription": "launch apps from the command-line",
-      "category": "System",
-      "author": "Conrad Kramer",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1.1-1",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-16T05:48:11Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -39860,60 +39894,6 @@
       ]
     },
     {
-      "id": "lzma",
-      "name": "XZ Utils",
-      "latest": "4.32.7-5",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
-      "shortDescription": "slower, but better, compression algorithm",
-      "category": "Archiving",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
-      "versions": [
-        {
-          "tweakVersion": "5.2.3",
-          "iOSVersion": "11.4",
-          "repository": "Electra's iOS Utilities",
-          "date": "2018-07-21T10:08:30Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "4.32.7-5",
-          "iOSVersion": "11.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2018-10-24T08:13:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "xz",
       "name": "XZ Utils",
       "latest": "5.3-1",
@@ -39950,6 +39930,60 @@
           "iOSVersion": "11.4",
           "repository": "Ricklantis",
           "date": "2018-10-24T22:17:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lzma",
+      "name": "XZ Utils",
+      "latest": "4.32.7-5",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
+      "shortDescription": "slower, but better, compression algorithm",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-04T19:03:45Z",
+      "versions": [
+        {
+          "tweakVersion": "5.2.3",
+          "iOSVersion": "11.4",
+          "repository": "Electra's iOS Utilities",
+          "date": "2018-07-21T10:08:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "4.32.7-5",
+          "iOSVersion": "11.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-10-24T08:13:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
