@@ -4,7 +4,7 @@
   "latest": "1.2.1-1",
   "repository": "C1d3r Repo",
   "url": "http://cydia.saurik.com/package/com.c1d3r.messageheadsxi/",
-  "shortDescription": "$2.00 - Floating chat heads for SMS, WhatsApp, and Facebook Messenger! (Supports iOS 10 - 11.x.x); In this update: UUID fix",
+  "shortDescription": "Floating chat heads for SMS, WhatsApp, and Facebook Messenger! (Supports iOS 10 - 11.x.x); In this update: UUID fix",
   "category": "Tweaks",
   "author": "c1d3r",
   "commercial": false,
@@ -503,9 +503,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -522,6 +522,15 @@
           "date": "2018-10-15T03:11:04Z",
           "userName": "magicbandz",
           "issueNumber": 53054,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-10-25T22:22:41Z",
+          "userName": "burkybang",
+          "issueNumber": 53958,
           "arch32": false
         }
       ]
