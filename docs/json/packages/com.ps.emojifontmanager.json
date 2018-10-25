@@ -1,7 +1,7 @@
 {
   "id": "com.ps.emojifontmanager",
   "name": "EmojiFontManager [Beta]",
-  "latest": "0.0.5d",
+  "latest": "0.0.5f",
   "repository": "PoomSmart's Repo",
   "url": "http://poomsmart.github.io/repo/",
   "shortDescription": "Emoji font override and management.",
@@ -106,6 +106,37 @@
           "date": "2018-10-24T11:00:00Z",
           "userName": "DrFaf",
           "issueNumber": 53817,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.5f",
+      "iOSVersion": "10.1.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2018-10-25T09:23:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-25T09:23:03Z",
+          "userName": "DrFaf",
+          "issueNumber": 53930,
           "arch32": false
         }
       ]
