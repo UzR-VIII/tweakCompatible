@@ -3849,17 +3849,17 @@
           "repository": "BigBoss",
           "date": "2018-10-07T09:09:51Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
               "total": 1,
-              "good": 0,
+              "good": 1,
               "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Not working"
+              "percentage": 100,
+              "calculatedStatus": "Working"
             }
           }
         }
