@@ -17,10 +17,10 @@
       "date": "2018-08-23T09:01:52Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 5,
+        "percentage": 85,
+        "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -82,6 +82,15 @@
           "date": "2018-08-24T00:54:21Z",
           "userName": "jonathan200117",
           "issueNumber": 46683,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-10-25T01:34:41Z",
+          "userName": "XweAponX",
+          "issueNumber": 53908,
           "arch32": false
         }
       ]
