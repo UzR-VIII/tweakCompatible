@@ -3799,22 +3799,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.cocoatop64",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.cocoatop64/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
-      "category": "HYI - Tweaks",
+      "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-23T15:31:30Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:31:30Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-10-11T17:57:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3833,22 +3833,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "com.hackyouriphone.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
-      "category": "Utilities",
+      "category": "HYI - Tweaks",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2018-03-23T15:31:30Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2",
           "iOSVersion": "11.0.3",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-10-11T17:57:57Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:31:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5182,22 +5182,22 @@
       ]
     },
     {
-      "id": "com.thecomputerwhisperer.detailedpowerusage",
+      "id": "com.hackyouriphone.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
-      "repository": "TheComputerWhisperer's Repo",
-      "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "TheComputerWhisperer",
       "commercial": false,
-      "date": "2018-03-20T05:37:40Z",
+      "date": "2018-03-23T15:19:47Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "11.0.3",
-          "repository": "TheComputerWhisperer's Repo",
-          "date": "2018-03-29T02:23:37Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5216,22 +5216,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.detailedpowerusage",
+      "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
+      "repository": "TheComputerWhisperer's Repo",
+      "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "TheComputerWhisperer",
       "commercial": false,
-      "date": "2018-03-23T15:19:47Z",
+      "date": "2018-03-20T05:37:40Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:19:47Z",
+          "repository": "TheComputerWhisperer's Repo",
+          "date": "2018-03-29T02:23:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6785,6 +6785,39 @@
       ]
     },
     {
+      "id": "me.gmoran.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.0.3",
+          "repository": "GMoran Beta Software",
+          "date": "2018-04-22T20:42:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
@@ -6835,39 +6868,6 @@
           "iOSVersion": "11.0.3",
           "repository": "A KiiiMO GC - ARABIC ",
           "date": "2018-03-02T01:31:35Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "me.gmoran.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.0.3",
-          "repository": "GMoran Beta Software",
-          "date": "2018-04-22T20:42:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10117,40 +10117,6 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.mitsuhaxi",
-      "name": "MitsuhaXI",
-      "latest": "0.2.0",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
-      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
-      "category": "Tweaks",
-      "author": "c0ldra1n",
-      "commercial": false,
-      "date": "2018-03-21T15:36:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.0",
-          "iOSVersion": "11.0.3",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-04-06T13:56:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
       "latest": "0.5.3",
@@ -10207,6 +10173,40 @@
           "iOSVersion": "11.0.3",
           "repository": "Ominousness",
           "date": "2018-08-19T03:15:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.randompacks.mitsuhaxi",
+      "name": "MitsuhaXI",
+      "latest": "0.2.0",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
+      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
+      "category": "Tweaks",
+      "author": "c0ldra1n",
+      "commercial": false,
+      "date": "2018-03-21T15:36:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "11.0.3",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-04-06T13:56:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10639,6 +10639,40 @@
           "iOSVersion": "11.0.3",
           "repository": "julioverne's Repo",
           "date": "2018-03-01T21:12:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.wh0ba.swipenavaway",
+      "name": "NavAway",
+      "latest": "1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.wh0ba.swipenavaway/",
+      "shortDescription": "hide nav bar when swiping in scroll views",
+      "category": "Tweaks",
+      "author": "Wh0ba",
+      "commercial": false,
+      "date": "2018-09-14T00:29:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-10-25T00:55:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12058,40 +12092,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kurdcy.picobanners2",
-      "name": "PicoBanners 2",
-      "latest": "0.0.1b1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kurdcy.picobanners2/",
-      "shortDescription": "Smaller iOS 11 banners                                                                                                           .",
-      "category": "Tweaks",
-      "author": "Michele Primavera",
-      "commercial": false,
-      "date": "2018-04-12T03:20:46Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1b1",
-          "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T03:20:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "it.dreamcode.picobanners2",
       "name": "PicoBanners 2",
       "latest": "0.0.1b2",
@@ -12127,6 +12127,40 @@
           "iOSVersion": "11.0.3",
           "repository": "Dream Code",
           "date": "2018-04-25T17:09:14Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kurdcy.picobanners2",
+      "name": "PicoBanners 2",
+      "latest": "0.0.1b1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kurdcy.picobanners2/",
+      "shortDescription": "Smaller iOS 11 banners                                                                                                           .",
+      "category": "Tweaks",
+      "author": "Michele Primavera",
+      "commercial": false,
+      "date": "2018-04-12T03:20:46Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1b1",
+          "iOSVersion": "11.0.3",
+          "repository": "(null)",
+          "date": "2018-04-12T03:20:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14572,40 +14606,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.spotilife",
-      "name": "Spotilife",
-      "latest": "1.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.spotilife/",
-      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
-      "category": "HYI - Tweaks",
-      "author": "julioverne",
-      "commercial": false,
-      "date": "2018-03-02T03:46:16Z",
-      "versions": [
-        {
-          "tweakVersion": "0.8",
-          "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:46:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.spotilife",
       "name": "Spotilife",
       "latest": "0.9",
@@ -14641,6 +14641,40 @@
           "iOSVersion": "11.0.3",
           "repository": "BiteYourApple",
           "date": "2018-05-20T08:47:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.spotilife",
+      "name": "Spotilife",
+      "latest": "1.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.spotilife/",
+      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
+      "category": "HYI - Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "date": "2018-03-02T03:46:16Z",
+      "versions": [
+        {
+          "tweakVersion": "0.8",
+          "iOSVersion": "11.0.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:46:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15051,40 +15085,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.sugarcane",
-      "name": "SugarCane",
-      "latest": "1.0.0",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.sugarcane/",
-      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-04-12T03:25:59Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "BiteYourApple",
-          "date": "2018-04-12T03:25:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
       "latest": "1.0.0",
@@ -15107,6 +15107,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.sugarcane",
+      "name": "SugarCane",
+      "latest": "1.0.0",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.sugarcane/",
+      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-04-12T03:25:59Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "BiteYourApple",
+          "date": "2018-04-12T03:25:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
