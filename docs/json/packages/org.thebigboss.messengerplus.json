@@ -196,15 +196,6 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2018-07-21T10:03:22Z",
-          "userName": "MattieThurlow96",
-          "issueNumber": 31147,
-          "arch32": false
-        },
-        {
           "status": "partial",
           "device": "iPhone10,6",
           "issues": "",
@@ -220,6 +211,15 @@
           "date": "2018-08-15T03:58:08Z",
           "userName": "DeadlySkull",
           "issueNumber": 43766,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-25T12:34:51Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 53938,
           "arch32": false
         }
       ]
