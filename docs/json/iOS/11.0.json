@@ -4049,6 +4049,40 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.eclipsex",
+      "name": "Eclipse X Beta 7 (iOS 11)",
+      "latest": "5.0b-189",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.eclipsex/",
+      "shortDescription": "System-wide Night Mode and more for iOS 11. This build expires March 15",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-03-02T09:46:33Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0b-25",
+          "iOSVersion": "11.0",
+          "repository": "BiteYourApple",
+          "date": "2018-03-04T18:18:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.gmoran.eclipsex",
       "name": "Eclipse X Beta 7 (iOS 11)",
       "latest": "5.1.6",
@@ -4104,40 +4138,6 @@
           "iOSVersion": "11.0",
           "repository": "Packix",
           "date": "2018-07-08T19:14:12Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.eclipsex",
-      "name": "Eclipse X Beta 7 (iOS 11)",
-      "latest": "5.0b-189",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.eclipsex/",
-      "shortDescription": "System-wide Night Mode and more for iOS 11. This build expires March 15",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-03-02T09:46:33Z",
-      "versions": [
-        {
-          "tweakVersion": "5.0b-25",
-          "iOSVersion": "11.0",
-          "repository": "BiteYourApple",
-          "date": "2018-03-04T18:18:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4438,6 +4438,26 @@
           "iOSVersion": "11.0",
           "repository": "Auxilium Development Repo",
           "date": "2018-03-27T06:29:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.4",
+          "iOSVersion": "11.0",
+          "repository": "repo.auxiliumdev.com",
+          "date": "2018-10-25T05:02:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7200,22 +7220,22 @@
       ]
     },
     {
-      "id": "com.ioscreatix.littlex",
+      "id": "com.hackyouriphone.littlex",
       "name": "LittleX",
-      "latest": "1.3.7",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.littlex/",
-      "shortDescription": "iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": true,
-      "date": "2018-03-01T05:07:24Z",
+      "latest": "1.3.4-1+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.littlex/",
+      "shortDescription": "iPhoneX Features for Non-X Devices on iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "Andywiik",
+      "commercial": false,
+      "date": "2018-03-02T22:30:23Z",
       "versions": [
         {
-          "tweakVersion": "1.3.7",
+          "tweakVersion": "1.3.4",
           "iOSVersion": "11.0",
-          "repository": "Packix",
-          "date": "2018-07-13T02:15:04Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T22:30:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7234,22 +7254,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.littlex",
+      "id": "com.ioscreatix.littlex",
       "name": "LittleX",
-      "latest": "1.3.4-1+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.littlex/",
-      "shortDescription": "iPhoneX Features for Non-X Devices on iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "Andywiik",
-      "commercial": false,
-      "date": "2018-03-02T22:30:23Z",
+      "latest": "1.3.7",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.littlex/",
+      "shortDescription": "iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": true,
+      "date": "2018-03-01T05:07:24Z",
       "versions": [
         {
-          "tweakVersion": "1.3.4",
+          "tweakVersion": "1.3.7",
           "iOSVersion": "11.0",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T22:30:23Z",
+          "repository": "Packix",
+          "date": "2018-07-13T02:15:04Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7322,22 +7342,22 @@
       ]
     },
     {
-      "id": "com.remyla.lockglyphxi",
+      "id": "com.yourepo.remyla.lockglyphxi",
       "name": "LockGlyph XI",
-      "latest": "11.2.2",
-      "repository": "remyla's repo",
-      "url": "http://cydia.saurik.com/package/com.remyla.lockglyphxi/",
-      "shortDescription": "LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.",
-      "category": "Tweaks",
-      "author": "mur1sdev, remyla",
+      "latest": "11.2",
+      "repository": "remyla Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.remyla.lockglyphxi/",
+      "shortDescription": "LockGlyph Patched for ios 11 by mur1sd3v edited by remyla for minor fixes and to be compatible with cydia. NO MORE CONFLICT WITH LIBCOLORPICKER !",
+      "category": "Addons",
+      "author": "remyla",
       "commercial": false,
-      "date": "2018-07-07T13:06:15Z",
+      "date": "2018-02-28T00:10:46Z",
       "versions": [
         {
-          "tweakVersion": "11.2.2",
+          "tweakVersion": "11.1",
           "iOSVersion": "11.0",
-          "repository": "(null)",
-          "date": "2018-07-08T19:15:47Z",
+          "repository": "remyla Source - YouRepo",
+          "date": "2018-02-28T06:24:44Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7356,22 +7376,22 @@
       ]
     },
     {
-      "id": "com.yourepo.remyla.lockglyphxi",
+      "id": "com.remyla.lockglyphxi",
       "name": "LockGlyph XI",
-      "latest": "11.2",
-      "repository": "remyla Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.remyla.lockglyphxi/",
-      "shortDescription": "LockGlyph Patched for ios 11 by mur1sd3v edited by remyla for minor fixes and to be compatible with cydia. NO MORE CONFLICT WITH LIBCOLORPICKER !",
-      "category": "Addons",
-      "author": "remyla",
+      "latest": "11.2.2",
+      "repository": "remyla's repo",
+      "url": "http://cydia.saurik.com/package/com.remyla.lockglyphxi/",
+      "shortDescription": "LockGlyph patched by mur1sdev and edited by myself to be hosted here. Enjoy LocGlyph on ios 11 ! Any others lock screen tweaks can cause safemode. repport me them u/remyla31 on reddit.",
+      "category": "Tweaks",
+      "author": "mur1sdev, remyla",
       "commercial": false,
-      "date": "2018-02-28T00:10:46Z",
+      "date": "2018-07-07T13:06:15Z",
       "versions": [
         {
-          "tweakVersion": "11.1",
+          "tweakVersion": "11.2.2",
           "iOSVersion": "11.0",
-          "repository": "remyla Source - YouRepo",
-          "date": "2018-02-28T06:24:44Z",
+          "repository": "(null)",
+          "date": "2018-07-08T19:15:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8055,22 +8075,22 @@
       ]
     },
     {
-      "id": "io.ominousness.mitsuhaxi",
+      "id": "com.yourepo.randompacks.mitsuhaxi",
       "name": "MitsuhaXI",
-      "latest": "0.5.3",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
-      "shortDescription": "Universal iOS 11 audio visualizer",
+      "latest": "0.2.0",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
+      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
       "category": "Tweaks",
       "author": "c0ldra1n",
       "commercial": false,
-      "date": "2018-02-28T09:47:30Z",
+      "date": "2018-03-21T15:36:43Z",
       "versions": [
         {
-          "tweakVersion": "0.5.3",
+          "tweakVersion": "0.2.0",
           "iOSVersion": "11.0",
-          "repository": "Packix",
-          "date": "2018-07-23T08:17:36Z",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-04-02T08:22:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8089,22 +8109,22 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.mitsuhaxi",
+      "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
-      "latest": "0.2.0",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
-      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
+      "latest": "0.5.3",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/io.ominousness.mitsuhaxi/",
+      "shortDescription": "Universal iOS 11 audio visualizer",
       "category": "Tweaks",
       "author": "c0ldra1n",
       "commercial": false,
-      "date": "2018-03-21T15:36:43Z",
+      "date": "2018-02-28T09:47:30Z",
       "versions": [
         {
-          "tweakVersion": "0.2.0",
+          "tweakVersion": "0.5.3",
           "iOSVersion": "11.0",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-04-02T08:22:28Z",
+          "repository": "Packix",
+          "date": "2018-07-23T08:17:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
