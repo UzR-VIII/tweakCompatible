@@ -138,7 +138,7 @@
     {
       "id": "p7zip",
       "name": "7-zip (POSIX)",
-      "latest": "4.57-3p",
+      "latest": "16.02-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/p7zip/",
       "shortDescription": "claims to be a good compressor",
@@ -2546,20 +2546,21 @@
       ]
     },
     {
-      "id": "com.golddavid.colorflow3",
+      "id": "repo.biteyourapple.net.colorflow3",
       "name": "ColorFlow 3 (iOS 10)",
       "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Colorful music revolutions.",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
       "versions": [
         {
-          "tweakVersion": "1.0.4",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "10.0.2",
-          "repository": "BigBoss",
+          "repository": "(null)",
+          "date": "2018-08-20T19:25:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2578,21 +2579,20 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.colorflow3",
+      "id": "com.golddavid.colorflow3",
       "name": "ColorFlow 3 (iOS 10)",
       "latest": "1.0.5",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
       "shortDescription": "Colorful music revolutions.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.4",
           "iOSVersion": "10.0.2",
-          "repository": "(null)",
-          "date": "2018-08-20T19:25:49Z",
+          "repository": "BigBoss",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2681,7 +2681,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.30-1",
+      "latest": "8.12-13",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -3056,10 +3056,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.30",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -3322,7 +3322,7 @@
     {
       "id": "debianutils",
       "name": "Debian Utilities",
-      "latest": "3.3.3ubuntu1-1p",
+      "latest": "4.8.6-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/debianutils/",
       "shortDescription": "pretty much just run-parts. yep? run-parts",
@@ -3524,7 +3524,7 @@
     {
       "id": "diskdev-cmds",
       "name": "diskdev-cmds",
-      "latest": "421.7-4",
+      "latest": "576-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/diskdev-cmds/",
       "shortDescription": "mount, quota, fsck, fstyp, fdisk, tunefs",
@@ -4148,7 +4148,7 @@
     {
       "id": "file",
       "name": "file",
-      "latest": "4.23-3+arm64",
+      "latest": "5.34-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/file/",
       "shortDescription": "guesses the type of a file from contents",
@@ -4216,10 +4216,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.5.2-4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -4679,7 +4679,7 @@
       "latest": "2.2.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gnupg/",
-      "shortDescription": "newer encryption compatible with OpenPGP",
+      "shortDescription": "GNU privacy guard - a free PGP replacement",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -4743,7 +4743,7 @@
     {
       "id": "grep",
       "name": "grep",
-      "latest": "2.5.4-3",
+      "latest": "3.1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/grep/",
       "shortDescription": "searches files for regular expressions",
@@ -4845,7 +4845,7 @@
     {
       "id": "gzip",
       "name": "gzip",
-      "latest": "1.6-7",
+      "latest": "1.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gzip/",
       "shortDescription": "the standard Unix compression algorithm",
@@ -5452,7 +5452,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-194",
+      "latest": "1.8r-195",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -6402,7 +6402,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "1.2.1",
+      "latest": "2.0.0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
@@ -7418,7 +7418,7 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2n",
+      "latest": "1.0.2o-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
       "shortDescription": "SSL library and cryptographic tools",
@@ -7567,6 +7567,39 @@
           "iOSVersion": "10.0.2",
           "repository": "Cydia/Telesphoreo",
           "date": "2018-03-02T03:09:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cokepokes.phantom",
+      "name": "Phantom (Lite) for Snapchat",
+      "latest": "5.3.8-6",
+      "repository": "cokepokes.github.io",
+      "url": "http://cokepokes.github.io/",
+      "shortDescription": "Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection",
+      "category": "Tweaks",
+      "author": "CokePokes",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "5.3.8-6",
+          "iOSVersion": "10.0.2",
+          "repository": "BigBoss",
+          "date": "2018-10-25T00:11:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8015,7 +8048,7 @@
     {
       "id": "readline",
       "name": "readline",
-      "latest": "6.0-8",
+      "latest": "7.0.5-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/readline/",
       "shortDescription": "command-line history management",
@@ -8300,7 +8333,7 @@
     {
       "id": "shell-cmds",
       "name": "shell-cmds",
-      "latest": "118-7",
+      "latest": "118-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/shell-cmds/",
       "shortDescription": "killall, mktemp, renice, time, which",
@@ -9115,7 +9148,7 @@
     {
       "id": "system-cmds",
       "name": "system-cmds",
-      "latest": "433.8-14",
+      "latest": "790.30.1-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/system-cmds/",
       "shortDescription": "iostat, login, passwd, sync, sysctl",
@@ -9149,7 +9182,7 @@
     {
       "id": "tar",
       "name": "Tape Archive",
-      "latest": "1.30",
+      "latest": "1.30-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/tar/",
       "shortDescription": "tool for making tape archives",
@@ -9507,7 +9540,7 @@
     {
       "id": "com.unlimapps.uasharedtools",
       "name": "uasharedtools",
-      "latest": "2.2r-61",
+      "latest": "2.2r-62",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "shared tools for unlimapps tweaks",
@@ -9619,7 +9652,7 @@
     {
       "id": "com.unlimapps.uasharedtools.stash",
       "name": "uasharedtools (stash)",
-      "latest": "2.2r-61",
+      "latest": "2.2r-62",
       "repository": "beta.unlimapps.com",
       "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.stash/",
       "shortDescription": "shared tools for unlimapps tweaks",
@@ -9721,7 +9754,7 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.12",
+      "latest": "1.1.13-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
       "shortDescription": "UIKit/GraphicsServices command line access",
@@ -9787,7 +9820,7 @@
     {
       "id": "unrar",
       "name": "unrar",
-      "latest": "3.6.8-2p",
+      "latest": "5.6.4-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unrar/",
       "shortDescription": "de-compresses files in rar format",
@@ -9855,7 +9888,7 @@
     {
       "id": "unzip",
       "name": "unzip",
-      "latest": "5.52-6",
+      "latest": "6.0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unzip/",
       "shortDescription": "de-compesses files in zip format",
@@ -10343,7 +10376,7 @@
     {
       "id": "zip",
       "name": "zip",
-      "latest": "2.32-6",
+      "latest": "2.32-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/zip/",
       "shortDescription": "standard Windows compression tool",
