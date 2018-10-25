@@ -15684,7 +15684,7 @@
     {
       "id": "com.oly.xb-vibracall",
       "name": "XB-VibraCall",
-      "latest": "1.4.1",
+      "latest": "1.5",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.oly.xb-vibracall/",
       "shortDescription": "Vibrate when calls are connected or disconnected!",
@@ -15758,6 +15758,26 @@
           "iOSVersion": "10.1.1",
           "repository": "BigBoss",
           "date": "2018-10-24T05:50:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "10.1.1",
+          "repository": "BigBoss",
+          "date": "2018-10-25T09:32:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
