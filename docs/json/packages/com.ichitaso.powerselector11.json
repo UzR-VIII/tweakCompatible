@@ -1,7 +1,7 @@
 {
   "id": "com.ichitaso.powerselector11",
   "name": "PowerSelector (CCSuport)",
-  "latest": "1.1-5",
+  "latest": "1.1-3",
   "repository": "ichitaso repository",
   "url": "http://cydia.saurik.com/package/com.ichitaso.powerselector11/",
   "shortDescription": "The power supply relation of a device is operated.",
@@ -1569,9 +1569,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1633,6 +1633,15 @@
           "date": "2018-09-21T04:28:20Z",
           "userName": "sadalhayat",
           "issueNumber": 51095,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-25T05:28:10Z",
+          "userName": "SonNguyenSpace",
+          "issueNumber": 53925,
           "arch32": false
         }
       ]
