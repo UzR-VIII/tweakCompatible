@@ -7413,6 +7413,40 @@
       ]
     },
     {
+      "id": "com.ouraigua.jodebox",
+      "name": "JODebox",
+      "latest": "3.0.7",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ouraigua.jodebox/",
+      "shortDescription": "iOS7 filesystem access from sandboxed applications.",
+      "category": "Development",
+      "author": "Jalal Ouraigua",
+      "commercial": false,
+      "date": "2018-03-01T00:58:34Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.7",
+          "iOSVersion": "10.1.1",
+          "repository": "BigBoss",
+          "date": "2018-10-25T09:23:37Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.kobisnir.jungle",
       "name": "Jungle Video Downloader",
       "latest": "2.3",
