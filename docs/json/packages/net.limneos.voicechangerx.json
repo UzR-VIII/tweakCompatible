@@ -502,10 +502,10 @@
       "date": "2018-09-07T03:27:31Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 4,
+        "percentage": 71,
+        "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -567,6 +567,15 @@
           "date": "2018-10-04T05:19:00Z",
           "userName": "TheWarDoctor88",
           "issueNumber": 52110,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "The IN-CALL controls is not working on iPhone X iOS 11.3.1",
+          "date": "2018-10-25T05:59:48Z",
+          "userName": "sonecheung",
+          "issueNumber": 53927,
           "arch32": false
         }
       ]
