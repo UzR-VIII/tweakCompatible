@@ -641,10 +641,10 @@
       "date": "2018-08-20T17:28:06Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 70,
-        "good": 7,
+        "percentage": 72,
+        "good": 8,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -742,6 +742,15 @@
           "date": "2018-10-10T18:41:53Z",
           "userName": "J0113",
           "issueNumber": 52647,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-10-25T23:15:26Z",
+          "userName": "Meowderp",
+          "issueNumber": 53960,
           "arch32": false
         }
       ]
