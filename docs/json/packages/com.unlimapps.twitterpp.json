@@ -921,9 +921,9 @@
       "repository": "beta.unlimapps.com",
       "date": "2018-10-23T10:24:14Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -935,15 +935,6 @@
         }
       },
       "users": [
-        {
-          "status": "not working",
-          "device": "iPhone9,4",
-          "issues": "",
-          "date": "2018-10-23T10:24:14Z",
-          "userName": "DrFaf",
-          "issueNumber": 53655,
-          "arch32": false
-        },
         {
           "status": "working",
           "device": "iPhone9,4",
@@ -960,6 +951,15 @@
           "date": "2018-10-24T12:13:11Z",
           "userName": "Gerrrhard",
           "issueNumber": 53827,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-10-25T09:22:37Z",
+          "userName": "DrFaf",
+          "issueNumber": 53929,
           "arch32": false
         }
       ]
