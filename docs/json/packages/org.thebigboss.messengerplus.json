@@ -115,10 +115,10 @@
       "date": "2018-07-14T23:40:50Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 2,
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -162,6 +162,15 @@
           "date": "2018-07-31T01:26:54Z",
           "userName": "hiepkimcdtk55",
           "issueNumber": 36728,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-10-25T05:28:35Z",
+          "userName": "SonNguyenSpace",
+          "issueNumber": 53926,
           "arch32": false
         }
       ]
