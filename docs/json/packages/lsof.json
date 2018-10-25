@@ -1,7 +1,7 @@
 {
   "id": "lsof",
   "name": "lsof",
-  "latest": "33-1",
+  "latest": "62-1",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/lsof/",
   "shortDescription": "shows what files programs have open",
@@ -158,9 +158,9 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2018-07-21T10:03:08Z",
+          "date": "2018-10-25T15:27:10Z",
           "userName": "MattieThurlow96",
-          "issueNumber": 31145,
+          "issueNumber": 53943,
           "arch32": false
         }
       ]
