@@ -167,9 +167,9 @@
       "repository": "Packix",
       "date": "2018-10-18T21:21:04Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -182,21 +182,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,6",
-          "issues": "Doesn’t hide ads !! Useless ",
-          "date": "2018-10-18T21:21:04Z",
-          "userName": "moonshinejeff",
-          "issueNumber": 53335,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone9,3",
           "issues": "",
           "date": "2018-10-22T00:00:45Z",
           "userName": "giorgioiavicoli",
           "issueNumber": 53605,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works on this version !",
+          "date": "2018-10-26T05:05:27Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 53969,
           "arch32": false
         }
       ]
