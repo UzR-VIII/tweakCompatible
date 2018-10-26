@@ -200,6 +200,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.2",
+      "iOSVersion": "11.2",
+      "repository": "Packix",
+      "date": "2018-10-26T06:16:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Only works on version 0.0.1 not v .2",
+          "date": "2018-10-26T06:16:22Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 53976,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
