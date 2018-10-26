@@ -191,12 +191,12 @@
           "arch32": false
         },
         {
-          "status": "working",
+          "status": "partial",
           "device": "iPhone10,6",
-          "issues": "Works on this version !",
-          "date": "2018-10-26T05:05:27Z",
+          "issues": "Only works on 0.0.1 not 2",
+          "date": "2018-10-26T05:54:54Z",
           "userName": "moonshinejeff",
-          "issueNumber": 53969,
+          "issueNumber": 53970,
           "arch32": false
         }
       ]
