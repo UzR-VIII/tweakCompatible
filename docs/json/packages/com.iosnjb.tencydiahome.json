@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-10-23T09:13:20Z",
           "userName": "cc23489",
           "issueNumber": 53652,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Overlapping notch and icon",
+          "date": "2018-10-26T04:04:22Z",
+          "userName": "hadifuaad",
+          "issueNumber": 53966,
           "arch32": false
         }
       ]
