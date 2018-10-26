@@ -3432,9 +3432,9 @@
       "repository": "Alfhaily APT",
       "date": "2018-10-24T11:17:23Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
-        "good": 1,
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -3447,12 +3447,12 @@
       },
       "users": [
         {
-          "status": "working",
+          "status": "not working",
           "device": "iPhone10,1",
-          "issues": "",
-          "date": "2018-10-24T11:17:23Z",
+          "issues": "Doesn’t allow image downloads. Says “Download failed” all the time ",
+          "date": "2018-10-26T03:37:04Z",
           "userName": "brianstoiber",
-          "issueNumber": 53821,
+          "issueNumber": 53965,
           "arch32": false
         }
       ]
