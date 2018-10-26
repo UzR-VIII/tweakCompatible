@@ -624,6 +624,39 @@
       ]
     },
     {
+      "id": "net.angelxwind.appsyncunified",
+      "name": "AppSync Unified",
+      "latest": "31.1",
+      "repository": "Karen's Repo",
+      "url": "http://cydia.angelxwind.net/",
+      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
+      "category": "Tweaks",
+      "author": "Linus Yang, Karen／明美",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "31.1",
+          "iOSVersion": "10.3.2",
+          "repository": "Karen's Repo",
+          "date": "2018-10-26T12:18:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.assistantplus",
       "name": "Assistant+",
       "latest": "1.2.0-1",
@@ -1838,10 +1871,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b6",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -2576,10 +2609,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-4",
+      "latest": "3.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -4596,6 +4629,39 @@
       ]
     },
     {
+      "id": "com.clezz.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "category": "Tweaks",
+      "author": "Ma Jun",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.3.2",
+          "repository": "BigBoss",
+          "date": "2018-09-03T20:36:50Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.1.1",
@@ -4630,25 +4696,24 @@
       ]
     },
     {
-      "id": "com.clezz.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "id": "me.thomasfinch.priorityhub",
+      "name": "Priority Hub 2 BETA",
+      "latest": "2.0-364+debug",
+      "repository": "Thomas Finch's repo",
+      "url": "http://thomasfinch.me",
+      "shortDescription": "Organize your notifications!",
       "category": "Tweaks",
-      "author": "Ma Jun",
+      "author": "Thomas Finch",
       "commercial": false,
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "2.0-364+debug",
           "iOSVersion": "10.3.2",
-          "repository": "BigBoss",
-          "date": "2018-09-03T20:36:50Z",
+          "repository": "Thomas Finch's repo",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4677,38 +4742,6 @@
           "tweakVersion": "2.0-352+debug",
           "iOSVersion": "10.3.2",
           "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "me.thomasfinch.priorityhub",
-      "name": "Priority Hub 2 BETA",
-      "latest": "2.0-364+debug",
-      "repository": "Thomas Finch's repo",
-      "url": "http://thomasfinch.me",
-      "shortDescription": "Organize your notifications!",
-      "category": "Tweaks",
-      "author": "Thomas Finch",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0-364+debug",
-          "iOSVersion": "10.3.2",
-          "repository": "Thomas Finch's repo",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5047,7 +5080,7 @@
     {
       "id": "com.kurrt.safeshutdown",
       "name": "SafeShutdown",
-      "latest": "1.33",
+      "latest": "1.35",
       "repository": "Kurrt's Repo",
       "url": "http://cydia.saurik.com/package/com.kurrt.safeshutdown/",
       "shortDescription": "Avoid re-jailbreaking when battery runs out.",
