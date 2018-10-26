@@ -16,11 +16,11 @@
       "repository": "BigBoss",
       "date": "2018-10-26T16:09:26Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-10-26T19:21:43Z",
           "userName": "Chasewhip8",
           "issueNumber": 54017,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Nothing happens... please check that ",
+          "date": "2018-10-26T19:14:55Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54016,
           "arch32": false
         }
       ]
