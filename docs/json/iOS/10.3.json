@@ -36,7 +36,7 @@
     {
       "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
-      "latest": "1.0.0",
+      "latest": "1.0.2-1b",
       "repository": "TheComputerWhisperer's Repo",
       "url": "http://cydia.saurik.com/package/com.thecomputerwhisperer.detailedpowerusage/",
       "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
@@ -103,7 +103,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.4.4",
+      "latest": "1.6.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
@@ -150,6 +150,39 @@
           "iOSVersion": "10.3",
           "repository": "TheComputerWhisperer's Repo",
           "date": "2018-03-03T05:11:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bz.jed.tweakcompatible",
+      "name": "tweakCompatible",
+      "latest": "0.1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/bz.jed.tweakcompatible/",
+      "shortDescription": "Adds a way to check tweak compatibility in cydia",
+      "category": "Tweaks",
+      "author": "treAson",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.1.0",
+          "iOSVersion": "10.3",
+          "repository": "BigBoss",
+          "date": "2018-10-26T08:47:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
