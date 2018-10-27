@@ -1361,8 +1361,8 @@
       "date": "2018-07-07T02:26:56Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 85,
-        "good": 84,
+        "percentage": 86,
+        "good": 85,
         "bad": 0,
         "total": 98,
         "arch32": {
@@ -2221,15 +2221,6 @@
           "arch32": false
         },
         {
-          "status": "not working",
-          "device": "iPhone7,1",
-          "issues": "",
-          "date": "2018-09-20T12:55:45Z",
-          "userName": "soum91",
-          "issueNumber": 51015,
-          "arch32": false
-        },
-        {
           "status": "partial",
           "device": "iPhone10,3",
           "issues": "",
@@ -2254,6 +2245,15 @@
           "date": "2018-10-21T00:27:47Z",
           "userName": "buitim",
           "issueNumber": 53520,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-10-27T14:08:34Z",
+          "userName": "soum91",
+          "issueNumber": 54059,
           "arch32": false
         }
       ]
