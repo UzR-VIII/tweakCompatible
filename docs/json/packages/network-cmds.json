@@ -1,7 +1,7 @@
 {
   "id": "network-cmds",
   "name": "Network Commands",
-  "latest": "543-1",
+  "latest": "307.0.1-7",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/network-cmds/",
   "shortDescription": "arp, ifconfig, netstat, route, traceroute",
@@ -49,12 +49,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
-          "total": 1,
-          "good": 1,
+          "total": 2,
+          "good": 2,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -78,6 +78,15 @@
           "userName": "airsquared",
           "issueNumber": 49361,
           "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-10-27T11:53:52Z",
+          "userName": "JaRxY",
+          "issueNumber": 54055,
+          "arch32": true
         }
       ]
     },
