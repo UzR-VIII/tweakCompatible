@@ -1,10 +1,10 @@
 {
   "id": "com.cpdigitaldarkroom.taptapflip",
   "name": "TapTapFlip",
-  "latest": "1.3.3",
+  "latest": "1.4.2",
   "repository": "apt.thebigboss.org",
   "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
-  "shortDescription": "Two taps to flip camera!",
+  "shortDescription": "Double tap to flip camera",
   "category": "Tweaks",
   "author": "CP Digital Darkroom",
   "commercial": false,
@@ -1428,12 +1428,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
-          "total": 1,
-          "good": 1,
+          "total": 2,
+          "good": 2,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -1447,6 +1447,15 @@
           "date": "2018-08-07T12:16:24Z",
           "userName": "AysbergICE",
           "issueNumber": 39996,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-10-27T22:41:42Z",
+          "userName": "JaRxY",
+          "issueNumber": 54094,
           "arch32": true
         }
       ]
