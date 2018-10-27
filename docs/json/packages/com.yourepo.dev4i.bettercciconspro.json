@@ -1,7 +1,7 @@
 {
   "id": "com.yourepo.dev4i.bettercciconspro",
   "name": "BetterCCIconsPro",
-  "latest": "1.6.6",
+  "latest": "1.6.7",
   "repository": "Dev4i Source - YouRepo",
   "url": "http://cydia.saurik.com/package/com.yourepo.dev4i.bettercciconspro/",
   "shortDescription": "Allows custom setting of CC connectivity icon colours and positions. Glyph only mode. Compatible with Glacier. See Screenshots!",
@@ -458,6 +458,37 @@
           "date": "2018-10-20T16:29:18Z",
           "userName": "Qaragholy",
           "issueNumber": 53473,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.7",
+      "iOSVersion": "11.1.2",
+      "repository": "Dev4i Source",
+      "date": "2018-10-27T15:59:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-10-27T15:59:28Z",
+          "userName": "Qaragholy",
+          "issueNumber": 54081,
           "arch32": false
         }
       ]
