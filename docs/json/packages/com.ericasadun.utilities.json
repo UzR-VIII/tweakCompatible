@@ -127,11 +127,11 @@
       "repository": "ModMyi (Archive)",
       "date": "2018-07-09T20:22:58Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 42,
+        "calculatedStatus": "Not working",
+        "percentage": 37,
         "good": 3,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -202,6 +202,15 @@
           "date": "2018-08-04T08:59:35Z",
           "userName": "D3m3rion",
           "issueNumber": 38675,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "",
+          "date": "2018-10-27T09:32:25Z",
+          "userName": "mikkiano",
+          "issueNumber": 54032,
           "arch32": false
         }
       ]
