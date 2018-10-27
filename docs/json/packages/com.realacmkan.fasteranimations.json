@@ -4,7 +4,7 @@
   "latest": "0.0.3-1+debug",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.realacmkan.fasteranimations/",
-  "shortDescription": "Speeds up launch animations on the springboard (iOS 11)",
+  "shortDescription": "Speed up animations! Compatible with iOS 7,8,9,10 and 11.",
   "category": "Tweaks",
   "author": "real_acmkan",
   "commercial": false,
@@ -49,15 +49,15 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
-          "total": 0,
-          "good": 0,
+          "total": 1,
+          "good": 1,
           "bad": 0,
-          "percentage": 0,
-          "calculatedStatus": "Unknown"
+          "percentage": 100,
+          "calculatedStatus": "Working"
         }
       },
       "users": [
@@ -69,6 +69,15 @@
           "userName": "Goldvag",
           "issueNumber": 31240,
           "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-10-27T11:51:18Z",
+          "userName": "JaRxY",
+          "issueNumber": 54053,
+          "arch32": true
         }
       ]
     }
