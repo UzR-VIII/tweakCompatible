@@ -591,15 +591,15 @@
       "date": "2018-04-14T02:09:58Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
-          "total": 2,
-          "good": 1,
+          "total": 3,
+          "good": 2,
           "bad": 0,
-          "percentage": 50,
+          "percentage": 66,
           "calculatedStatus": "Likely working"
         }
       },
@@ -620,6 +620,15 @@
           "date": "2018-08-23T11:33:30Z",
           "userName": "nkujomiru",
           "issueNumber": 46502,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-10-27T11:44:33Z",
+          "userName": "JaRxY",
+          "issueNumber": 54038,
           "arch32": true
         }
       ]
