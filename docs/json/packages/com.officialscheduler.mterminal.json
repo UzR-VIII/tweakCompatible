@@ -82,12 +82,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
-          "total": 3,
-          "good": 3,
+          "total": 4,
+          "good": 4,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -146,6 +146,15 @@
           "date": "2018-07-11T02:35:52Z",
           "userName": "hetzjagd",
           "issueNumber": 21571,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "K",
+          "date": "2018-10-27T14:55:05Z",
+          "userName": "JaRxY",
+          "issueNumber": 54070,
           "arch32": true
         }
       ]
