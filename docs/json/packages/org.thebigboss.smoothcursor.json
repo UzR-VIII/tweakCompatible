@@ -621,15 +621,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone8,4",
-          "issues": "",
-          "date": "2018-07-08T10:13:00Z",
-          "userName": "legoboy0215",
-          "issueNumber": 15760,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone7,2",
           "issues": "",
           "date": "2018-07-08T10:23:16Z",
@@ -860,6 +851,15 @@
           "date": "2018-10-20T20:00:55Z",
           "userName": "baebrum",
           "issueNumber": 53506,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-27T07:58:00Z",
+          "userName": "legoboy0215",
+          "issueNumber": 54027,
           "arch32": false
         }
       ]
