@@ -7097,9 +7097,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -7143,6 +7143,15 @@
           "date": "2018-10-08T20:14:37Z",
           "userName": "oooceees",
           "issueNumber": 52530,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-10-27T08:31:52Z",
+          "userName": "NVTechKorea",
+          "issueNumber": 54029,
           "arch32": false
         }
       ]
