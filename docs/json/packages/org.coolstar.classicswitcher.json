@@ -1,7 +1,7 @@
 {
   "id": "org.coolstar.classicswitcher",
   "name": "ClassicSwitcher 3 [7/8/9/10]",
-  "latest": "3.0.6",
+  "latest": "3.0.5-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/org.coolstar.classicswitcher/",
   "shortDescription": "Bring the classic app switcher with a modern twist.",
@@ -100,6 +100,37 @@
           "userName": "Ziboulou1",
           "issueNumber": 38318,
           "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.0.5-1",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-10-27T11:46:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-10-27T11:46:26Z",
+          "userName": "JaRxY",
+          "issueNumber": 54046,
+          "arch32": true
         }
       ]
     }
