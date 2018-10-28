@@ -1018,10 +1018,10 @@
         {
           "status": "working",
           "device": "iPhone10,6",
-          "issues": "",
-          "date": "2018-10-28T22:26:24Z",
+          "issues": "It downloads videos %100 working ",
+          "date": "2018-10-28T22:30:58Z",
           "userName": "iTollMouS",
-          "issueNumber": 54184,
+          "issueNumber": 54186,
           "arch32": false
         }
       ]
