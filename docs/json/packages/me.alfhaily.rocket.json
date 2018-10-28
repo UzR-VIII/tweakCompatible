@@ -3481,11 +3481,11 @@
       "repository": "Alfhaily APT",
       "date": "2018-10-24T17:14:14Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3520,6 +3520,15 @@
           "date": "2018-10-25T03:00:40Z",
           "userName": "burkybang",
           "issueNumber": 53914,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-28T16:33:08Z",
+          "userName": "damian612",
+          "issueNumber": 54161,
           "arch32": false
         }
       ]
