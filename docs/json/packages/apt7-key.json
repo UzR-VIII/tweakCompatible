@@ -1,7 +1,7 @@
 {
   "id": "apt7-key",
   "name": "APT 0.7 (apt-key)",
-  "latest": "1.4.8-1",
+  "latest": "1.4.8",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/apt7-key/",
   "shortDescription": "repository encryption key management tool",
@@ -520,9 +520,9 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2018-07-21T09:55:12Z",
+          "date": "2018-10-28T16:38:02Z",
           "userName": "MattieThurlow96",
-          "issueNumber": 31083,
+          "issueNumber": 54165,
           "arch32": false
         }
       ]
