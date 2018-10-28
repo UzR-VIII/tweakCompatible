@@ -3433,10 +3433,10 @@
       "date": "2018-10-24T11:17:23Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3462,6 +3462,15 @@
           "date": "2018-10-26T09:59:20Z",
           "userName": "DeadlySkull",
           "issueNumber": 53991,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-10-28T01:59:01Z",
+          "userName": "RaZoR222",
+          "issueNumber": 54114,
           "arch32": false
         }
       ]
