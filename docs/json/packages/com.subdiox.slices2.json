@@ -169,10 +169,10 @@
       "date": "2018-08-11T15:32:01Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 42,
-        "good": 6,
+        "percentage": 46,
+        "good": 7,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -306,6 +306,15 @@
           "date": "2018-10-22T15:12:44Z",
           "userName": "TheRasPiGuy",
           "issueNumber": 53624,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "When install go in safe mode,after respring work fine,iphone 7 ios 11.3.1",
+          "date": "2018-10-28T15:59:36Z",
+          "userName": "tarles88",
+          "issueNumber": 54159,
           "arch32": false
         }
       ]
