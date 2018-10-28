@@ -17,10 +17,10 @@
       "date": "2018-10-10T03:58:10Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-10-11T02:08:33Z",
           "userName": "teamstreetmotion",
           "issueNumber": 52661,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-28T06:27:20Z",
+          "userName": "duypnp",
+          "issueNumber": 54115,
           "arch32": false
         }
       ]
