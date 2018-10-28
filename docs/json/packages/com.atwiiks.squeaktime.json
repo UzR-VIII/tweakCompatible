@@ -16,11 +16,11 @@
       "repository": "cydia.hbang.ws",
       "date": "2018-10-23T16:19:41Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-10-23T16:19:41Z",
           "userName": "Passsenger57",
           "issueNumber": 53669,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-28T01:31:49Z",
+          "userName": "NeymarGamerYT",
+          "issueNumber": 54110,
           "arch32": false
         }
       ]
