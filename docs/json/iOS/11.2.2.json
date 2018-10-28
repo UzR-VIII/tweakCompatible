@@ -1205,40 +1205,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.artsy",
-      "name": "Artsy",
-      "latest": "0.0.4-8+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
-      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
-      "category": "HYI - Tweaks",
-      "author": "Maxwell Dausch",
-      "commercial": false,
-      "date": "2018-07-07T08:14:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-8+debug",
-          "iOSVersion": "11.2.2",
-          "repository": "(null)",
-          "date": "2018-08-12T11:04:09Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
       "latest": "1.2",
@@ -1281,6 +1247,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.artsy",
+      "name": "Artsy",
+      "latest": "0.0.4-8+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
+      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
+      "category": "HYI - Tweaks",
+      "author": "Maxwell Dausch",
+      "commercial": false,
+      "date": "2018-07-07T08:14:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-8+debug",
+          "iOSVersion": "11.2.2",
+          "repository": "(null)",
+          "date": "2018-08-12T11:04:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -4555,6 +4555,40 @@
           "iOSVersion": "11.2.2",
           "repository": "TheComputerWhisperer's Repo",
           "date": "2018-07-12T17:17:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.kurdios.diasilent",
+      "name": "DiaSilent",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.kurdios.diasilent/",
+      "shortDescription": "Disable Dialer Buttons Sound On Phone app",
+      "category": "Tweaks",
+      "author": "Makwan BK",
+      "commercial": false,
+      "date": "2018-09-05T05:47:20Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.2.2",
+          "repository": "BigBoss",
+          "date": "2018-10-28T08:08:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8108,22 +8142,22 @@
       ]
     },
     {
-      "id": "sileoturkiye.luxury10",
+      "id": "com.sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-08T08:41:22Z",
+      "date": "2018-08-03T18:58:54Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-08T08:41:22Z",
+          "date": "2018-08-03T18:58:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8142,22 +8176,22 @@
       ]
     },
     {
-      "id": "com.sileoturkiye.luxury10",
+      "id": "sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-03T18:58:54Z",
+      "date": "2018-08-08T08:41:22Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-03T18:58:54Z",
+          "date": "2018-08-08T08:41:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
