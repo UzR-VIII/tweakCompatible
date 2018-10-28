@@ -42,10 +42,10 @@
         {
           "status": "working",
           "device": "iPhone9,3",
-          "issues": "100% working",
-          "date": "2018-10-28T11:29:43Z",
+          "issues": "",
+          "date": "2018-10-28T11:30:24Z",
           "userName": "Jayjigz",
-          "issueNumber": 54145,
+          "issueNumber": 54146,
           "arch32": false
         }
       ]
