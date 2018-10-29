@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.rocket",
   "name": "Rocket for Instagram",
-  "latest": "3.1.1",
+  "latest": "3.1.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
   "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -3539,11 +3539,11 @@
       "repository": "Alfhaily APT",
       "date": "2018-10-29T18:50:10Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3560,6 +3560,15 @@
           "date": "2018-10-29T18:50:10Z",
           "userName": "DeadlySkull",
           "issueNumber": 54228,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "Fixed saving images to camera roll",
+          "date": "2018-10-29T22:25:59Z",
+          "userName": "brianstoiber",
+          "issueNumber": 54247,
           "arch32": false
         }
       ]
