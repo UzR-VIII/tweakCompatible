@@ -32,20 +32,20 @@
       "users": [
         {
           "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2018-07-11T08:15:16Z",
-          "userName": "MattieThurlow96",
-          "issueNumber": 22030,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,3",
           "issues": "",
           "date": "2018-07-12T04:54:25Z",
           "userName": "TeddOravec",
           "issueNumber": 23886,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-10-29T11:36:48Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 54200,
           "arch32": false
         }
       ]
