@@ -1,7 +1,7 @@
 {
   "id": "base",
   "name": "Base Structure",
-  "latest": "1-1",
+  "latest": "1-4",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/base/",
   "shortDescription": "underlying system directory structure",
@@ -395,9 +395,9 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2018-07-21T09:56:02Z",
+          "date": "2018-10-29T11:36:00Z",
           "userName": "MattieThurlow96",
-          "issueNumber": 31091,
+          "issueNumber": 54197,
           "arch32": false
         }
       ]
