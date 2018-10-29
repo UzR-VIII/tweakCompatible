@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.rocket",
   "name": "Rocket for Instagram",
-  "latest": "3.1.2",
+  "latest": "3.1.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
   "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -3506,15 +3506,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone9,3",
-          "issues": "Nice shot, no glitch’s it’s ok",
-          "date": "2018-10-24T18:30:53Z",
-          "userName": "Passsenger57",
-          "issueNumber": 53866,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,2",
           "issues": "",
           "date": "2018-10-25T03:00:40Z",
@@ -3529,6 +3520,15 @@
           "date": "2018-10-28T16:33:08Z",
           "userName": "damian612",
           "issueNumber": 54161,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "It’s still ok guys 👍🏼",
+          "date": "2018-10-29T18:45:42Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54227,
           "arch32": false
         }
       ]
