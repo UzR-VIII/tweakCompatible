@@ -1138,7 +1138,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -1172,7 +1172,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0.7.25.3-9",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1238,40 +1238,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.artsy",
-      "name": "Artsy",
-      "latest": "0.0.4-8+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
-      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
-      "category": "HYI - Tweaks",
-      "author": "Maxwell Dausch",
-      "commercial": false,
-      "date": "2018-07-07T08:14:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-8+debug",
-          "iOSVersion": "11.2.2",
-          "repository": "(null)",
-          "date": "2018-08-12T11:04:09Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
       "latest": "1.2",
@@ -1314,6 +1280,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.artsy",
+      "name": "Artsy",
+      "latest": "0.0.4-8+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
+      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
+      "category": "HYI - Tweaks",
+      "author": "Maxwell Dausch",
+      "commercial": false,
+      "date": "2018-07-07T08:14:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-8+debug",
+          "iOSVersion": "11.2.2",
+          "repository": "(null)",
+          "date": "2018-08-12T11:04:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -1752,7 +1752,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-1",
+      "latest": "1-4",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -7769,6 +7769,40 @@
       ]
     },
     {
+      "id": "com.mogui666.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "2.0",
+      "repository": "mogui666",
+      "url": "http://cydia.saurik.com/package/com.mogui666.localiapstore/",
+      "shortDescription": "Free In-App-Purchases for most apps, supports all devices, iOS 5.1.1 - 11.x.x +",
+      "category": "Tweaks",
+      "author": "mogui666",
+      "commercial": false,
+      "date": "2018-08-03T13:29:17Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "11.2.2",
+          "repository": "mogui666",
+          "date": "2018-08-03T13:29:17Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.5",
@@ -7823,40 +7857,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.mogui666.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "2.0",
-      "repository": "mogui666",
-      "url": "http://cydia.saurik.com/package/com.mogui666.localiapstore/",
-      "shortDescription": "Free In-App-Purchases for most apps, supports all devices, iOS 5.1.1 - 11.x.x +",
-      "category": "Tweaks",
-      "author": "mogui666",
-      "commercial": false,
-      "date": "2018-08-03T13:29:17Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "11.2.2",
-          "repository": "mogui666",
-          "date": "2018-08-03T13:29:17Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -8398,22 +8398,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.mikoto",
+      "id": "repo.biteyourapple.net.mikoto",
       "name": "mikoto",
       "latest": "3.0.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.mikoto/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.mikoto/",
       "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
-      "category": "HYI - Tweaks",
-      "author": "Karen Tsai (angelXwind)",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-07-09T11:57:02Z",
+      "date": "2018-07-09T23:10:31Z",
       "versions": [
         {
           "tweakVersion": "3.0.8",
           "iOSVersion": "11.2.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T11:57:02Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-09T23:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8432,22 +8432,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.mikoto",
+      "id": "com.hackyouriphone.mikoto",
       "name": "mikoto",
       "latest": "3.0.8",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.mikoto/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.mikoto/",
       "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "HYI - Tweaks",
+      "author": "Karen Tsai (angelXwind)",
       "commercial": false,
-      "date": "2018-07-09T23:10:31Z",
+      "date": "2018-07-09T11:57:02Z",
       "versions": [
         {
           "tweakVersion": "3.0.8",
           "iOSVersion": "11.2.2",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-09T23:10:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T11:57:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8581,6 +8581,40 @@
           "iOSVersion": "11.2.2",
           "repository": "ReddestDream's Repo",
           "date": "2018-07-14T17:01:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.eukoalyptus.minimalisticui",
+      "name": "MinimalisticUI",
+      "latest": "1.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.eukoalyptus.minimalisticui/",
+      "shortDescription": "Collection of Tweaks to make a minimal User Interface",
+      "category": "Tweaks",
+      "author": "Eukoalyptus",
+      "commercial": false,
+      "date": "2018-03-02T14:21:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.2.2",
+          "repository": "BigBoss",
+          "date": "2018-10-29T17:38:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9791,7 +9825,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "6.7p1-13",
+      "latest": "7.7p1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -13527,7 +13561,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.66",
+      "latest": "1.0.67",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -13719,7 +13753,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc6",
+      "latest": "0.4rc7",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -13807,7 +13841,7 @@
     {
       "id": "lzma",
       "name": "XZ Utils",
-      "latest": "4.32.7-5",
+      "latest": "5.2.3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
