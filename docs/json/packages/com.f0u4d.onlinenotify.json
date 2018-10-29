@@ -601,6 +601,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.3.22",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-10-29T01:41:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Good player 👍🏼",
+          "date": "2018-10-29T01:41:08Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54189,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
