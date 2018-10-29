@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.rocket",
   "name": "Rocket for Instagram",
-  "latest": "3.1.1",
+  "latest": "3.1.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
   "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -3529,6 +3529,37 @@
           "date": "2018-10-28T16:33:08Z",
           "userName": "damian612",
           "issueNumber": 54161,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.1.2",
+      "iOSVersion": "11.4",
+      "repository": "Alfhaily APT",
+      "date": "2018-10-29T18:50:10Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Freezes and crashes instagram ",
+          "date": "2018-10-29T18:50:10Z",
+          "userName": "DeadlySkull",
+          "issueNumber": 54228,
           "arch32": false
         }
       ]
