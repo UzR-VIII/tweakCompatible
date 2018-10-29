@@ -815,6 +815,39 @@
       ]
     },
     {
+      "id": "co.bananastudios.wolfram",
+      "name": "Aporeo",
+      "latest": "1.6-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/co.bananastudios.wolfram/",
+      "shortDescription": "A Fast Charging solution for iOS!",
+      "category": "Tweaks",
+      "author": "Cornelius Koetting",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.6-1",
+          "iOSVersion": "11.2.2",
+          "repository": "BigBoss",
+          "date": "2018-10-29T20:27:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
       "latest": "1.0r-101",
@@ -1258,6 +1291,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.artsy",
+      "name": "Artsy",
+      "latest": "0.0.4-8+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
+      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
+      "category": "HYI - Tweaks",
+      "author": "Maxwell Dausch",
+      "commercial": false,
+      "date": "2018-07-07T08:14:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-8+debug",
+          "iOSVersion": "11.2.2",
+          "repository": "(null)",
+          "date": "2018-08-12T11:04:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
       "latest": "1.2",
@@ -1300,40 +1367,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.artsy",
-      "name": "Artsy",
-      "latest": "0.0.4-8+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
-      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
-      "category": "HYI - Tweaks",
-      "author": "Maxwell Dausch",
-      "commercial": false,
-      "date": "2018-07-07T08:14:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-8+debug",
-          "iOSVersion": "11.2.2",
-          "repository": "(null)",
-          "date": "2018-08-12T11:04:09Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8452,22 +8485,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.mikoto",
+      "id": "repo.biteyourapple.net.mikoto",
       "name": "mikoto",
       "latest": "3.0.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.mikoto/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.mikoto/",
       "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
-      "category": "HYI - Tweaks",
-      "author": "Karen Tsai (angelXwind)",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-07-09T11:57:02Z",
+      "date": "2018-07-09T23:10:31Z",
       "versions": [
         {
           "tweakVersion": "3.0.8",
           "iOSVersion": "11.2.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T11:57:02Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-07-09T23:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8486,22 +8519,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.mikoto",
+      "id": "com.hackyouriphone.mikoto",
       "name": "mikoto",
       "latest": "3.0.8",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.mikoto/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.mikoto/",
       "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "HYI - Tweaks",
+      "author": "Karen Tsai (angelXwind)",
       "commercial": false,
-      "date": "2018-07-09T23:10:31Z",
+      "date": "2018-07-09T11:57:02Z",
       "versions": [
         {
           "tweakVersion": "3.0.8",
           "iOSVersion": "11.2.2",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-07-09T23:10:31Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T11:57:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
