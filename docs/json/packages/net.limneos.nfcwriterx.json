@@ -1,7 +1,7 @@
 {
   "id": "net.limneos.nfcwriterx",
   "name": "NFCWriter X",
-  "latest": "0.3-9",
+  "latest": "0.3-33",
   "repository": "limneos.net",
   "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
   "shortDescription": "NFCWriter X for iOS",
@@ -645,6 +645,37 @@
           "date": "2018-10-30T04:03:54Z",
           "userName": "Sn0wbody",
           "issueNumber": 54262,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.3-33",
+      "iOSVersion": "10.2",
+      "repository": "Limneos Repo",
+      "date": "2018-10-30T18:09:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-30T18:09:08Z",
+          "userName": "Scunkaneli",
+          "issueNumber": 54292,
           "arch32": false
         }
       ]
