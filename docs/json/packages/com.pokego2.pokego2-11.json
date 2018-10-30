@@ -2179,7 +2179,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2196,6 +2196,15 @@
           "date": "2018-10-30T04:45:25Z",
           "userName": "TheWarDoctor88",
           "issueNumber": 54267,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "The developer is clearly lying about these “updates”. Hasn’t worked for months. ",
+          "date": "2018-10-30T05:10:10Z",
+          "userName": "lineararc",
+          "issueNumber": 54268,
           "arch32": false
         }
       ]
