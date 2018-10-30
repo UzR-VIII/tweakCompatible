@@ -17,10 +17,10 @@
       "date": "2018-10-28T22:29:15Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2018-10-29T04:06:37Z",
           "userName": "superduperkris",
           "issueNumber": 54192,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Doesn't save photos",
+          "date": "2018-10-30T08:52:45Z",
+          "userName": "yaserFA",
+          "issueNumber": 54271,
           "arch32": false
         }
       ]
