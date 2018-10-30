@@ -2148,9 +2148,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 90,
-        "good": 27,
+        "good": 28,
         "bad": 0,
-        "total": 30,
+        "total": 31,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2428,6 +2428,15 @@
           "date": "2018-09-23T20:01:09Z",
           "userName": "Almuzani",
           "issueNumber": 51331,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Can downgrade app, but clicking cancel on the version list instantly crashes the phone and forces to reboot, hence re-jailbrake.",
+          "date": "2018-10-30T16:34:50Z",
+          "userName": "cafrew",
+          "issueNumber": 54285,
           "arch32": false
         }
       ]
