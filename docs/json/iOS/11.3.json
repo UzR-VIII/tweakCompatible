@@ -1878,39 +1878,6 @@
       ]
     },
     {
-      "id": "com.iphonecake.appcake2",
-      "name": "AppCake",
-      "latest": "5.6.0.2",
-      "repository": "AppCake",
-      "url": "http://iphonecake.com/forum/",
-      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
-      "category": "Utilities",
-      "author": "Mickael liang",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "5.5.8.1",
-          "iOSVersion": "11.3",
-          "repository": "AppCake",
-          "date": "2018-07-08T08:39:32Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.appcake2",
       "name": "AppCake",
       "latest": "5.5.7.2",
@@ -1931,6 +1898,39 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.iphonecake.appcake2",
+      "name": "AppCake",
+      "latest": "5.6.0.2",
+      "repository": "AppCake",
+      "url": "http://iphonecake.com/forum/",
+      "shortDescription": "The new AppCake 5.6.0.1! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "category": "Utilities",
+      "author": "Mickael liang",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "5.5.8.1",
+          "iOSVersion": "11.3",
+          "repository": "AppCake",
+          "date": "2018-07-08T08:39:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -2629,7 +2629,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -2663,7 +2663,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0.7.25.3-9",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -3728,40 +3728,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.badiosbad",
-      "name": "badiOSBad",
-      "latest": "1.0.5",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.badiosbad/",
-      "shortDescription": "Block iOS System Updates from the core and destroy app revokes!",
-      "category": "iOS 11.3x",
-      "author": "Ignition",
-      "commercial": false,
-      "date": "2018-08-19T02:18:12Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "11.3",
-          "repository": "(null)",
-          "date": "2018-08-19T02:18:12Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "fun.ignition.badiosbad",
       "name": "badiOSBad",
       "latest": "1.2.5-debug-1+debug",
@@ -3798,6 +3764,40 @@
           "iOSVersion": "11.3",
           "repository": "(null)",
           "date": "2018-09-02T23:24:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kiiimo.badiosbad",
+      "name": "badiOSBad",
+      "latest": "1.0.5",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.badiosbad/",
+      "shortDescription": "Block iOS System Updates from the core and destroy app revokes!",
+      "category": "iOS 11.3x",
+      "author": "Ignition",
+      "commercial": false,
+      "date": "2018-08-19T02:18:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-08-19T02:18:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4026,7 +4026,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-1",
+      "latest": "1-4",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -5202,40 +5202,6 @@
       ]
     },
     {
-      "id": "com.tapthaker.bigshotjb11",
-      "name": "BigShotJb (iOS 11)",
-      "latest": "0.0.2-2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.tapthaker.bigshotjb11/",
-      "shortDescription": "take screenshots of full vertical scrollable area",
-      "category": "Tweaks",
-      "author": "Tapan Thaker (tapthaker)",
-      "commercial": false,
-      "date": "2018-08-09T15:22:16Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.2-2",
-          "iOSVersion": "11.3",
-          "repository": "(null)",
-          "date": "2018-08-12T16:47:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.julioverne.bigshotjb11",
       "name": "BigShotJb (iOS 11)",
       "latest": "0.0.2-2b",
@@ -5258,6 +5224,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tapthaker.bigshotjb11",
+      "name": "BigShotJb (iOS 11)",
+      "latest": "0.0.2-2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.tapthaker.bigshotjb11/",
+      "shortDescription": "take screenshots of full vertical scrollable area",
+      "category": "Tweaks",
+      "author": "Tapan Thaker (tapthaker)",
+      "commercial": false,
+      "date": "2018-08-09T15:22:16Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.2-2",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-08-12T16:47:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6625,39 +6625,6 @@
       ]
     },
     {
-      "id": "com.bytafont.bytafont3",
-      "name": "BytaFont 3",
-      "latest": "3.5",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
-      "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
-      "category": "System",
-      "author": "BytaFont.com",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "3.2",
-          "iOSVersion": "11.3",
-          "repository": "BytaFont",
-          "date": "2018-07-11T03:39:53Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "net.cydia00.bytafont3",
       "name": "BytaFont 3",
       "latest": "3.6",
@@ -6678,6 +6645,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.bytafont.bytafont3",
+      "name": "BytaFont 3",
+      "latest": "3.5",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
+      "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
+      "category": "System",
+      "author": "BytaFont.com",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "3.2",
+          "iOSVersion": "11.3",
+          "repository": "BytaFont",
+          "date": "2018-07-11T03:39:53Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -11668,22 +11668,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.defaultsbpage",
+      "id": "com.heaveniphone.defaultsbpage",
       "name": "DefaultSBPage",
       "latest": "2.0-19",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.defaultsbpage/",
+      "repository": "Heaven iPhone",
+      "url": "http://cydia.saurik.com/package/com.heaveniphone.defaultsbpage/",
       "shortDescription": "choose homescreen page shown after unlock",
-      "category": "HYI - Tweaks",
-      "author": "davidedj10",
+      "category": "HiPhone-Tools",
+      "author": "(null)",
       "commercial": false,
-      "date": "2018-07-09T12:50:33Z",
+      "date": "2018-07-12T10:34:24Z",
       "versions": [
         {
           "tweakVersion": "2.0-19",
           "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T12:50:33Z",
+          "repository": "Heaven iPhone",
+          "date": "2018-07-12T10:34:24Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -11702,22 +11702,22 @@
       ]
     },
     {
-      "id": "com.heaveniphone.defaultsbpage",
+      "id": "com.hackyouriphone.defaultsbpage",
       "name": "DefaultSBPage",
       "latest": "2.0-19",
-      "repository": "Heaven iPhone",
-      "url": "http://cydia.saurik.com/package/com.heaveniphone.defaultsbpage/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.defaultsbpage/",
       "shortDescription": "choose homescreen page shown after unlock",
-      "category": "HiPhone-Tools",
-      "author": "(null)",
+      "category": "HYI - Tweaks",
+      "author": "davidedj10",
       "commercial": false,
-      "date": "2018-07-12T10:34:24Z",
+      "date": "2018-07-09T12:50:33Z",
       "versions": [
         {
           "tweakVersion": "2.0-19",
           "iOSVersion": "11.3",
-          "repository": "Heaven iPhone",
-          "date": "2018-07-12T10:34:24Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T12:50:33Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -12629,40 +12629,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.dotstweak",
-      "name": "Dots",
-      "latest": "1.1.2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.dotstweak/",
-      "shortDescription": "Add notification dots to your OLED screen!",
-      "category": "HYI - Tweaks",
-      "author": "Shyam Lad",
-      "commercial": false,
-      "date": "2018-07-08T04:08:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.2",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T01:38:42Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ladshyam.dots",
       "name": "Dots",
       "latest": "1.1.4",
@@ -12703,6 +12669,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.dotstweak",
+      "name": "Dots",
+      "latest": "1.1.2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.dotstweak/",
+      "shortDescription": "Add notification dots to your OLED screen!",
+      "category": "HYI - Tweaks",
+      "author": "Shyam Lad",
+      "commercial": false,
+      "date": "2018-07-08T04:08:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.2",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T01:38:42Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
             "bad": 0,
             "total": 2,
             "arch32": {
@@ -14539,22 +14539,22 @@
       ]
     },
     {
-      "id": "com.fizk.ffmpeg",
-      "name": "FFmpeg",
-      "latest": "16669.2009.18.02-2",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.fizk.ffmpeg/",
-      "shortDescription": "FFMpeg 0.11 compiled for iOS -- Includes x264 encoder.  This is a console app and does not include UI.    (Contact me for ffplay and other ffmpeg projects)",
+      "id": "com.nin9tyfour.ffmpeg",
+      "name": "ffmpeg",
+      "latest": "2.6.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.nin9tyfour.ffmpeg/",
+      "shortDescription": "ffmpeg video tools for iOS",
       "category": "Multimedia",
-      "author": "Yaniv Danan (hAcx)",
+      "author": "nin9tyfour",
       "commercial": false,
-      "date": "2018-08-24T15:55:09Z",
+      "date": "2018-08-24T16:01:45Z",
       "versions": [
         {
-          "tweakVersion": "16669.2009.18.02-2",
+          "tweakVersion": "2.6.1-1",
           "iOSVersion": "11.3",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-08-24T15:55:09Z",
+          "repository": "BigBoss",
+          "date": "2018-08-24T16:01:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -14573,22 +14573,22 @@
       ]
     },
     {
-      "id": "com.nin9tyfour.ffmpeg",
-      "name": "ffmpeg",
-      "latest": "2.6.1-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.nin9tyfour.ffmpeg/",
-      "shortDescription": "ffmpeg video tools for iOS",
+      "id": "com.fizk.ffmpeg",
+      "name": "FFmpeg",
+      "latest": "16669.2009.18.02-2",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.fizk.ffmpeg/",
+      "shortDescription": "FFMpeg 0.11 compiled for iOS -- Includes x264 encoder.  This is a console app and does not include UI.    (Contact me for ffplay and other ffmpeg projects)",
       "category": "Multimedia",
-      "author": "nin9tyfour",
+      "author": "Yaniv Danan (hAcx)",
       "commercial": false,
-      "date": "2018-08-24T16:01:45Z",
+      "date": "2018-08-24T15:55:09Z",
       "versions": [
         {
-          "tweakVersion": "2.6.1-1",
+          "tweakVersion": "16669.2009.18.02-2",
           "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-08-24T16:01:45Z",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-08-24T15:55:09Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -15485,22 +15485,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "11.3",
-          "repository": "Spica T Repo",
-          "date": "2018-07-29T01:04:10Z",
+          "repository": "BigBoss",
+          "date": "2018-07-18T02:36:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15519,22 +15519,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-18T02:36:15Z",
+          "repository": "Spica T Repo",
+          "date": "2018-07-29T01:04:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17233,6 +17233,39 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.dantesieg.hidelabels",
+      "name": "Hide Labels",
+      "latest": "0.0.1-10",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.dantesieg.hidelabels/",
+      "shortDescription": "Hide docked/undocked icon labels.",
+      "category": "Tweaks",
+      "author": "dantesieg",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-10",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-10-30T02:37:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -28020,7 +28053,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "6.7p1-13",
+      "latest": "7.7p1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -29554,6 +29587,39 @@
       ]
     },
     {
+      "id": "com.clezz.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "category": "Tweaks",
+      "author": "Ma Jun",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-07-19T04:37:47Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.qwertyuiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.0.0",
@@ -29574,39 +29640,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.clezz.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
-      "category": "Tweaks",
-      "author": "Ma Jun",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-19T04:37:47Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -30229,22 +30262,22 @@
       ]
     },
     {
-      "id": "iosgods.com.pubgmobilefree",
+      "id": "iosgods.com.pubgmobile",
       "name": "PUBG MOBILE Cheats",
-      "latest": "0.6.3",
+      "latest": "0.7.0",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobilefree/",
+      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobile/",
       "shortDescription": "PUBG MOBILE iGMM Cheats by 0xS14T3R & DiDA for iOSGods.com!",
       "category": "Tweaks",
       "author": "0xS14T3R & DiDA",
       "commercial": false,
-      "date": "2018-07-11T10:31:24Z",
+      "date": "2018-07-08T04:08:30Z",
       "versions": [
         {
-          "tweakVersion": "0.6.1",
+          "tweakVersion": "0.7.0",
           "iOSVersion": "11.3",
           "repository": "(null)",
-          "date": "2018-07-11T18:21:39Z",
+          "date": "2018-08-02T11:05:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30263,22 +30296,22 @@
       ]
     },
     {
-      "id": "iosgods.com.pubgmobile",
+      "id": "iosgods.com.pubgmobilefree",
       "name": "PUBG MOBILE Cheats",
-      "latest": "0.7.0",
+      "latest": "0.6.3",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobile/",
+      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobilefree/",
       "shortDescription": "PUBG MOBILE iGMM Cheats by 0xS14T3R & DiDA for iOSGods.com!",
       "category": "Tweaks",
       "author": "0xS14T3R & DiDA",
       "commercial": false,
-      "date": "2018-07-08T04:08:30Z",
+      "date": "2018-07-11T10:31:24Z",
       "versions": [
         {
-          "tweakVersion": "0.7.0",
+          "tweakVersion": "0.6.1",
           "iOSVersion": "11.3",
           "repository": "(null)",
-          "date": "2018-08-02T11:05:56Z",
+          "date": "2018-07-11T18:21:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30975,7 +31008,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.1.1",
+      "latest": "3.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -33315,22 +33348,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.smallccxi",
+      "id": "com.muirey03.smallccxi",
       "name": "SmallCCXI",
-      "latest": "1.0.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.smallccxi/",
+      "latest": "1.0.5",
+      "repository": "Stable Auxilium Repo",
+      "url": "http://cydia.saurik.com/package/com.muirey03.smallccxi/",
       "shortDescription": "Make the ios 11 Control Center smaller!",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Muirey03",
       "commercial": false,
-      "date": "2018-07-10T23:12:17Z",
+      "date": "2018-06-11T21:24:16Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T23:12:17Z",
+          "repository": "Stable Auxilium Repo",
+          "date": "2018-07-30T18:15:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33349,22 +33382,22 @@
       ]
     },
     {
-      "id": "com.muirey03.smallccxi",
+      "id": "com.hackyouriphone.smallccxi",
       "name": "SmallCCXI",
-      "latest": "1.0.5",
-      "repository": "Stable Auxilium Repo",
-      "url": "http://cydia.saurik.com/package/com.muirey03.smallccxi/",
+      "latest": "1.0.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.smallccxi/",
       "shortDescription": "Make the ios 11 Control Center smaller!",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Muirey03",
       "commercial": false,
-      "date": "2018-06-11T21:24:16Z",
+      "date": "2018-07-10T23:12:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "11.3",
-          "repository": "Stable Auxilium Repo",
-          "date": "2018-07-30T18:15:41Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T23:12:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -38709,40 +38742,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.videoplayerrotatable",
-      "name": "VideoPlayerRotatable",
-      "latest": "0.0.15",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.videoplayerrotatable/",
-      "shortDescription": "Disables rotation lock when the default video player starts playing and restores lock when it stops. You will need to quit and re-launch any app you want to use this in.",
-      "category": "HYI - Tweaks",
-      "author": "David Glinski",
-      "commercial": false,
-      "date": "2018-07-10T21:57:40Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.15",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T21:57:40Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nl.d4ni.videoplayerrotatable",
       "name": "VideoPlayerRotatable",
       "latest": "0.0.15",
@@ -38763,6 +38762,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.videoplayerrotatable",
+      "name": "VideoPlayerRotatable",
+      "latest": "0.0.15",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.videoplayerrotatable/",
+      "shortDescription": "Disables rotation lock when the default video player starts playing and restores lock when it stops. You will need to quit and re-launch any app you want to use this in.",
+      "category": "HYI - Tweaks",
+      "author": "David Glinski",
+      "commercial": false,
+      "date": "2018-07-10T21:57:40Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.15",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T21:57:40Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -39205,7 +39238,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.66",
+      "latest": "1.0.67",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -39349,6 +39382,39 @@
       ]
     },
     {
+      "id": "be.submanifold.weatherlock",
+      "name": "WeatherLock",
+      "latest": "0.1.13",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
+      "shortDescription": "animated weather background on the lock screen",
+      "category": "Tweaks",
+      "author": "rainwolf",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "0.1.13",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-08-04T01:03:16Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "be.submanifold.weatherlock11",
       "name": "WeatherLock",
       "latest": "0.0.1-95+debug",
@@ -39369,39 +39435,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "be.submanifold.weatherlock",
-      "name": "WeatherLock",
-      "latest": "0.1.13",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
-      "shortDescription": "animated weather background on the lock screen",
-      "category": "Tweaks",
-      "author": "rainwolf",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "0.1.13",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-08-04T01:03:16Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -40333,7 +40366,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc6",
+      "latest": "0.4rc7",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -40475,7 +40508,7 @@
     {
       "id": "lzma",
       "name": "XZ Utils",
-      "latest": "4.32.7-5",
+      "latest": "5.2.3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
