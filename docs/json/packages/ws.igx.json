@@ -222,12 +222,12 @@
       },
       "users": [
         {
-          "status": "partial",
+          "status": "working",
           "device": "iPhone7,1",
-          "issues": "Only works on version 0.0.1 not v .2",
-          "date": "2018-10-26T06:16:22Z",
+          "issues": "",
+          "date": "2018-10-29T23:42:30Z",
           "userName": "moonshinejeff",
-          "issueNumber": 53976,
+          "issueNumber": 54251,
           "arch32": false
         }
       ]
