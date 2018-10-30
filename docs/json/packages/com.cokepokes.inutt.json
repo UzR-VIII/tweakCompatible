@@ -1,7 +1,7 @@
 {
   "id": "com.cokepokes.inutt",
   "name": "iNutt",
-  "latest": "1.1",
+  "latest": "1.1.1-1",
   "repository": "CokePokes",
   "url": "http://cydia.saurik.com/package/com.cokepokes.inutt/",
   "shortDescription": "Search/download corn from four different corn sites!",
@@ -99,6 +99,37 @@
           "date": "2018-10-29T17:33:46Z",
           "userName": "mrhankypanky2",
           "issueNumber": 54217,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1-1",
+      "iOSVersion": "11.3.1",
+      "repository": "CokePokes",
+      "date": "2018-10-30T01:45:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-10-30T01:45:45Z",
+          "userName": "Jonanien",
+          "issueNumber": 54255,
           "arch32": false
         }
       ]
