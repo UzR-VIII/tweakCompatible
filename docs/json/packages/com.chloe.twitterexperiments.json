@@ -1,7 +1,7 @@
 {
   "id": "com.chloe.twitterexperiments",
   "name": "TwitterExperiments",
-  "latest": "1.1.5",
+  "latest": "1.1.6",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.chloe.twitterexperiments/",
   "shortDescription": "TwitterExperiments",
@@ -192,6 +192,37 @@
           "date": "2018-10-01T00:45:11Z",
           "userName": "talalaq",
           "issueNumber": 51983,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.6",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-10-30T15:09:46Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "No settings pane for tweak",
+          "date": "2018-10-30T15:09:46Z",
+          "userName": "mohitt01p",
+          "issueNumber": 54279,
           "arch32": false
         }
       ]
