@@ -78,11 +78,11 @@
       "repository": "BigBoss",
       "date": "2018-07-10T16:54:32Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2018-07-10T16:54:32Z",
           "userName": "PimpsUpHoesDown",
           "issueNumber": 20803,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "video speed not changing in safari nor other video apps",
+          "date": "2018-10-31T17:26:01Z",
+          "userName": "cafrew",
+          "issueNumber": 54317,
           "arch32": false
         }
       ]
