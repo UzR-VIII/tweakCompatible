@@ -37,7 +37,7 @@
     {
       "id": "p7zip",
       "name": "7-zip (POSIX)",
-      "latest": "4.57-3p",
+      "latest": "16.02-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/p7zip/",
       "shortDescription": "claims to be a good compressor",
@@ -270,40 +270,6 @@
       ]
     },
     {
-      "id": "com.polytweaks.aerial",
-      "name": "Aerial",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
-      "shortDescription": "Colour your status bar icons!",
-      "category": "Messaging",
-      "author": "Surenix",
-      "commercial": true,
-      "date": "2018-03-12T02:25:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "11.1.1",
-          "repository": "BigBoss",
-          "date": "2018-10-11T20:15:09Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.aerial",
       "name": "Aerial",
       "latest": "1.1",
@@ -324,6 +290,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.polytweaks.aerial",
+      "name": "Aerial",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
+      "shortDescription": "Colour your status bar icons!",
+      "category": "Messaging",
+      "author": "Surenix",
+      "commercial": true,
+      "date": "2018-03-12T02:25:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.1.1",
+          "repository": "BigBoss",
+          "date": "2018-10-11T20:15:09Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -1091,6 +1091,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.appadmin",
+      "name": "App Admin",
+      "latest": "1.0r-71",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.appadmin/",
+      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
+      "category": "النظام iOS 10 ę 9",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2018-03-16T03:40:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0r-71",
+          "iOSVersion": "11.1.1",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-16T03:40:01Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
       "latest": "1.0r-101",
@@ -1160,40 +1194,6 @@
           "iOSVersion": "11.1.1",
           "repository": "repo.biteyourapple.net",
           "date": "2018-03-12T11:42:10Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.appadmin",
-      "name": "App Admin",
-      "latest": "1.0r-71",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.appadmin/",
-      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
-      "category": "النظام iOS 10 ę 9",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2018-03-16T03:40:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0r-71",
-          "iOSVersion": "11.1.1",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-16T03:40:01Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -1533,7 +1533,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -1587,7 +1587,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1935,6 +1935,39 @@
       ]
     },
     {
+      "id": "me.autotouch.autotouch.ios8",
+      "name": "AutoTouch",
+      "latest": "4.3.7",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
+      "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
+      "category": "Tweaks",
+      "author": "Kent Krantz",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "4.3.7",
+          "iOSVersion": "11.1.1",
+          "repository": "BigBoss",
+          "date": "2018-10-31T21:52:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.gilshahar7.avlock",
       "name": "AVLock",
       "latest": "1.0.1",
@@ -2132,7 +2165,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-1",
+      "latest": "1-4",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -4134,40 +4167,6 @@
       ]
     },
     {
-      "id": "com.ikilledappl3.ccwallcustomizer2",
-      "name": "CCWallCustomizer 2",
-      "latest": "2.0.1-1",
-      "repository": "ToxicAppl3 Inc. Repository",
-      "url": "http://cydia.saurik.com/package/com.ikilledappl3.ccwallcustomizer2/",
-      "shortDescription": "change the background of the control center on iOS 11+",
-      "category": "Tweaks",
-      "author": "iKilledAppl3",
-      "commercial": false,
-      "date": "2018-03-05T22:43:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0-1",
-          "iOSVersion": "11.1.1",
-          "repository": "ToxicAppl3 Inc. Repository",
-          "date": "2018-03-12T19:41:28Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.ccwallcustomizer2",
       "name": "CCWallCustomizer 2",
       "latest": "2.0-1",
@@ -4188,6 +4187,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ikilledappl3.ccwallcustomizer2",
+      "name": "CCWallCustomizer 2",
+      "latest": "2.0.1-1",
+      "repository": "ToxicAppl3 Inc. Repository",
+      "url": "http://cydia.saurik.com/package/com.ikilledappl3.ccwallcustomizer2/",
+      "shortDescription": "change the background of the control center on iOS 11+",
+      "category": "Tweaks",
+      "author": "iKilledAppl3",
+      "commercial": false,
+      "date": "2018-03-05T22:43:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0-1",
+          "iOSVersion": "11.1.1",
+          "repository": "ToxicAppl3 Inc. Repository",
+          "date": "2018-03-12T19:41:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -5322,7 +5355,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.30-1",
+      "latest": "8.12-13",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -5604,7 +5637,7 @@
     {
       "id": "curl",
       "name": "cURL",
-      "latest": "7.61.0-1",
+      "latest": "7.59.0-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/curl/",
       "shortDescription": "flexible multi-protocol file transfers",
@@ -5807,10 +5840,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b6",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -5900,7 +5933,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.1.12",
+      "latest": "1.1.32~b1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -6100,7 +6133,7 @@
     {
       "id": "com.foxfort.darksounds",
       "name": "DarkSounds",
-      "latest": "1.0.1",
+      "latest": "1.0.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.darksounds/",
       "shortDescription": "Dark mode for Apple Music",
@@ -6977,22 +7010,21 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.easyswitcherx",
+      "id": "com.spark.easyswitcherx",
       "name": "EasySwitcherX [Public]",
       "latest": "0.0.4-5",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.easyswitcherx/",
+      "repository": "Spark's Beta Repo",
+      "url": "http://beta.sparkservers.co.uk/",
       "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Spark",
       "commercial": false,
-      "date": "2018-07-08T08:22:06Z",
       "versions": [
         {
           "tweakVersion": "0.0.4-5",
           "iOSVersion": "11.1.1",
-          "repository": "BiteYourApple",
-          "date": "2018-07-09T05:50:14Z",
+          "repository": "Spark's Beta Repo",
+          "date": "2018-07-17T05:05:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7011,21 +7043,22 @@
       ]
     },
     {
-      "id": "com.spark.easyswitcherx",
+      "id": "repo.biteyourapple.net.easyswitcherx",
       "name": "EasySwitcherX [Public]",
       "latest": "0.0.4-5",
-      "repository": "Spark's Beta Repo",
-      "url": "http://beta.sparkservers.co.uk/",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.easyswitcherx/",
       "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
-      "category": "Tweaks",
-      "author": "Spark",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
+      "date": "2018-07-08T08:22:06Z",
       "versions": [
         {
           "tweakVersion": "0.0.4-5",
           "iOSVersion": "11.1.1",
-          "repository": "Spark's Beta Repo",
-          "date": "2018-07-17T05:05:22Z",
+          "repository": "BiteYourApple",
+          "date": "2018-07-09T05:50:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7080,7 +7113,7 @@
     {
       "id": "me.gmoran.eclipsex",
       "name": "Eclipse X Beta 7 (iOS 11)",
-      "latest": "5.1.4",
+      "latest": "5.1.6",
       "repository": "GMoran Beta Software",
       "url": "http://gmoran.me/repo/",
       "shortDescription": "System-wide Night Mode and more for iOS 11.",
@@ -7804,10 +7837,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-4",
+      "latest": "3.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -8211,7 +8244,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta49",
+      "latest": "3~Beta50",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -8566,40 +8599,6 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
-      "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
-      "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-2",
-          "iOSVersion": "11.1.1",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-03-02T10:31:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
       "latest": "1.1",
@@ -8622,6 +8621,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cabralcole.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "category": "Tweaks",
+      "author": "cole cabral @ca13ra1",
+      "commercial": false,
+      "date": "2018-03-01T20:00:33Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-2",
+          "iOSVersion": "11.1.1",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-03-02T10:31:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -9015,7 +9048,7 @@
     {
       "id": "grep",
       "name": "grep",
-      "latest": "2.5.4-3",
+      "latest": "3.1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/grep/",
       "shortDescription": "searches files for regular expressions",
@@ -9103,7 +9136,7 @@
     {
       "id": "gzip",
       "name": "gzip",
-      "latest": "1.6-7",
+      "latest": "1.9-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gzip/",
       "shortDescription": "the standard Unix compression algorithm",
@@ -9844,7 +9877,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-195",
+      "latest": "1.8r-197",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -10386,7 +10419,7 @@
     {
       "id": "libksba",
       "name": "KSBA",
-      "latest": "1.3.5",
+      "latest": "1.3.5-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/libksba/",
       "shortDescription": "GnuPG's certification management library",
@@ -10673,7 +10706,7 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.0.1",
+      "latest": "1.0.4",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
       "shortDescription": "An awesome Preference Library!",
@@ -10936,7 +10969,7 @@
     {
       "id": "me.alfhaily.rocket.lib",
       "name": "libRocket",
-      "latest": "1.0.2",
+      "latest": "1.0.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket.lib/",
       "shortDescription": "A library used by Rocket tweak",
@@ -12811,7 +12844,7 @@
     {
       "id": "net.limneos.nfcwriterx",
       "name": "NFCWriter X",
-      "latest": "0.1-125",
+      "latest": "0.3-33",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
       "shortDescription": "NFCWriter X for iOS",
@@ -13243,22 +13276,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
+      "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
       "category": "Tweaks",
-      "author": "Adam Seiter",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
+      "date": "2018-03-08T05:57:18Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.1.1",
-          "repository": "SEITERSEITER's Repo",
-          "date": "2018-03-01T19:59:25Z",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-08-23T08:33:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13277,22 +13310,22 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
+      "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
       "category": "Tweaks",
-      "author": "CoolStar",
+      "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
+      "date": "2018-03-01T19:59:25Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.1.1",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-08-23T08:33:54Z",
+          "repository": "SEITERSEITER's Repo",
+          "date": "2018-03-01T19:59:25Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14399,7 +14432,7 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2n",
+      "latest": "1.0.2o-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
       "shortDescription": "SSL library and cryptographic tools",
@@ -15246,7 +15279,7 @@
     {
       "id": "com.ichitaso.powerselector11",
       "name": "PowerSelector (CCSuport)",
-      "latest": "1.1-5",
+      "latest": "1.1-3",
       "repository": "ichitaso repository",
       "url": "http://cydia.saurik.com/package/com.ichitaso.powerselector11/",
       "shortDescription": "The power supply relation of a device is operated.",
@@ -15621,22 +15654,22 @@
       ]
     },
     {
-      "id": "com.jakeashacks.realcc",
+      "id": "com.hackyouriphone.realcc",
       "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
-      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
-      "category": "Tweaks",
-      "author": "Jake James",
+      "latest": "0.0.4-1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.realcc/",
+      "shortDescription": "‫‬Close Wi-Fi and Bluetooth from the control center without having to enter the settings for the release 11",
+      "category": "HYI - Tweaks",
+      "author": "System Administrator",
       "commercial": false,
-      "date": "2018-07-11T02:33:10Z",
+      "date": "2018-03-02T03:30:00Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "0.0.4-1",
           "iOSVersion": "11.1.1",
-          "repository": "BigBoss",
-          "date": "2018-07-31T20:35:23Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T23:47:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15655,22 +15688,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.realcc",
+      "id": "com.jakeashacks.realcc",
       "name": "RealCC",
-      "latest": "0.0.4-1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.realcc/",
-      "shortDescription": "‫‬Close Wi-Fi and Bluetooth from the control center without having to enter the settings for the release 11",
-      "category": "HYI - Tweaks",
-      "author": "System Administrator",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
+      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
+      "category": "Tweaks",
+      "author": "Jake James",
       "commercial": false,
-      "date": "2018-03-02T03:30:00Z",
+      "date": "2018-07-11T02:33:10Z",
       "versions": [
         {
-          "tweakVersion": "0.0.4-1",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.1.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T23:47:37Z",
+          "repository": "BigBoss",
+          "date": "2018-07-31T20:35:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15791,6 +15824,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.respringprogress",
+      "name": "RespringProgress",
+      "latest": "1.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.respringprogress/",
+      "shortDescription": "progress bar for respring & reboot",
+      "category": "Tweaks",
+      "author": "wizages",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.3",
+          "iOSVersion": "11.1.1",
+          "repository": "BigBoss",
+          "date": "2018-02-27T23:21:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.respringprogress",
       "name": "RespringProgress",
       "latest": "1.3",
@@ -15825,42 +15891,9 @@
       ]
     },
     {
-      "id": "org.thebigboss.respringprogress",
-      "name": "RespringProgress",
-      "latest": "1.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.respringprogress/",
-      "shortDescription": "progress bar for respring & reboot",
-      "category": "Tweaks",
-      "author": "wizages",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.3",
-          "iOSVersion": "11.1.1",
-          "repository": "BigBoss",
-          "date": "2018-02-27T23:21:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.1.0",
+      "latest": "3.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -16675,7 +16708,7 @@
     {
       "id": "shell-cmds",
       "name": "shell-cmds",
-      "latest": "118-7",
+      "latest": "118-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/shell-cmds/",
       "shortDescription": "killall, mktemp, renice, time, which",
@@ -17017,7 +17050,7 @@
     {
       "id": "com.cydiageek.skinnysettings",
       "name": "SkinnySettings",
-      "latest": "1.2.3",
+      "latest": "1.2.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.skinnysettings/",
       "shortDescription": "Make your Settings Minimal/Sleek & More!",
@@ -17368,10 +17401,10 @@
     {
       "id": "com.smokin1337.smartlpm",
       "name": "SmartLPM",
-      "latest": "1.2.0-2",
+      "latest": "1.3.0-1",
       "repository": "smokin1337's Repo",
       "url": "http://cydia.saurik.com/package/com.smokin1337.smartlpm/",
-      "shortDescription": "A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....",
+      "shortDescription": "A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging.",
       "category": "Tweaks",
       "author": "smokin1337",
       "commercial": false,
@@ -18491,10 +18524,10 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1",
+      "latest": "2.0.0-1216+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
-      "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
+      "shortDescription": "System information Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
       "category": "Tweaks",
       "author": "ARX8x",
       "commercial": false,
@@ -18544,7 +18577,7 @@
     {
       "id": "system-cmds",
       "name": "system-cmds",
-      "latest": "433.8-14",
+      "latest": "790.30.1-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/system-cmds/",
       "shortDescription": "iostat, login, passwd, sync, sysctl",
@@ -18611,7 +18644,7 @@
     {
       "id": "tar",
       "name": "Tape Archive",
-      "latest": "1.30",
+      "latest": "1.30-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/tar/",
       "shortDescription": "tool for making tape archives",
@@ -18645,10 +18678,10 @@
     {
       "id": "com.cpdigitaldarkroom.taptapflip",
       "name": "TapTapFlip",
-      "latest": "1.3.3",
+      "latest": "1.4.2",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
-      "shortDescription": "Two taps to flip camera!",
+      "shortDescription": "Double tap to flip camera",
       "category": "Tweaks",
       "author": "CP Digital Darkroom",
       "commercial": false,
@@ -19238,6 +19271,39 @@
       ]
     },
     {
+      "id": "co.dynastic.tsssaver",
+      "name": "TSS Saver",
+      "latest": "1.2.0",
+      "repository": "nullpixel's Repo",
+      "url": "https://repo.nullpixel.uk/",
+      "shortDescription": "A one-click tool to save blobs using TSSsaver.1conan.com",
+      "category": "Utilities",
+      "author": "nullpixel",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "11.1.1",
+          "repository": "nullpixel's Repo",
+          "date": "2018-02-28T16:54:56Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.tsssaver",
       "name": "TSS Saver",
       "latest": "1.2.0",
@@ -19258,39 +19324,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "co.dynastic.tsssaver",
-      "name": "TSS Saver",
-      "latest": "1.2.0",
-      "repository": "nullpixel's Repo",
-      "url": "https://repo.nullpixel.uk/",
-      "shortDescription": "A one-click tool to save blobs using TSSsaver.1conan.com",
-      "category": "Utilities",
-      "author": "nullpixel",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "11.1.1",
-          "repository": "nullpixel's Repo",
-          "date": "2018-02-28T16:54:56Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -19838,7 +19871,7 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.12",
+      "latest": "1.1.13-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
       "shortDescription": "UIKit/GraphicsServices command line access",
@@ -19940,7 +19973,7 @@
     {
       "id": "unrar",
       "name": "unrar",
-      "latest": "3.6.8-2p",
+      "latest": "5.6.4-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unrar/",
       "shortDescription": "de-compresses files in rar format",
@@ -20028,7 +20061,7 @@
     {
       "id": "unzip",
       "name": "unzip",
-      "latest": "5.52-6",
+      "latest": "6.0-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unzip/",
       "shortDescription": "de-compesses files in zip format",
@@ -20663,7 +20696,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.62",
+      "latest": "1.0.67",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -21053,7 +21086,7 @@
     {
       "id": "com.oly.xb-ccmodules",
       "name": "XB-CCModules",
-      "latest": "1.7.1",
+      "latest": "1.8",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.oly.xb-ccmodules/",
       "shortDescription": "CC Connectivity replacement with settings!",
@@ -21121,7 +21154,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc6",
+      "latest": "0.4rc7-1",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -21155,7 +21188,7 @@
     {
       "id": "lzma",
       "name": "XZ Utils",
-      "latest": "4.32.7-5",
+      "latest": "5.2.3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
@@ -21377,7 +21410,7 @@
     {
       "id": "zip",
       "name": "zip",
-      "latest": "2.32-6",
+      "latest": "2.32-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/zip/",
       "shortDescription": "standard Windows compression tool",
