@@ -1,7 +1,7 @@
 {
   "id": "io.smacpats.emojiportinstaller",
   "name": "EmojiPortInstaller",
-  "latest": "1.0.4",
+  "latest": "1.0.5",
   "repository": "Smacpats’ Repo",
   "url": "http://cydia.saurik.com/package/io.smacpats.emojiportinstaller/",
   "shortDescription": "Install emojiport and iOS 12.1 emojis automatically",
@@ -277,6 +277,37 @@
           "date": "2018-10-24T08:06:31Z",
           "userName": "MattieThurlow96",
           "issueNumber": 53745,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.5",
+      "iOSVersion": "11.3.1",
+      "repository": "Smacpats’ Repo",
+      "date": "2018-10-31T20:12:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-10-31T20:12:11Z",
+          "userName": "smacpats",
+          "issueNumber": 54328,
           "arch32": false
         }
       ]
