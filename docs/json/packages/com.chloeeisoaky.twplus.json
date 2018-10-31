@@ -1,7 +1,7 @@
 {
   "id": "com.chloeeisoaky.twplus",
   "name": "TWPlus",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.chloeeisoaky.twplus/",
   "shortDescription": "TWPlus Tweak for Twitter to download Videos and more",
@@ -86,6 +86,37 @@
           "date": "2018-10-29T01:32:09Z",
           "userName": "DeadlySkull",
           "issueNumber": 54188,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-10-31T07:10:59Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Doesn’t download videos . ",
+          "date": "2018-10-31T07:10:59Z",
+          "userName": "iTollMouS",
+          "issueNumber": 54305,
           "arch32": false
         }
       ]
