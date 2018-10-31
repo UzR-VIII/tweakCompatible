@@ -1291,6 +1291,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.artsy",
+      "name": "Artsy",
+      "latest": "0.0.4-8+debug",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
+      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
+      "category": "HYI - Tweaks",
+      "author": "Maxwell Dausch",
+      "commercial": false,
+      "date": "2018-07-07T08:14:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-8+debug",
+          "iOSVersion": "11.2.2",
+          "repository": "(null)",
+          "date": "2018-08-12T11:04:09Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
       "latest": "1.2",
@@ -1333,40 +1367,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.artsy",
-      "name": "Artsy",
-      "latest": "0.0.4-8+debug",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.artsy/",
-      "shortDescription": "Modify the Lockscreen, CC, Spotify, and Music app now playing views based on the album artwork.",
-      "category": "HYI - Tweaks",
-      "author": "Maxwell Dausch",
-      "commercial": false,
-      "date": "2018-07-07T08:14:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4-8+debug",
-          "iOSVersion": "11.2.2",
-          "repository": "(null)",
-          "date": "2018-08-12T11:04:09Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6934,7 +6934,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-195",
+      "latest": "1.8r-196",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -7856,28 +7856,28 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
+      "id": "com.mogui666.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "latest": "2.0",
+      "repository": "mogui666",
+      "url": "http://cydia.saurik.com/package/com.mogui666.localiapstore/",
+      "shortDescription": "Free In-App-Purchases for most apps, supports all devices, iOS 5.1.1 - 11.x.x +",
       "category": "Tweaks",
-      "author": "anondev",
+      "author": "mogui666",
       "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
+      "date": "2018-08-03T13:29:17Z",
       "versions": [
         {
-          "tweakVersion": "1.4-2",
+          "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
-          "repository": "Xarold Repo",
-          "date": "2018-07-08T17:01:29Z",
+          "repository": "mogui666",
+          "date": "2018-08-03T13:29:17Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
-            "total": 2,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -7924,28 +7924,28 @@
       ]
     },
     {
-      "id": "com.mogui666.localiapstore",
+      "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "2.0",
-      "repository": "mogui666",
-      "url": "http://cydia.saurik.com/package/com.mogui666.localiapstore/",
-      "shortDescription": "Free In-App-Purchases for most apps, supports all devices, iOS 5.1.1 - 11.x.x +",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
       "category": "Tweaks",
-      "author": "mogui666",
+      "author": "anondev",
       "commercial": false,
-      "date": "2018-08-03T13:29:17Z",
+      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
-          "tweakVersion": "2.0",
+          "tweakVersion": "1.4-2",
           "iOSVersion": "11.2.2",
-          "repository": "mogui666",
-          "date": "2018-08-03T13:29:17Z",
+          "repository": "Xarold Repo",
+          "date": "2018-07-08T17:01:29Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8282,22 +8282,22 @@
       ]
     },
     {
-      "id": "com.sileoturkiye.luxury10",
+      "id": "sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-03T18:58:54Z",
+      "date": "2018-08-08T08:41:22Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-03T18:58:54Z",
+          "date": "2018-08-08T08:41:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8316,22 +8316,22 @@
       ]
     },
     {
-      "id": "sileoturkiye.luxury10",
+      "id": "com.sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-08T08:41:22Z",
+      "date": "2018-08-03T18:58:54Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-08T08:41:22Z",
+          "date": "2018-08-03T18:58:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10404,7 +10404,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-92",
+      "latest": "2.0r-93",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -11134,7 +11134,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.1.1",
+      "latest": "3.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -11792,6 +11792,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.imkpatil.silentrecorder",
+      "name": "SilentRecorder",
+      "latest": "1.4",
+      "repository": "Kiran Patil's Repo",
+      "url": "http://cydia.saurik.com/package/com.imkpatil.silentrecorder/",
+      "shortDescription": "Record the screen without the Red Indicator Window!",
+      "category": "Tweaks",
+      "author": "Kiran Patil",
+      "commercial": false,
+      "date": "2018-04-10T03:14:32Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "11.2.2",
+          "repository": "BigBoss",
+          "date": "2018-10-31T12:10:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
