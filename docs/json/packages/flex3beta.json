@@ -1948,11 +1948,11 @@
       "repository": "Delta",
       "date": "2018-10-24T17:14:54Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1978,6 +1978,15 @@
           "date": "2018-10-25T03:00:55Z",
           "userName": "burkybang",
           "issueNumber": 53915,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-10-31T16:05:04Z",
+          "userName": "soum91",
+          "issueNumber": 54312,
           "arch32": false
         }
       ]
