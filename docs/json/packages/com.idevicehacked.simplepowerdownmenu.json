@@ -17,10 +17,10 @@
       "date": "2018-07-14T09:09:37Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -91,6 +91,15 @@
           "date": "2018-08-24T02:01:25Z",
           "userName": "MaXimumLava",
           "issueNumber": 46693,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-11-01T00:04:48Z",
+          "userName": "f-steff",
+          "issueNumber": 54347,
           "arch32": false
         }
       ]
