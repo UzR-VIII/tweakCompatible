@@ -265,10 +265,10 @@
       "date": "2018-07-11T01:31:32Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "percentage": 66,
+        "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -321,6 +321,15 @@
           "date": "2018-10-14T22:20:37Z",
           "userName": "greenking2000",
           "issueNumber": 53045,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Work in iphone 7 11.3.1,integrate facebook,twitter and else",
+          "date": "2018-11-01T09:01:18Z",
+          "userName": "tarles88",
+          "issueNumber": 54370,
           "arch32": false
         }
       ]
