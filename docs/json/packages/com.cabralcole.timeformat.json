@@ -214,17 +214,17 @@
       "repository": "BigBoss",
       "date": "2018-05-10T07:08:31Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
-          "total": 0,
-          "good": 0,
+          "total": 1,
+          "good": 1,
           "bad": 0,
-          "percentage": 0,
-          "calculatedStatus": "Unknown"
+          "percentage": 100,
+          "calculatedStatus": "Working"
         }
       },
       "users": [
@@ -236,6 +236,15 @@
           "userName": "Goldvag",
           "issueNumber": 11437,
           "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,3",
+          "issues": "",
+          "date": "2018-11-01T09:32:16Z",
+          "userName": "natwella",
+          "issueNumber": 54372,
+          "arch32": true
         }
       ]
     },
