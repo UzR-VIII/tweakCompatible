@@ -119,10 +119,10 @@
       "date": "2018-09-30T16:33:19Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -166,6 +166,15 @@
           "date": "2018-10-28T17:05:39Z",
           "userName": "peace0224",
           "issueNumber": 54174,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Was working on electra, no longer working on unc0ver ",
+          "date": "2018-11-01T00:47:43Z",
+          "userName": "SOZIKILLYOUZ",
+          "issueNumber": 54358,
           "arch32": false
         }
       ]
