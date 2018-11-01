@@ -115,10 +115,10 @@
       "date": "2018-07-08T00:47:59Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 10,
+        "percentage": 84,
+        "good": 11,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -234,6 +234,15 @@
           "date": "2018-08-17T00:31:02Z",
           "userName": "x3a9m",
           "issueNumber": 44416,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "the button lights up if vpn is up, and status bar shows vpn icon, so doesn’t need notification.",
+          "date": "2018-11-01T06:02:31Z",
+          "userName": "cafrew",
+          "issueNumber": 54367,
           "arch32": false
         }
       ]
