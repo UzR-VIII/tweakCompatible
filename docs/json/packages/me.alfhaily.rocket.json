@@ -3590,9 +3590,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3609,6 +3609,15 @@
           "date": "2018-10-29T23:45:59Z",
           "userName": "Nawaf-NM",
           "issueNumber": 54252,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Fails after few downloads then attempts ",
+          "date": "2018-11-01T00:33:46Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54354,
           "arch32": false
         }
       ]
