@@ -17,10 +17,10 @@
       "date": "2018-08-07T02:02:15Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 92,
-        "good": 13,
+        "percentage": 93,
+        "good": 14,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -154,6 +154,15 @@
           "date": "2018-09-06T09:53:21Z",
           "userName": "lewii0701",
           "issueNumber": 49469,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "may not be fully compatible with FullFolder on 11.3.1 = Springboard and folder icons are mixed in the pic in the App picker. ",
+          "date": "2018-11-01T00:10:53Z",
+          "userName": "f-steff",
+          "issueNumber": 54349,
           "arch32": false
         }
       ]
