@@ -1446,7 +1446,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -1480,7 +1480,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1676,7 +1676,7 @@
     {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
-      "latest": "4.3.8",
+      "latest": "4.3.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
       "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -1792,7 +1792,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-1",
+      "latest": "1-4",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -4954,7 +4954,7 @@
       "latest": "1.0",
       "repository": "EmojiPort Fonts Repo",
       "url": "http://cydia.saurik.com/package/com.ps-vxbakerxv.emoji121fontefm/",
-      "shortDescription": "iOS 7-11",
+      "shortDescription": "EmojiFontManager",
       "category": "EFM Fonts",
       "author": "PoomSmart & vXBaKeRXv",
       "commercial": false,
@@ -5182,7 +5182,7 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2.2f",
+      "latest": "1.2.2g",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -5234,6 +5234,26 @@
           "iOSVersion": "10.1.1",
           "repository": "PoomSmart's Repo",
           "date": "2018-10-26T15:17:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.2g",
+          "iOSVersion": "10.1.1",
+          "repository": "PoomSmart's Repo",
+          "date": "2018-11-01T19:12:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7235,7 +7255,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-195",
+      "latest": "1.8r-197",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -10480,7 +10500,7 @@
     {
       "id": "com.f0u4d.onlinenotify",
       "name": "OnlineNotify",
-      "latest": "2.3.20",
+      "latest": "2.3.22",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
       "shortDescription": "Track you friends on WhatsApp Messenger!",
@@ -12928,7 +12948,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.0.1",
+      "latest": "1.0.2-2",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -13996,10 +14016,10 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1",
+      "latest": "2.0.0-1216+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
-      "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
+      "shortDescription": "System information Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
       "category": "Tweaks",
       "author": "ARX8x",
       "commercial": false,
@@ -15437,7 +15457,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.65",
+      "latest": "1.0.67",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -15509,7 +15529,7 @@
     {
       "id": "com.f0u4d.watusitools",
       "name": "WatusiTools",
-      "latest": "1.5.4",
+      "latest": "1.5.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.f0u4d.watusitools/",
       "shortDescription": "Library for Watusi and WhatsApp tweaks",
@@ -15838,7 +15858,7 @@
     {
       "id": "lzma",
       "name": "XZ Utils",
-      "latest": "4.32.7-5",
+      "latest": "5.2.3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
