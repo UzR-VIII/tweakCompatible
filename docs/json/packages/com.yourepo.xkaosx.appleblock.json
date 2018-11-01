@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-08-10T01:07:13Z",
           "userName": "xkaosx",
           "issueNumber": 41255,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Works. But settings still have a red counter, indicating an upgrade is available. ",
+          "date": "2018-11-01T00:01:40Z",
+          "userName": "f-steff",
+          "issueNumber": 54343,
           "arch32": false
         }
       ]
