@@ -78,11 +78,11 @@
       "repository": "nullpixel's Repo",
       "date": "2018-07-07T20:20:20Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -108,6 +108,15 @@
           "date": "2018-07-09T20:28:23Z",
           "userName": "RealistRBN",
           "issueNumber": 19430,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Doesn’t allow me to remove the auto lock on iOS 11.3",
+          "date": "2018-11-01T17:56:39Z",
+          "userName": "SonicLover1996",
+          "issueNumber": 54384,
           "arch32": false
         }
       ]
