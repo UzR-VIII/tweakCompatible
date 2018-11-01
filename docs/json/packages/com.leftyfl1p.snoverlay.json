@@ -176,9 +176,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -204,6 +204,15 @@
           "date": "2018-10-13T17:25:09Z",
           "userName": "xFahrenheightx",
           "issueNumber": 52946,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-11-01T01:42:40Z",
+          "userName": "pigeon-man",
+          "issueNumber": 54360,
           "arch32": false
         }
       ]
