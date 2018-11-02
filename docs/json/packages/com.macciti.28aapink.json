@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-11-02T20:15:21Z",
           "userName": "missfunkenflug",
           "issueNumber": 54456,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad4,2",
+          "issues": "",
+          "date": "2018-11-02T20:14:18Z",
+          "userName": "missfunkenflug",
+          "issueNumber": 54455,
           "arch32": false
         }
       ]
