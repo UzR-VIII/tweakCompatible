@@ -254,10 +254,10 @@
       "date": "2018-07-18T19:31:41Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 87,
         "good": 7,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -328,6 +328,15 @@
           "date": "2018-10-20T19:53:50Z",
           "userName": "baebrum",
           "issueNumber": 53491,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Keeps working even after uninstall and restarting, rejb. Can’t get rid of it. ",
+          "date": "2018-11-02T04:37:23Z",
+          "userName": "cafrew",
+          "issueNumber": 54423,
           "arch32": false
         }
       ]
