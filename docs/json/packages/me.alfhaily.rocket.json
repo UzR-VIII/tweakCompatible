@@ -3590,9 +3590,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3618,6 +3618,15 @@
           "date": "2018-11-01T00:33:46Z",
           "userName": "Passsenger57",
           "issueNumber": 54354,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Freezes when pressing on some people stories! Ig version: 69.0 ",
+          "date": "2018-11-02T19:55:09Z",
+          "userName": "yaserFA",
+          "issueNumber": 54451,
           "arch32": false
         }
       ]
