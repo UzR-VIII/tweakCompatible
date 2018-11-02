@@ -311,21 +311,22 @@
       ]
     },
     {
-      "id": "me.alfhaily.adblockforyoutube",
+      "id": "com.hackyouriphone.adblockforyoutube",
       "name": "AdBlock for YouTube",
-      "latest": "1.0.7",
-      "repository": "Alfhaily APT",
-      "url": "https://apt.alfhaily.me/",
+      "latest": "1.0.5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.adblockforyoutube/",
       "shortDescription": "Block YouTube Ads and Video Ads",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
+      "date": "2018-04-08T08:33:16Z",
       "versions": [
         {
-          "tweakVersion": "1.0.7",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "11.0.3",
-          "repository": "Alfhaily APT",
-          "date": "2018-03-14T22:35:52Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-04-08T08:33:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -344,22 +345,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.adblockforyoutube",
+      "id": "me.alfhaily.adblockforyoutube",
       "name": "AdBlock for YouTube",
-      "latest": "1.0.5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.adblockforyoutube/",
+      "latest": "1.0.7",
+      "repository": "Alfhaily APT",
+      "url": "https://apt.alfhaily.me/",
       "shortDescription": "Block YouTube Ads and Video Ads",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
-      "date": "2018-04-08T08:33:16Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.7",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-04-08T08:33:16Z",
+          "repository": "Alfhaily APT",
+          "date": "2018-03-14T22:35:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1707,21 +1707,22 @@
       ]
     },
     {
-      "id": "com.julioverne.autoshiftfix",
+      "id": "com.repo.xarold.com.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "julioverne's Repo",
-          "date": "2018-04-22T20:40:47Z",
+          "repository": "(null)",
+          "date": "2018-04-12T01:48:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1740,22 +1741,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.autoshiftfix",
+      "id": "com.julioverne.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T01:48:26Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-04-22T20:40:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3174,60 +3174,6 @@
       ]
     },
     {
-      "id": "com.cydiageek.ccclearmodulesbg",
-      "name": "CCClearModulesBG",
-      "latest": "1.0.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear on iOS 11!",
-      "category": "Tweaks",
-      "author": "CydiaGeek",
-      "commercial": false,
-      "date": "2018-04-27T16:28:28Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-04-28T00:08:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-08-19T03:15:28Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
       "latest": "1.0.1",
@@ -3264,6 +3210,60 @@
           "iOSVersion": "11.0.3",
           "repository": "CydiaGeek Source - YouRepo",
           "date": "2018-09-03T19:14:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cydiageek.ccclearmodulesbg",
+      "name": "CCClearModulesBG",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear on iOS 11!",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "date": "2018-04-27T16:28:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-04-28T00:08:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-08-19T03:15:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5182,40 +5182,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.detailedpowerusage",
-      "name": "DetailedPowerUsage",
-      "latest": "1.0.2-1b",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
-      "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "HYI - Tweaks",
-      "author": "TheComputerWhisperer",
-      "commercial": false,
-      "date": "2018-03-23T15:19:47Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:19:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
@@ -5252,6 +5218,40 @@
           "iOSVersion": "11.0.3",
           "repository": "TheComputerWhisperer's Repo",
           "date": "2018-11-02T03:27:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.detailedpowerusage",
+      "name": "DetailedPowerUsage",
+      "latest": "1.0.2-1b",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
+      "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
+      "category": "HYI - Tweaks",
+      "author": "TheComputerWhisperer",
+      "commercial": false,
+      "date": "2018-03-23T15:19:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5834,40 +5834,6 @@
       ]
     },
     {
-      "id": "com.tw3pole.exkey",
-      "name": "exKey",
-      "latest": "1.8.9-3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.tw3pole.exkey/",
-      "shortDescription": "Adds extra row of keys to keyboard",
-      "category": "Tweaks",
-      "author": "Richard Cheng",
-      "commercial": true,
-      "date": "2018-03-17T12:24:58Z",
-      "versions": [
-        {
-          "tweakVersion": "1.8.9-3",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-17T23:50:05Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.exkey",
       "name": "exKey",
       "latest": "1.8.9-3",
@@ -5890,6 +5856,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tw3pole.exkey",
+      "name": "exKey",
+      "latest": "1.8.9-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.tw3pole.exkey/",
+      "shortDescription": "Adds extra row of keys to keyboard",
+      "category": "Tweaks",
+      "author": "Richard Cheng",
+      "commercial": true,
+      "date": "2018-03-17T12:24:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.8.9-3",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-03-17T23:50:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6825,21 +6825,22 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
+      "id": "com.yourepo.kiiimo.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
+      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
+      "category": "Supports iOS 11",
       "author": "Guillermo Moran",
       "commercial": false,
+      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "GMoran Beta Software",
-          "date": "2018-04-22T20:42:27Z",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-02T01:31:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6858,22 +6859,21 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.fiveicondockxi",
+      "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
-      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
-      "category": "Supports iOS 11",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
       "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-02T01:31:35Z",
+          "repository": "GMoran Beta Software",
+          "date": "2018-04-22T20:42:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7863,22 +7863,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.gpscheat",
+      "id": "com.yourepo.kiiimo.gpscheat",
       "name": "GPSCheat",
-      "latest": "1.1-5",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.gpscheat/",
+      "latest": "1.1-4",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.gpscheat/",
       "shortDescription": "Set a Fake Any Location On Device!",
-      "category": "Tweaks",
+      "category": "Supports iOS 11",
       "author": "Minuit",
-      "commercial": true,
-      "date": "2018-03-16T17:51:23Z",
+      "commercial": false,
+      "date": "2018-08-19T03:20:16Z",
       "versions": [
         {
-          "tweakVersion": "1.1-5",
+          "tweakVersion": "1.1-4",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-08-25T15:48:40Z",
+          "repository": "(null)",
+          "date": "2018-08-19T03:20:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7897,22 +7897,22 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.gpscheat",
+      "id": "org.thebigboss.gpscheat",
       "name": "GPSCheat",
-      "latest": "1.1-4",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.gpscheat/",
+      "latest": "1.1-5",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.gpscheat/",
       "shortDescription": "Set a Fake Any Location On Device!",
-      "category": "Supports iOS 11",
+      "category": "Tweaks",
       "author": "Minuit",
-      "commercial": false,
-      "date": "2018-08-19T03:20:16Z",
+      "commercial": true,
+      "date": "2018-03-16T17:51:23Z",
       "versions": [
         {
-          "tweakVersion": "1.1-4",
+          "tweakVersion": "1.1-5",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-08-19T03:20:16Z",
+          "repository": "BigBoss",
+          "date": "2018-08-25T15:48:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15139,6 +15139,39 @@
       ]
     },
     {
+      "id": "com.thecomputerwhisperer.stealthcharger",
+      "name": "Stealth Charger",
+      "latest": "1.0.1b-1+debug",
+      "repository": "TheComputerWhisperer's Repo",
+      "url": "http://legitcomputerwhisperer.github.io/",
+      "shortDescription": "Charge your iDevice silently with Stealth Charger. This tweak simply disables the audible DING and vibration when plugging in your device.",
+      "category": "Tweaks",
+      "author": "TheComputerWhisperer",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.1b-1+debug",
+          "iOSVersion": "11.0.3",
+          "repository": "TheComputerWhisperer's Repo",
+          "date": "2018-11-02T03:45:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.atwiiks.stillhere",
       "name": "StillHere",
       "latest": "0.0.1",
@@ -15261,40 +15294,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.sugarcane",
-      "name": "SugarCane",
-      "latest": "1.0.0",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.sugarcane/",
-      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-04-12T03:25:59Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "BiteYourApple",
-          "date": "2018-04-12T03:25:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
       "latest": "1.0.0",
@@ -15317,6 +15316,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.sugarcane",
+      "name": "SugarCane",
+      "latest": "1.0.0",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.sugarcane/",
+      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-04-12T03:25:59Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "BiteYourApple",
+          "date": "2018-04-12T03:25:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -15658,39 +15691,6 @@
       ]
     },
     {
-      "id": "com.sharedroutine.tactful",
-      "name": "Tactful",
-      "latest": "1.2-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.sharedroutine.tactful/",
-      "shortDescription": "3D Touch Support for Cydia",
-      "category": "Tweaks",
-      "author": "sharedRoutine",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.2-1",
-          "iOSVersion": "11.0.3",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-03-29T03:01:54Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.kiiimo.tactful",
       "name": "Tactful",
       "latest": "1.3",
@@ -15713,6 +15713,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.sharedroutine.tactful",
+      "name": "Tactful",
+      "latest": "1.2-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.sharedroutine.tactful/",
+      "shortDescription": "3D Touch Support for Cydia",
+      "category": "Tweaks",
+      "author": "sharedRoutine",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.2-1",
+          "iOSVersion": "11.0.3",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-03-29T03:01:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17351,6 +17384,39 @@
       ]
     },
     {
+      "id": "be.submanifold.weatherlock",
+      "name": "WeatherLock",
+      "latest": "0.1.13",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
+      "shortDescription": "animated weather background on the lock screen",
+      "category": "Tweaks",
+      "author": "rainwolf",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "0.1.13",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-03-16T00:19:06Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "repo.biteyourapple.net.weatherlock",
       "name": "WeatherLock",
       "latest": "0.1.13",
@@ -17373,39 +17439,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "be.submanifold.weatherlock",
-      "name": "WeatherLock",
-      "latest": "0.1.13",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
-      "shortDescription": "animated weather background on the lock screen",
-      "category": "Tweaks",
-      "author": "rainwolf",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "0.1.13",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-16T00:19:06Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
