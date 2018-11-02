@@ -71,6 +71,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0-4",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-11-02T12:09:41Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Doesn’t work on iOS 11+",
+          "date": "2018-11-02T12:09:41Z",
+          "userName": "teamstreetmotion",
+          "issueNumber": 54437,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
