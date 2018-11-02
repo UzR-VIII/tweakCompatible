@@ -1061,10 +1061,10 @@
       "date": "2018-11-01T07:29:56Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1108,6 +1108,15 @@
           "date": "2018-11-01T21:48:17Z",
           "userName": "ntassani",
           "issueNumber": 54392,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-02T01:21:29Z",
+          "userName": "x3a9m",
+          "issueNumber": 54403,
           "arch32": false
         }
       ]
