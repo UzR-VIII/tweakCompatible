@@ -1061,10 +1061,10 @@
       "date": "2018-11-01T07:29:56Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 57,
-        "good": 4,
+        "percentage": 62,
+        "good": 5,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1135,6 +1135,15 @@
           "date": "2018-11-02T06:24:55Z",
           "userName": "rohitwasnik",
           "issueNumber": 54430,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Working but not enough 👾",
+          "date": "2018-11-02T13:52:55Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54442,
           "arch32": false
         }
       ]
