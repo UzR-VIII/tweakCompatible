@@ -1061,10 +1061,10 @@
       "date": "2018-11-01T07:29:56Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 60,
+        "percentage": 50,
         "good": 3,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1117,6 +1117,15 @@
           "date": "2018-11-02T01:21:29Z",
           "userName": "x3a9m",
           "issueNumber": 54403,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Screen blank after choose emoji",
+          "date": "2018-11-02T01:09:23Z",
+          "userName": "kojuice182",
+          "issueNumber": 54401,
           "arch32": false
         }
       ]
