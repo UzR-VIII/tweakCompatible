@@ -16,11 +16,11 @@
       "repository": "dpkg9510's Repo",
       "date": "2018-10-20T04:53:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -55,6 +55,15 @@
           "date": "2018-10-20T09:24:11Z",
           "userName": "buitim",
           "issueNumber": 53442,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Might have even gotten more VSD crashes...",
+          "date": "2018-11-02T18:54:58Z",
+          "userName": "Nano0k",
+          "issueNumber": 54447,
           "arch32": false
         }
       ]
