@@ -367,11 +367,11 @@
       "repository": "Smacpats’ Repo",
       "date": "2018-11-02T00:05:36Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -388,6 +388,15 @@
           "date": "2018-11-02T00:05:36Z",
           "userName": "smacpats",
           "issueNumber": 54400,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Not working at all",
+          "date": "2018-11-02T01:21:01Z",
+          "userName": "x3a9m",
+          "issueNumber": 54402,
           "arch32": false
         }
       ]
