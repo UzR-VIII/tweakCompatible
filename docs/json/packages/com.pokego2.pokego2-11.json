@@ -2176,10 +2176,10 @@
       "date": "2018-10-30T04:45:25Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2205,6 +2205,15 @@
           "date": "2018-10-30T05:10:10Z",
           "userName": "lineararc",
           "issueNumber": 54268,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-02T07:18:11Z",
+          "userName": "kaushalj94",
+          "issueNumber": 54431,
           "arch32": false
         }
       ]
