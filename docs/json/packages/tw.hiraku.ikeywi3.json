@@ -294,15 +294,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,4",
-          "issues": "",
-          "date": "2018-08-09T09:58:54Z",
-          "userName": "missfunkenflug",
-          "issueNumber": 40970,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,2",
           "issues": "",
           "date": "2018-08-26T09:38:15Z",
@@ -317,6 +308,15 @@
           "date": "2018-09-07T22:29:07Z",
           "userName": "klarleon",
           "issueNumber": 49743,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-11-02T20:32:49Z",
+          "userName": "missfunkenflug",
+          "issueNumber": 54464,
           "arch32": false
         }
       ]
