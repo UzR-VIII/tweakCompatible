@@ -368,10 +368,10 @@
       "date": "2018-11-02T00:05:36Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -397,6 +397,15 @@
           "date": "2018-11-02T01:21:01Z",
           "userName": "x3a9m",
           "issueNumber": 54402,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Starts bugging again, cannot select 🥺",
+          "date": "2018-11-02T13:57:42Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54443,
           "arch32": false
         }
       ]
