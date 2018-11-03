@@ -194,11 +194,11 @@
       "repository": "Packix",
       "date": "2018-08-27T01:44:05Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 3,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -251,6 +251,15 @@
           "date": "2018-09-09T03:59:24Z",
           "userName": "ClemGlacee",
           "issueNumber": 49863,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-11-03T06:14:27Z",
+          "userName": "Duckscreen",
+          "issueNumber": 54487,
           "arch32": false
         }
       ]
