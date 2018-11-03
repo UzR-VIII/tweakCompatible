@@ -311,22 +311,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.adblockforyoutube",
+      "id": "me.alfhaily.adblockforyoutube",
       "name": "AdBlock for YouTube",
-      "latest": "1.0.5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.adblockforyoutube/",
+      "latest": "1.0.7",
+      "repository": "Alfhaily APT",
+      "url": "https://apt.alfhaily.me/",
       "shortDescription": "Block YouTube Ads and Video Ads",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
-      "date": "2018-04-08T08:33:16Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.7",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-04-08T08:33:16Z",
+          "repository": "Alfhaily APT",
+          "date": "2018-03-14T22:35:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -345,21 +344,22 @@
       ]
     },
     {
-      "id": "me.alfhaily.adblockforyoutube",
+      "id": "com.hackyouriphone.adblockforyoutube",
       "name": "AdBlock for YouTube",
-      "latest": "1.0.7",
-      "repository": "Alfhaily APT",
-      "url": "https://apt.alfhaily.me/",
+      "latest": "1.0.5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.adblockforyoutube/",
       "shortDescription": "Block YouTube Ads and Video Ads",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
+      "date": "2018-04-08T08:33:16Z",
       "versions": [
         {
-          "tweakVersion": "1.0.7",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "11.0.3",
-          "repository": "Alfhaily APT",
-          "date": "2018-03-14T22:35:52Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-04-08T08:33:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1741,22 +1741,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.autoshiftfix",
+      "id": "com.julioverne.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T01:48:26Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-04-22T20:40:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1775,21 +1774,22 @@
       ]
     },
     {
-      "id": "com.julioverne.autoshiftfix",
+      "id": "com.repo.xarold.com.autoshiftfix",
       "name": "AutoShiftFix",
       "latest": "0.1",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.autoshiftfix/",
       "shortDescription": "No shift when delete capitalized letter",
       "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-04-12T01:48:26Z",
       "versions": [
         {
           "tweakVersion": "0.1",
           "iOSVersion": "11.0.3",
-          "repository": "julioverne's Repo",
-          "date": "2018-04-22T20:40:47Z",
+          "repository": "(null)",
+          "date": "2018-04-12T01:48:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3276,60 +3276,6 @@
       ]
     },
     {
-      "id": "com.cydiageek.ccclearmodulesbg",
-      "name": "CCClearModulesBG",
-      "latest": "1.0.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear on iOS 11!",
-      "category": "Tweaks",
-      "author": "CydiaGeek",
-      "commercial": false,
-      "date": "2018-04-27T16:28:28Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-04-28T00:08:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-08-19T03:15:28Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
       "latest": "1.0.1",
@@ -3366,6 +3312,60 @@
           "iOSVersion": "11.0.3",
           "repository": "CydiaGeek Source - YouRepo",
           "date": "2018-09-03T19:14:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cydiageek.ccclearmodulesbg",
+      "name": "CCClearModulesBG",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear on iOS 11!",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "date": "2018-04-27T16:28:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-04-28T00:08:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-08-19T03:15:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3935,21 +3935,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-11-03T14:49:33Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-10-11T17:57:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3968,22 +3969,21 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "ru.domo.cocoatop",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
-      "shortDescription": "Process Viewer for iOS GUI (64-bit)",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "11.0.3",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-10-11T17:57:57Z",
+          "repository": "BigBoss",
+          "date": "2018-11-03T14:49:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5385,40 +5385,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.detailedpowerusage",
-      "name": "DetailedPowerUsage",
-      "latest": "1.0.2-1b",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
-      "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "HYI - Tweaks",
-      "author": "TheComputerWhisperer",
-      "commercial": false,
-      "date": "2018-03-23T15:19:47Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:19:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
@@ -5455,6 +5421,40 @@
           "iOSVersion": "11.0.3",
           "repository": "TheComputerWhisperer's Repo",
           "date": "2018-11-02T03:27:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.detailedpowerusage",
+      "name": "DetailedPowerUsage",
+      "latest": "1.0.2-1b",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
+      "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
+      "category": "HYI - Tweaks",
+      "author": "TheComputerWhisperer",
+      "commercial": false,
+      "date": "2018-03-23T15:19:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9307,40 +9307,6 @@
       ]
     },
     {
-      "id": "com.yourepo.xkaosx.k-hostblocker3",
-      "name": "K-Host Blocker",
-      "latest": "3.3.",
-      "repository": "xkaosx Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.xkaosx.k-hostblocker3/",
-      "shortDescription": "This is a Modified IOS host file that blocks various objects including advertisements, Government agencies, piracy groups, trackers and more! Also included are Apple server update blocking to help remain on the same firmware you want to be on ( especially for jailbreaking ). Works on all firmwares on all devices but this version is for Electra Jailbreak since it blocks saurik's repo. Includes a backup folder of 2 unedited host file.",
-      "category": "System",
-      "author": "King Kaos (xkingxkaosx)",
-      "commercial": false,
-      "date": "2018-04-08T08:32:15Z",
-      "versions": [
-        {
-          "tweakVersion": "3.3.",
-          "iOSVersion": "11.0.3",
-          "repository": "xkaosx Source - YouRepo",
-          "date": "2018-04-08T08:32:15Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.xkaosx.k-hostblocker",
       "name": "K-Host Blocker",
       "latest": "3.0",
@@ -9363,6 +9329,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.xkaosx.k-hostblocker3",
+      "name": "K-Host Blocker",
+      "latest": "3.3.",
+      "repository": "xkaosx Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.xkaosx.k-hostblocker3/",
+      "shortDescription": "This is a Modified IOS host file that blocks various objects including advertisements, Government agencies, piracy groups, trackers and more! Also included are Apple server update blocking to help remain on the same firmware you want to be on ( especially for jailbreaking ). Works on all firmwares on all devices but this version is for Electra Jailbreak since it blocks saurik's repo. Includes a backup folder of 2 unedited host file.",
+      "category": "System",
+      "author": "King Kaos (xkingxkaosx)",
+      "commercial": false,
+      "date": "2018-04-08T08:32:15Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.",
+          "iOSVersion": "11.0.3",
+          "repository": "xkaosx Source - YouRepo",
+          "date": "2018-04-08T08:32:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11535,6 +11535,40 @@
       ]
     },
     {
+      "id": "nghttp2",
+      "name": "Nghttp2",
+      "latest": "1.31.0",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/nghttp2/",
+      "shortDescription": "HTTP/2 C library",
+      "category": "Networking",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-27T01:00:04Z",
+      "versions": [
+        {
+          "tweakVersion": "1.31.0",
+          "iOSVersion": "11.0.3",
+          "repository": "Electra's iOS Utilities",
+          "date": "2018-11-03T14:30:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.muirey03.nicenotes",
       "name": "NiceNotes",
       "latest": "1.0.4",
@@ -12439,39 +12473,6 @@
       ]
     },
     {
-      "id": "com.f0u4d.onlinenotify",
-      "name": "OnlineNotify",
-      "latest": "2.3.22",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
-      "shortDescription": "Track you friends on WhatsApp Messenger!",
-      "category": "Tweaks",
-      "author": "Fouad Raheb",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "2.3.19",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-09-07T18:18:02Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.onlinenotify",
       "name": "OnlineNotify",
       "latest": "2.3.19",
@@ -12492,6 +12493,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.f0u4d.onlinenotify",
+      "name": "OnlineNotify",
+      "latest": "2.3.22",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.f0u4d.onlinenotify/",
+      "shortDescription": "Track you friends on WhatsApp Messenger!",
+      "category": "Tweaks",
+      "author": "Fouad Raheb",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.3.19",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-09-07T18:18:02Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -12956,40 +12990,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kurdcy.picobanners2",
-      "name": "PicoBanners 2",
-      "latest": "0.0.1b1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kurdcy.picobanners2/",
-      "shortDescription": "Smaller iOS 11 banners                                                                                                           .",
-      "category": "Tweaks",
-      "author": "Michele Primavera",
-      "commercial": false,
-      "date": "2018-04-12T03:20:46Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1b1",
-          "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-04-12T03:20:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "it.dreamcode.picobanners2",
       "name": "PicoBanners 2",
       "latest": "0.0.1b2",
@@ -13025,6 +13025,40 @@
           "iOSVersion": "11.0.3",
           "repository": "Dream Code",
           "date": "2018-04-25T17:09:14Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kurdcy.picobanners2",
+      "name": "PicoBanners 2",
+      "latest": "0.0.1b1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kurdcy.picobanners2/",
+      "shortDescription": "Smaller iOS 11 banners                                                                                                           .",
+      "category": "Tweaks",
+      "author": "Michele Primavera",
+      "commercial": false,
+      "date": "2018-04-12T03:20:46Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1b1",
+          "iOSVersion": "11.0.3",
+          "repository": "(null)",
+          "date": "2018-04-12T03:20:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15572,40 +15606,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.spotilife",
-      "name": "Spotilife",
-      "latest": "1.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.spotilife/",
-      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
-      "category": "HYI - Tweaks",
-      "author": "julioverne",
-      "commercial": false,
-      "date": "2018-03-02T03:46:16Z",
-      "versions": [
-        {
-          "tweakVersion": "0.8",
-          "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:46:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.spotilife",
       "name": "Spotilife",
       "latest": "0.9",
@@ -15641,6 +15641,40 @@
           "iOSVersion": "11.0.3",
           "repository": "BiteYourApple",
           "date": "2018-05-20T08:47:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.spotilife",
+      "name": "Spotilife",
+      "latest": "1.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.spotilife/",
+      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
+      "category": "HYI - Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "date": "2018-03-02T03:46:16Z",
+      "versions": [
+        {
+          "tweakVersion": "0.8",
+          "iOSVersion": "11.0.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:46:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
