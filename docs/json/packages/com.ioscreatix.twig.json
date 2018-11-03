@@ -17,10 +17,10 @@
       "date": "2018-02-28T03:55:23Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 76,
-        "good": 13,
+        "percentage": 77,
+        "good": 14,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -181,6 +181,15 @@
           "date": "2018-04-22T04:19:17Z",
           "userName": "Andrewobama",
           "issueNumber": 10551,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "I love the tweak",
+          "date": "2018-11-03T14:29:38Z",
+          "userName": "Riz3y",
+          "issueNumber": 54545,
           "arch32": false
         }
       ]
