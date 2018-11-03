@@ -750,10 +750,10 @@
       "date": "2018-10-19T13:51:43Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -779,6 +779,15 @@
           "date": "2018-11-02T01:22:28Z",
           "userName": "x3a9m",
           "issueNumber": 54405,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-03T11:19:58Z",
+          "userName": "m0kum",
+          "issueNumber": 54504,
           "arch32": false
         }
       ]
