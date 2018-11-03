@@ -98,7 +98,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -133,6 +133,15 @@
           "date": "2018-07-14T08:33:44Z",
           "userName": "ARTdrakon",
           "issueNumber": 26211,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-03T12:35:52Z",
+          "userName": "wolferous",
+          "issueNumber": 54515,
           "arch32": false
         }
       ]
