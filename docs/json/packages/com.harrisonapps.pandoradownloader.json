@@ -102,10 +102,10 @@
         {
           "status": "not working",
           "device": "iPhone9,4",
-          "issues": "App does not open and says it has to be updates for iOS 11",
-          "date": "2018-11-03T09:19:02Z",
+          "issues": "",
+          "date": "2018-11-03T09:18:13Z",
           "userName": "batman4you",
-          "issueNumber": 54493,
+          "issueNumber": 54492,
           "arch32": false
         }
       ]
