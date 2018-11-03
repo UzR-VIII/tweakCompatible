@@ -1,10 +1,10 @@
 {
   "id": "com.aditkamath.springy",
   "name": "Springy",
-  "latest": "1.1",
+  "latest": "1.0-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.aditkamath.springy/",
-  "shortDescription": "Animated respring theme platform",
+  "shortDescription": "Respring animations & customization",
   "category": "Tweaks",
   "author": "Adit Kamath",
   "commercial": false,
@@ -94,10 +94,10 @@
       "date": "2018-03-02T12:59:36Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -123,6 +123,15 @@
           "date": "2018-03-05T08:41:19Z",
           "userName": "tokfrans03",
           "issueNumber": 4034,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-11-03T14:32:32Z",
+          "userName": "Riz3y",
+          "issueNumber": 54550,
           "arch32": false
         }
       ]
