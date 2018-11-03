@@ -704,6 +704,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "11.0.3",
+      "repository": "BigBoss",
+      "date": "2018-11-03T14:49:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPad7,2",
+          "issues": "I really shouldn't submit this as this tweak working, because as is, it does not provide full (as advertised) functionality. However it does partially works though this is accurate. The issue is that the method used for bootstrapping and installing the tweak causes it to run without root privileges and in order to fix that, it must be installed using the Debian (.deb) package, then chown the executable to root:wheel, set sticky bit on UID and make sure the bundle is located in /Applications, otherwise system processes cannot be observed (only those owned by 'mobile' will show details. If you follow the previous guidelines, however, works flawlessly!",
+          "date": "2018-11-03T14:49:33Z",
+          "userName": "sietec",
+          "issueNumber": 54555,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
