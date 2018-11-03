@@ -1649,9 +1649,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1677,6 +1677,15 @@
           "date": "2018-04-22T20:42:36Z",
           "userName": "LiaVsHerself",
           "issueNumber": 10626,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,2",
+          "issues": "",
+          "date": "2018-11-03T14:26:23Z",
+          "userName": "sietec",
+          "issueNumber": 54535,
           "arch32": false
         }
       ]

@@ -6961,21 +6961,22 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
+      "id": "com.yourepo.kiiimo.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
+      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
+      "category": "Supports iOS 11",
       "author": "Guillermo Moran",
       "commercial": false,
+      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "GMoran Beta Software",
-          "date": "2018-04-22T20:42:27Z",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-02T01:31:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7028,22 +7029,21 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.fiveicondockxi",
+      "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
-      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
-      "category": "Supports iOS 11",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
       "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-02T01:31:35Z",
+          "repository": "GMoran Beta Software",
+          "date": "2018-04-22T20:42:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8309,22 +8309,22 @@
       ]
     },
     {
-      "id": "com.dannyglover.hidelabels10",
+      "id": "repo.biteyourapple.net.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.hidelabels10/",
       "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-03-04T20:02:05Z",
+      "date": "2018-03-03T10:32:07Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "11.0.3",
-          "repository": "Danny Glover's Repo",
-          "date": "2018-04-22T20:31:53Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-03-03T10:32:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8343,22 +8343,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.hidelabels10",
+      "id": "com.dannyglover.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.hidelabels10/",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
       "shortDescription": "Hide app labels on iOS 10.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Danny Glover",
       "commercial": false,
-      "date": "2018-03-03T10:32:07Z",
+      "date": "2018-03-04T20:02:05Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "11.0.3",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-03-03T10:32:07Z",
+          "repository": "Danny Glover's Repo",
+          "date": "2018-04-22T20:31:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8712,9 +8712,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 2,
+            "good": 3,
             "bad": 0,
-            "total": 2,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
