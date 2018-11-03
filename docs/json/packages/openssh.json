@@ -1,7 +1,7 @@
 {
   "id": "openssh",
   "name": "OpenSSH",
-  "latest": "7.7p1-1",
+  "latest": "7.6p1-4",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/openssh/",
   "shortDescription": "secure remote access between machines",
@@ -1020,6 +1020,37 @@
           "date": "2018-10-24T08:07:56Z",
           "userName": "MattieThurlow96",
           "issueNumber": 53752,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "7.6p1-4",
+      "iOSVersion": "11.0.3",
+      "repository": "Electra's iOS Utilities",
+      "date": "2018-11-03T14:29:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,2",
+          "issues": "",
+          "date": "2018-11-03T14:29:22Z",
+          "userName": "sietec",
+          "issueNumber": 54544,
           "arch32": false
         }
       ]
