@@ -1,7 +1,7 @@
 {
   "id": "network-cmds",
   "name": "Network Commands",
-  "latest": "307.0.1-7",
+  "latest": "543",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/network-cmds/",
   "shortDescription": "arp, ifconfig, netstat, route, traceroute",
@@ -348,6 +348,37 @@
           "date": "2018-10-18T02:31:27Z",
           "userName": "GhostSamurai",
           "issueNumber": 53274,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "543",
+      "iOSVersion": "11.0.3",
+      "repository": "Electra's iOS Utilities",
+      "date": "2018-11-03T14:27:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,2",
+          "issues": "",
+          "date": "2018-11-03T14:27:43Z",
+          "userName": "sietec",
+          "issueNumber": 54537,
           "arch32": false
         }
       ]
