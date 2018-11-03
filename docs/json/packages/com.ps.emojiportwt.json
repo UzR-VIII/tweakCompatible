@@ -1217,10 +1217,10 @@
       "date": "2018-11-02T16:16:47Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1246,6 +1246,15 @@
           "date": "2018-11-03T01:17:56Z",
           "userName": "kojuice182",
           "issueNumber": 54479,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-03T11:19:32Z",
+          "userName": "m0kum",
+          "issueNumber": 54502,
           "arch32": false
         }
       ]
