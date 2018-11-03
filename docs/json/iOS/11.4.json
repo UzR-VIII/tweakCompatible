@@ -1971,10 +1971,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.0-45",
+      "latest": "1.3.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -3460,40 +3460,6 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.badiosbad",
-      "name": "badiOSBad",
-      "latest": "1.2.5-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.badiosbad/",
-      "shortDescription": "Block iOS System Updates from the core, Castrate installd to allow 7 day certificate signed IPAs to install OTA (only when in jailbroken state), removes the Feedback Assistant App, removes update badge, removes the Software Updates Tab and destroys app revokes!",
-      "category": "System",
-      "author": "Ignition",
-      "commercial": false,
-      "date": "2018-10-25T12:33:54Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.5-debug",
-          "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-25T12:33:54Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "fun.ignition.badiosbad",
       "name": "badiOSBad",
       "latest": "1.2.5-debug-1+debug",
@@ -3590,6 +3556,40 @@
           "iOSVersion": "11.4",
           "repository": "(null)",
           "date": "2018-07-31T15:56:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.privatebackup.badiosbad",
+      "name": "badiOSBad",
+      "latest": "1.2.5-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.badiosbad/",
+      "shortDescription": "Block iOS System Updates from the core, Castrate installd to allow 7 day certificate signed IPAs to install OTA (only when in jailbroken state), removes the Feedback Assistant App, removes update badge, removes the Software Updates Tab and destroys app revokes!",
+      "category": "System",
+      "author": "Ignition",
+      "commercial": false,
+      "date": "2018-10-25T12:33:54Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.5-debug",
+          "iOSVersion": "11.4",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-25T12:33:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8378,6 +8378,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-11T10:12:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -8400,39 +8433,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.thebigboss.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-11T10:12:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -12364,7 +12364,7 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2.2h",
+      "latest": "1.2.2i",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -12417,6 +12417,26 @@
           "iOSVersion": "11.4",
           "repository": "PoomSmart's Repo",
           "date": "2018-11-02T16:13:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.2i",
+          "iOSVersion": "11.4",
+          "repository": "PoomSmart's Repo",
+          "date": "2018-11-03T23:28:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13970,39 +13990,6 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.4",
-          "repository": "GMoran Beta Software",
-          "date": "2018-07-11T04:21:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 85,
-            "good": 6,
-            "bad": 0,
-            "total": 7,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
@@ -14025,6 +14012,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.gmoran.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.4",
+          "repository": "GMoran Beta Software",
+          "date": "2018-07-11T04:21:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 85,
+            "good": 6,
+            "bad": 0,
+            "total": 7,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -14072,10 +14092,10 @@
     {
       "id": "com.mpg13.flashback",
       "name": "FlashBack",
-      "latest": "1.6",
+      "latest": "1.7",
       "repository": "MPG13's Cydia Repo",
       "url": "http://cydia.saurik.com/package/com.mpg13.flashback/",
-      "shortDescription": "Change the way we do setups.",
+      "shortDescription": "Changing the way we do setups.",
       "category": "Tweaks",
       "author": "MPG13",
       "commercial": false,
@@ -14593,22 +14613,22 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.folderbackgroundbegone",
-      "name": "FolderBackgroundBeGone",
-      "latest": "0.0.1-2-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.folderbackgroundbegone/",
+      "id": "com.cryptedbytes.folderbackgroundbegone",
+      "name": "folderbackgroundbegone",
+      "latest": "0.0.1-2+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.cryptedbytes.folderbackgroundbegone/",
       "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2018-10-26T09:57:51Z",
+      "date": "2018-04-08T11:26:26Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2-debug",
+          "tweakVersion": "0.0.1-2+debug",
           "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-26T09:57:51Z",
+          "repository": "(null)",
+          "date": "2018-07-21T10:00:32Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14627,22 +14647,22 @@
       ]
     },
     {
-      "id": "com.cryptedbytes.folderbackgroundbegone",
-      "name": "folderbackgroundbegone",
-      "latest": "0.0.1-2+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.cryptedbytes.folderbackgroundbegone/",
+      "id": "com.yourepo.privatebackup.folderbackgroundbegone",
+      "name": "FolderBackgroundBeGone",
+      "latest": "0.0.1-2-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.folderbackgroundbegone/",
       "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2018-04-08T11:26:26Z",
+      "date": "2018-10-26T09:57:51Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2+debug",
+          "tweakVersion": "0.0.1-2-debug",
           "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-07-21T10:00:32Z",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-26T09:57:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19406,22 +19426,22 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.kdlte4gpro",
+      "id": "com.kdfly.kdlte4gpro",
       "name": "KDLTE4G Pro",
-      "latest": "1.6-3-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.kdlte4gpro/",
-      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE.",
+      "latest": "1.6-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.kdfly.kdlte4gpro/",
+      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE",
       "category": "Tweaks",
       "author": "Sean Young",
-      "commercial": false,
-      "date": "2018-10-25T20:51:19Z",
+      "commercial": true,
+      "date": "2018-04-08T11:28:04Z",
       "versions": [
         {
-          "tweakVersion": "1.6-3-debug",
+          "tweakVersion": "1.6-2",
           "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-25T20:51:19Z",
+          "repository": "BigBoss",
+          "date": "2018-07-21T10:02:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19440,22 +19460,22 @@
       ]
     },
     {
-      "id": "com.kdfly.kdlte4gpro",
+      "id": "com.yourepo.privatebackup.kdlte4gpro",
       "name": "KDLTE4G Pro",
-      "latest": "1.6-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.kdfly.kdlte4gpro/",
-      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE",
+      "latest": "1.6-3-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.kdlte4gpro/",
+      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE.",
       "category": "Tweaks",
       "author": "Sean Young",
-      "commercial": true,
-      "date": "2018-04-08T11:28:04Z",
+      "commercial": false,
+      "date": "2018-10-25T20:51:19Z",
       "versions": [
         {
-          "tweakVersion": "1.6-2",
+          "tweakVersion": "1.6-3-debug",
           "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-21T10:02:10Z",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-25T20:51:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21163,7 +21183,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "2.0.0-1",
+      "latest": "1.2.2-coolstar",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
@@ -21506,21 +21526,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.localiapstore",
+      "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "anondev",
       "commercial": false,
+      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
-          "tweakVersion": "1.4-2",
+          "tweakVersion": "1.5",
           "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-09-01T13:03:14Z",
+          "repository": "XModGames",
+          "date": "2018-08-21T13:56:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21539,22 +21560,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
+      "id": "repo.biteyourapple.net.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "latest": "1.4-2",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "anondev",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
-          "tweakVersion": "1.5",
+          "tweakVersion": "1.4-2",
           "iOSVersion": "11.4",
-          "repository": "XModGames",
-          "date": "2018-08-21T13:56:03Z",
+          "repository": "(null)",
+          "date": "2018-09-01T13:03:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21818,7 +21838,7 @@
     {
       "id": "com.junesiphone.lockpluspro",
       "name": "LockPlus Pro",
-      "latest": "1.4.5",
+      "latest": "1.4.6.2",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.lockpluspro/",
       "shortDescription": "The ultimate lock screen tweak!",
@@ -24860,60 +24880,6 @@
       ]
     },
     {
-      "id": "com.mc.nano",
-      "name": "nano",
-      "latest": "3.0.0-3",
-      "repository": "MCApollo",
-      "url": "http://cydia.saurik.com/package/com.mc.nano/",
-      "shortDescription": "Compiled for ARM64.",
-      "category": "Text Editors",
-      "author": "GNU",
-      "commercial": false,
-      "date": "2018-09-15T10:17:47Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0.0",
-          "iOSVersion": "11.4",
-          "repository": "MCApollo",
-          "date": "2018-09-15T10:17:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "3.0.0-3",
-          "iOSVersion": "11.4",
-          "repository": "MCApollo",
-          "date": "2018-09-25T08:26:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nano",
       "name": "nano",
       "latest": "2.9.8-1",
@@ -24950,6 +24916,60 @@
           "iOSVersion": "11.4",
           "repository": "Bingner/Elucubratus",
           "date": "2018-10-24T08:05:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.mc.nano",
+      "name": "nano",
+      "latest": "3.0.0-3",
+      "repository": "MCApollo",
+      "url": "http://cydia.saurik.com/package/com.mc.nano/",
+      "shortDescription": "Compiled for ARM64.",
+      "category": "Text Editors",
+      "author": "GNU",
+      "commercial": false,
+      "date": "2018-09-15T10:17:47Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.0",
+          "iOSVersion": "11.4",
+          "repository": "MCApollo",
+          "date": "2018-09-15T10:17:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.0.0-3",
+          "iOSVersion": "11.4",
+          "repository": "MCApollo",
+          "date": "2018-09-25T08:26:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25070,6 +25090,40 @@
       ]
     },
     {
+      "id": "net.dylanaraps.neofetch",
+      "name": "Neofetch",
+      "latest": "3.0.1-3",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/net.dylanaraps.neofetch/",
+      "shortDescription": "A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)",
+      "category": "Utilities",
+      "author": "Dylan Araps",
+      "commercial": false,
+      "date": "2018-10-31T21:59:15Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.1-3",
+          "iOSVersion": "11.4",
+          "repository": "(null)",
+          "date": "2018-10-31T21:59:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.privatebackup.neofetch",
       "name": "Neofetch",
       "latest": "3.0.1-3-debug",
@@ -25124,40 +25178,6 @@
       ]
     },
     {
-      "id": "net.dylanaraps.neofetch",
-      "name": "Neofetch",
-      "latest": "3.0.1-3",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/net.dylanaraps.neofetch/",
-      "shortDescription": "A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)",
-      "category": "Utilities",
-      "author": "Dylan Araps",
-      "commercial": false,
-      "date": "2018-10-31T21:59:15Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0.1-3",
-          "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-10-31T21:59:15Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nettle",
       "name": "Nettle",
       "latest": "3.4-2",
@@ -25194,7 +25214,7 @@
     {
       "id": "network-cmds",
       "name": "Network Commands",
-      "latest": "307.0.1-7",
+      "latest": "543",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/network-cmds/",
       "shortDescription": "arp, ifconfig, netstat, route, traceroute",
@@ -25485,7 +25505,7 @@
     {
       "id": "net.limneos.nfcwriterx",
       "name": "NFCWriter X",
-      "latest": "0.3-33",
+      "latest": "0.4-3",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
       "shortDescription": "NFCWriter X for iOS",
@@ -26414,22 +26434,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
+      "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
       "category": "Tweaks",
-      "author": "Adam Seiter",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
+      "date": "2018-03-08T05:57:18Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.4",
-          "repository": "eXqusic's Repo",
-          "date": "2018-08-12T03:30:34Z",
+          "repository": "BigBoss",
+          "date": "2018-07-30T03:11:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26448,22 +26468,22 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
+      "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
       "category": "Tweaks",
-      "author": "CoolStar",
+      "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
+      "date": "2018-03-01T19:59:25Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-30T03:11:54Z",
+          "repository": "eXqusic's Repo",
+          "date": "2018-08-12T03:30:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27915,7 +27935,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.7p1-1",
+      "latest": "7.6p1-4",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -29282,7 +29302,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-93",
+      "latest": "2.0r-93a",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -31852,40 +31872,6 @@
           "iOSVersion": "11.4",
           "repository": "BigBoss",
           "date": "2018-08-13T03:32:19Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "net.hollr2099.safaripp",
-      "name": "Safari++",
-      "latest": "1.0.0.0",
-      "repository": "Hollr2099.net Repo",
-      "url": "http://cydia.saurik.com/package/net.hollr2099.safaripp/",
-      "shortDescription": "Background Playback On Safari",
-      "category": "Tweaks",
-      "author": "Hollr2099",
-      "commercial": false,
-      "date": "2018-09-07T21:11:57Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0.0",
-          "iOSVersion": "11.4",
-          "repository": "Hollr2099.net Repo",
-          "date": "2018-09-07T21:11:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -34708,10 +34694,10 @@
     {
       "id": "com.aditkamath.springy",
       "name": "Springy",
-      "latest": "1.1",
+      "latest": "1.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.aditkamath.springy/",
-      "shortDescription": "Animated respring theme platform",
+      "shortDescription": "Respring animations & customization",
       "category": "Tweaks",
       "author": "Adit Kamath",
       "commercial": false,
@@ -37823,60 +37809,6 @@
       ]
     },
     {
-      "id": "net.hollr2099.twitchpp",
-      "name": "Twitch++",
-      "latest": "1.0.0.6",
-      "repository": "Hollr2099.net Repo",
-      "url": "http://cydia.saurik.com/package/net.hollr2099.twitchpp/",
-      "shortDescription": "No Ads & Background Playback On Twitch",
-      "category": "Tweaks",
-      "author": "Hollr2099",
-      "commercial": false,
-      "date": "2018-08-26T15:17:03Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0.5",
-          "iOSVersion": "11.4",
-          "repository": "Hollr2099.net Repo",
-          "date": "2018-08-27T23:53:34Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.0.0.6",
-          "iOSVersion": "11.4",
-          "repository": "Hollr2099.net Repo",
-          "date": "2018-09-07T21:11:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.unlimapps.twitterpp",
       "name": "Twitter ++",
       "latest": "1.2r-82",
@@ -40703,60 +40635,6 @@
       ]
     },
     {
-      "id": "xz",
-      "name": "XZ Utils",
-      "latest": "5.3-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
-      "shortDescription": "slower, but better, compression algorithm",
-      "category": "Archiving",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
-      "versions": [
-        {
-          "tweakVersion": "5.2.4-1",
-          "iOSVersion": "11.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2018-10-24T08:16:57Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "5.3-1",
-          "iOSVersion": "11.4",
-          "repository": "Ricklantis",
-          "date": "2018-10-24T22:17:15Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "lzma",
       "name": "XZ Utils",
       "latest": "5.2.3",
@@ -40793,6 +40671,60 @@
           "iOSVersion": "11.4",
           "repository": "Bingner/Elucubratus",
           "date": "2018-10-24T08:13:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "xz",
+      "name": "XZ Utils",
+      "latest": "5.3-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
+      "shortDescription": "slower, but better, compression algorithm",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-24T08:16:57Z",
+      "versions": [
+        {
+          "tweakVersion": "5.2.4-1",
+          "iOSVersion": "11.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-10-24T08:16:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "5.3-1",
+          "iOSVersion": "11.4",
+          "repository": "Ricklantis",
+          "date": "2018-10-24T22:17:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
