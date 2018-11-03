@@ -1,7 +1,7 @@
 {
   "id": "com.foxfort.darksounds",
   "name": "DarkSounds",
-  "latest": "1.0.2",
+  "latest": "1.0.3",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.foxfort.darksounds/",
   "shortDescription": "Dark mode for Apple Music",
@@ -272,6 +272,37 @@
           "date": "2018-10-24T21:36:14Z",
           "userName": "solomone212",
           "issueNumber": 53889,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-11-03T11:20:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-03T11:20:13Z",
+          "userName": "m0kum",
+          "issueNumber": 54505,
           "arch32": false
         }
       ]
