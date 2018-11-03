@@ -1216,11 +1216,11 @@
       "repository": "PoomSmart's Repo",
       "date": "2018-11-02T16:16:47Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1237,6 +1237,15 @@
           "date": "2018-11-02T16:16:47Z",
           "userName": "smacpats",
           "issueNumber": 54446,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Blank screen happen after choose emoji, just like version 1.2.2g",
+          "date": "2018-11-03T01:17:56Z",
+          "userName": "kojuice182",
+          "issueNumber": 54479,
           "arch32": false
         }
       ]
