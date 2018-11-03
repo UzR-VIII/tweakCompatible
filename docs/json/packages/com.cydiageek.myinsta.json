@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.myinsta",
   "name": "myInsta",
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.myinsta/",
   "shortDescription": "Better options for Instagram & More!",
@@ -130,6 +130,37 @@
           "date": "2018-10-08T16:30:07Z",
           "userName": "yaserFA",
           "issueNumber": 52512,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.6",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-11-03T11:45:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-03T11:45:51Z",
+          "userName": "yaserFA",
+          "issueNumber": 54506,
           "arch32": false
         }
       ]
