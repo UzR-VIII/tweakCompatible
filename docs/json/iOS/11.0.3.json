@@ -5318,40 +5318,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.detailedpowerusage",
-      "name": "DetailedPowerUsage",
-      "latest": "1.0.2-1b",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
-      "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
-      "category": "HYI - Tweaks",
-      "author": "TheComputerWhisperer",
-      "commercial": false,
-      "date": "2018-03-23T15:19:47Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-23T15:19:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.thecomputerwhisperer.detailedpowerusage",
       "name": "DetailedPowerUsage",
       "latest": "1.0.2-1b",
@@ -5388,6 +5354,40 @@
           "iOSVersion": "11.0.3",
           "repository": "TheComputerWhisperer's Repo",
           "date": "2018-11-02T03:27:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.detailedpowerusage",
+      "name": "DetailedPowerUsage",
+      "latest": "1.0.2-1b",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.detailedpowerusage/",
+      "shortDescription": "Unlock Apple's internal battery data & stats on iOS 9.x - 11.1.2.",
+      "category": "HYI - Tweaks",
+      "author": "TheComputerWhisperer",
+      "commercial": false,
+      "date": "2018-03-23T15:19:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-23T15:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6961,22 +6961,22 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.fiveicondockxi",
+      "id": "com.hackyouriphone.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
-      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
-      "category": "Supports iOS 11",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "HYI - Tweaks",
       "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2018-03-02T01:31:35Z",
+      "date": "2018-03-02T03:41:12Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-02T01:31:35Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:41:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7028,22 +7028,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.fiveicondockxi",
+      "id": "com.yourepo.kiiimo.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "HYI - Tweaks",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.fiveicondockxi/",
+      "shortDescription": "اضافة 5 أيقونات في شريط الدوك السفلي Five icon dock for iOS 11.",
+      "category": "Supports iOS 11",
       "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2018-03-02T03:41:12Z",
+      "date": "2018-03-02T01:31:35Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:41:12Z",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-02T01:31:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8019,22 +8019,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.gpscheat",
+      "id": "com.yourepo.kiiimo.gpscheat",
       "name": "GPSCheat",
-      "latest": "1.1-5",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.gpscheat/",
+      "latest": "1.1-4",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.gpscheat/",
       "shortDescription": "Set a Fake Any Location On Device!",
-      "category": "Tweaks",
+      "category": "Supports iOS 11",
       "author": "Minuit",
-      "commercial": true,
-      "date": "2018-03-16T17:51:23Z",
+      "commercial": false,
+      "date": "2018-08-19T03:20:16Z",
       "versions": [
         {
-          "tweakVersion": "1.1-5",
+          "tweakVersion": "1.1-4",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-08-25T15:48:40Z",
+          "repository": "(null)",
+          "date": "2018-08-19T03:20:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8053,22 +8053,22 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.gpscheat",
+      "id": "org.thebigboss.gpscheat",
       "name": "GPSCheat",
-      "latest": "1.1-4",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.gpscheat/",
+      "latest": "1.1-5",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.gpscheat/",
       "shortDescription": "Set a Fake Any Location On Device!",
-      "category": "Supports iOS 11",
+      "category": "Tweaks",
       "author": "Minuit",
-      "commercial": false,
-      "date": "2018-08-19T03:20:16Z",
+      "commercial": true,
+      "date": "2018-03-16T17:51:23Z",
       "versions": [
         {
-          "tweakVersion": "1.1-4",
+          "tweakVersion": "1.1-5",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-08-19T03:20:16Z",
+          "repository": "BigBoss",
+          "date": "2018-08-25T15:48:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11299,21 +11299,22 @@
       ]
     },
     {
-      "id": "com.laughingquoll.noctis",
+      "id": "com.hackyouriphone.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "LaughingQuoll",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-02T03:43:45Z",
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-14T22:34:19Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:43:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -11332,22 +11333,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctis",
+      "id": "com.laughingquoll.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-03-02T03:43:45Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:43:45Z",
+          "repository": "BigBoss",
+          "date": "2018-03-14T22:34:19Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -12905,7 +12905,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-93",
+      "latest": "2.0r-93a",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -15026,6 +15026,39 @@
       ]
     },
     {
+      "id": "org.fwdr.sonus",
+      "name": "Sonus",
+      "latest": "3.0.2-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.fwdr.sonus/",
+      "shortDescription": "A better & highly customizable volume hud.",
+      "category": "Tweaks",
+      "author": "ubik",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "3.0.2-3",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-09-03T19:15:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "repo.biteyourapple.net.sonus",
       "name": "Sonus",
       "latest": "3.0.2-3",
@@ -15048,39 +15081,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.fwdr.sonus",
-      "name": "Sonus",
-      "latest": "3.0.2-3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.fwdr.sonus/",
-      "shortDescription": "A better & highly customizable volume hud.",
-      "category": "Tweaks",
-      "author": "ubik",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "3.0.2-3",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-09-03T19:15:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -15383,6 +15383,40 @@
       ]
     },
     {
+      "id": "io.ominousness.stackxi",
+      "name": "StackXI",
+      "latest": "0.2.0",
+      "repository": "Smacpats’ Repo",
+      "url": "http://cydia.saurik.com/package/io.ominousness.stackxi/",
+      "shortDescription": "Grouped notifications, iOS 12 style.",
+      "category": "Tweaks",
+      "author": "Ominousness",
+      "commercial": false,
+      "date": "2018-08-23T18:46:04Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "11.0.3",
+          "repository": "Nepeta",
+          "date": "2018-11-03T04:03:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.iadam1n.statusfolder",
       "name": "StatusFolder",
       "latest": "1.0.1",
@@ -15639,40 +15673,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.sugarcane",
-      "name": "SugarCane",
-      "latest": "1.0.0",
-      "repository": "BiteYourApple",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.sugarcane/",
-      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "date": "2018-04-12T03:25:59Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.0.3",
-          "repository": "BiteYourApple",
-          "date": "2018-04-12T03:25:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
       "latest": "1.0.0",
@@ -15695,6 +15695,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.sugarcane",
+      "name": "SugarCane",
+      "latest": "1.0.0",
+      "repository": "BiteYourApple",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.sugarcane/",
+      "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "date": "2018-04-12T03:25:59Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.0.3",
+          "repository": "BiteYourApple",
+          "date": "2018-04-12T03:25:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
