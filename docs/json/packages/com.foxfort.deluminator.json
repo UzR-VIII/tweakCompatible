@@ -1,7 +1,7 @@
 {
   "id": "com.foxfort.deluminator",
   "name": "Deluminator",
-  "latest": "1.1.4",
+  "latest": "1.1.5",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.foxfort.deluminator/",
   "shortDescription": "Night mode for the web",
@@ -437,11 +437,11 @@
       "repository": "Packix",
       "date": "2018-10-28T06:53:04Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -458,6 +458,15 @@
           "date": "2018-10-28T06:53:04Z",
           "userName": "magicbandz",
           "issueNumber": 54121,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Breking instagram app",
+          "date": "2018-11-04T14:05:57Z",
+          "userName": "GhostenigmaX",
+          "issueNumber": 54592,
           "arch32": false
         }
       ]
