@@ -1,7 +1,7 @@
 {
   "id": "com.spark.ccmusicartwork",
   "name": "CCMusicArtwork",
-  "latest": "0.0.7-1",
+  "latest": "0.0.5-1-5",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.ccmusicartwork/",
   "shortDescription": "Shows album artwork behind the music module in the iOS 11 control center",
@@ -211,11 +211,11 @@
       "repository": "Spark's Beta Repo",
       "date": "2018-07-08T21:25:40Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -232,6 +232,15 @@
           "date": "2018-07-08T21:25:40Z",
           "userName": "DennisBednarz",
           "issueNumber": 16924,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Installed fine, however doesn’t work and shows a blank error page in the IOS settings",
+          "date": "2018-11-04T22:53:42Z",
+          "userName": "jensenjoe",
+          "issueNumber": 54621,
           "arch32": false
         }
       ]
