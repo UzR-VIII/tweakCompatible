@@ -1,10 +1,10 @@
 {
   "id": "com.iarrays.whoozit",
   "name": "WhoozItPro",
-  "latest": "2.0.6",
+  "latest": "2.0.7-beta-5",
   "repository": "IArrays",
   "url": "http://iarrays.com/",
-  "shortDescription": "all-in-one caller ID solution using TrueCaller",
+  "shortDescription": "Now with iOS 11 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).",
   "category": "Utilities",
   "author": "IArrays",
   "commercial": false,
@@ -883,6 +883,37 @@
           "date": "2018-09-09T10:29:01Z",
           "userName": "bodepase",
           "issueNumber": 49888,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.7-beta-5",
+      "iOSVersion": "11.1.2",
+      "repository": "IArrays",
+      "date": "2018-11-04T20:29:56Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Tweak is working but the number who calls me is shown anonym pls fix this on iOS 11.1.2 iP X",
+          "date": "2018-11-04T20:29:56Z",
+          "userName": "ScArFLiX",
+          "issueNumber": 54612,
           "arch32": false
         }
       ]
