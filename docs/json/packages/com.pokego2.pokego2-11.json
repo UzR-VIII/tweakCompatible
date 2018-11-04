@@ -2270,15 +2270,6 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,3",
-          "issues": "Crashes and won’t load in",
-          "date": "2018-11-03T01:25:22Z",
-          "userName": "lineararc",
-          "issueNumber": 54480,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone10,3",
           "issues": "",
@@ -2294,6 +2285,15 @@
           "date": "2018-11-03T08:11:04Z",
           "userName": "kaushalj94",
           "issueNumber": 54491,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "After months, still crashes. The developer needs to stop pushing updates but not fix it. ",
+          "date": "2018-11-04T20:34:25Z",
+          "userName": "lineararc",
+          "issueNumber": 54613,
           "arch32": false
         }
       ]
