@@ -750,10 +750,10 @@
       "date": "2018-10-19T13:51:43Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -788,6 +788,15 @@
           "date": "2018-11-03T11:19:58Z",
           "userName": "m0kum",
           "issueNumber": 54504,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-05T18:37:02Z",
+          "userName": "kojuice182",
+          "issueNumber": 54681,
           "arch32": false
         }
       ]
