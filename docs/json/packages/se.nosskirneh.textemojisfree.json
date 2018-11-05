@@ -1,7 +1,7 @@
 {
   "id": "se.nosskirneh.textemojisfree",
   "name": "TextEmojis Free",
-  "latest": "1.2",
+  "latest": "1.2.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/se.nosskirneh.textemojisfree/",
   "shortDescription": "Search and input emojis by text shortcodes",
@@ -188,6 +188,37 @@
           "date": "2018-10-27T14:46:32Z",
           "userName": "Invisible40",
           "issueNumber": 54065,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-11-05T07:19:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-05T07:19:51Z",
+          "userName": "buitim",
+          "issueNumber": 54635,
           "arch32": false
         }
       ]
