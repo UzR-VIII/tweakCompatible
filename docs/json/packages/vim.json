@@ -1,7 +1,7 @@
 {
   "id": "vim",
   "name": "Vi IMproved",
-  "latest": "7.1-3p",
+  "latest": "8.0.1848",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/vim/",
   "shortDescription": "the best syntax highlighter, ever",
@@ -197,6 +197,37 @@
           "date": "2018-08-27T03:01:58Z",
           "userName": "ajorpheus",
           "issueNumber": 47559,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "8.0.1848",
+      "iOSVersion": "11.0.3",
+      "repository": "Electra's iOS Utilities",
+      "date": "2018-11-05T08:34:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,2",
+          "issues": "2nd Generation iPad Pro v11.0.3",
+          "date": "2018-11-05T08:34:56Z",
+          "userName": "sietec",
+          "issueNumber": 54652,
           "arch32": false
         }
       ]
