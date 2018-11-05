@@ -1,7 +1,7 @@
 {
   "id": "findutils",
   "name": "Find Utilities",
-  "latest": "4.6.0-1",
+  "latest": "4.6",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/findutils/",
   "shortDescription": "indexes and searches filesystems",
@@ -654,6 +654,37 @@
           "date": "2018-10-24T08:15:25Z",
           "userName": "MattieThurlow96",
           "issueNumber": 53799,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.6",
+      "iOSVersion": "11.0.3",
+      "repository": "Electra's iOS Utilities",
+      "date": "2018-11-05T08:32:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,2",
+          "issues": "2nd Generation iPad Pro v11.0.3",
+          "date": "2018-11-05T08:32:22Z",
+          "userName": "sietec",
+          "issueNumber": 54645,
           "arch32": false
         }
       ]
