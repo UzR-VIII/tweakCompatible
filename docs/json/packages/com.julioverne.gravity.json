@@ -207,11 +207,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-09-19T05:27:26Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -228,6 +228,15 @@
           "date": "2018-09-19T05:27:26Z",
           "userName": "ActiveXre",
           "issueNumber": 50885,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2018-11-05T19:16:22Z",
+          "userName": "dobby1970",
+          "issueNumber": 54692,
           "arch32": false
         }
       ]
