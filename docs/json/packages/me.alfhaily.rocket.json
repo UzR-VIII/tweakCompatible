@@ -3590,9 +3590,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3627,6 +3627,15 @@
           "date": "2018-11-02T19:55:09Z",
           "userName": "yaserFA",
           "issueNumber": 54451,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-05T07:19:42Z",
+          "userName": "buitim",
+          "issueNumber": 54634,
           "arch32": false
         }
       ]
