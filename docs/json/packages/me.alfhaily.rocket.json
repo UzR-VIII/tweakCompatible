@@ -3613,15 +3613,6 @@
         },
         {
           "status": "partial",
-          "device": "iPhone9,3",
-          "issues": "Fails after few downloads then attempts ",
-          "date": "2018-11-01T00:33:46Z",
-          "userName": "Passsenger57",
-          "issueNumber": 54354,
-          "arch32": false
-        },
-        {
-          "status": "partial",
           "device": "iPhone8,1",
           "issues": "Freezes when pressing on some people stories! Ig version: 69.0 ",
           "date": "2018-11-02T19:55:09Z",
@@ -3636,6 +3627,15 @@
           "date": "2018-11-05T07:19:42Z",
           "userName": "buitim",
           "issueNumber": 54634,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "History views still crashes and freeze 🥶",
+          "date": "2018-11-05T16:42:45Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54657,
           "arch32": false
         }
       ]
