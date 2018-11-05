@@ -111,9 +111,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -139,6 +139,15 @@
           "date": "2018-08-26T15:54:58Z",
           "userName": "m0kum",
           "issueNumber": 47427,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "This kicks ASS",
+          "date": "2018-11-05T20:06:59Z",
+          "userName": "XweAponX",
+          "issueNumber": 54694,
           "arch32": false
         }
       ]
