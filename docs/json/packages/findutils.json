@@ -681,10 +681,10 @@
         {
           "status": "working",
           "device": "iPad7,2",
-          "issues": "2nd Generation iPad Pro v11.0.3",
-          "date": "2018-11-05T08:32:22Z",
+          "issues": "",
+          "date": "2018-11-05T08:31:22Z",
           "userName": "sietec",
-          "issueNumber": 54645,
+          "issueNumber": 54644,
           "arch32": false
         }
       ]
