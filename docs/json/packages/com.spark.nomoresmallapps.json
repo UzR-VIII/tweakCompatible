@@ -236,9 +236,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 46,
+        "good": 47,
         "bad": 0,
-        "total": 46,
+        "total": 47,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -660,6 +660,15 @@
           "date": "2018-11-02T03:59:38Z",
           "userName": "iTollMouS",
           "issueNumber": 54422,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T00:59:56Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54744,
           "arch32": false
         }
       ]
