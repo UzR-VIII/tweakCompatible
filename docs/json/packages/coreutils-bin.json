@@ -1,7 +1,7 @@
 {
   "id": "coreutils-bin",
   "name": "Core Utilities (/bin)",
-  "latest": "8.30-2",
+  "latest": "8.29-1",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/coreutils-bin/",
   "shortDescription": "just the /bin folder from GNU coreutils",
@@ -546,9 +546,9 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2018-07-21T09:58:05Z",
+          "date": "2018-11-06T16:25:32Z",
           "userName": "MattieThurlow96",
-          "issueNumber": 31108,
+          "issueNumber": 54813,
           "arch32": false
         }
       ]
