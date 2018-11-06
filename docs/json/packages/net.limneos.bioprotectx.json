@@ -1,7 +1,7 @@
 {
   "id": "net.limneos.bioprotectx",
   "name": "BioProtect X for iOS 11",
-  "latest": "3.1-41",
+  "latest": "3.1-44",
   "repository": "Limneos Repo",
   "url": "http://limneos.net/repo/",
   "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -2906,10 +2906,10 @@
       "date": "2018-09-07T02:24:35Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2962,6 +2962,15 @@
           "date": "2018-09-25T07:41:23Z",
           "userName": "ntassani",
           "issueNumber": 51463,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T00:55:20Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54712,
           "arch32": false
         }
       ]
