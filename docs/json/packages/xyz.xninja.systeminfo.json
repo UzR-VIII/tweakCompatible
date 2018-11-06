@@ -1,10 +1,10 @@
 {
   "id": "xyz.xninja.systeminfo",
   "name": "System Info",
-  "latest": "2.0.0-1216+debug",
+  "latest": "2.0.0-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
-  "shortDescription": "System information Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
+  "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
   "category": "Tweaks",
   "author": "ARX8x",
   "commercial": false,
@@ -1269,9 +1269,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 37,
+        "good": 38,
         "bad": 0,
-        "total": 37,
+        "total": 38,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1612,6 +1612,15 @@
           "date": "2018-10-10T03:55:43Z",
           "userName": "lmsldeepak",
           "issueNumber": 52630,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T01:01:54Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54757,
           "arch32": false
         }
       ]
