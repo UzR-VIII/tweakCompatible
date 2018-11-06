@@ -226,6 +226,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1.1-2",
+      "iOSVersion": "10.3.3",
+      "repository": "CokePokes",
+      "date": "2018-11-06T21:41:41Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Everything works fine until trying to play a selection, the video player will open & start loading for half a second and then it crashes. Also tried downloading the video first and then playing, but the same thing happens, it just crashes after a second.",
+          "date": "2018-11-06T21:41:41Z",
+          "userName": "CrazyTrain422",
+          "issueNumber": 54832,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
