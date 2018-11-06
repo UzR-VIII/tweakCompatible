@@ -1,10 +1,10 @@
 {
   "id": "mobilesubstrate",
   "name": "Cydia Substrate",
-  "latest": "0.9.6301",
+  "latest": "0.9.6301+dummy",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-  "shortDescription": "powerful code insertion platform",
+  "shortDescription": "MobileSubstrate Dummy Package",
   "category": "System",
   "author": "Jay Freeman (saurik)",
   "commercial": false,
@@ -858,9 +858,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -886,6 +886,15 @@
           "date": "2018-10-16T05:59:22Z",
           "userName": "sajjadibraheem",
           "issueNumber": 53141,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T00:59:20Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54740,
           "arch32": false
         }
       ]
