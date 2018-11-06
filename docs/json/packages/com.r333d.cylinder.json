@@ -1764,20 +1764,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone9,3",
-          "issues": "Wonderful idea guys 🙃",
-          "date": "2018-10-05T01:12:03Z",
-          "userName": "Passsenger57",
-          "issueNumber": 52173,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone9,1",
           "issues": "",
           "date": "2018-10-25T23:16:34Z",
           "userName": "Meowderp",
           "issueNumber": 53961,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "🥳",
+          "date": "2018-11-06T17:33:46Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54819,
           "arch32": false
         }
       ]
