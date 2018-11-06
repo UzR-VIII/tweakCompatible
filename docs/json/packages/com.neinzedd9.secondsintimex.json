@@ -1,7 +1,7 @@
 {
   "id": "com.neinzedd9.secondsintimex",
   "name": "SecondsInTimeX",
-  "latest": "1.0.2",
+  "latest": "1.0.3~24HR",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.neinzedd9.secondsintimex/",
   "shortDescription": "Adds seconds to the iPhone X clock.",
@@ -169,9 +169,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -188,6 +188,15 @@
           "date": "2018-07-18T19:46:42Z",
           "userName": "tommoses",
           "issueNumber": 29512,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-06T01:00:52Z",
+          "userName": "tomhmoses",
+          "issueNumber": 54749,
           "arch32": false
         }
       ]
