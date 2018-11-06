@@ -449,10 +449,10 @@
         {
           "status": "partial",
           "device": "iPhone9,3",
-          "issues": "Some notifications get lost (for me it was Hangouts). Others won't close (Venmo for me). Otherwise app is good, will uninstall for now. ",
-          "date": "2018-09-27T20:34:13Z",
+          "issues": "Some apps do not close ",
+          "date": "2018-11-06T20:55:09Z",
           "userName": "e-zaiD",
-          "issueNumber": 51636,
+          "issueNumber": 54830,
           "arch32": false
         }
       ]
