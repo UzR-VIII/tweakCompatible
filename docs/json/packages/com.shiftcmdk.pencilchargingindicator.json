@@ -1,7 +1,7 @@
 {
   "id": "com.shiftcmdk.pencilchargingindicator",
   "name": "PencilChargingIndicator",
-  "latest": "1.0",
+  "latest": "1.0.1",
   "repository": "shiftcmdk",
   "url": "http://cydia.saurik.com/package/com.shiftcmdk.pencilchargingindicator/",
   "shortDescription": "Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.",
@@ -55,6 +55,37 @@
           "date": "2018-11-06T01:00:13Z",
           "userName": "tomhmoses",
           "issueNumber": 54746,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "11.3.1",
+      "repository": "shiftcmdk",
+      "date": "2018-11-06T22:39:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-06T22:39:58Z",
+          "userName": "mohitt01p",
+          "issueNumber": 54839,
           "arch32": false
         }
       ]
