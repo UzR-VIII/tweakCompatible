@@ -1344,9 +1344,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1381,6 +1381,15 @@
           "date": "2018-11-06T01:01:11Z",
           "userName": "tomhmoses",
           "issueNumber": 54751,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Limelight’s Calendar and Clock icons are broken, but all the other icons work fine. “Force Refresh” brings the device into safe mode.",
+          "date": "2018-11-06T15:22:12Z",
+          "userName": "haykam821",
+          "issueNumber": 54778,
           "arch32": false
         }
       ]
