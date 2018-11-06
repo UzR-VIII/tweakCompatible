@@ -1374,7 +1374,7 @@
     {
       "id": "apt7-key",
       "name": "APT 0.7 (apt-key)",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7-key/",
       "shortDescription": "repository encryption key management tool",
@@ -1408,7 +1408,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.4.8-1",
+      "latest": "1.4.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1783,7 +1783,7 @@
     {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
-      "latest": "4.3.8",
+      "latest": "4.3.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
       "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -1916,7 +1916,7 @@
     {
       "id": "base",
       "name": "Base Structure",
-      "latest": "1-1",
+      "latest": "1-4",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/base/",
       "shortDescription": "underlying system directory structure",
@@ -4297,7 +4297,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.30-2",
+      "latest": "8.29-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -4730,10 +4730,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.9.1",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -4763,10 +4763,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.6301",
+      "latest": "0.9.6301+dummy",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
+      "shortDescription": "MobileSubstrate Dummy Package",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -5545,7 +5545,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.14g",
+      "latest": "1.3.14h",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Fix Emoji Attributes.",
@@ -5611,7 +5611,7 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2.2f",
+      "latest": "1.2.2i",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -6092,7 +6092,7 @@
     {
       "id": "findutils",
       "name": "Find Utilities",
-      "latest": "4.6.0-1",
+      "latest": "4.6",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/findutils/",
       "shortDescription": "indexes and searches filesystems",
@@ -6377,20 +6377,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.flex2",
+      "id": "com.fuyuchi.flex2",
       "name": "Flex 2",
-      "latest": "2.0k",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
+      "category": "Tweaks",
+      "author": "John Coates",
+      "commercial": true,
+      "date": "2018-03-05T16:58:22Z",
       "versions": [
         {
-          "tweakVersion": "2.0k",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "10.3.1",
-          "repository": "BiteYourApple",
+          "repository": "BigBoss",
+          "date": "2018-03-07T21:32:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6409,22 +6411,20 @@
       ]
     },
     {
-      "id": "com.fuyuchi.flex2",
+      "id": "repo.biteyourapple.net.flex2",
       "name": "Flex 2",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
+      "latest": "2.0k",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "Tweaks",
-      "author": "John Coates",
-      "commercial": true,
-      "date": "2018-03-05T16:58:22Z",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "2.0k",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-03-07T21:32:31Z",
+          "repository": "BiteYourApple",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6946,7 +6946,7 @@
     {
       "id": "gawk",
       "name": "Gawk",
-      "latest": "3.1.6-2p",
+      "latest": "4.2.1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gawk/",
       "shortDescription": "GNU's heavy-weight implementation of awk",
@@ -7183,7 +7183,7 @@
     {
       "id": "grep",
       "name": "grep",
-      "latest": "3.1-1",
+      "latest": "3.1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/grep/",
       "shortDescription": "searches files for regular expressions",
@@ -7251,7 +7251,7 @@
     {
       "id": "gzip",
       "name": "gzip",
-      "latest": "1.9-1",
+      "latest": "1.8",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/gzip/",
       "shortDescription": "the standard Unix compression algorithm",
@@ -8096,7 +8096,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-195",
+      "latest": "1.8r-207",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -8169,10 +8169,10 @@
     {
       "id": "com.ioscreatix.intelix",
       "name": "Intelix",
-      "latest": "1.3.8",
+      "latest": "1.2.3",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.intelix/",
-      "shortDescription": "Grouped Notifications for iOS 11",
+      "shortDescription": "Grouped Notifications on iOS 11",
       "category": "Tweaks",
       "author": "iOS Creatix",
       "commercial": true,
@@ -8949,7 +8949,7 @@
     {
       "id": "com.junesiphone.lockpluspro",
       "name": "LockPlus Pro",
-      "latest": "1.4.4",
+      "latest": "1.4.6.2",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.lockpluspro/",
       "shortDescription": "The ultimate lock screen tweak!",
@@ -9169,7 +9169,7 @@
     {
       "id": "com.cydiageek.marina",
       "name": "Marina",
-      "latest": "1.0.3",
+      "latest": "1.0.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.marina/",
       "shortDescription": "Change the Numbers of the Icons of the Dock & More!",
@@ -10027,7 +10027,7 @@
     {
       "id": "net.limneos.nfcwriterx",
       "name": "NFCWriter X",
-      "latest": "0.3-9",
+      "latest": "0.4-78",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
       "shortDescription": "NFCWriter X for iOS",
@@ -12212,7 +12212,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.1.1",
+      "latest": "3.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -13336,7 +13336,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.0.1",
+      "latest": "1.0.2-2",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -13603,10 +13603,10 @@
     {
       "id": "com.aditkamath.springy",
       "name": "Springy",
-      "latest": "1.1",
+      "latest": "1.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.aditkamath.springy/",
-      "shortDescription": "Animated respring theme platform",
+      "shortDescription": "Respring animations & customization",
       "category": "Tweaks",
       "author": "Adit Kamath",
       "commercial": false,
@@ -14129,7 +14129,7 @@
     {
       "id": "system-cmds",
       "name": "system-cmds",
-      "latest": "790.30.1-1",
+      "latest": "790",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/system-cmds/",
       "shortDescription": "iostat, login, passwd, sync, sysctl",
@@ -14163,7 +14163,7 @@
     {
       "id": "tar",
       "name": "Tape Archive",
-      "latest": "1.30-1",
+      "latest": "1.30",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/tar/",
       "shortDescription": "tool for making tape archives",
@@ -15071,7 +15071,7 @@
     {
       "id": "vim",
       "name": "Vi IMproved",
-      "latest": "7.1-3p",
+      "latest": "8.0.1848",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/vim/",
       "shortDescription": "the best syntax highlighter, ever",
@@ -15305,7 +15305,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.65",
+      "latest": "1.0.67",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -15475,9 +15475,9 @@
           "repository": "BigBoss",
           "date": "2018-10-12T04:45:32Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -15660,7 +15660,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc6",
+      "latest": "0.4rc7-1",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
