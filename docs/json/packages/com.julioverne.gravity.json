@@ -152,20 +152,20 @@
       "users": [
         {
           "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2018-07-21T10:00:46Z",
-          "userName": "MattieThurlow96",
-          "issueNumber": 31128,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,1",
           "issues": "",
           "date": "2018-08-11T06:19:43Z",
           "userName": "iammssachdeva",
           "issueNumber": 41804,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-11-06T16:23:42Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 54802,
           "arch32": false
         }
       ]
