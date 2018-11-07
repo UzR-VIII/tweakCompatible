@@ -749,11 +749,11 @@
       "repository": "PoomSmart's Repo",
       "date": "2018-10-19T13:51:43Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -797,6 +797,15 @@
           "date": "2018-11-05T18:37:02Z",
           "userName": "kojuice182",
           "issueNumber": 54681,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-07T20:25:58Z",
+          "userName": "burkybang",
+          "issueNumber": 54878,
           "arch32": false
         }
       ]
