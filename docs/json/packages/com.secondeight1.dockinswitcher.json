@@ -329,11 +329,11 @@
       "repository": "Packix",
       "date": "2018-07-30T08:29:47Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -359,6 +359,15 @@
           "date": "2018-07-31T23:23:32Z",
           "userName": "Matt-Home",
           "issueNumber": 37339,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-07T05:53:48Z",
+          "userName": "Trapunzel",
+          "issueNumber": 54853,
           "arch32": false
         }
       ]
