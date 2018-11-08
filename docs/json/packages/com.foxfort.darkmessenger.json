@@ -1,7 +1,7 @@
 {
   "id": "com.foxfort.darkmessenger",
   "name": "Dark Messenger",
-  "latest": "1.0.14",
+  "latest": "1.1.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.foxfort.darkmessenger/",
   "shortDescription": "Dark mode for Messenger",
@@ -600,6 +600,37 @@
           "date": "2018-10-16T15:43:23Z",
           "userName": "OVisuals",
           "issueNumber": 53175,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "11.2.1",
+      "repository": "Packix",
+      "date": "2018-11-08T01:57:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-11-08T01:57:19Z",
+          "userName": "desadens",
+          "issueNumber": 54885,
           "arch32": false
         }
       ]
