@@ -1,7 +1,7 @@
 {
   "id": "openssh",
   "name": "OpenSSH",
-  "latest": "7.7p1-1",
+  "latest": "7.6p1-4",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/openssh/",
   "shortDescription": "secure remote access between machines",
@@ -760,9 +760,9 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2018-07-21T10:04:41Z",
+          "date": "2018-11-08T21:13:45Z",
           "userName": "MattieThurlow96",
-          "issueNumber": 31154,
+          "issueNumber": 54905,
           "arch32": false
         }
       ]
