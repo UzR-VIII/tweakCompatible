@@ -3564,20 +3564,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,1",
-          "issues": "Fixed saving images to camera roll",
-          "date": "2018-10-29T22:25:59Z",
-          "userName": "brianstoiber",
-          "issueNumber": 54247,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,6",
           "issues": "",
           "date": "2018-10-29T22:51:19Z",
           "userName": "percyjk23",
           "issueNumber": 54250,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-11-08T04:47:30Z",
+          "userName": "brianstoiber",
+          "issueNumber": 54888,
           "arch32": false
         }
       ]
