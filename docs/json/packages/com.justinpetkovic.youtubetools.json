@@ -1702,8 +1702,8 @@
       "date": "2018-09-06T01:08:30Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 90,
-        "good": 10,
+        "percentage": 81,
+        "good": 9,
         "bad": 0,
         "total": 11,
         "arch32": {
@@ -1800,18 +1800,18 @@
           "status": "working",
           "device": "iPhone10,6",
           "issues": "",
-          "date": "2018-10-28T17:47:29Z",
-          "userName": "moonshinejeff",
-          "issueNumber": 54177,
-          "arch32": false
-        },
-        {
-          "status": "working",
-          "device": "iPhone10,6",
-          "issues": "",
           "date": "2018-11-06T01:03:10Z",
           "userName": "tomhmoses",
           "issueNumber": 54767,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes all the time",
+          "date": "2018-11-08T00:18:25Z",
+          "userName": "moonshinejeff",
+          "issueNumber": 54883,
           "arch32": false
         }
       ]
