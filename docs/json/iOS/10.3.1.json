@@ -441,21 +441,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.aerial",
+      "id": "com.polytweaks.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "repo.xarold.com",
-      "url": "http://repo.xarold.com/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
       "shortDescription": "Colour your status bar icons!",
       "category": "Messaging",
       "author": "Surenix",
-      "commercial": false,
+      "commercial": true,
+      "date": "2018-03-12T02:25:29Z",
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "10.3.1",
-          "repository": "Xarold Repo",
-          "date": "2018-04-12T12:07:21Z",
+          "repository": "BigBoss",
+          "date": "2018-10-27T04:06:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -474,22 +475,21 @@
       ]
     },
     {
-      "id": "com.polytweaks.aerial",
+      "id": "com.repo.xarold.com.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
+      "repository": "repo.xarold.com",
+      "url": "http://repo.xarold.com/",
       "shortDescription": "Colour your status bar icons!",
       "category": "Messaging",
       "author": "Surenix",
-      "commercial": true,
-      "date": "2018-03-12T02:25:29Z",
+      "commercial": false,
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-10-27T04:06:37Z",
+          "repository": "Xarold Repo",
+          "date": "2018-04-12T12:07:21Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3451,6 +3451,26 @@
               "calculatedStatus": "Unknown"
             }
           }
+        },
+        {
+          "tweakVersion": "0.0~beta5",
+          "iOSVersion": "10.3.1",
+          "repository": "julioverne's Repo",
+          "date": "2018-11-08T17:35:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
         }
       ]
     },
@@ -4730,10 +4750,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b6",
+      "latest": "1.9.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "graphical iPhone front-end for APT",
+      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -5986,10 +6006,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.6.0-10",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -6058,7 +6078,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.5.2-4",
+      "latest": "3.6.0-10",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -6377,22 +6397,20 @@
       ]
     },
     {
-      "id": "com.fuyuchi.flex2",
+      "id": "repo.biteyourapple.net.flex2",
       "name": "Flex 2",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
+      "latest": "2.0k",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "Tweaks",
-      "author": "John Coates",
-      "commercial": true,
-      "date": "2018-03-05T16:58:22Z",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "2.0k",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-03-07T21:32:31Z",
+          "repository": "BiteYourApple",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6411,20 +6429,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.flex2",
+      "id": "com.fuyuchi.flex2",
       "name": "Flex 2",
-      "latest": "2.0k",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
+      "category": "Tweaks",
+      "author": "John Coates",
+      "commercial": true,
+      "date": "2018-03-05T16:58:22Z",
       "versions": [
         {
-          "tweakVersion": "2.0k",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "10.3.1",
-          "repository": "BiteYourApple",
+          "repository": "BigBoss",
+          "date": "2018-03-07T21:32:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11502,6 +11522,38 @@
       ]
     },
     {
+      "id": "com.clezz.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "category": "Tweaks",
+      "author": "Ma Jun",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.3.1",
+          "repository": "BigBoss",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.1.1",
@@ -11522,38 +11574,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.clezz.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
-      "category": "Tweaks",
-      "author": "Ma Jun",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -14262,39 +14282,6 @@
       ]
     },
     {
-      "id": "com.alexzielenski.tinybar",
-      "name": "TinyBar",
-      "latest": "0.1.4-2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.alexzielenski.tinybar/",
-      "shortDescription": "Thins notification banners down to size!",
-      "category": "Tweaks",
-      "author": "Alex Zielenski",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.1.4-2",
-          "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-08-23T13:43:45Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.alexzielenski.updatedtinybar",
       "name": "TinyBar",
       "latest": "0.2.0",
@@ -14314,6 +14301,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.alexzielenski.tinybar",
+      "name": "TinyBar",
+      "latest": "0.1.4-2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.alexzielenski.tinybar/",
+      "shortDescription": "Thins notification banners down to size!",
+      "category": "Tweaks",
+      "author": "Alex Zielenski",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.1.4-2",
+          "iOSVersion": "10.3.1",
+          "repository": "BigBoss",
+          "date": "2018-08-23T13:43:45Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
