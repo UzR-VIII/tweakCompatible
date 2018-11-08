@@ -2114,7 +2114,7 @@
     {
       "id": "org.thebigboss.better3dmenus",
       "name": "Better3DMenus",
-      "latest": "2.0-86",
+      "latest": "2.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
       "shortDescription": "Better 3D-Touch Menus!",
@@ -2248,10 +2248,10 @@
     {
       "id": "com.midnightchips.bettersettings",
       "name": "BetterSettings",
-      "latest": "0.1.0",
+      "latest": "0.0.9",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.midnightchips.bettersettings/",
-      "shortDescription": "Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.",
+      "shortDescription": "Settings your way",
       "category": "Tweaks",
       "author": "midnightchips",
       "commercial": false,
@@ -4036,6 +4036,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-11-03T14:49:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2",
@@ -4086,39 +4119,6 @@
           "iOSVersion": "11.0.3",
           "repository": "Smacpats’ Repo",
           "date": "2018-10-11T17:57:57Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-11-03T14:49:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4415,7 +4415,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.30-2",
+      "latest": "8.29-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -5084,39 +5084,6 @@
       ]
     },
     {
-      "id": "com.sticktron.darkmessages",
-      "name": "DarkMessages (iOS 10)",
-      "latest": "1.2.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.sticktron.darkmessages/",
-      "shortDescription": "Dark mode for Messages (iOS 10)",
-      "category": "Tweaks",
-      "author": "Sticktron",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0-1",
-          "iOSVersion": "11.0.3",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-03-02T01:31:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.darkmessages",
       "name": "DarkMessages (iOS 10)",
       "latest": "1.0.2",
@@ -5139,6 +5106,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.sticktron.darkmessages",
+      "name": "DarkMessages (iOS 10)",
+      "latest": "1.2.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.sticktron.darkmessages/",
+      "shortDescription": "Dark mode for Messages (iOS 10)",
+      "category": "Tweaks",
+      "author": "Sticktron",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0-1",
+          "iOSVersion": "11.0.3",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-03-02T01:31:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6206,40 +6206,6 @@
       ]
     },
     {
-      "id": "com.tw3pole.exkey",
-      "name": "exKey",
-      "latest": "1.8.9-3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.tw3pole.exkey/",
-      "shortDescription": "Adds extra row of keys to keyboard",
-      "category": "Tweaks",
-      "author": "Richard Cheng",
-      "commercial": true,
-      "date": "2018-03-17T12:24:58Z",
-      "versions": [
-        {
-          "tweakVersion": "1.8.9-3",
-          "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-17T23:50:05Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.exkey",
       "name": "exKey",
       "latest": "1.8.9-3",
@@ -6262,6 +6228,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tw3pole.exkey",
+      "name": "exKey",
+      "latest": "1.8.9-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.tw3pole.exkey/",
+      "shortDescription": "Adds extra row of keys to keyboard",
+      "category": "Tweaks",
+      "author": "Richard Cheng",
+      "commercial": true,
+      "date": "2018-03-17T12:24:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.8.9-3",
+          "iOSVersion": "11.0.3",
+          "repository": "BigBoss",
+          "date": "2018-03-17T23:50:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6912,10 +6912,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.6.0-10",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -6985,7 +6985,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.5.2-4",
+      "latest": "3.6.0-10",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -7231,21 +7231,22 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
+      "id": "com.hackyouriphone.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fiveicondockxi/",
       "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Guillermo Moran",
       "commercial": false,
+      "date": "2018-03-02T03:41:12Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "GMoran Beta Software",
-          "date": "2018-04-22T20:42:27Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:41:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7298,22 +7299,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.fiveicondockxi",
+      "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fiveicondockxi/",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
       "shortDescription": "Five icon dock for iOS 11.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2018-03-02T03:41:12Z",
       "versions": [
         {
           "tweakVersion": "0.0.1-20",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:41:12Z",
+          "repository": "GMoran Beta Software",
+          "date": "2018-04-22T20:42:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8397,22 +8397,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.gpscheat",
+      "id": "com.yourepo.kiiimo.gpscheat",
       "name": "GPSCheat",
-      "latest": "1.1-5",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.gpscheat/",
+      "latest": "1.1-4",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.gpscheat/",
       "shortDescription": "Set a Fake Any Location On Device!",
-      "category": "Tweaks",
+      "category": "Supports iOS 11",
       "author": "Minuit",
-      "commercial": true,
-      "date": "2018-03-16T17:51:23Z",
+      "commercial": false,
+      "date": "2018-08-19T03:20:16Z",
       "versions": [
         {
-          "tweakVersion": "1.1-5",
+          "tweakVersion": "1.1-4",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-08-25T15:48:40Z",
+          "repository": "(null)",
+          "date": "2018-08-19T03:20:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8431,22 +8431,22 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.gpscheat",
+      "id": "org.thebigboss.gpscheat",
       "name": "GPSCheat",
-      "latest": "1.1-4",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.gpscheat/",
+      "latest": "1.1-5",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.gpscheat/",
       "shortDescription": "Set a Fake Any Location On Device!",
-      "category": "Supports iOS 11",
+      "category": "Tweaks",
       "author": "Minuit",
-      "commercial": false,
-      "date": "2018-08-19T03:20:16Z",
+      "commercial": true,
+      "date": "2018-03-16T17:51:23Z",
       "versions": [
         {
-          "tweakVersion": "1.1-4",
+          "tweakVersion": "1.1-5",
           "iOSVersion": "11.0.3",
-          "repository": "(null)",
-          "date": "2018-08-19T03:20:16Z",
+          "repository": "BigBoss",
+          "date": "2018-08-25T15:48:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8735,22 +8735,22 @@
       ]
     },
     {
-      "id": "com.dannyglover.hidelabels10",
+      "id": "repo.biteyourapple.net.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.hidelabels10/",
       "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-03-04T20:02:05Z",
+      "date": "2018-03-03T10:32:07Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "11.0.3",
-          "repository": "Danny Glover's Repo",
-          "date": "2018-04-22T20:31:53Z",
+          "repository": "repo.biteyourapple.net",
+          "date": "2018-03-03T10:32:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8769,22 +8769,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.hidelabels10",
+      "id": "com.dannyglover.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://cydia.saurik.com/package/repo.biteyourapple.net.hidelabels10/",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
       "shortDescription": "Hide app labels on iOS 10.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "Danny Glover",
       "commercial": false,
-      "date": "2018-03-03T10:32:07Z",
+      "date": "2018-03-04T20:02:05Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "11.0.3",
-          "repository": "repo.biteyourapple.net",
-          "date": "2018-03-03T10:32:07Z",
+          "repository": "Danny Glover's Repo",
+          "date": "2018-04-22T20:31:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9378,7 +9378,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-197",
+      "latest": "1.8r-207",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -9465,10 +9465,10 @@
     {
       "id": "com.ioscreatix.intelix",
       "name": "Intelix",
-      "latest": "1.3.8",
+      "latest": "1.2.3",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.intelix/",
-      "shortDescription": "Grouped Notifications for iOS 11",
+      "shortDescription": "Grouped Notifications on iOS 11",
       "category": "Tweaks",
       "author": "iOS Creatix",
       "commercial": true,
@@ -9634,10 +9634,10 @@
     {
       "id": "com.tapsharp.jumper",
       "name": "Jumper",
-      "latest": "1.0.0",
+      "latest": "1.2.1",
       "repository": "TapSharp",
       "url": "http://cydia.saurik.com/package/com.tapsharp.jumper/",
-      "shortDescription": "Jump into an application straight from the lockscreen",
+      "shortDescription": "Jump into an application straight from the lockscreen. Jumper replaces the flashlight and camera lockscreen quick actions with custom applications. Supports iPhones running iOS 11.1.0 and up.",
       "category": "Tweaks",
       "author": "Neo Ighodaro",
       "commercial": false,
@@ -9700,40 +9700,6 @@
       ]
     },
     {
-      "id": "com.yourepo.xkaosx.k-hostblocker",
-      "name": "K-Host Blocker",
-      "latest": "3.0",
-      "repository": "xkaosx Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.xkaosx.k-hostblocker/",
-      "shortDescription": "This is the IOS version of the K-Host Blocker. A modified host file that blocks advertisements, trackers, Government and many more! This also blocks Apple software updates! Works on all firmwares and devices.",
-      "category": "System",
-      "author": "King Kaos",
-      "commercial": false,
-      "date": "2018-03-04T23:47:31Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0",
-          "iOSVersion": "11.0.3",
-          "repository": "xkaosx Source - YouRepo",
-          "date": "2018-03-15T02:29:40Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.xkaosx.k-hostblocker3",
       "name": "K-Host Blocker",
       "latest": "3.3.",
@@ -9756,6 +9722,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.xkaosx.k-hostblocker",
+      "name": "K-Host Blocker",
+      "latest": "3.0",
+      "repository": "xkaosx Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.xkaosx.k-hostblocker/",
+      "shortDescription": "This is the IOS version of the K-Host Blocker. A modified host file that blocks advertisements, trackers, Government and many more! This also blocks Apple software updates! Works on all firmwares and devices.",
+      "category": "System",
+      "author": "King Kaos",
+      "commercial": false,
+      "date": "2018-03-04T23:47:31Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0",
+          "iOSVersion": "11.0.3",
+          "repository": "xkaosx Source - YouRepo",
+          "date": "2018-03-15T02:29:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11097,40 +11097,6 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.mitsuhaxi",
-      "name": "MitsuhaXI",
-      "latest": "0.2.0",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
-      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
-      "category": "Tweaks",
-      "author": "c0ldra1n",
-      "commercial": false,
-      "date": "2018-03-21T15:36:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.0",
-          "iOSVersion": "11.0.3",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-04-06T13:56:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
       "latest": "0.5.3",
@@ -11187,6 +11153,40 @@
           "iOSVersion": "11.0.3",
           "repository": "Ominousness",
           "date": "2018-08-19T03:15:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.randompacks.mitsuhaxi",
+      "name": "MitsuhaXI",
+      "latest": "0.2.0",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
+      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
+      "category": "Tweaks",
+      "author": "c0ldra1n",
+      "commercial": false,
+      "date": "2018-03-21T15:36:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "11.0.3",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-04-06T13:56:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12050,21 +12050,22 @@
       ]
     },
     {
-      "id": "com.laughingquoll.noctis",
+      "id": "com.hackyouriphone.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "LaughingQuoll",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-02T03:43:45Z",
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "BigBoss",
-          "date": "2018-03-14T22:34:19Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:43:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -12083,22 +12084,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.noctis",
+      "id": "com.laughingquoll.noctis",
       "name": "Noctis (iOS 10)",
       "latest": "1.9.8",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.noctis/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.laughingquoll.noctis/",
       "shortDescription": "Dark Mode for iOS 10",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-03-02T03:43:45Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.9.8",
           "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:43:45Z",
+          "repository": "BigBoss",
+          "date": "2018-03-14T22:34:19Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -13002,7 +13002,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.6p1-4",
+      "latest": "7.7p1-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -13743,7 +13743,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-93a",
+      "latest": "2.0r-93b",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -15999,6 +15999,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.spotilife",
+      "name": "Spotilife",
+      "latest": "1.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.spotilife/",
+      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
+      "category": "HYI - Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "date": "2018-03-02T03:46:16Z",
+      "versions": [
+        {
+          "tweakVersion": "0.8",
+          "iOSVersion": "11.0.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-02T03:46:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "repo.biteyourapple.net.spotilife",
       "name": "Spotilife",
       "latest": "0.9",
@@ -16034,40 +16068,6 @@
           "iOSVersion": "11.0.3",
           "repository": "BiteYourApple",
           "date": "2018-05-20T08:47:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.spotilife",
-      "name": "Spotilife",
-      "latest": "1.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.spotilife/",
-      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
-      "category": "HYI - Tweaks",
-      "author": "julioverne",
-      "commercial": false,
-      "date": "2018-03-02T03:46:16Z",
-      "versions": [
-        {
-          "tweakVersion": "0.8",
-          "iOSVersion": "11.0.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-02T03:46:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16491,6 +16491,40 @@
       ]
     },
     {
+      "id": "stygian.ws",
+      "name": "Stygian",
+      "latest": "0.5",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/stygian.ws/",
+      "shortDescription": "A true dark theme for YouTube and YouTube Music.",
+      "category": "Tweaks",
+      "author": "WS",
+      "commercial": false,
+      "date": "2018-08-01T19:39:14Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5",
+          "iOSVersion": "11.0.3",
+          "repository": "Packix",
+          "date": "2018-11-08T14:40:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ex.libsubstitute",
       "name": "Substitute",
       "latest": "0.0.7-coolstar",
@@ -16547,7 +16581,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -16871,10 +16905,10 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1216+debug",
+      "latest": "2.0.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
-      "shortDescription": "System information Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
+      "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
       "category": "Tweaks",
       "author": "ARX8x",
       "commercial": false,
