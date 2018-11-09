@@ -1564,6 +1564,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.2.2j",
+      "iOSVersion": "11.4",
+      "repository": "PoomSmart's Repo",
+      "date": "2018-11-09T16:33:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-09T16:33:58Z",
+          "userName": "percyjk23",
+          "issueNumber": 54925,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
