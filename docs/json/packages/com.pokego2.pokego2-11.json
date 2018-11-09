@@ -2359,6 +2359,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.0r-93b",
+      "iOSVersion": "11.4",
+      "repository": "Global++ Tweaks",
+      "date": "2018-11-09T16:34:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-09T16:34:13Z",
+          "userName": "percyjk23",
+          "issueNumber": 54926,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
