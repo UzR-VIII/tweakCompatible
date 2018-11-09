@@ -3632,10 +3632,10 @@
         {
           "status": "partial",
           "device": "iPhone9,3",
-          "issues": "History views still crashes and freeze 🥶",
-          "date": "2018-11-05T16:42:45Z",
+          "issues": "Downloading option it’s ok, but not story views, that’s freeze and stuck",
+          "date": "2018-11-09T17:57:49Z",
           "userName": "Passsenger57",
-          "issueNumber": 54657,
+          "issueNumber": 54934,
           "arch32": false
         }
       ]
