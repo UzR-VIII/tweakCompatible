@@ -1596,10 +1596,10 @@
       "date": "2018-07-26T23:06:37Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 20,
+        "good": 1,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1643,6 +1643,15 @@
           "date": "2018-09-28T05:03:01Z",
           "userName": "ss9966ss",
           "issueNumber": 51722,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-09T15:45:01Z",
+          "userName": "venxel",
+          "issueNumber": 54923,
           "arch32": false
         }
       ]
