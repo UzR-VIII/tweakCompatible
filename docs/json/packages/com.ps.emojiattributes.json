@@ -1,7 +1,7 @@
 {
   "id": "com.ps.emojiattributes",
   "name": "EmojiAttributes",
-  "latest": "1.3.14h",
+  "latest": "1.3.14i",
   "repository": "PoomSmart's Repo",
   "url": "http://poomsmart.github.io/repo/",
   "shortDescription": "Fix Emoji Attributes.",
@@ -1084,6 +1084,37 @@
           "date": "2018-11-07T20:26:14Z",
           "userName": "burkybang",
           "issueNumber": 54879,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.3.14i",
+      "iOSVersion": "11.3.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2018-11-09T12:00:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-09T12:00:18Z",
+          "userName": "burkybang",
+          "issueNumber": 54916,
           "arch32": false
         }
       ]
