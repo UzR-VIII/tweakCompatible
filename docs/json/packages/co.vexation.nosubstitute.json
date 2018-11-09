@@ -405,10 +405,10 @@
       "date": "2018-07-07T22:27:39Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 95,
+        "percentage": 92,
         "good": 39,
         "bad": 0,
-        "total": 41,
+        "total": 42,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -785,6 +785,15 @@
           "date": "2018-10-21T11:56:07Z",
           "userName": "buitim",
           "issueNumber": 53578,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-11-09T15:01:11Z",
+          "userName": "soum91",
+          "issueNumber": 54920,
           "arch32": false
         }
       ]
