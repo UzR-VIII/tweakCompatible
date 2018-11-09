@@ -764,9 +764,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 94,
-        "good": 34,
+        "good": 35,
         "bad": 0,
-        "total": 36,
+        "total": 37,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1098,6 +1098,15 @@
           "date": "2018-08-26T15:02:02Z",
           "userName": "VibesArtz",
           "issueNumber": 47414,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "🔋",
+          "date": "2018-11-09T18:05:39Z",
+          "userName": "Passsenger57",
+          "issueNumber": 54935,
           "arch32": false
         }
       ]
