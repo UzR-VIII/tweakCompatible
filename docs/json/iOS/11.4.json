@@ -8398,6 +8398,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-11T10:12:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -8420,39 +8453,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.thebigboss.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-11T10:12:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -12422,6 +12422,40 @@
       ]
     },
     {
+      "id": "com.ps-vxbakerxv.emojione2018efm",
+      "name": "EmojiOne 2018",
+      "latest": "1.0",
+      "repository": "EmojiPort Fonts Repo",
+      "url": "http://cydia.saurik.com/package/com.ps-vxbakerxv.emojione2018efm/",
+      "shortDescription": "EmojiFontManager",
+      "category": "Fonts (EFM)",
+      "author": "PoomSmart & vXBaKeRXv",
+      "commercial": false,
+      "date": "2018-11-09T16:33:45Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "EmojiPort Fonts Repo",
+          "date": "2018-11-09T16:33:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
       "latest": "1.2.2j",
@@ -13996,39 +14030,6 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Moran",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-20",
-          "iOSVersion": "11.4",
-          "repository": "GMoran Beta Software",
-          "date": "2018-07-11T04:21:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 85,
-            "good": 6,
-            "bad": 0,
-            "total": 7,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "0.0.1-20",
@@ -14051,6 +14052,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.gmoran.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "0.0.1-20",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-20",
+          "iOSVersion": "11.4",
+          "repository": "GMoran Beta Software",
+          "date": "2018-07-11T04:21:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 85,
+            "good": 6,
+            "bad": 0,
+            "total": 7,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -14619,22 +14653,22 @@
       ]
     },
     {
-      "id": "com.cryptedbytes.folderbackgroundbegone",
-      "name": "folderbackgroundbegone",
-      "latest": "0.0.1-2+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.cryptedbytes.folderbackgroundbegone/",
+      "id": "com.yourepo.privatebackup.folderbackgroundbegone",
+      "name": "FolderBackgroundBeGone",
+      "latest": "0.0.1-2-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.folderbackgroundbegone/",
       "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2018-04-08T11:26:26Z",
+      "date": "2018-10-26T09:57:51Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2+debug",
+          "tweakVersion": "0.0.1-2-debug",
           "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-07-21T10:00:32Z",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-26T09:57:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14653,22 +14687,22 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.folderbackgroundbegone",
-      "name": "FolderBackgroundBeGone",
-      "latest": "0.0.1-2-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.folderbackgroundbegone/",
+      "id": "com.cryptedbytes.folderbackgroundbegone",
+      "name": "folderbackgroundbegone",
+      "latest": "0.0.1-2+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.cryptedbytes.folderbackgroundbegone/",
       "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2018-10-26T09:57:51Z",
+      "date": "2018-04-08T11:26:26Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2-debug",
+          "tweakVersion": "0.0.1-2+debug",
           "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-26T09:57:51Z",
+          "repository": "(null)",
+          "date": "2018-07-21T10:00:32Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14788,40 +14822,6 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
-      "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
-      "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-2",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-11T14:56:23Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
       "latest": "1.1",
@@ -14844,6 +14844,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cabralcole.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "category": "Tweaks",
+      "author": "cole cabral @ca13ra1",
+      "commercial": false,
+      "date": "2018-03-01T20:00:33Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-2",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-11T14:56:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16878,40 +16912,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.hidelabels10",
-      "name": "HideLabels10",
-      "latest": "1.0",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.hidelabels10/",
-      "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
-      "commercial": false,
-      "date": "2018-03-02T08:27:06Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-10-01T00:36:37Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.dannyglover.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
@@ -16934,6 +16934,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.hidelabels10",
+      "name": "HideLabels10",
+      "latest": "1.0",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.hidelabels10/",
+      "shortDescription": "Hide app labels on iOS 10.",
+      "category": "Tweaks",
+      "author": "Danny Glover",
+      "commercial": false,
+      "date": "2018-03-02T08:27:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "(null)",
+          "date": "2018-10-01T00:36:37Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19500,22 +19534,22 @@
       ]
     },
     {
-      "id": "com.kdfly.kdlte4gpro",
+      "id": "com.yourepo.privatebackup.kdlte4gpro",
       "name": "KDLTE4G Pro",
-      "latest": "1.6-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.kdfly.kdlte4gpro/",
-      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE",
+      "latest": "1.6-3-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.kdlte4gpro/",
+      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE.",
       "category": "Tweaks",
       "author": "Sean Young",
-      "commercial": true,
-      "date": "2018-04-08T11:28:04Z",
+      "commercial": false,
+      "date": "2018-10-25T20:51:19Z",
       "versions": [
         {
-          "tweakVersion": "1.6-2",
+          "tweakVersion": "1.6-3-debug",
           "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-21T10:02:10Z",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-25T20:51:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19534,22 +19568,22 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.kdlte4gpro",
+      "id": "com.kdfly.kdlte4gpro",
       "name": "KDLTE4G Pro",
-      "latest": "1.6-3-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.kdlte4gpro/",
-      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE.",
+      "latest": "1.6-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.kdfly.kdlte4gpro/",
+      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE",
       "category": "Tweaks",
       "author": "Sean Young",
-      "commercial": false,
-      "date": "2018-10-25T20:51:19Z",
+      "commercial": true,
+      "date": "2018-04-08T11:28:04Z",
       "versions": [
         {
-          "tweakVersion": "1.6-3-debug",
+          "tweakVersion": "1.6-2",
           "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-25T20:51:19Z",
+          "repository": "BigBoss",
+          "date": "2018-07-21T10:02:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25218,40 +25252,6 @@
       ]
     },
     {
-      "id": "net.dylanaraps.neofetch",
-      "name": "Neofetch",
-      "latest": "3.0.1-3",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/net.dylanaraps.neofetch/",
-      "shortDescription": "A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)",
-      "category": "Utilities",
-      "author": "Dylan Araps",
-      "commercial": false,
-      "date": "2018-10-31T21:59:15Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0.1-3",
-          "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-10-31T21:59:15Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.privatebackup.neofetch",
       "name": "Neofetch",
       "latest": "3.0.1-3-debug",
@@ -25288,6 +25288,40 @@
           "iOSVersion": "11.4",
           "repository": "Private Repo - YouRepo",
           "date": "2018-10-26T17:29:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "net.dylanaraps.neofetch",
+      "name": "Neofetch",
+      "latest": "3.0.1-3",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/net.dylanaraps.neofetch/",
+      "shortDescription": "A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)",
+      "category": "Utilities",
+      "author": "Dylan Araps",
+      "commercial": false,
+      "date": "2018-10-31T21:59:15Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.1-3",
+          "iOSVersion": "11.4",
+          "repository": "(null)",
+          "date": "2018-10-31T21:59:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25374,40 +25408,6 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
-      "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
-      "shortDescription": "feature-complete terminal library",
-      "category": "System",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
-      "versions": [
-        {
-          "tweakVersion": "5.9-1",
-          "iOSVersion": "11.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2018-10-24T08:16:13Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ncurses",
       "name": "New Curses",
       "latest": "6.1-1",
@@ -25444,6 +25444,40 @@
           "iOSVersion": "11.4",
           "repository": "Bingner/Elucubratus",
           "date": "2018-10-24T08:13:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ncurses5-libs",
+      "name": "New Curses",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "shortDescription": "feature-complete terminal library",
+      "category": "System",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-14T00:25:17Z",
+      "versions": [
+        {
+          "tweakVersion": "5.9-1",
+          "iOSVersion": "11.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-10-24T08:16:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27995,39 +28029,6 @@
       ]
     },
     {
-      "id": "com.conradkramer.open",
-      "name": "Open",
-      "latest": "1.1.1-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.conradkramer.open/",
-      "shortDescription": "launch apps from the command-line",
-      "category": "System",
-      "author": "Conrad Kramer",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1.1-1",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-16T05:48:11Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.opencli",
       "name": "Open",
       "latest": "1.0.0",
@@ -28048,6 +28049,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.conradkramer.open",
+      "name": "Open",
+      "latest": "1.1.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.conradkramer.open/",
+      "shortDescription": "launch apps from the command-line",
+      "category": "System",
+      "author": "Conrad Kramer",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.1-1",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-16T05:48:11Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
