@@ -5131,12 +5131,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
-          "total": 1,
-          "good": 1,
+          "total": 2,
+          "good": 2,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -5159,6 +5159,15 @@
           "date": "2018-10-17T00:29:52Z",
           "userName": "bostiq",
           "issueNumber": 53191,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPad3,4",
+          "issues": "",
+          "date": "2018-11-09T10:05:05Z",
+          "userName": "DuncanCoolidge",
+          "issueNumber": 54913,
           "arch32": true
         }
       ]
