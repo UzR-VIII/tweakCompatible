@@ -1,7 +1,7 @@
 {
   "id": "curl",
   "name": "cURL",
-  "latest": "7.59.0-1",
+  "latest": "7.58.0-2",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/curl/",
   "shortDescription": "flexible multi-protocol file transfers",
@@ -437,6 +437,37 @@
           "userName": "ceiliarose",
           "issueNumber": 53692,
           "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "7.58.0-2",
+      "iOSVersion": "10.3.3",
+      "repository": "Bingner",
+      "date": "2018-11-10T12:41:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-11-10T12:41:18Z",
+          "userName": "JaRxY",
+          "issueNumber": 54971,
+          "arch32": true
         }
       ]
     }
