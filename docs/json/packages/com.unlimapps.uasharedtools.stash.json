@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.uasharedtools.stash",
   "name": "uasharedtools (stash)",
-  "latest": "2.2r-62",
+  "latest": "2.2r-70",
   "repository": "beta.unlimapps.com",
   "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.stash/",
   "shortDescription": "shared tools for unlimapps tweaks",
@@ -254,6 +254,37 @@
           "date": "2018-10-25T09:24:19Z",
           "userName": "DrFaf",
           "issueNumber": 53933,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2r-70",
+      "iOSVersion": "10.2",
+      "repository": "beta.unlimapps.com",
+      "date": "2018-11-09T23:55:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-09T23:55:52Z",
+          "userName": "Scunkaneli",
+          "issueNumber": 54960,
           "arch32": false
         }
       ]
