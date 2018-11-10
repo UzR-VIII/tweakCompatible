@@ -1,7 +1,7 @@
 {
   "id": "com.spatrickapps.universalvideodownloaderplus",
   "name": "Universal Video Downloader Plus",
-  "latest": "2.9.2",
+  "latest": "2.9.9",
   "repository": "apt.thebigboss.org",
   "url": "http://cydia.saurik.com/package/com.spatrickapps.universalvideodownloaderplus/",
   "shortDescription": "Download videos from almost any app!",
@@ -317,6 +317,37 @@
           "date": "2018-10-02T14:44:51Z",
           "userName": "theskipster00",
           "issueNumber": 52054,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.9.9",
+      "iOSVersion": "10.2",
+      "repository": "BigBoss",
+      "date": "2018-11-09T23:55:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-09T23:55:46Z",
+          "userName": "Scunkaneli",
+          "issueNumber": 54959,
           "arch32": false
         }
       ]
