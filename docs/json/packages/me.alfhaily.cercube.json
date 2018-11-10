@@ -2960,11 +2960,11 @@
       "repository": "Alfhaily APT",
       "date": "2018-10-19T08:41:01Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2981,6 +2981,15 @@
           "date": "2018-10-19T08:41:01Z",
           "userName": "SonicLover1996",
           "issueNumber": 53382,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,1",
+          "issues": "I don’t know if it is just my device but all I did was install YouTube from the AppStore and then I respiring my device and then I installed coercive and everything else it came with and it still just has the stock default YouTube. Nothing changed for me.",
+          "date": "2018-11-10T08:10:28Z",
+          "userName": "ScorpionTheOG",
+          "issueNumber": 54967,
           "arch32": false
         }
       ]
