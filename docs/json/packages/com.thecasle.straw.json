@@ -298,9 +298,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -317,6 +317,15 @@
           "date": "2018-10-20T08:52:58Z",
           "userName": "gggomg",
           "issueNumber": 53441,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-11-10T03:15:03Z",
+          "userName": "jmd-aKBar",
+          "issueNumber": 54964,
           "arch32": false
         }
       ]
