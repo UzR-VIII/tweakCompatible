@@ -1,10 +1,10 @@
 {
   "id": "cycript",
   "name": "Cycript",
-  "latest": "0.9.520-XI",
+  "latest": "0.9.594",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/cycript/",
-  "shortDescription": "runtime execution server and disassembler. Tested on and made only for iOS 11. At this moment supports only SpringBoard while tweaks are enabled and you are not in Safe Mode. Due to using a different approach by running a server, this version may lead to battery drain. Uninstall when you don't need. Package includes work from BishopFox (https://github.com/BishopFox/bfinject)",
+  "shortDescription": "runtime execution server and disassembler",
   "category": "Development",
   "author": "Jay Freeman (saurik)",
   "commercial": false,
@@ -106,6 +106,37 @@
           "date": "2018-08-24T00:35:49Z",
           "userName": "Tweaker177",
           "issueNumber": 46662,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.9.594",
+      "iOSVersion": "10.2",
+      "repository": "Cydia/Telesphoreo",
+      "date": "2018-11-11T00:35:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-11T00:35:22Z",
+          "userName": "andy9744",
+          "issueNumber": 55008,
           "arch32": false
         }
       ]
