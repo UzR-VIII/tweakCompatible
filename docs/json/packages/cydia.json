@@ -2523,9 +2523,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2578,6 +2578,15 @@
           "date": "2018-10-24T17:13:24Z",
           "userName": "Nawaf-NM",
           "issueNumber": 53850,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-11T00:41:46Z",
+          "userName": "andy9744",
+          "issueNumber": 55026,
           "arch32": false
         }
       ]
