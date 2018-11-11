@@ -2928,38 +2928,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.automa",
-      "name": "Automa",
-      "latest": "1.0.5-1k",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "remembers popup alert choices",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5-1k",
-          "iOSVersion": "10.2",
-          "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.automa",
       "name": "Automa",
       "latest": "1.0.5-1",
@@ -2978,6 +2946,38 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.automa",
+      "name": "Automa",
+      "latest": "1.0.5-1k",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "remembers popup alert choices",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5-1k",
+          "iOSVersion": "10.2",
+          "repository": "repo.biteyourapple.net",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7306,7 +7306,7 @@
     {
       "id": "curl",
       "name": "cURL",
-      "latest": "7.59.0-1",
+      "latest": "7.58.0-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/curl/",
       "shortDescription": "flexible multi-protocol file transfers",
@@ -19703,7 +19703,7 @@
     {
       "id": "network-cmds",
       "name": "Network Commands",
-      "latest": "543",
+      "latest": "307.0.1-7",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/network-cmds/",
       "shortDescription": "arp, ifconfig, netstat, route, traceroute",
@@ -22250,6 +22250,39 @@
       ]
     },
     {
+      "id": "com.creatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "4.0.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.creatix.peek-a-boo/",
+      "shortDescription": "Peek and Pop on older devices!",
+      "category": "Tweaks",
+      "author": "Creatix",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "10.0.2",
+          "iOSVersion": "10.2",
+          "repository": "(null)",
+          "date": "2018-03-04T20:59:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "11.0.3",
@@ -22270,39 +22303,6 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.creatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "4.0.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.creatix.peek-a-boo/",
-      "shortDescription": "Peek and Pop on older devices!",
-      "category": "Tweaks",
-      "author": "Creatix",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "10.0.2",
-          "iOSVersion": "10.2",
-          "repository": "(null)",
-          "date": "2018-03-04T20:59:55Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -31291,7 +31291,7 @@
     {
       "id": "com.malcolmhall.wifipasswords",
       "name": "WiFi Passwords",
-      "latest": "3.0.1",
+      "latest": "11.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.malcolmhall.wifipasswords/",
       "shortDescription": "shows previously entered wifi passwords",
@@ -31308,6 +31308,26 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "11.0-1",
+          "iOSVersion": "10.2",
+          "repository": "Pwn20wnd's Cydia Repo",
+          "date": "2018-11-11T00:37:22Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
