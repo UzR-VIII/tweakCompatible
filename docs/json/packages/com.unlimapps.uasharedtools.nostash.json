@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.uasharedtools.nostash",
   "name": "uasharedtools (iOS 11)",
-  "latest": "2.2r-62",
+  "latest": "2.2r-70",
   "repository": "test.unlimapps.com",
   "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
   "shortDescription": "shared tools for unlimapps tweaks",
@@ -210,6 +210,37 @@
           "date": "2018-10-31T18:43:54Z",
           "userName": "redunikorn",
           "issueNumber": 54322,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2r-70",
+      "iOSVersion": "11.1.2",
+      "repository": "beta.unlimapps.com",
+      "date": "2018-11-11T16:05:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-11T16:05:23Z",
+          "userName": "redunikorn",
+          "issueNumber": 55080,
           "arch32": false
         }
       ]
