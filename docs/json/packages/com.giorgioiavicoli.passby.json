@@ -1,7 +1,7 @@
 {
   "id": "com.giorgioiavicoli.passby",
   "name": "PassBy",
-  "latest": "1.8",
+  "latest": "1.8.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.giorgioiavicoli.passby/",
   "shortDescription": "Bypass passcode in many ways",
@@ -290,6 +290,37 @@
           "date": "2018-11-10T02:38:28Z",
           "userName": "mypenisbig",
           "issueNumber": 54963,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.8.1",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-11-11T00:15:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-11T00:15:20Z",
+          "userName": "rwkearns",
+          "issueNumber": 54989,
           "arch32": false
         }
       ]
