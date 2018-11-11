@@ -2906,10 +2906,10 @@
       "date": "2018-09-07T02:24:35Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 5,
+        "percentage": 85,
+        "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2971,6 +2971,15 @@
           "date": "2018-11-06T00:55:20Z",
           "userName": "tomhmoses",
           "issueNumber": 54712,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-11T00:44:30Z",
+          "userName": "andy9744",
+          "issueNumber": 55042,
           "arch32": false
         }
       ]
