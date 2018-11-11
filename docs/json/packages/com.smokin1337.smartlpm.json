@@ -609,9 +609,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 40,
+        "good": 41,
         "bad": 0,
-        "total": 40,
+        "total": 41,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -979,6 +979,15 @@
           "date": "2018-10-25T18:32:43Z",
           "userName": "TB5918",
           "issueNumber": 53948,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-11T00:47:03Z",
+          "userName": "andy9744",
+          "issueNumber": 55059,
           "arch32": false
         }
       ]
