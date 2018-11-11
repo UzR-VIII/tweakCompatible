@@ -202,22 +202,22 @@
       ]
     },
     {
-      "id": "com.pelle.activedisplay",
+      "id": "com.yourepo.randompacks.activedisplay",
       "name": "Active Display",
-      "latest": "1.1.1",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.pelle.activedisplay/",
-      "shortDescription": "Active Display for iOS",
+      "latest": "0.1.0-13",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.activedisplay/",
+      "shortDescription": "Active Display for iOS. Inspired by julio verne’s ChargeMode",
       "category": "Tweaks",
       "author": "Avery Pelle",
       "commercial": false,
-      "date": "2018-04-10T17:16:03Z",
+      "date": "2018-04-12T17:17:15Z",
       "versions": [
         {
           "tweakVersion": "0.1.0-13",
           "iOSVersion": "11.1",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-04-10T17:16:03Z",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-04-12T17:17:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -236,22 +236,22 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.activedisplay",
+      "id": "com.pelle.activedisplay",
       "name": "Active Display",
-      "latest": "0.1.0-13",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.activedisplay/",
-      "shortDescription": "Active Display for iOS. Inspired by julio verne’s ChargeMode",
+      "latest": "1.1.1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.pelle.activedisplay/",
+      "shortDescription": "Active Display for iOS",
       "category": "Tweaks",
       "author": "Avery Pelle",
       "commercial": false,
-      "date": "2018-04-12T17:17:15Z",
+      "date": "2018-04-10T17:16:03Z",
       "versions": [
         {
           "tweakVersion": "0.1.0-13",
           "iOSVersion": "11.1",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-04-12T17:17:15Z",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-04-10T17:16:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -405,6 +405,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.adblockforyoutube",
+      "name": "AdBlock for YouTube",
+      "latest": "1.0.7",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.adblockforyoutube/",
+      "shortDescription": "Block YouTube Ads and Video Ads",
+      "category": "Supports iOS 11",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2018-03-04T11:06:35Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.7",
+          "iOSVersion": "11.1",
+          "repository": "A Kiiimo Repositoty .🌙",
+          "date": "2018-06-10T23:35:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.alfhaily.adblockforyoutube",
       "name": "AdBlock for YouTube",
       "latest": "1.0.7",
@@ -480,40 +514,6 @@
           "iOSVersion": "11.1",
           "repository": "Alfhaily APT",
           "date": "2018-03-08T22:19:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.adblockforyoutube",
-      "name": "AdBlock for YouTube",
-      "latest": "1.0.7",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.adblockforyoutube/",
-      "shortDescription": "Block YouTube Ads and Video Ads",
-      "category": "Supports iOS 11",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2018-03-04T11:06:35Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.7",
-          "iOSVersion": "11.1",
-          "repository": "A Kiiimo Repositoty .🌙",
-          "date": "2018-06-10T23:35:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5512,60 +5512,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.cercube3foryoutube",
-      "name": "Cercube for YouTube",
-      "latest": "4.2.2.4k",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.cercube3foryoutube/",
-      "shortDescription": "Download YouTube videos and more!",
-      "category": "Supports iOS 11",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2018-03-14T22:42:26Z",
-      "versions": [
-        {
-          "tweakVersion": "4.2.2.0k",
-          "iOSVersion": "11.1",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-14T22:42:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "4.2.2.3k",
-          "iOSVersion": "11.1",
-          "repository": "A Kiiimo Repositoty .🌙",
-          "date": "2018-06-09T18:55:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
       "latest": "4.2.2.8",
@@ -5621,6 +5567,60 @@
           "iOSVersion": "11.1",
           "repository": "BigBoss",
           "date": "2018-08-12T07:00:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kiiimo.cercube3foryoutube",
+      "name": "Cercube for YouTube",
+      "latest": "4.2.2.4k",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.cercube3foryoutube/",
+      "shortDescription": "Download YouTube videos and more!",
+      "category": "Supports iOS 11",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2018-03-14T22:42:26Z",
+      "versions": [
+        {
+          "tweakVersion": "4.2.2.0k",
+          "iOSVersion": "11.1",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-14T22:42:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "4.2.2.3k",
+          "iOSVersion": "11.1",
+          "repository": "A Kiiimo Repositoty .🌙",
+          "date": "2018-06-09T18:55:21Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6278,22 +6278,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.colorbanners2",
+      "id": "com.golddavid.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.1.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbanners2/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorbanners2/",
       "shortDescription": "Color your notifications",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-02T17:18:57Z",
+      "commercial": true,
       "versions": [
         {
-          "tweakVersion": "1.1.0",
+          "tweakVersion": "1.1.0~beta1",
           "iOSVersion": "11.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-04-16T02:39:36Z",
+          "repository": "David Goldman's Repo",
+          "date": "2018-03-08T10:25:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6312,21 +6311,22 @@
       ]
     },
     {
-      "id": "com.golddavid.colorbanners2",
+      "id": "com.hackyouriphone.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorbanners2/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbanners2/",
       "shortDescription": "Color your notifications",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "David Goldman",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-02T17:18:57Z",
       "versions": [
         {
-          "tweakVersion": "1.1.0~beta1",
+          "tweakVersion": "1.1.0",
           "iOSVersion": "11.1",
-          "repository": "David Goldman's Repo",
-          "date": "2018-03-08T10:25:39Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-04-16T02:39:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6446,40 +6446,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.colormybattery",
-      "name": "ColorMyBattery",
-      "latest": "1.0-8+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.colormybattery/",
-      "shortDescription": "تغير لون البطارية Battery Color based on the battery percentage.",
-      "category": "Supports iOS 11",
-      "author": "Kiran Patil",
-      "commercial": false,
-      "date": "2018-03-18T23:06:39Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-8+debug",
-          "iOSVersion": "11.1",
-          "repository": "A Kiiimo Repositoty .🌙",
-          "date": "2018-06-04T05:12:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.imkpatil.colormybattery",
       "name": "ColorMyBattery",
       "latest": "1.2.2",
@@ -6536,6 +6502,40 @@
           "iOSVersion": "11.1",
           "repository": "BigBoss",
           "date": "2018-06-12T01:50:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kiiimo.colormybattery",
+      "name": "ColorMyBattery",
+      "latest": "1.0-8+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.colormybattery/",
+      "shortDescription": "تغير لون البطارية Battery Color based on the battery percentage.",
+      "category": "Supports iOS 11",
+      "author": "Kiran Patil",
+      "commercial": false,
+      "date": "2018-03-18T23:06:39Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-8+debug",
+          "iOSVersion": "11.1",
+          "repository": "A Kiiimo Repositoty .🌙",
+          "date": "2018-06-04T05:12:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9972,22 +9972,22 @@
       ]
     },
     {
-      "id": "com.yourepo.m4cs.ezlocation",
+      "id": "com.yourepo.kiiimo.ezlocation",
       "name": "EzLocation",
       "latest": "0.0.5",
-      "repository": "m4cs Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.m4cs.ezlocation/",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.ezlocation/",
       "shortDescription": "A toggle to turn Location Services on or off from your control center.",
-      "category": "Tweaks",
-      "author": "M4cs, Similari, Chilaxan",
+      "category": "Supports iOS 11",
+      "author": "Chilaxan and M4cs",
       "commercial": false,
-      "date": "2018-03-11T05:47:56Z",
+      "date": "2018-03-11T21:12:19Z",
       "versions": [
         {
           "tweakVersion": "0.0.5",
           "iOSVersion": "11.1",
-          "repository": "m4cs Source - YouRepo",
-          "date": "2018-03-15T06:09:14Z",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-12T21:47:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10006,22 +10006,22 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.ezlocation",
+      "id": "com.yourepo.m4cs.ezlocation",
       "name": "EzLocation",
       "latest": "0.0.5",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.ezlocation/",
+      "repository": "m4cs Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.m4cs.ezlocation/",
       "shortDescription": "A toggle to turn Location Services on or off from your control center.",
-      "category": "Supports iOS 11",
-      "author": "Chilaxan and M4cs",
+      "category": "Tweaks",
+      "author": "M4cs, Similari, Chilaxan",
       "commercial": false,
-      "date": "2018-03-11T21:12:19Z",
+      "date": "2018-03-11T05:47:56Z",
       "versions": [
         {
           "tweakVersion": "0.0.5",
           "iOSVersion": "11.1",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-12T21:47:27Z",
+          "repository": "m4cs Source - YouRepo",
+          "date": "2018-03-15T06:09:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10074,22 +10074,22 @@
       ]
     },
     {
-      "id": "com.yourepo.m4cs.ezrespring",
+      "id": "com.yourepo.kiiimo.ezrespring",
       "name": "EzRespring",
       "latest": "1.2-debug3",
-      "repository": "m4cs Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.m4cs.ezrespring/",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.ezrespring/",
       "shortDescription": "A Respring button for your Control Center. Uses Silo to Run",
-      "category": "Tweaks",
+      "category": "Supports iOS 11",
       "author": "M4cs",
       "commercial": false,
-      "date": "2018-03-10T20:26:55Z",
+      "date": "2018-03-11T21:10:23Z",
       "versions": [
         {
           "tweakVersion": "1.2-debug3",
           "iOSVersion": "11.1",
-          "repository": "m4cs Source - YouRepo",
-          "date": "2018-03-15T06:15:48Z",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-12T21:06:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10108,22 +10108,22 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.ezrespring",
+      "id": "com.yourepo.m4cs.ezrespring",
       "name": "EzRespring",
       "latest": "1.2-debug3",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.ezrespring/",
+      "repository": "m4cs Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.m4cs.ezrespring/",
       "shortDescription": "A Respring button for your Control Center. Uses Silo to Run",
-      "category": "Supports iOS 11",
+      "category": "Tweaks",
       "author": "M4cs",
       "commercial": false,
-      "date": "2018-03-11T21:10:23Z",
+      "date": "2018-03-10T20:26:55Z",
       "versions": [
         {
           "tweakVersion": "1.2-debug3",
           "iOSVersion": "11.1",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-12T21:06:33Z",
+          "repository": "m4cs Source - YouRepo",
+          "date": "2018-03-15T06:15:48Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11103,39 +11103,6 @@
       ]
     },
     {
-      "id": "com.aditkamath.flame",
-      "name": "Flame",
-      "latest": "1.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.aditkamath.flame/",
-      "shortDescription": "Make Cydia Yours",
-      "category": "Tweaks",
-      "author": "Adit Kamath",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.3",
-          "iOSVersion": "11.1",
-          "repository": "BigBoss",
-          "date": "2018-02-28T22:04:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 6,
-            "bad": 0,
-            "total": 6,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.flame",
       "name": "Flame",
       "latest": "1.2.1",
@@ -11158,6 +11125,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.aditkamath.flame",
+      "name": "Flame",
+      "latest": "1.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.aditkamath.flame/",
+      "shortDescription": "Make Cydia Yours",
+      "category": "Tweaks",
+      "author": "Adit Kamath",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.3",
+          "iOSVersion": "11.1",
+          "repository": "BigBoss",
+          "date": "2018-02-28T22:04:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 6,
+            "bad": 0,
+            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -12476,40 +12476,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.haystack",
-      "name": "Haystack",
-      "latest": "1.4.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.haystack/",
-      "shortDescription": "Haystack - iOS 10 control center for iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2018-05-01T14:52:26Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.2",
-          "iOSVersion": "11.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-05-01T14:52:26Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.laughingquoll.haystack",
       "name": "Haystack",
       "latest": "1.6.1",
@@ -12530,6 +12496,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.haystack",
+      "name": "Haystack",
+      "latest": "1.4.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.haystack/",
+      "shortDescription": "Haystack - iOS 10 control center for iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2018-05-01T14:52:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.2",
+          "iOSVersion": "11.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-05-01T14:52:26Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -15983,39 +15983,6 @@
       ]
     },
     {
-      "id": "anondev.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-1",
-      "repository": "In-AppStore.com Cydia Repository",
-      "url": "http://system.in-appstore.com/repo/",
-      "shortDescription": "Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible",
-      "category": "Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-1",
-          "iOSVersion": "11.1",
-          "repository": "In-AppStore.com Cydia Repository",
-          "date": "2018-03-02T04:00:32Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.4-2",
@@ -16065,6 +16032,39 @@
           "iOSVersion": "11.1",
           "repository": "Xarold Repo",
           "date": "2018-03-12T21:17:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "anondev.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-1",
+      "repository": "In-AppStore.com Cydia Repository",
+      "url": "http://system.in-appstore.com/repo/",
+      "shortDescription": "Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible",
+      "category": "Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-1",
+          "iOSVersion": "11.1",
+          "repository": "In-AppStore.com Cydia Repository",
+          "date": "2018-03-02T04:00:32Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17316,6 +17316,39 @@
       ]
     },
     {
+      "id": "ws.hbang.mapsopener",
+      "name": "MapsOpener",
+      "latest": "1.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ws.hbang.mapsopener/",
+      "shortDescription": "Opens map links in Google Maps",
+      "category": "Tweaks",
+      "author": "HASHBANG Productions",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.6",
+          "iOSVersion": "11.1",
+          "repository": "BigBoss",
+          "date": "2018-11-11T10:47:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ca.ndoizo.membrane",
       "name": "Membrane",
       "latest": "1.0.1",
@@ -17552,40 +17585,6 @@
       ]
     },
     {
-      "id": "com.yourepo.randompacks.mitsuhaxi",
-      "name": "MitsuhaXI",
-      "latest": "0.2.0",
-      "repository": "RandomPacks Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
-      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
-      "category": "Tweaks",
-      "author": "c0ldra1n",
-      "commercial": false,
-      "date": "2018-03-21T15:36:43Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.0",
-          "iOSVersion": "11.1",
-          "repository": "RandomPacks Source - YouRepo",
-          "date": "2018-03-21T18:06:13Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "io.ominousness.mitsuhaxi",
       "name": "MitsuhaXI",
       "latest": "0.5.3",
@@ -17622,6 +17621,40 @@
           "iOSVersion": "11.1",
           "repository": "Packix",
           "date": "2018-08-11T01:49:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.randompacks.mitsuhaxi",
+      "name": "MitsuhaXI",
+      "latest": "0.2.0",
+      "repository": "RandomPacks Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.randompacks.mitsuhaxi/",
+      "shortDescription": "Jell-O wave effect for Apple Music and Spotify (iOS 11 Compatible)",
+      "category": "Tweaks",
+      "author": "c0ldra1n",
+      "commercial": false,
+      "date": "2018-03-21T15:36:43Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.0",
+          "iOSVersion": "11.1",
+          "repository": "RandomPacks Source - YouRepo",
+          "date": "2018-03-21T18:06:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23062,6 +23095,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.silo",
+      "name": "Silo",
+      "latest": "1.0.0-4+debug",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.silo/",
+      "shortDescription": "Allows Reordering of all the CC Modules and for Developers to add their own",
+      "category": "Supports iOS 11",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-12T21:16:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-4+debug",
+          "iOSVersion": "11.1",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-12T21:16:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ioscreatix.silo",
       "name": "Silo",
       "latest": "1.0.1-3+debug",
@@ -23104,40 +23171,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.kiiimo.silo",
-      "name": "Silo",
-      "latest": "1.0.0-4+debug",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.silo/",
-      "shortDescription": "Allows Reordering of all the CC Modules and for Developers to add their own",
-      "category": "Supports iOS 11",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-12T21:16:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-4+debug",
-          "iOSVersion": "11.1",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-12T21:16:36Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25884,6 +25917,39 @@
       ]
     },
     {
+      "id": "co.dynastic.tsssaver",
+      "name": "TSS Saver",
+      "latest": "1.2.0",
+      "repository": "nullpixel's Repo",
+      "url": "https://repo.nullpixel.uk/",
+      "shortDescription": "A one-click tool to save blobs using TSSsaver.1conan.com",
+      "category": "Utilities",
+      "author": "nullpixel",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.1",
+          "repository": "nullpixel's Repo",
+          "date": "2018-03-04T15:46:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.tsssaver",
       "name": "TSS Saver",
       "latest": "1.2.0",
@@ -25906,39 +25972,6 @@
             "good": 0,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "co.dynastic.tsssaver",
-      "name": "TSS Saver",
-      "latest": "1.2.0",
-      "repository": "nullpixel's Repo",
-      "url": "https://repo.nullpixel.uk/",
-      "shortDescription": "A one-click tool to save blobs using TSSsaver.1conan.com",
-      "category": "Utilities",
-      "author": "nullpixel",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "11.1",
-          "repository": "nullpixel's Repo",
-          "date": "2018-03-04T15:46:35Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
