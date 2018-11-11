@@ -250,6 +250,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.2",
+      "iOSVersion": "10.3.1",
+      "repository": "BigBoss",
+      "date": "2018-11-11T21:27:47Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "sadly doesn't work on 10.3.1 using meridian jb ",
+          "date": "2018-11-11T21:27:47Z",
+          "userName": "deucetresthugz",
+          "issueNumber": 55100,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
