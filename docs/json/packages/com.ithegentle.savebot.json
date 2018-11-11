@@ -178,6 +178,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.11",
+      "iOSVersion": "11.3",
+      "repository": "BigBoss",
+      "date": "2018-11-11T03:37:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-11-11T03:37:37Z",
+          "userName": "south-tj",
+          "issueNumber": 55070,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
