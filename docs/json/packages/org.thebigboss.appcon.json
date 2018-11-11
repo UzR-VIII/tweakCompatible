@@ -523,9 +523,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -542,6 +542,15 @@
           "date": "2018-08-20T19:21:39Z",
           "userName": "lDavidl",
           "issueNumber": 45628,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad4,4",
+          "issues": "",
+          "date": "2018-11-11T00:34:17Z",
+          "userName": "andy9744",
+          "issueNumber": 55001,
           "arch32": false
         }
       ]
