@@ -1,10 +1,10 @@
 {
   "id": "com.qiop1379.powerdown",
   "name": "PowerDown",
-  "latest": "1.1.1",
+  "latest": "1.2.1",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
-  "shortDescription": "PowerDown updated for new iOS",
+  "shortDescription": "PowerDown rewritten for iOS 11",
   "category": "Tweaks",
   "author": "qwertyuiop1379",
   "commercial": false,
@@ -330,6 +330,37 @@
           "date": "2018-09-17T03:55:12Z",
           "userName": "qwertyuiop1379",
           "issueNumber": 50687,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "11.1.2",
+      "repository": "qwertyuiop1379's repo",
+      "date": "2018-11-11T22:01:51Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-11T22:01:51Z",
+          "userName": "naiminparadise",
+          "issueNumber": 55101,
           "arch32": false
         }
       ]
