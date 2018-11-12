@@ -17,10 +17,10 @@
       "date": "2018-07-16T04:04:45Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 55,
-        "good": 10,
+        "percentage": 57,
+        "good": 11,
         "bad": 0,
-        "total": 18,
+        "total": 19,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -190,6 +190,15 @@
           "date": "2018-10-21T00:27:22Z",
           "userName": "buitim",
           "issueNumber": 53519,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Helps restore functionality with assistant+ and others",
+          "date": "2018-11-11T23:52:05Z",
+          "userName": "rabidi1",
+          "issueNumber": 55113,
           "arch32": false
         }
       ]
