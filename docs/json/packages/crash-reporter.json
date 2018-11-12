@@ -1083,9 +1083,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 93,
-        "good": 41,
+        "good": 42,
         "bad": 0,
-        "total": 44,
+        "total": 45,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1489,6 +1489,15 @@
           "date": "2018-09-20T00:30:55Z",
           "userName": "CreeT6",
           "issueNumber": 50935,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-12T04:26:32Z",
+          "userName": "teamstreetmotion",
+          "issueNumber": 55119,
           "arch32": false
         }
       ]
