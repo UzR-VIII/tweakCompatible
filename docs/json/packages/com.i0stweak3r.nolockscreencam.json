@@ -141,10 +141,10 @@
       "date": "2018-03-27T20:59:54Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 1,
           "good": 0,
@@ -180,6 +180,15 @@
           "userName": "deafiant",
           "issueNumber": 32021,
           "arch32": true
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,4",
+          "issues": "Installs without issue on iOS 10.3.3 on iPad Pro 10.5, however the tweak does not remove lockscreen camera accessibility, even after toggling on / off from Settings > NoLockScreenCam menu. Removal of Camera from Control Center, however, works without issue. ",
+          "date": "2018-11-12T23:12:56Z",
+          "userName": "WhittleMark",
+          "issueNumber": 55140,
+          "arch32": false
         }
       ]
     },
