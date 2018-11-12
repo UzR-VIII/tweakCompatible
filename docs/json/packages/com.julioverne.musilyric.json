@@ -700,10 +700,10 @@
       "date": "2018-09-03T01:48:27Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -774,6 +774,15 @@
           "date": "2018-10-14T22:21:14Z",
           "userName": "greenking2000",
           "issueNumber": 53046,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-11-11T23:49:40Z",
+          "userName": "rabidi1",
+          "issueNumber": 55107,
           "arch32": false
         }
       ]
