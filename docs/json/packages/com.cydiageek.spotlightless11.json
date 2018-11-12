@@ -555,6 +555,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.4",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-11-12T23:24:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,4",
+          "issues": "Completely functional on iPad Pro 10.5. Spotlight is eliminated entirely, with a standard swipe bounce in place when you try to swipe to where it was. ",
+          "date": "2018-11-12T23:24:33Z",
+          "userName": "WhittleMark",
+          "issueNumber": 55143,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
