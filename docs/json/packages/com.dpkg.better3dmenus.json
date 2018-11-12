@@ -1,7 +1,7 @@
 {
   "id": "com.dpkg.better3dmenus",
   "name": "Better3DMenus",
-  "latest": "2.2",
+  "latest": "2.3",
   "repository": "dpkg9510's Repo",
   "url": "http://cydia.saurik.com/package/com.dpkg.better3dmenus/",
   "shortDescription": "Better 3D-Touch Menus!",
@@ -86,6 +86,37 @@
           "date": "2018-11-05T07:20:10Z",
           "userName": "buitim",
           "issueNumber": 54637,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3",
+      "iOSVersion": "11.3.1",
+      "repository": "dpkg9510's Repo",
+      "date": "2018-11-12T17:43:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-12T17:43:03Z",
+          "userName": "dmorse2112",
+          "issueNumber": 55133,
           "arch32": false
         }
       ]
