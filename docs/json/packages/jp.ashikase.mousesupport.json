@@ -49,6 +49,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-11-12T23:14:45Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,4",
+          "issues": "Installation completes without issue, however a Bluetooth mouse is not detected in Settings > Bluetooth. BT Mouse was set to discoverable, and Bluetooth was cycled on / off repeatedly. No dice. ",
+          "date": "2018-11-12T23:14:45Z",
+          "userName": "WhittleMark",
+          "issueNumber": 55141,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
