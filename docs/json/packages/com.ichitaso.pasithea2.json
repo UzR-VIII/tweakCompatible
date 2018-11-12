@@ -193,10 +193,10 @@
       "date": "2018-08-03T14:33:24Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 3,
+        "percentage": 57,
+        "good": 4,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -258,6 +258,15 @@
           "date": "2018-09-25T10:16:06Z",
           "userName": "yaserFA",
           "issueNumber": 51489,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-11-11T23:50:21Z",
+          "userName": "rabidi1",
+          "issueNumber": 55110,
           "arch32": false
         }
       ]
