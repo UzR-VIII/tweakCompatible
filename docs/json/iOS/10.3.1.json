@@ -441,22 +441,21 @@
       ]
     },
     {
-      "id": "com.polytweaks.aerial",
+      "id": "com.repo.xarold.com.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
+      "repository": "repo.xarold.com",
+      "url": "http://repo.xarold.com/",
       "shortDescription": "Colour your status bar icons!",
       "category": "Messaging",
       "author": "Surenix",
-      "commercial": true,
-      "date": "2018-03-12T02:25:29Z",
+      "commercial": false,
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-10-27T04:06:37Z",
+          "repository": "Xarold Repo",
+          "date": "2018-04-12T12:07:21Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -475,21 +474,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.aerial",
+      "id": "com.polytweaks.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "repo.xarold.com",
-      "url": "http://repo.xarold.com/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
       "shortDescription": "Colour your status bar icons!",
       "category": "Messaging",
       "author": "Surenix",
-      "commercial": false,
+      "commercial": true,
+      "date": "2018-03-12T02:25:29Z",
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "10.3.1",
-          "repository": "Xarold Repo",
-          "date": "2018-04-12T12:07:21Z",
+          "repository": "BigBoss",
+          "date": "2018-10-27T04:06:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2599,11 +2599,11 @@
           "repository": "BigBoss",
           "date": "2018-09-04T08:18:42Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
             "good": 1,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11555,6 +11555,40 @@
       ]
     },
     {
+      "id": "com.qiop1379.powerdown",
+      "name": "PowerDown",
+      "latest": "1.2.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
+      "shortDescription": "PowerDown rewritten for iOS 11",
+      "category": "Tweaks",
+      "author": "qwertyuiop1379",
+      "commercial": false,
+      "date": "2018-07-14T11:14:49Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "10.3.1",
+          "repository": "qwertyuiop1379's repo",
+          "date": "2018-09-16T23:54:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.clezz.powerdown",
       "name": "PowerDown",
       "latest": "1.0.5",
@@ -11573,40 +11607,6 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.qiop1379.powerdown",
-      "name": "PowerDown",
-      "latest": "1.1.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
-      "shortDescription": "PowerDown updated for new iOS",
-      "category": "Tweaks",
-      "author": "qwertyuiop1379",
-      "commercial": false,
-      "date": "2018-07-14T11:14:49Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "10.3.1",
-          "repository": "qwertyuiop1379's repo",
-          "date": "2018-09-16T23:54:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
