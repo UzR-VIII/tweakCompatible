@@ -1408,10 +1408,10 @@
       "date": "2018-07-12T03:51:18Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1446,6 +1446,15 @@
           "date": "2018-08-16T22:47:50Z",
           "userName": "maximilionus",
           "issueNumber": 44398,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-13T19:13:00Z",
+          "userName": "Suzuha",
+          "issueNumber": 55192,
           "arch32": false
         }
       ]
