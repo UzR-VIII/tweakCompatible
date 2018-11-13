@@ -2110,38 +2110,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.apphide",
-      "name": "AppHide",
-      "latest": "0.2.2",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Hide apps on the homescreen and from spotlight via Settings.app.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.2.2",
-          "iOSVersion": "10.3.3",
-          "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 1,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Not working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jerryen.apphide",
       "name": "AppHide",
       "latest": "0.2.3-2",
@@ -2169,6 +2137,38 @@
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.apphide",
+      "name": "AppHide",
+      "latest": "0.2.2",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Hide apps on the homescreen and from spotlight via Settings.app.",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.2.2",
+          "iOSVersion": "10.3.3",
+          "repository": "repo.biteyourapple.net",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 1,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Not working"
             }
           }
         }
@@ -4352,38 +4352,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.bioprotect",
-      "name": "BioProtect",
-      "latest": "2.3-8",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Protect your apps with Touch ID!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.1-295",
-          "iOSVersion": "10.3.3",
-          "repository": "BiteYourApple",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "net.limneos.bioprotect",
       "name": "BioProtect",
       "latest": "2.3-16",
@@ -4445,6 +4413,38 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.bioprotect",
+      "name": "BioProtect",
+      "latest": "2.3-8",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Protect your apps with Touch ID!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.1-295",
+          "iOSVersion": "10.3.3",
+          "repository": "BiteYourApple",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6353,20 +6353,22 @@
       ]
     },
     {
-      "id": "io.ijapija00.ccrecorder",
+      "id": "com.hackyouriphone.ccrecorder",
       "name": "CCRecorder (iOS 10)",
-      "latest": "1.0.2.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/io.ijapija00.ccrecorder/",
-      "shortDescription": "Record Your Screen From The Control Center...",
-      "category": "Tweaks",
-      "author": "@ijapija00",
+      "latest": "1.0k",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ccrecorder/",
+      "shortDescription": "Record Your Screen From The Control Center",
+      "category": "HYI - Tweaks",
+      "author": "ijapija00",
       "commercial": false,
+      "date": "2018-04-06T20:49:26Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2.2",
+          "tweakVersion": "1.0k",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
+          "repository": "HackYouriPhone",
+          "date": "2018-04-06T20:49:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6385,22 +6387,20 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ccrecorder",
+      "id": "io.ijapija00.ccrecorder",
       "name": "CCRecorder (iOS 10)",
-      "latest": "1.0k",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ccrecorder/",
-      "shortDescription": "Record Your Screen From The Control Center",
-      "category": "HYI - Tweaks",
-      "author": "ijapija00",
+      "latest": "1.0.2.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/io.ijapija00.ccrecorder/",
+      "shortDescription": "Record Your Screen From The Control Center...",
+      "category": "Tweaks",
+      "author": "@ijapija00",
       "commercial": false,
-      "date": "2018-04-06T20:49:26Z",
       "versions": [
         {
-          "tweakVersion": "1.0k",
+          "tweakVersion": "1.0.2.2",
           "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-04-06T20:49:26Z",
+          "repository": "BigBoss",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9249,39 +9249,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.datameter",
-      "name": "DataMeter",
-      "latest": "1.4-3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.datameter/",
-      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
-      "category": "Addons (NotificationCenter)",
-      "author": "Minuit",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.4-3",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-08-10T11:55:57Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.datameter",
       "name": "DataMeter",
       "latest": "1.4-3",
@@ -9310,6 +9277,39 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.datameter",
+      "name": "DataMeter",
+      "latest": "1.4-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.datameter/",
+      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
+      "category": "Addons (NotificationCenter)",
+      "author": "Minuit",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.4-3",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-08-10T11:55:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
             }
           }
         }
@@ -12516,6 +12516,38 @@
       ]
     },
     {
+      "id": "com.johncoates.flex3",
+      "name": "Flex 3",
+      "latest": "3~EarlyAccess4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.johncoates.flex3/",
+      "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
+      "category": "Tweaks",
+      "author": "John Coates",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "3~EarlyAccess3",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 1,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Not working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.flex3beta",
       "name": "Flex 3",
       "latest": "3~Beta22",
@@ -12538,38 +12570,6 @@
             "good": 0,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Not working"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.johncoates.flex3",
-      "name": "Flex 3",
-      "latest": "3~EarlyAccess4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.johncoates.flex3/",
-      "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
-      "category": "Tweaks",
-      "author": "John Coates",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "3~EarlyAccess3",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 1,
               "good": 0,
@@ -18792,6 +18792,40 @@
       ]
     },
     {
+      "id": "com.aids.makecydiabuyagain",
+      "name": "MakeCydiaBuyAgain",
+      "latest": "1.0.2-89+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.aids.makecydiabuyagain/",
+      "shortDescription": "Enable Cydia to purchase any package on any version of iOS and device that is \"not supported\"",
+      "category": "Tweaks",
+      "author": "Jake Ihasz",
+      "commercial": false,
+      "date": "2018-03-18T16:35:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2-89+debug",
+          "iOSVersion": "10.3.3",
+          "repository": "AidsMcGhee",
+          "date": "2018-11-12T23:36:31Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.wizages.bae",
       "name": "MakeRespringsGreatAgain",
       "latest": "1.4",
@@ -23174,6 +23208,40 @@
       ]
     },
     {
+      "id": "com.ioscreatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "11.0.3",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
+      "shortDescription": "3D Touch for Non-3D Touch Devices",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-02T01:15:51Z",
+      "versions": [
+        {
+          "tweakVersion": "11.0.3",
+          "iOSVersion": "10.3.3",
+          "repository": "Packix",
+          "date": "2018-07-30T17:37:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.creatix.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "4.0.0",
@@ -23214,40 +23282,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.ioscreatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "11.0.3",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
-      "shortDescription": "3D Touch for Non-3D Touch Devices",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-02T01:15:51Z",
-      "versions": [
-        {
-          "tweakVersion": "11.0.3",
-          "iOSVersion": "10.3.3",
-          "repository": "Packix",
-          "date": "2018-07-30T17:37:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,

@@ -2157,6 +2157,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.2-89+debug",
+      "iOSVersion": "10.3.3",
+      "repository": "AidsMcGhee",
+      "date": "2018-11-12T23:36:31Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,4",
+          "issues": "Installation completes successfully, however tapping the \"Settings\" button in the upper left corner of Cydia immediately crashes Cydia. IPad Pro 10.5",
+          "date": "2018-11-12T23:36:31Z",
+          "userName": "WhittleMark",
+          "issueNumber": 55144,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
