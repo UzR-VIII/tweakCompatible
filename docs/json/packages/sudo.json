@@ -1,10 +1,10 @@
 {
   "id": "sudo",
   "name": "sudo",
-  "latest": "1.8.17p1",
+  "latest": "1.6.9p12-4p",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/sudo/",
-  "shortDescription": "temporarily assume root privileges",
+  "shortDescription": "temporarily assume root priviledges",
   "category": "Administration",
   "author": "(null)",
   "commercial": false,
@@ -303,6 +303,37 @@
           "date": "2018-10-24T08:02:56Z",
           "userName": "MattieThurlow96",
           "issueNumber": 53732,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.9p12-4p",
+      "iOSVersion": "10.3.3",
+      "repository": "Cydia/Telesphoreo",
+      "date": "2018-11-13T19:04:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-13T19:04:21Z",
+          "userName": "DarkZone-World",
+          "issueNumber": 55190,
           "arch32": false
         }
       ]
