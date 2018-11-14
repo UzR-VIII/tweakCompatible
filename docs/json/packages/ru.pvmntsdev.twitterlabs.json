@@ -1,0 +1,54 @@
+{
+  "id": "ru.pvmntsdev.twitterlabs",
+  "name": "Twitter Labs",
+  "latest": "0.0.2",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/ru.pvmntsdev.twitterlabs/",
+  "shortDescription": "Unleash Twitter With Twitter Labs",
+  "category": "Tweaks",
+  "author": "pvmntsdev",
+  "commercial": false,
+  "date": "2018-11-13T22:59:13Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-11-13T22:59:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-13T22:59:13Z",
+          "userName": "mohitt01p",
+          "issueNumber": 55202,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-11-14T00:06:40Z",
+          "userName": "db00st",
+          "issueNumber": 55203,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
