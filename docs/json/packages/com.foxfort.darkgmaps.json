@@ -1,0 +1,54 @@
+{
+  "id": "com.foxfort.darkgmaps",
+  "name": "Dark GMaps",
+  "latest": "1.0.0",
+  "repository": "Packix",
+  "url": "http://cydia.saurik.com/package/com.foxfort.darkgmaps/",
+  "shortDescription": "Dark mode for Google Maps",
+  "category": "Tweaks",
+  "author": "FoxfortMobile",
+  "commercial": true,
+  "date": "2018-11-14T18:46:39Z",
+  "versions": [
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-11-14T18:46:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-14T18:46:39Z",
+          "userName": "m0kum",
+          "issueNumber": 55225,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-11-14T20:37:32Z",
+          "userName": "topmeoff624",
+          "issueNumber": 55231,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
