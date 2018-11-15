@@ -628,10 +628,10 @@
       "date": "2018-09-16T23:12:55Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 57,
         "good": 4,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -693,6 +693,15 @@
           "date": "2018-09-17T21:15:07Z",
           "userName": "MatRanc",
           "issueNumber": 50763,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "It has massive icons constantly ",
+          "date": "2018-11-15T03:39:58Z",
+          "userName": "TheWarDoctor88",
+          "issueNumber": 55248,
           "arch32": false
         }
       ]
