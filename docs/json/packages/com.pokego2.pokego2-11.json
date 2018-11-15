@@ -2415,11 +2415,11 @@
       "repository": "Global++ Tweaks",
       "date": "2018-11-14T17:10:32Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2436,6 +2436,15 @@
           "date": "2018-11-14T17:10:32Z",
           "userName": "kaushalj94",
           "issueNumber": 55220,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "This guy is scamming people. This hasn’t worked in months.",
+          "date": "2018-11-15T03:50:15Z",
+          "userName": "lineararc",
+          "issueNumber": 55249,
           "arch32": false
         }
       ]
