@@ -150,11 +150,11 @@
       "repository": "BigBoss",
       "date": "2018-07-07T16:16:23Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 18,
+        "calculatedStatus": "Working",
+        "percentage": 76,
+        "good": 19,
         "bad": 0,
-        "total": 24,
+        "total": 25,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -378,6 +378,15 @@
           "date": "2018-10-12T13:44:49Z",
           "userName": "teoraki09",
           "issueNumber": 52849,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Working ",
+          "date": "2018-11-15T12:34:12Z",
+          "userName": "ymbgames",
+          "issueNumber": 55262,
           "arch32": false
         }
       ]
