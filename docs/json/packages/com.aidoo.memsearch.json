@@ -671,10 +671,10 @@
       "date": "2018-07-07T22:07:08Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 37,
-        "good": 19,
+        "percentage": 38,
+        "good": 20,
         "bad": 0,
-        "total": 51,
+        "total": 52,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1141,6 +1141,15 @@
           "date": "2018-10-10T00:31:57Z",
           "userName": "kaykemqs",
           "issueNumber": 52627,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Working with I terminal code",
+          "date": "2018-11-15T12:32:01Z",
+          "userName": "ymbgames",
+          "issueNumber": 55261,
           "arch32": false
         }
       ]
