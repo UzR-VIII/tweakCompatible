@@ -33,10 +33,10 @@
         {
           "status": "working",
           "device": "iPhone10,5",
-          "issues": "",
-          "date": "2018-11-16T06:05:40Z",
+          "issues": "100%",
+          "date": "2018-11-16T06:02:49Z",
           "userName": "myeikboy",
-          "issueNumber": 55298,
+          "issueNumber": 55297,
           "arch32": false
         }
       ]
