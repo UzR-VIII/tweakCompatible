@@ -16,17 +16,17 @@
       "repository": "BigBoss",
       "date": "2018-03-05T14:02:35Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
-          "total": 0,
+          "total": 1,
           "good": 0,
           "bad": 0,
           "percentage": 0,
-          "calculatedStatus": "Unknown"
+          "calculatedStatus": "Not working"
         }
       },
       "users": [
@@ -38,6 +38,15 @@
           "userName": "coderigel",
           "issueNumber": 4095,
           "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone5,4",
+          "issues": "Cannot load preference bundles",
+          "date": "2018-11-16T23:08:15Z",
+          "userName": "Duncan494",
+          "issueNumber": 55316,
+          "arch32": true
         }
       ]
     },
