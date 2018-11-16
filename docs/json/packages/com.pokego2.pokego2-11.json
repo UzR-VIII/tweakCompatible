@@ -2416,10 +2416,10 @@
       "date": "2018-11-14T17:10:32Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 25,
         "good": 1,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2454,6 +2454,15 @@
           "date": "2018-11-16T02:10:12Z",
           "userName": "Ringo-Keitai",
           "issueNumber": 55291,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-16T04:11:26Z",
+          "userName": "franklin842",
+          "issueNumber": 55294,
           "arch32": false
         }
       ]
