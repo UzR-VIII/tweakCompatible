@@ -1,7 +1,7 @@
 {
   "id": "com.julioverne.raisetoanswer",
   "name": "RaiseToAnswer (iOS 11)",
-  "latest": "1.0-1c",
+  "latest": "1.0-1d",
   "repository": "julioverne's Repo",
   "url": "http://cydia.saurik.com/package/com.julioverne.raisetoanswer/",
   "shortDescription": "Raise phone to answer phone calls",
@@ -68,6 +68,37 @@
           "date": "2018-11-11T23:51:24Z",
           "userName": "rabidi1",
           "issueNumber": 55112,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-1d",
+      "iOSVersion": "11.3.1",
+      "repository": "julioverne's Repo",
+      "date": "2018-11-16T04:36:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-11-16T04:36:00Z",
+          "userName": "Sinane",
+          "issueNumber": 55295,
           "arch32": false
         }
       ]
