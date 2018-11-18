@@ -1,7 +1,7 @@
 {
   "id": "libactivator",
   "name": "Activator",
-  "latest": "1.9.13~beta2",
+  "latest": "1.9.12",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/libactivator/",
   "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -744,12 +744,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
-          "total": 2,
-          "good": 2,
+          "total": 3,
+          "good": 3,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -772,6 +772,15 @@
           "date": "2018-07-28T15:42:21Z",
           "userName": "42-alpha",
           "issueNumber": 35116,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPad2,1",
+          "issues": "",
+          "date": "2018-11-18T13:07:40Z",
+          "userName": "itzxeon78",
+          "issueNumber": 55397,
           "arch32": true
         }
       ]
