@@ -58,9 +58,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -86,6 +86,15 @@
           "date": "2018-04-20T17:13:05Z",
           "userName": "joshuah345",
           "issueNumber": 10418,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad5,3",
+          "issues": "Can’t press install in cydia with it",
+          "date": "2018-11-18T14:17:48Z",
+          "userName": "dviree",
+          "issueNumber": 55403,
           "arch32": false
         }
       ]
