@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.uasharedtools",
   "name": "uasharedtools",
-  "latest": "2.2r-70",
+  "latest": "2.2r-71",
   "repository": "beta.unlimapps.com",
   "url": "http://beta.unlimapps.com/",
   "shortDescription": "shared tools for unlimapps tweaks",
@@ -1040,6 +1040,37 @@
           "date": "2018-11-11T16:05:16Z",
           "userName": "redunikorn",
           "issueNumber": 55079,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2r-71",
+      "iOSVersion": "11.1.2",
+      "repository": "beta.unlimapps.com",
+      "date": "2018-11-18T21:36:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-18T21:36:14Z",
+          "userName": "redunikorn",
+          "issueNumber": 55434,
           "arch32": false
         }
       ]
