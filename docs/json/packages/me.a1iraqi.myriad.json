@@ -1,0 +1,45 @@
+{
+  "id": "me.a1iraqi.myriad",
+  "name": "Myriad Patched",
+  "latest": "0.2.1-5",
+  "repository": "Azozz ALFiras | عزوز الفراس",
+  "url": "http://cydia.saurik.com/package/me.a1iraqi.myriad/",
+  "shortDescription": "فتح اكثر من تطبيق على الشاشة",
+  "category": "iOS11.3.1",
+  "author": "Spark",
+  "commercial": false,
+  "date": "2018-11-18T04:19:32Z",
+  "versions": [
+    {
+      "tweakVersion": "0.2.1-5",
+      "iOSVersion": "11.3.1",
+      "repository": "Azozz ALFiras | عزوز الفراس",
+      "date": "2018-11-18T04:19:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Working ",
+          "date": "2018-11-18T04:19:32Z",
+          "userName": "ymbgames",
+          "issueNumber": 55362,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
