@@ -48,10 +48,10 @@
       "date": "2018-07-28T06:36:55Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2018-08-11T18:46:15Z",
           "userName": "teoraki09",
           "issueNumber": 42105,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "Working like a charm... Any public and not private number will be showed during received or external calls",
+          "date": "2018-11-18T13:22:46Z",
+          "userName": "VeZReVouLiS",
+          "issueNumber": 55402,
           "arch32": false
         }
       ]
