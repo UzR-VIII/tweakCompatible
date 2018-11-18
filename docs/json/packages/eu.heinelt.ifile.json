@@ -494,20 +494,20 @@
       "users": [
         {
           "status": "working",
-          "device": "iPad2,1",
-          "issues": "",
-          "date": "2018-09-01T07:00:45Z",
-          "userName": "itzxeon78",
-          "issueNumber": 48459,
-          "arch32": true
-        },
-        {
-          "status": "working",
           "device": "iPhone4,1",
           "issues": "",
           "date": "2018-09-25T18:16:03Z",
           "userName": "lethinhrider",
           "issueNumber": 51513,
+          "arch32": true
+        },
+        {
+          "status": "partial",
+          "device": "iPad2,1",
+          "issues": "",
+          "date": "2018-11-18T13:08:39Z",
+          "userName": "itzxeon78",
+          "issueNumber": 55399,
           "arch32": true
         }
       ]
