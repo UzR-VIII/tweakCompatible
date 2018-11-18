@@ -151,10 +151,10 @@
         {
           "status": "working",
           "device": "iPhone5,2",
-          "issues": "K",
-          "date": "2018-10-27T14:55:05Z",
+          "issues": "",
+          "date": "2018-11-18T20:20:40Z",
           "userName": "JaRxY",
-          "issueNumber": 54070,
+          "issueNumber": 55428,
           "arch32": true
         }
       ]
