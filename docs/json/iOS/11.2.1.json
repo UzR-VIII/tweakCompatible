@@ -2225,21 +2225,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.blurrybadges",
+      "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "latest": "1.2",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "PoomSmart",
+      "author": "SpicaT",
       "commercial": false,
+      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.2",
           "iOSVersion": "11.2.1",
-          "repository": "BigBoss",
-          "date": "2018-07-08T07:10:18Z",
+          "repository": "Spica T Repo",
+          "date": "2018-08-08T20:54:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -2258,22 +2259,21 @@
       ]
     },
     {
-      "id": "com.spicat.blurrybadges",
+      "id": "org.thebigboss.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.2",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.2",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.2.1",
-          "repository": "Spica T Repo",
-          "date": "2018-08-08T20:54:34Z",
+          "repository": "BigBoss",
+          "date": "2018-07-08T07:10:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7575,7 +7575,7 @@
     {
       "id": "com.synnyg.floatydock",
       "name": "FloatyDock",
-      "latest": "1.2",
+      "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.synnyg.floatydock/",
       "shortDescription": "iPad dock power, for all !",
@@ -10856,7 +10856,7 @@
     {
       "id": "com.cydiageek.marina",
       "name": "Marina",
-      "latest": "1.0.4",
+      "latest": "1.0.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.marina/",
       "shortDescription": "Change the Numbers of the Icons of the Dock & More!",
@@ -13947,40 +13947,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "nl.d4ni.respring",
-      "name": "Respring",
-      "latest": "1.1-1",
-      "repository": "D4ni's Repo",
-      "url": "http://cydia.saurik.com/package/nl.d4ni.respring/",
-      "shortDescription": "App icon to restart springboard.",
-      "category": "Utilities",
-      "author": "D4ni",
-      "commercial": false,
-      "date": "2018-07-14T04:18:21Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1-1",
-          "iOSVersion": "11.2.1",
-          "repository": "D4ni's Repo",
-          "date": "2018-07-31T04:49:00Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -17670,6 +17636,40 @@
           "iOSVersion": "11.2.1",
           "repository": "BigBoss",
           "date": "2018-07-30T08:50:40Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "net.whozcalling.whozcalling",
+      "name": "whozcalling",
+      "latest": "3.0-2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/net.whozcalling.whozcalling/",
+      "shortDescription": "identifies callers not in contacts list",
+      "category": "Tweaks",
+      "author": "whozcalling",
+      "commercial": false,
+      "date": "2018-11-18T00:55:58Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0-2",
+          "iOSVersion": "11.2.1",
+          "repository": "BigBoss",
+          "date": "2018-11-18T00:55:58Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
