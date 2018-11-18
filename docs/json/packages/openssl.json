@@ -1,7 +1,7 @@
 {
   "id": "openssl",
   "name": "OpenSSL",
-  "latest": "1.0.2o-1",
+  "latest": "1.0.2n",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/openssl/",
   "shortDescription": "SSL library and cryptographic tools",
@@ -566,6 +566,37 @@
           "date": "2018-10-24T08:08:03Z",
           "userName": "MattieThurlow96",
           "issueNumber": 53753,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2n",
+      "iOSVersion": "11.0.3",
+      "repository": "Electra's iOS Utilities",
+      "date": "2018-11-18T20:30:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-18T20:30:35Z",
+          "userName": "zenka98rus",
+          "issueNumber": 55430,
           "arch32": false
         }
       ]
