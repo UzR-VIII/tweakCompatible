@@ -249,6 +249,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.2.1-1",
+      "iOSVersion": "10.2.1",
+      "repository": "BigBoss",
+      "date": "2018-11-18T04:24:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-11-18T04:24:45Z",
+          "userName": "supersmart07",
+          "issueNumber": 55364,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
