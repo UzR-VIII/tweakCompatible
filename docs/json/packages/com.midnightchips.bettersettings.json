@@ -1,10 +1,10 @@
 {
   "id": "com.midnightchips.bettersettings",
   "name": "BetterSettings",
-  "latest": "0.0.9",
+  "latest": "0.1.0",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.midnightchips.bettersettings/",
-  "shortDescription": "Settings your way",
+  "shortDescription": "Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.",
   "category": "Tweaks",
   "author": "midnightchips",
   "commercial": false,
@@ -1645,9 +1645,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1664,6 +1664,15 @@
           "date": "2018-10-18T02:32:05Z",
           "userName": "GhostSamurai",
           "issueNumber": 53276,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-11-18T16:59:39Z",
+          "userName": "solomone212",
+          "issueNumber": 55410,
           "arch32": false
         }
       ]
