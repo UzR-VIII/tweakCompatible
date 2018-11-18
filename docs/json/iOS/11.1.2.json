@@ -1009,7 +1009,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.12",
+      "latest": "1.9.13~beta2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -1956,40 +1956,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.aerial",
-      "name": "Aerial",
-      "latest": "1.1",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.aerial/",
-      "shortDescription": "Colour your status bar icons!",
-      "category": "Messaging",
-      "author": "Surenix",
-      "commercial": false,
-      "date": "2018-03-05T22:55:22Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "11.1.2",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-05T22:55:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.aerial",
       "name": "Aerial",
       "latest": "1.1",
@@ -2012,6 +1978,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kiiimo.aerial",
+      "name": "Aerial",
+      "latest": "1.1",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.aerial/",
+      "shortDescription": "Colour your status bar icons!",
+      "category": "Messaging",
+      "author": "Surenix",
+      "commercial": false,
+      "date": "2018-03-05T22:55:22Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.1.2",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-05T22:55:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10709,10 +10709,10 @@
     {
       "id": "com.midnightchips.bettersettings",
       "name": "BetterSettings",
-      "latest": "0.0.9",
+      "latest": "0.1.0",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.midnightchips.bettersettings/",
-      "shortDescription": "Settings your way",
+      "shortDescription": "Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.",
       "category": "Tweaks",
       "author": "midnightchips",
       "commercial": false,
@@ -13780,7 +13780,7 @@
     {
       "id": "com.cydiageek.byebadges",
       "name": "ByeBadges",
-      "latest": "1.0.8",
+      "latest": "1.0.8-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.byebadges/",
       "shortDescription": "Bye bye all Apps Badges!",
@@ -27171,40 +27171,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.eclipsex",
-      "name": "Eclipse X Beta 7 (iOS 11)",
-      "latest": "5.0.8-3",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.eclipsex/",
-      "shortDescription": "Universal Night Mode and more for iOS 11.",
-      "category": "Supports iOS 11",
-      "author": "Guillermo Morán (fr0st)",
-      "commercial": false,
-      "date": "2018-03-05T05:30:04Z",
-      "versions": [
-        {
-          "tweakVersion": "5.0b-98",
-          "iOSVersion": "11.1.2",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-05T05:30:04Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.gmoran.eclipsex",
       "name": "Eclipse X Beta 7 (iOS 11)",
       "latest": "5.1.6",
@@ -27832,6 +27798,40 @@
       ]
     },
     {
+      "id": "com.yourepo.kiiimo.eclipsex",
+      "name": "Eclipse X Beta 7 (iOS 11)",
+      "latest": "5.0.8-3",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.eclipsex/",
+      "shortDescription": "Universal Night Mode and more for iOS 11.",
+      "category": "Supports iOS 11",
+      "author": "Guillermo Morán (fr0st)",
+      "commercial": false,
+      "date": "2018-03-05T05:30:04Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0b-98",
+          "iOSVersion": "11.1.2",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-05T05:30:04Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.julioverne.edgealert",
       "name": "EdgeAlert",
       "latest": "0.0~beta2",
@@ -28303,7 +28303,7 @@
     {
       "id": "com.ps.emojiportwt",
       "name": "EmojiPort (iOS 10)",
-      "latest": "1.2.2k",
+      "latest": "1.2.3",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Latest emojis for iOS 10.0-11.4",
@@ -28436,6 +28436,26 @@
           "iOSVersion": "11.1.2",
           "repository": "PoomSmart's Repo",
           "date": "2018-11-11T16:05:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.2.3",
+          "iOSVersion": "11.1.2",
+          "repository": "PoomSmart's Repo",
+          "date": "2018-11-18T21:36:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -36259,22 +36279,56 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.glasklarthd",
+      "id": "com.modmyi.glasklarthd",
       "name": "Glasklart",
-      "latest": "5.59",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.glasklarthd/",
+      "latest": "5.43",
+      "repository": "apt.modmyi.com",
+      "url": "http://cydia.saurik.com/package/com.modmyi.glasklarthd/",
       "shortDescription": "Rethought and remade for retina display.",
-      "category": "HYI - Theme HD",
+      "category": "Themes (Complete)",
       "author": "Max Rudberg",
       "commercial": false,
-      "date": "2018-06-19T11:08:35Z",
+      "date": "2018-03-03T18:30:51Z",
+      "versions": [
+        {
+          "tweakVersion": "5.43",
+          "iOSVersion": "11.1.2",
+          "repository": "apt.modmyi.com",
+          "date": "2018-03-03T18:30:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "at.dreamnet.glasklarthd",
+      "name": "Glasklart",
+      "latest": "5.59",
+      "repository": "dReAmNeT Repo",
+      "url": "http://cydia.saurik.com/package/at.dreamnet.glasklarthd/",
+      "shortDescription": "Rethought and remade for retina display.",
+      "category": "Themes",
+      "author": "Max Rudberg",
+      "commercial": false,
+      "date": "2018-07-09T04:05:46Z",
       "versions": [
         {
           "tweakVersion": "5.59",
           "iOSVersion": "11.1.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-06-19T11:08:35Z",
+          "repository": "dReAmNeT Repo",
+          "date": "2018-10-11T23:45:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -36327,62 +36381,28 @@
       ]
     },
     {
-      "id": "at.dreamnet.glasklarthd",
+      "id": "com.hackyouriphone.glasklarthd",
       "name": "Glasklart",
       "latest": "5.59",
-      "repository": "dReAmNeT Repo",
-      "url": "http://cydia.saurik.com/package/at.dreamnet.glasklarthd/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.glasklarthd/",
       "shortDescription": "Rethought and remade for retina display.",
-      "category": "Themes",
+      "category": "HYI - Theme HD",
       "author": "Max Rudberg",
       "commercial": false,
-      "date": "2018-07-09T04:05:46Z",
+      "date": "2018-06-19T11:08:35Z",
       "versions": [
         {
           "tweakVersion": "5.59",
           "iOSVersion": "11.1.2",
-          "repository": "dReAmNeT Repo",
-          "date": "2018-10-11T23:45:51Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-06-19T11:08:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.modmyi.glasklarthd",
-      "name": "Glasklart",
-      "latest": "5.43",
-      "repository": "apt.modmyi.com",
-      "url": "http://cydia.saurik.com/package/com.modmyi.glasklarthd/",
-      "shortDescription": "Rethought and remade for retina display.",
-      "category": "Themes (Complete)",
-      "author": "Max Rudberg",
-      "commercial": false,
-      "date": "2018-03-03T18:30:51Z",
-      "versions": [
-        {
-          "tweakVersion": "5.43",
-          "iOSVersion": "11.1.2",
-          "repository": "apt.modmyi.com",
-          "date": "2018-03-03T18:30:51Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -49217,72 +49237,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "HYI - Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "date": "2018-03-02T03:42:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "11.1.2",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-15T11:05:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "anondev.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-1",
-      "repository": "In-AppStore.com Cydia Repository",
-      "url": "http://system.in-appstore.com/repo/",
-      "shortDescription": "Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible",
-      "category": "Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-1",
-          "iOSVersion": "11.1.2",
-          "repository": "In-AppStore.com Cydia Repository",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.4-2",
@@ -49332,6 +49286,72 @@
           "iOSVersion": "11.1.2",
           "repository": "repo.xarold.com",
           "date": "2018-02-28T19:15:03Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "HYI - Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "date": "2018-03-02T03:42:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "11.1.2",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-15T11:05:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "anondev.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-1",
+      "repository": "In-AppStore.com Cydia Repository",
+      "url": "http://system.in-appstore.com/repo/",
+      "shortDescription": "Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible",
+      "category": "Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-1",
+          "iOSVersion": "11.1.2",
+          "repository": "In-AppStore.com Cydia Repository",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -52217,40 +52237,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.makecydiabuyagain",
-      "name": "MakeCydiaBuyAgain",
-      "latest": "1.0-1+debug",
-      "repository": "A KiiiMO GC - ARABIC ",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.makecydiabuyagain/",
-      "shortDescription": "Enable Cydia to purchase any package on iOS 11+",
-      "category": "Supports iOS 11",
-      "author": "Jake Ihasz",
-      "commercial": false,
-      "date": "2018-03-13T21:51:02Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-1+debug",
-          "iOSVersion": "11.1.2",
-          "repository": "A KiiiMO GC - ARABIC ",
-          "date": "2018-03-15T04:46:44Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 2,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.aids.makecydiabuyagain",
       "name": "MakeCydiaBuyAgain",
       "latest": "1.0.2-89+debug",
@@ -52293,6 +52279,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kiiimo.makecydiabuyagain",
+      "name": "MakeCydiaBuyAgain",
+      "latest": "1.0-1+debug",
+      "repository": "A KiiiMO GC - ARABIC ",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.makecydiabuyagain/",
+      "shortDescription": "Enable Cydia to purchase any package on iOS 11+",
+      "category": "Supports iOS 11",
+      "author": "Jake Ihasz",
+      "commercial": false,
+      "date": "2018-03-13T21:51:02Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1+debug",
+          "iOSVersion": "11.1.2",
+          "repository": "A KiiiMO GC - ARABIC ",
+          "date": "2018-03-15T04:46:44Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
+            "good": 2,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -63184,7 +63204,7 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2o-1",
+      "latest": "1.0.2n",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
       "shortDescription": "SSL library and cryptographic tools",
@@ -85266,6 +85286,40 @@
       ]
     },
     {
+      "id": "com.yourepo.ali1087.twig",
+      "name": "Twig",
+      "latest": "1.0.1",
+      "repository": "Ali1087 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ali1087.twig/",
+      "shortDescription": "Add some Weather to your iOS 10 iPhone or iPod Touch Lockscreen",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-23T13:37:50Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.1.2",
+          "repository": "Ali1087 Source - YouRepo",
+          "date": "2018-03-23T13:37:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.debcity.twig",
       "name": "Twig",
       "latest": "1.0.1",
@@ -85316,40 +85370,6 @@
           "iOSVersion": "11.1.2",
           "repository": "A KiiiMO GC - ARABIC ",
           "date": "2018-03-01T07:53:19Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.ali1087.twig",
-      "name": "Twig",
-      "latest": "1.0.1",
-      "repository": "Ali1087 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ali1087.twig/",
-      "shortDescription": "Add some Weather to your iOS 10 iPhone or iPod Touch Lockscreen",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-23T13:37:50Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.1.2",
-          "repository": "Ali1087 Source - YouRepo",
-          "date": "2018-03-23T13:37:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -88793,40 +88813,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.volskip11",
-      "name": "VolSkip11",
-      "latest": "0.0.1-28",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.volskip11/",
-      "shortDescription": "Skip tracks by holding the Volume buttons.",
-      "category": "Tweaks",
-      "author": "rob311",
-      "commercial": false,
-      "date": "2018-03-02T16:14:07Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-28",
-          "iOSVersion": "11.1.2",
-          "repository": "repo.xarold.com",
-          "date": "2018-03-02T16:14:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.rob311.volskip11",
       "name": "VolSkip11",
       "latest": "0.0.1-28",
@@ -88849,6 +88835,40 @@
             "good": 4,
             "bad": 0,
             "total": 4,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.volskip11",
+      "name": "VolSkip11",
+      "latest": "0.0.1-28",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.volskip11/",
+      "shortDescription": "Skip tracks by holding the Volume buttons.",
+      "category": "Tweaks",
+      "author": "rob311",
+      "commercial": false,
+      "date": "2018-03-02T16:14:07Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-28",
+          "iOSVersion": "11.1.2",
+          "repository": "repo.xarold.com",
+          "date": "2018-03-02T16:14:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -90359,21 +90379,22 @@
       ]
     },
     {
-      "id": "be.submanifold.weatherlock",
+      "id": "com.hackyouriphone.weatherlock",
       "name": "WeatherLock",
       "latest": "0.1.13",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.weatherlock/",
       "shortDescription": "animated weather background on the lock screen",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "rainwolf",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-10T10:16:24Z",
       "versions": [
         {
           "tweakVersion": "0.1.13",
           "iOSVersion": "11.1.2",
-          "repository": "apt.thebigboss.org",
-          "date": "2018-03-06T01:18:11Z",
+          "repository": "(null)",
+          "date": "2018-03-10T10:16:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -90392,22 +90413,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.weatherlock",
+      "id": "be.submanifold.weatherlock",
       "name": "WeatherLock",
       "latest": "0.1.13",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.weatherlock/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock/",
       "shortDescription": "animated weather background on the lock screen",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "rainwolf",
-      "commercial": false,
-      "date": "2018-03-10T10:16:24Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "0.1.13",
           "iOSVersion": "11.1.2",
-          "repository": "(null)",
-          "date": "2018-03-10T10:16:24Z",
+          "repository": "apt.thebigboss.org",
+          "date": "2018-03-06T01:18:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
