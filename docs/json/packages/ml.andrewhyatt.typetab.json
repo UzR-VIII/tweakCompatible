@@ -102,6 +102,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "3.0",
+      "iOSVersion": "10.3.3",
+      "repository": "BigBoss",
+      "date": "2018-11-18T18:03:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,4",
+          "issues": "10.5 iPad Pro. Fully functional, with very slight [.2 second] delay before cursor is active in the URL Bar in Safari. ",
+          "date": "2018-11-18T18:03:52Z",
+          "userName": "WhittleMark",
+          "issueNumber": 55414,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
