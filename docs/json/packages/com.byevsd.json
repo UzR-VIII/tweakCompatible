@@ -1,7 +1,7 @@
 {
   "id": "com.byevsd",
   "name": "ByeVSD",
-  "latest": "2.0",
+  "latest": "3.1",
   "repository": "dpkg9510's Repo",
   "url": "http://cydia.saurik.com/package/com.byevsd/",
   "shortDescription": "A powerful, yet safe way to stop Videosubscriptionsd.",
@@ -95,6 +95,37 @@
           "date": "2018-11-11T00:41:11Z",
           "userName": "andy9744",
           "issueNumber": 55022,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.1",
+      "iOSVersion": "11.3.1",
+      "repository": "dpkg9510's Repo",
+      "date": "2018-11-18T11:01:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-18T11:01:31Z",
+          "userName": "CustomSilent",
+          "issueNumber": 55379,
           "arch32": false
         }
       ]
