@@ -98,9 +98,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -117,6 +117,15 @@
           "date": "2018-11-12T17:43:03Z",
           "userName": "dmorse2112",
           "issueNumber": 55133,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-19T15:38:25Z",
+          "userName": "mohitt01p",
+          "issueNumber": 55474,
           "arch32": false
         }
       ]
