@@ -1039,11 +1039,11 @@
       "repository": "BigBoss",
       "date": "2018-11-17T23:39:39Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1078,6 +1078,15 @@
           "date": "2018-11-19T09:19:22Z",
           "userName": "danielyc",
           "issueNumber": 55464,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-19T12:19:49Z",
+          "userName": "AXiSft",
+          "issueNumber": 55465,
           "arch32": false
         }
       ]
