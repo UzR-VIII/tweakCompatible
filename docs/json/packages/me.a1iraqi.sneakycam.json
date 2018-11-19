@@ -1,0 +1,45 @@
+{
+  "id": "me.a1iraqi.sneakycam",
+  "name": "SneakyCam ( Cracked )",
+  "latest": "0.0.6-1-2",
+  "repository": "Azozz ALFiras | عزوز الفراس",
+  "url": "http://cydia.saurik.com/package/me.a1iraqi.sneakycam/",
+  "shortDescription": "اخذ صورة او تسجيل فيديو من اي مكان في الشاشة والاستمرار حتى وان كانت الشاشة مغلقة",
+  "category": "iOS11.3.1",
+  "author": "Spark",
+  "commercial": false,
+  "date": "2018-11-19T21:05:59Z",
+  "versions": [
+    {
+      "tweakVersion": "0.0.6-1-2",
+      "iOSVersion": "11.3.1",
+      "repository": "Azozz ALFiras | عزوز الفراس",
+      "date": "2018-11-19T21:05:59Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Breaking instagram app",
+          "date": "2018-11-19T21:05:59Z",
+          "userName": "GhostenigmaX",
+          "issueNumber": 55492,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
