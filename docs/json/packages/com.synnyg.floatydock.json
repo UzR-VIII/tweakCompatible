@@ -1039,11 +1039,11 @@
       "repository": "BigBoss",
       "date": "2018-11-17T23:39:39Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1069,6 +1069,15 @@
           "date": "2018-11-18T07:05:27Z",
           "userName": "Unexp3cted",
           "issueNumber": 55375,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Can’t open apps",
+          "date": "2018-11-19T09:19:22Z",
+          "userName": "danielyc",
+          "issueNumber": 55464,
           "arch32": false
         }
       ]
