@@ -16,11 +16,11 @@
       "repository": "Azozz ALFiras | عزوز الفراس",
       "date": "2018-11-18T04:19:32Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-11-18T04:19:32Z",
           "userName": "ymbgames",
           "issueNumber": 55362,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Breaking insta app",
+          "date": "2018-11-19T12:32:35Z",
+          "userName": "GhostenigmaX",
+          "issueNumber": 55467,
           "arch32": false
         }
       ]
