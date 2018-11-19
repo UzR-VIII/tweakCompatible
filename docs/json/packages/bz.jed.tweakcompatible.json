@@ -7513,9 +7513,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 7,
+        "good": 8,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -7586,6 +7586,15 @@
           "date": "2018-08-24T17:21:04Z",
           "userName": "fijogeorgek",
           "issueNumber": 46918,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-19T19:58:09Z",
+          "userName": "rumamaru",
+          "issueNumber": 55481,
           "arch32": false
         }
       ]
