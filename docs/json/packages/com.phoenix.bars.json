@@ -55,12 +55,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
-          "total": 1,
-          "good": 1,
+          "total": 2,
+          "good": 2,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -102,6 +102,15 @@
           "userName": "andreami96",
           "issueNumber": 6010,
           "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-11-20T22:19:29Z",
+          "userName": "JaRxY",
+          "issueNumber": 55547,
+          "arch32": true
         }
       ]
     },
