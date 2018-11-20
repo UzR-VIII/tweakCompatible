@@ -2504,11 +2504,11 @@
       "repository": "Global++ Tweaks",
       "date": "2018-11-20T00:01:59Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2525,6 +2525,15 @@
           "date": "2018-11-20T00:01:59Z",
           "userName": "lineararc",
           "issueNumber": 55508,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-20T06:37:24Z",
+          "userName": "kaushalj94",
+          "issueNumber": 55523,
           "arch32": false
         }
       ]
