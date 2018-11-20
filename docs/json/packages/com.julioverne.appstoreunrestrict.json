@@ -17,10 +17,10 @@
       "date": "2018-07-07T00:33:41Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 43,
+        "percentage": 42,
         "good": 18,
         "bad": 0,
-        "total": 41,
+        "total": 42,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -397,6 +397,15 @@
           "date": "2018-09-18T18:46:54Z",
           "userName": "altmeme",
           "issueNumber": 50854,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-20T23:24:37Z",
+          "userName": "capecodnative",
+          "issueNumber": 55558,
           "arch32": false
         }
       ]
