@@ -1,7 +1,7 @@
 {
   "id": "com.golddavid.colorflow4",
   "name": "ColorFlow 4 (iOS 11)",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "repository": "Chariz (HASHBANG Productions)",
   "url": "http://cydia.saurik.com/package/com.golddavid.colorflow4/",
   "shortDescription": "one colorful boi",
@@ -161,6 +161,37 @@
           "date": "2018-10-18T02:32:30Z",
           "userName": "GhostSamurai",
           "issueNumber": 53278,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Chariz",
+      "date": "2018-11-20T16:39:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-20T16:39:25Z",
+          "userName": "dmorse2112",
+          "issueNumber": 55538,
           "arch32": false
         }
       ]
