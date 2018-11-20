@@ -1,7 +1,7 @@
 {
   "id": "net.midkin.smartvolumemixer",
   "name": "SmartVolumeMixer",
-  "latest": "0.9.2",
+  "latest": "0.9.4",
   "repository": "midkin's repo",
   "url": "http://cydia.saurik.com/package/net.midkin.smartvolumemixer/",
   "shortDescription": "iOS most advanced volume mixer.",
@@ -37,6 +37,37 @@
           "date": "2018-11-17T11:47:35Z",
           "userName": "naiminparadise",
           "issueNumber": 55320,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.9.4",
+      "iOSVersion": "11.1.2",
+      "repository": "midkin's repo",
+      "date": "2018-11-20T23:03:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-20T23:03:35Z",
+          "userName": "naiminparadise",
+          "issueNumber": 55557,
           "arch32": false
         }
       ]
