@@ -278,7 +278,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -295,6 +295,15 @@
           "date": "2018-11-04T16:57:57Z",
           "userName": "heligreif",
           "issueNumber": 54603,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2018-11-21T15:48:38Z",
+          "userName": "supersmart07",
+          "issueNumber": 55571,
           "arch32": false
         }
       ]
