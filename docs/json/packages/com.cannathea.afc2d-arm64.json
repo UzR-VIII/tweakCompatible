@@ -305,20 +305,20 @@
       "users": [
         {
           "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2018-08-07T17:59:58Z",
-          "userName": "MattieThurlow96",
-          "issueNumber": 40097,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,6",
           "issues": "",
           "date": "2018-08-07T17:01:30Z",
           "userName": "percyjk23",
           "issueNumber": 40081,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-11-21T11:52:03Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 55566,
           "arch32": false
         }
       ]
