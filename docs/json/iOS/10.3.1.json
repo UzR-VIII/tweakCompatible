@@ -409,21 +409,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.aerial",
+      "id": "com.polytweaks.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "repo.xarold.com",
-      "url": "http://repo.xarold.com/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
       "shortDescription": "Colour your status bar icons!",
       "category": "Messaging",
       "author": "Surenix",
-      "commercial": false,
+      "commercial": true,
+      "date": "2018-03-12T02:25:29Z",
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "10.3.1",
-          "repository": "Xarold Repo",
-          "date": "2018-04-12T12:07:21Z",
+          "repository": "BigBoss",
+          "date": "2018-10-27T04:06:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -442,22 +443,21 @@
       ]
     },
     {
-      "id": "com.polytweaks.aerial",
+      "id": "com.repo.xarold.com.aerial",
       "name": "Aerial",
       "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.polytweaks.aerial/",
+      "repository": "repo.xarold.com",
+      "url": "http://repo.xarold.com/",
       "shortDescription": "Colour your status bar icons!",
       "category": "Messaging",
       "author": "Surenix",
-      "commercial": true,
-      "date": "2018-03-12T02:25:29Z",
+      "commercial": false,
       "versions": [
         {
           "tweakVersion": "1.1",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-10-27T04:06:37Z",
+          "repository": "Xarold Repo",
+          "date": "2018-04-12T12:07:21Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5367,21 +5367,20 @@
       ]
     },
     {
-      "id": "com.golddavid.dontstoptheparty",
+      "id": "repo.biteyourapple.net.dontstoptheparty",
       "name": "Don't Stop The Party!",
       "latest": "0.0.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.dontstoptheparty/",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Music during resprings",
-      "category": "Tweaks",
-      "author": "David Goldman, Wizages",
-      "commercial": true,
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
       "versions": [
         {
           "tweakVersion": "0.0.2",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-11-11T21:27:47Z",
+          "repository": "BiteYourApple",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -5400,20 +5399,21 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.dontstoptheparty",
+      "id": "com.golddavid.dontstoptheparty",
       "name": "Don't Stop The Party!",
       "latest": "0.0.2",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.dontstoptheparty/",
       "shortDescription": "Music during resprings",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
+      "category": "Tweaks",
+      "author": "David Goldman, Wizages",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "0.0.2",
           "iOSVersion": "10.3.1",
-          "repository": "BiteYourApple",
+          "repository": "BigBoss",
+          "date": "2018-11-11T21:27:47Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -6400,20 +6400,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.flex2",
+      "id": "com.fuyuchi.flex2",
       "name": "Flex 2",
-      "latest": "2.0k",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
+      "category": "Tweaks",
+      "author": "John Coates",
+      "commercial": true,
+      "date": "2018-03-05T16:58:22Z",
       "versions": [
         {
-          "tweakVersion": "2.0k",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "10.3.1",
-          "repository": "BiteYourApple",
+          "repository": "BigBoss",
+          "date": "2018-03-07T21:32:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6432,22 +6434,20 @@
       ]
     },
     {
-      "id": "com.fuyuchi.flex2",
+      "id": "repo.biteyourapple.net.flex2",
       "name": "Flex 2",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.fuyuchi.flex2/",
+      "latest": "2.0k",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Easily make your own tweaks, and share them on the Flex Community Cloud.",
-      "category": "Tweaks",
-      "author": "John Coates",
-      "commercial": true,
-      "date": "2018-03-05T16:58:22Z",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "2.0k",
           "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "date": "2018-03-07T21:32:31Z",
+          "repository": "BiteYourApple",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10050,7 +10050,7 @@
     {
       "id": "net.limneos.nfcwriterx",
       "name": "NFCWriter X",
-      "latest": "0.4-78",
+      "latest": "0.4-81",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
       "shortDescription": "NFCWriter X for iOS",
@@ -10570,6 +10570,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "notwitterads.ru",
+      "name": "NoTwitterAds",
+      "latest": "0.0.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/notwitterads.ru/",
+      "shortDescription": "NoTwitterAds",
+      "category": "Tweaks",
+      "author": "PVMNTSDev",
+      "commercial": false,
+      "date": "2018-11-16T15:10:47Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1",
+          "iOSVersion": "10.3.1",
+          "repository": "Packix",
+          "date": "2018-11-21T22:17:16Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -11525,6 +11559,38 @@
       ]
     },
     {
+      "id": "com.clezz.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
+      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
+      "category": "Tweaks",
+      "author": "Ma Jun",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.3.1",
+          "repository": "BigBoss",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.2.1",
@@ -11545,38 +11611,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.clezz.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.clezz.powerdown/",
-      "shortDescription": "Show power down view via gestures and add reboot, respring, safe mode slider to power down view.",
-      "category": "Tweaks",
-      "author": "Ma Jun",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.3.1",
-          "repository": "BigBoss",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
