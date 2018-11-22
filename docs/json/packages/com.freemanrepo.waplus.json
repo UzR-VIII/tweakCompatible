@@ -1,7 +1,7 @@
 {
   "id": "com.freemanrepo.waplus",
   "name": "WhatsApp ++",
-  "latest": "1.6r-96",
+  "latest": "1.6r-104",
   "repository": "beta.unlimapps.com",
   "url": "http://cydia.saurik.com/package/com.freemanrepo.waplus/",
   "shortDescription": "Most-requested tweaks for WhatsApp.",
@@ -452,6 +452,37 @@
           "userName": "Neo666233",
           "issueNumber": 51361,
           "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6r-104",
+      "iOSVersion": "11.3.1",
+      "repository": "beta.unlimapps.com",
+      "date": "2018-11-22T09:33:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-11-22T09:33:27Z",
+          "userName": "MARGELANI",
+          "issueNumber": 55619,
+          "arch32": false
         }
       ]
     }
