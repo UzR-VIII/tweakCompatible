@@ -205,15 +205,6 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,4",
-          "issues": "",
-          "date": "2018-07-07T20:48:46Z",
-          "userName": "BumpyFlatline",
-          "issueNumber": 13975,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPad7,4",
           "issues": "",
           "date": "2018-07-07T21:32:13Z",
@@ -309,6 +300,15 @@
           "date": "2018-07-22T08:20:05Z",
           "userName": "humzariaz",
           "issueNumber": 31937,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2018-11-22T11:10:23Z",
+          "userName": "BumpyFlatline",
+          "issueNumber": 55623,
           "arch32": false
         }
       ]
