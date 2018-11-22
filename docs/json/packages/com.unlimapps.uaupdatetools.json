@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.uaupdatetools",
   "name": "App Admin",
-  "latest": "1.0r-101",
+  "latest": "1.0r-92",
   "repository": "beta.unlimapps.com",
   "url": "https://beta.unlimapps.com/",
   "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -3316,6 +3316,37 @@
           "userName": "Neo666233",
           "issueNumber": 51365,
           "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0r-92",
+      "iOSVersion": "11.0.1",
+      "repository": "test.unlimapps.com",
+      "date": "2018-11-22T07:43:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-22T07:43:32Z",
+          "userName": "godlike654",
+          "issueNumber": 55607,
+          "arch32": false
         }
       ]
     }
