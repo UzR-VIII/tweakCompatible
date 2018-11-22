@@ -1,10 +1,10 @@
 {
   "id": "com.midnightchips.localhostssh",
   "name": "Local SSH",
-  "latest": "0.0.1",
+  "latest": "0.0.2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.midnightchips.localhostssh/",
-  "shortDescription": "SSH to localhost on iOS 11",
+  "shortDescription": "Access localhost through SSH on iOS 11",
   "category": "System",
   "author": "MidnightChips",
   "commercial": false,
@@ -87,11 +87,11 @@
       "repository": "Chariz (HASHBANG Productions)",
       "date": "2018-10-20T09:24:38Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -135,6 +135,15 @@
           "date": "2018-10-27T16:07:17Z",
           "userName": "tokfrans03",
           "issueNumber": 54084,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "works on 11.3.1 unc0ver!",
+          "date": "2018-11-22T09:10:32Z",
+          "userName": "cafrew",
+          "issueNumber": 55618,
           "arch32": false
         }
       ]
