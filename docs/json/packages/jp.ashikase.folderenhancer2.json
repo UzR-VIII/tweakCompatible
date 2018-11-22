@@ -242,12 +242,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
-          "total": 1,
-          "good": 1,
+          "total": 2,
+          "good": 2,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -270,6 +270,15 @@
           "date": "2018-11-21T18:51:49Z",
           "userName": "JaRxY",
           "issueNumber": 55580,
+          "arch32": true
+        },
+        {
+          "status": "partial",
+          "device": "iPad3,4",
+          "issues": "",
+          "date": "2018-11-22T10:36:36Z",
+          "userName": "DuncanCoolidge",
+          "issueNumber": 55621,
           "arch32": true
         }
       ]
