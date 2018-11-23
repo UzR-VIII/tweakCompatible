@@ -1,7 +1,7 @@
 {
   "id": "me.alfhaily.rocket",
   "name": "Rocket for Instagram",
-  "latest": "3.2.0",
+  "latest": "3.2.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
   "shortDescription": "Save posts and view stories anonymously and do much more",
@@ -3729,6 +3729,37 @@
           "date": "2018-11-21T13:43:22Z",
           "userName": "Passsenger57",
           "issueNumber": 55569,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.2.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Alfhaily APT",
+      "date": "2018-11-23T15:30:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "history view issue stuck & freeze ",
+          "date": "2018-11-23T15:30:11Z",
+          "userName": "Passsenger57",
+          "issueNumber": 55632,
           "arch32": false
         }
       ]
