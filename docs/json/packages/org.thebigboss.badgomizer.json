@@ -140,9 +140,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -177,6 +177,15 @@
           "date": "2018-07-30T05:38:58Z",
           "userName": "rohitwasnik",
           "issueNumber": 35940,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "It gives stuttering issues on my iPhone 6s on springboard ",
+          "date": "2018-11-24T22:04:50Z",
+          "userName": "Chris-C744",
+          "issueNumber": 55644,
           "arch32": false
         }
       ]
