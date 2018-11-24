@@ -4,7 +4,7 @@
   "latest": "5.6.3",
   "repository": "Download The Best Cheats For iOS!",
   "url": "http://cydia.saurik.com/package/com.sull.pandoraessentials/",
-  "shortDescription": "Essentials Features: Unlimited Skips, No Skip Delay, Remove Song Play/Time Cap, See All History, No Pause When Muted, Max Audio Quality, No Audio Timeout, Avoid Insufficient Connectivity, Always Buffering in Background and more... Configure options from Settings.",
+  "shortDescription": "unlimited skips, see history, no mute pause, max quality & more.",
   "category": "Tweaks",
   "author": "mdub2688",
   "commercial": false,
@@ -16,11 +16,11 @@
       "repository": "Download The Best Cheats For iOS!",
       "date": "2018-07-11T05:56:03Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-07-11T05:56:03Z",
           "userName": "Stephxny",
           "issueNumber": 21761,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-24T18:06:40Z",
+          "userName": "Kraigmartin80",
+          "issueNumber": 55641,
           "arch32": false
         }
       ]
