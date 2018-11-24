@@ -17,10 +17,10 @@
       "date": "2018-09-06T20:43:16Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 60,
         "good": 6,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -109,6 +109,15 @@
           "date": "2018-10-09T00:59:25Z",
           "userName": "romelsomar",
           "issueNumber": 52564,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Won’t play sound",
+          "date": "2018-11-24T04:27:02Z",
+          "userName": "Chris-C744",
+          "issueNumber": 55636,
           "arch32": false
         }
       ]
