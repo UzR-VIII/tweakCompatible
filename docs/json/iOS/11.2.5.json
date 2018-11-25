@@ -562,7 +562,7 @@
     {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-101",
+      "latest": "1.0r-92",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
       "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -4978,6 +4978,39 @@
       ]
     },
     {
+      "id": "io.ijapija00.lasttimeunlocked",
+      "name": "LastTimeUnlocked (iOS 10)",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/io.ijapija00.lasttimeunlocked/",
+      "shortDescription": "Lockscreen shows last time you locked your device",
+      "category": "Tweaks",
+      "author": "@ijapija00",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.2.5",
+          "repository": "BigBoss",
+          "date": "2018-11-25T05:21:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.lnx.leadmehome",
       "name": "LeadMeHome",
       "latest": "1.0.1",
@@ -8117,7 +8150,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.2.0",
+      "latest": "3.2.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "Save posts and view stories anonymously and do much more",
