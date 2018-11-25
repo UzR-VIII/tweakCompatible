@@ -699,11 +699,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-09-03T01:48:27Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 6,
+        "calculatedStatus": "Working",
+        "percentage": 77,
+        "good": 7,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -783,6 +783,15 @@
           "date": "2018-11-11T23:49:40Z",
           "userName": "rabidi1",
           "issueNumber": 55107,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-24T23:42:39Z",
+          "userName": "AXiSft",
+          "issueNumber": 55645,
           "arch32": false
         }
       ]
