@@ -121,7 +121,7 @@
     {
       "id": "com.anemonetheming.anemone",
       "name": "Anemone",
-      "latest": "2.1.8-1",
+      "latest": "2.1.8-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone/",
       "shortDescription": "An awesome theme manager!",
@@ -170,9 +170,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 1,
               "good": 1,
@@ -1161,7 +1161,7 @@
     {
       "id": "org.thebigboss.ksaiostheme",
       "name": "KSA iOS",
-      "latest": "1.0",
+      "latest": "1.0.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.ksaiostheme/",
       "shortDescription": "KSA iOS is a theme that makes you fully patriotic and belonging to your device once installed.",
@@ -1529,10 +1529,10 @@
     {
       "id": "com.hackingdartmouth.shiftcycle",
       "name": "ShiftCycle",
-      "latest": "1.3.2-1",
+      "latest": "1.3.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.hackingdartmouth.shiftcycle/",
-      "shortDescription": "Allows you to cycle a selection through uppercase, lowercase, and more with the Shift key.",
+      "shortDescription": "change selected text case using Shift key",
       "category": "Tweaks",
       "author": "Alex Beals",
       "commercial": false,

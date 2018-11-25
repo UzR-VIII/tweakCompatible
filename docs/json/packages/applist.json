@@ -1105,9 +1105,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 1,
           "good": 1,
@@ -1125,6 +1125,15 @@
           "userName": "CydiaUser420",
           "issueNumber": 9818,
           "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-11-25T18:18:46Z",
+          "userName": "iTollMouS",
+          "issueNumber": 55686,
+          "arch32": false
         }
       ]
     },
