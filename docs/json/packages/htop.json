@@ -1,10 +1,10 @@
 {
   "id": "htop",
   "name": "htop",
-  "latest": "2.2.0-1",
+  "latest": "2.1.0",
   "repository": "HASHBANG Productions",
   "url": "http://cydia.saurik.com/package/htop/",
-  "shortDescription": "An interactive process viewer for Unix systems.",
+  "shortDescription": "interactive processes viewer",
   "category": "Administration",
   "author": "(null)",
   "commercial": false,
@@ -365,6 +365,37 @@
           "date": "2018-11-12T18:46:49Z",
           "userName": "diddlydoowoo",
           "issueNumber": 55135,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.1.0",
+      "iOSVersion": "10.2",
+      "repository": "Chariz (HASHBANG Productions)",
+      "date": "2018-11-25T21:59:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-11-25T21:59:22Z",
+          "userName": "Scunkaneli",
+          "issueNumber": 55691,
           "arch32": false
         }
       ]
