@@ -567,12 +567,12 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
-          "total": 1,
-          "good": 1,
+          "total": 2,
+          "good": 2,
           "bad": 0,
           "percentage": 100,
           "calculatedStatus": "Working"
@@ -586,6 +586,15 @@
           "date": "2018-08-17T10:20:22Z",
           "userName": "0x9fff00",
           "issueNumber": 44542,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPad3,5",
+          "issues": "",
+          "date": "2018-11-25T04:43:38Z",
+          "userName": "ChenDanCMU",
+          "issueNumber": 55647,
           "arch32": true
         }
       ]
