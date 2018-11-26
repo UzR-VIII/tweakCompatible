@@ -17,10 +17,10 @@
       "date": "2018-07-08T12:09:53Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -73,6 +73,15 @@
           "date": "2018-08-26T09:40:24Z",
           "userName": "burkybang",
           "issueNumber": 47342,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2018-11-26T04:20:19Z",
+          "userName": "mohitt01p",
+          "issueNumber": 55697,
           "arch32": false
         }
       ]
