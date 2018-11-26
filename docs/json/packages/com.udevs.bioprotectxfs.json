@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2018-11-25T12:18:23Z",
           "userName": "AvinashDevina",
           "issueNumber": 55659,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2018-11-26T17:11:26Z",
+          "userName": "tweakcompatibleaccount",
+          "issueNumber": 55713,
           "arch32": false
         }
       ]
