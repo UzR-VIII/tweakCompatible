@@ -340,6 +340,37 @@
           "arch32": true
         }
       ]
+    },
+    {
+      "tweakVersion": "1.12.5",
+      "iOSVersion": "11.2.6",
+      "repository": "BigBoss",
+      "date": "2018-11-26T09:13:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "Works apart from D-L returns error",
+          "date": "2018-11-26T09:13:14Z",
+          "userName": "Hyperz1",
+          "issueNumber": 55704,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
