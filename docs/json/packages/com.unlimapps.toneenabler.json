@@ -107,9 +107,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 92,
-        "good": 12,
+        "good": 13,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -234,6 +234,15 @@
           "date": "2018-09-05T23:19:30Z",
           "userName": "marcoms",
           "issueNumber": 49332,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "Happy to say that this works. Took a few reinstalls of this tweak and “t-mobile jingle” to finally get them working as a pair of tweaks",
+          "date": "2018-11-26T06:36:25Z",
+          "userName": "Yochannan",
+          "issueNumber": 55701,
           "arch32": false
         }
       ]
