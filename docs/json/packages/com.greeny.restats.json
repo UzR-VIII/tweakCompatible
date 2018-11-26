@@ -1,10 +1,10 @@
 {
   "id": "com.greeny.restats",
   "name": "ReStats",
-  "latest": "1.1-27",
+  "latest": "1.1-28",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.greeny.restats/",
-  "shortDescription": "choose day to auto-reset Cellular stats",
+  "shortDescription": "Updated by CokePokes to work on iOS9-iOS11. Choose day to auto-reset Cellular stats",
   "category": "Tweaks",
   "author": "GreenyDev",
   "commercial": false,
@@ -37,6 +37,37 @@
           "date": "2018-09-23T14:09:23Z",
           "userName": "ShiloTobin",
           "issueNumber": 51295,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1-28",
+      "iOSVersion": "11.3.1",
+      "repository": "CokePokes",
+      "date": "2018-11-26T20:47:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-11-26T20:47:58Z",
+          "userName": "CokePokes",
+          "issueNumber": 55724,
           "arch32": false
         }
       ]
