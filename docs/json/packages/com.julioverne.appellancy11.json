@@ -989,6 +989,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1-20b",
+      "iOSVersion": "11.2.6",
+      "repository": "julioverne's Repo",
+      "date": "2018-11-26T09:26:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "Works on my firmware ",
+          "date": "2018-11-26T09:26:28Z",
+          "userName": "Hyperz1",
+          "issueNumber": 55708,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
