@@ -2335,9 +2335,9 @@
           "repository": "PoomSmart's Repo",
           "date": "2018-11-25T18:26:20Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7693,10 +7693,10 @@
     {
       "id": "htop",
       "name": "htop",
-      "latest": "2.2.0-1",
+      "latest": "2.1.0",
       "repository": "HASHBANG Productions",
       "url": "http://cydia.saurik.com/package/htop/",
-      "shortDescription": "An interactive process viewer for Unix systems.",
+      "shortDescription": "interactive processes viewer",
       "category": "Administration",
       "author": "(null)",
       "commercial": false,
