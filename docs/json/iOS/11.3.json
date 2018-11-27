@@ -9670,6 +9670,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.colorbanners2",
+      "name": "ColorBanners 2 (iOS 10)",
+      "latest": "1.1.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbanners2/",
+      "shortDescription": "Color your notifications",
+      "category": "HYI - Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2018-03-02T17:18:57Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-07T19:19:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.golddavid.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.1.1",
@@ -9711,40 +9745,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.colorbanners2",
-      "name": "ColorBanners 2 (iOS 10)",
-      "latest": "1.1.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbanners2/",
-      "shortDescription": "Color your notifications",
-      "category": "HYI - Tweaks",
-      "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-02T17:18:57Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-07T19:19:32Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10999,10 +10999,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.9.1",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -11078,6 +11078,26 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.32~b6",
+          "iOSVersion": "11.3",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-11-27T13:27:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
