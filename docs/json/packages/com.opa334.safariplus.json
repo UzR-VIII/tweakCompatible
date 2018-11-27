@@ -3033,9 +3033,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3097,6 +3097,15 @@
           "date": "2018-10-20T20:00:21Z",
           "userName": "baebrum",
           "issueNumber": 53503,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "BEWARE!! This tweak causes occasional Infinite repring loop!!",
+          "date": "2018-11-27T20:28:47Z",
+          "userName": "soum91",
+          "issueNumber": 55753,
           "arch32": false
         }
       ]
