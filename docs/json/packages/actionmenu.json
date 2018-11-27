@@ -146,17 +146,17 @@
       "repository": "BigBoss",
       "date": "2018-07-15T06:45:52Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
-          "total": 1,
-          "good": 0,
+          "total": 2,
+          "good": 1,
           "bad": 0,
-          "percentage": 0,
-          "calculatedStatus": "Not working"
+          "percentage": 50,
+          "calculatedStatus": "Likely working"
         }
       },
       "users": [
@@ -167,6 +167,15 @@
           "date": "2018-07-15T06:45:52Z",
           "userName": "savefromamf",
           "issueNumber": 26992,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,2",
+          "issues": "",
+          "date": "2018-11-27T00:30:13Z",
+          "userName": "NguyenThanh1995",
+          "issueNumber": 55728,
           "arch32": true
         }
       ]
