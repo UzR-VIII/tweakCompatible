@@ -359,10 +359,10 @@
       "date": "2018-11-10T05:12:08Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -388,6 +388,15 @@
           "date": "2018-11-10T09:26:46Z",
           "userName": "Nawaf-NM",
           "issueNumber": 54969,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-11-28T22:45:35Z",
+          "userName": "Yogpod",
+          "issueNumber": 55776,
           "arch32": false
         }
       ]
