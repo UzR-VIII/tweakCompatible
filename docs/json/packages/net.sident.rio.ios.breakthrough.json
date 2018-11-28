@@ -1,7 +1,7 @@
 {
   "id": "net.sident.rio.ios.breakthrough",
   "name": "BreakThrough",
-  "latest": "8.22.3",
+  "latest": "8.22.5",
   "repository": "sident.net for cydia",
   "url": "http://cydia.saurik.com/package/net.sident.rio.ios.breakthrough/",
   "shortDescription": "Breaks jailbreak detection",
@@ -228,6 +228,37 @@
           "date": "2018-07-12T12:52:31Z",
           "userName": "warriorx86",
           "issueNumber": 24183,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "8.22.5",
+      "iOSVersion": "11.3.1",
+      "repository": "sident.net for cydia",
+      "date": "2018-11-28T04:51:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Working with Unc0ver on Iphone X! Thanks!!",
+          "date": "2018-11-28T04:51:13Z",
+          "userName": "jiddy87",
+          "issueNumber": 55762,
           "arch32": false
         }
       ]
