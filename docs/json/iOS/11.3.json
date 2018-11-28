@@ -273,7 +273,7 @@
     {
       "id": "com.cydiageek.abetterprivacyforwhatsapp",
       "name": "ABetterPrivacyforWhatsApp",
-      "latest": "1.3",
+      "latest": "1.3.1",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.cydiageek.abetterprivacyforwhatsapp/",
       "shortDescription": "Better Privacy options for Whatsapp & More!",
@@ -4713,6 +4713,74 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.1.9.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.6",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T04:15:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.3.9",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11",
+      "category": "Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-07-21T09:43:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.9",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-07-21T09:43:11Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.3.9",
@@ -4795,74 +4863,6 @@
             "good": 4,
             "bad": 0,
             "total": 4,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.repo.xarold.com.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.3.9",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11",
-      "category": "Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-07-21T09:43:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.9",
-          "iOSVersion": "11.3",
-          "repository": "(null)",
-          "date": "2018-07-21T09:43:11Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.1.9.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.6",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T04:15:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -5009,40 +5009,6 @@
       ]
     },
     {
-      "id": "org.coolstar.betterpowerdown",
-      "name": "BetterPowerDown",
-      "latest": "1.4.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.betterpowerdown/",
-      "shortDescription": "classic iOS 6 style power sliders",
-      "category": "Tweaks",
-      "author": "CoolStar",
-      "commercial": true,
-      "date": "2018-06-05T17:54:15Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.0",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-11T22:13:52Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 2,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.betterpowerdown",
       "name": "BetterPowerDown",
       "latest": "1.4.0",
@@ -5065,6 +5031,40 @@
             "good": 0,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.coolstar.betterpowerdown",
+      "name": "BetterPowerDown",
+      "latest": "1.4.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.betterpowerdown/",
+      "shortDescription": "classic iOS 6 style power sliders",
+      "category": "Tweaks",
+      "author": "CoolStar",
+      "commercial": true,
+      "date": "2018-06-05T17:54:15Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.0",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-07-11T22:13:52Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
+            "good": 2,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6251,7 +6251,7 @@
     {
       "id": "net.sident.rio.ios.breakthrough",
       "name": "BreakThrough",
-      "latest": "8.22.3",
+      "latest": "8.22.5",
       "repository": "sident.net for cydia",
       "url": "http://cydia.saurik.com/package/net.sident.rio.ios.breakthrough/",
       "shortDescription": "Breaks jailbreak detection",
@@ -7894,10 +7894,10 @@
     {
       "id": "com.jailbreak365.safeccmodules",
       "name": "CCModules (Safe, Uses Silo)",
-      "latest": "1.3-1",
+      "latest": "1.3-2",
       "repository": "jailbreak365's Repo",
       "url": "http://cydia.saurik.com/package/com.jailbreak365.safeccmodules/",
-      "shortDescription": "Control center modules for iOS 11.",
+      "shortDescription": "Control center modules for iOS 11. New in v1.3-2: Added Weather Channel module.",
       "category": "Tweaks",
       "author": "jailbreak365",
       "commercial": false,
@@ -8767,6 +8767,39 @@
       ]
     },
     {
+      "id": "com.vedboon.circleicons",
+      "name": "CircleIcons",
+      "latest": "1.1.3-15",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.vedboon.circleicons/",
+      "shortDescription": "circle shaped icons in Settings app",
+      "category": "Tweaks",
+      "author": "Javier (VedBoon) Brito",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.3-15",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-07-17T18:37:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.coolstar.circleicons",
       "name": "CircleIcons",
       "latest": "1.3.2",
@@ -8789,39 +8822,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.vedboon.circleicons",
-      "name": "CircleIcons",
-      "latest": "1.1.3-15",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.vedboon.circleicons/",
-      "shortDescription": "circle shaped icons in Settings app",
-      "category": "Tweaks",
-      "author": "Javier (VedBoon) Brito",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1.3-15",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-17T18:37:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -9569,39 +9569,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.colorbadges",
-      "name": "ColorBadges",
-      "latest": "1.2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
-      "shortDescription": "Colorize your badges",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-22T08:09:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.colorbadges",
       "name": "ColorBadges",
       "latest": "1.2.0",
@@ -9636,6 +9603,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.colorbadges",
+      "name": "ColorBadges",
+      "latest": "1.2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.colorbadges/",
+      "shortDescription": "Colorize your badges",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-07-22T08:09:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.golddavid.colorbanners",
       "name": "ColorBanners",
       "latest": "1.0.6-1",
@@ -9656,6 +9656,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.colorbanners2",
+      "name": "ColorBanners 2 (iOS 10)",
+      "latest": "1.1.1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbanners2/",
+      "shortDescription": "Color your notifications",
+      "category": "HYI - Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2018-03-02T17:18:57Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "11.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-07T19:19:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -9711,40 +9745,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.colorbanners2",
-      "name": "ColorBanners 2 (iOS 10)",
-      "latest": "1.1.1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorbanners2/",
-      "shortDescription": "Color your notifications",
-      "category": "HYI - Tweaks",
-      "author": "David Goldman",
-      "commercial": false,
-      "date": "2018-03-02T17:18:57Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-07T19:19:32Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11824,22 +11824,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.defaultsbpage",
+      "id": "com.heaveniphone.defaultsbpage",
       "name": "DefaultSBPage",
       "latest": "2.0-19",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.defaultsbpage/",
+      "repository": "Heaven iPhone",
+      "url": "http://cydia.saurik.com/package/com.heaveniphone.defaultsbpage/",
       "shortDescription": "choose homescreen page shown after unlock",
-      "category": "HYI - Tweaks",
-      "author": "davidedj10",
+      "category": "HiPhone-Tools",
+      "author": "(null)",
       "commercial": false,
-      "date": "2018-07-09T12:50:33Z",
+      "date": "2018-07-12T10:34:24Z",
       "versions": [
         {
           "tweakVersion": "2.0-19",
           "iOSVersion": "11.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-09T12:50:33Z",
+          "repository": "Heaven iPhone",
+          "date": "2018-07-12T10:34:24Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -11858,22 +11858,22 @@
       ]
     },
     {
-      "id": "com.heaveniphone.defaultsbpage",
+      "id": "com.hackyouriphone.defaultsbpage",
       "name": "DefaultSBPage",
       "latest": "2.0-19",
-      "repository": "Heaven iPhone",
-      "url": "http://cydia.saurik.com/package/com.heaveniphone.defaultsbpage/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.defaultsbpage/",
       "shortDescription": "choose homescreen page shown after unlock",
-      "category": "HiPhone-Tools",
-      "author": "(null)",
+      "category": "HYI - Tweaks",
+      "author": "davidedj10",
       "commercial": false,
-      "date": "2018-07-12T10:34:24Z",
+      "date": "2018-07-09T12:50:33Z",
       "versions": [
         {
           "tweakVersion": "2.0-19",
           "iOSVersion": "11.3",
-          "repository": "Heaven iPhone",
-          "date": "2018-07-12T10:34:24Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-09T12:50:33Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -14950,22 +14950,22 @@
       ]
     },
     {
-      "id": "com.fizk.ffmpeg",
-      "name": "FFmpeg",
-      "latest": "16669.2009.18.02-2",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.fizk.ffmpeg/",
-      "shortDescription": "FFMpeg 0.11 compiled for iOS -- Includes x264 encoder.  This is a console app and does not include UI.    (Contact me for ffplay and other ffmpeg projects)",
+      "id": "com.nin9tyfour.ffmpeg",
+      "name": "ffmpeg",
+      "latest": "2.6.1-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.nin9tyfour.ffmpeg/",
+      "shortDescription": "ffmpeg video tools for iOS",
       "category": "Multimedia",
-      "author": "Yaniv Danan (hAcx)",
+      "author": "nin9tyfour",
       "commercial": false,
-      "date": "2018-08-24T15:55:09Z",
+      "date": "2018-08-24T16:01:45Z",
       "versions": [
         {
-          "tweakVersion": "16669.2009.18.02-2",
+          "tweakVersion": "2.6.1-1",
           "iOSVersion": "11.3",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-08-24T15:55:09Z",
+          "repository": "BigBoss",
+          "date": "2018-08-24T16:01:45Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -14984,22 +14984,22 @@
       ]
     },
     {
-      "id": "com.nin9tyfour.ffmpeg",
-      "name": "ffmpeg",
-      "latest": "2.6.1-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.nin9tyfour.ffmpeg/",
-      "shortDescription": "ffmpeg video tools for iOS",
+      "id": "com.fizk.ffmpeg",
+      "name": "FFmpeg",
+      "latest": "16669.2009.18.02-2",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.fizk.ffmpeg/",
+      "shortDescription": "FFMpeg 0.11 compiled for iOS -- Includes x264 encoder.  This is a console app and does not include UI.    (Contact me for ffplay and other ffmpeg projects)",
       "category": "Multimedia",
-      "author": "nin9tyfour",
+      "author": "Yaniv Danan (hAcx)",
       "commercial": false,
-      "date": "2018-08-24T16:01:45Z",
+      "date": "2018-08-24T15:55:09Z",
       "versions": [
         {
-          "tweakVersion": "2.6.1-1",
+          "tweakVersion": "16669.2009.18.02-2",
           "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-08-24T16:01:45Z",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-08-24T15:55:09Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -16417,6 +16417,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.fullsafari",
+      "name": "FullSafari",
+      "latest": "1.2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fullsafari/",
+      "shortDescription": "Enable iPad-like Safari tabs on any device, always.",
+      "category": "HYI - Tweaks",
+      "author": "bensge",
+      "commercial": false,
+      "date": "2018-07-21T10:25:38Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2",
+          "iOSVersion": "11.3",
+          "repository": "(null)",
+          "date": "2018-07-21T10:25:38Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.bensge.fullsafari",
       "name": "FullSafari",
       "latest": "1.2-1",
@@ -16457,40 +16491,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.fullsafari",
-      "name": "FullSafari",
-      "latest": "1.2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.fullsafari/",
-      "shortDescription": "Enable iPad-like Safari tabs on any device, always.",
-      "category": "HYI - Tweaks",
-      "author": "bensge",
-      "commercial": false,
-      "date": "2018-07-21T10:25:38Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2",
-          "iOSVersion": "11.3",
-          "repository": "(null)",
-          "date": "2018-07-21T10:25:38Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -25579,6 +25579,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.3",
+          "repository": "BigBoss",
+          "date": "2018-07-11T14:48:46Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -25601,39 +25634,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-11T14:48:46Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -29906,7 +29906,7 @@
     {
       "id": "com.pokego2.pokego2-11",
       "name": "PokeGo++ 2.0 for Electra!",
-      "latest": "2.0r-96a",
+      "latest": "2.0r-97",
       "repository": "pokego2.com",
       "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
       "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -30849,22 +30849,22 @@
       ]
     },
     {
-      "id": "iosgods.com.pubgmobile",
+      "id": "iosgods.com.pubgmobilefree",
       "name": "PUBG MOBILE Cheats",
-      "latest": "0.9.0",
+      "latest": "0.6.3",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobile/",
+      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobilefree/",
       "shortDescription": "PUBG MOBILE iGMM Cheats by 0xS14T3R & DiDA for iOSGods.com!",
       "category": "Tweaks",
       "author": "0xS14T3R & DiDA",
       "commercial": false,
-      "date": "2018-07-08T04:08:30Z",
+      "date": "2018-07-11T10:31:24Z",
       "versions": [
         {
-          "tweakVersion": "0.7.0",
+          "tweakVersion": "0.6.1",
           "iOSVersion": "11.3",
           "repository": "(null)",
-          "date": "2018-08-02T11:05:56Z",
+          "date": "2018-07-11T18:21:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30883,22 +30883,22 @@
       ]
     },
     {
-      "id": "iosgods.com.pubgmobilefree",
+      "id": "iosgods.com.pubgmobile",
       "name": "PUBG MOBILE Cheats",
-      "latest": "0.6.3",
+      "latest": "0.9.0",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobilefree/",
+      "url": "http://cydia.saurik.com/package/iosgods.com.pubgmobile/",
       "shortDescription": "PUBG MOBILE iGMM Cheats by 0xS14T3R & DiDA for iOSGods.com!",
       "category": "Tweaks",
       "author": "0xS14T3R & DiDA",
       "commercial": false,
-      "date": "2018-07-11T10:31:24Z",
+      "date": "2018-07-08T04:08:30Z",
       "versions": [
         {
-          "tweakVersion": "0.6.1",
+          "tweakVersion": "0.7.0",
           "iOSVersion": "11.3",
           "repository": "(null)",
-          "date": "2018-07-11T18:21:39Z",
+          "date": "2018-08-02T11:05:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31187,40 +31187,6 @@
       ]
     },
     {
-      "id": "com.spicat.recordpause",
-      "name": "RecordPause",
-      "latest": "1.3",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
-      "shortDescription": "Pause/resume video recording.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-22T00:19:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3",
-          "iOSVersion": "11.3",
-          "repository": "Spica T Repo",
-          "date": "2018-08-30T07:43:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.recordpause",
       "name": "RecordPause",
       "latest": "1.2.2",
@@ -31241,6 +31207,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.recordpause",
+      "name": "RecordPause",
+      "latest": "1.3",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
+      "shortDescription": "Pause/resume video recording.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-22T00:19:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3",
+          "iOSVersion": "11.3",
+          "repository": "Spica T Repo",
+          "date": "2018-08-30T07:43:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -37618,22 +37618,22 @@
       ]
     },
     {
-      "id": "com.yourepo.patrick-knauf.trampoline",
+      "id": "org.thebigboss.trampoline",
       "name": "Trampoline",
-      "latest": "1.0",
-      "repository": "Patrick-Knauf Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.patrick-knauf.trampoline/",
-      "shortDescription": "The subtle but satisfying bounce your Springboard has needed. Makes your apps bounce when opening/closing applications, and opening/closing the app switcher.",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.trampoline/",
+      "shortDescription": "A trampoline for your Springboard",
       "category": "Tweaks",
-      "author": "Patrick Knauf",
+      "author": "Patrick",
       "commercial": false,
-      "date": "2018-07-29T02:20:38Z",
+      "date": "2018-07-03T11:22:41Z",
       "versions": [
         {
-          "tweakVersion": "1.0",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.3",
-          "repository": "Patrick-Knauf Source - YouRepo",
-          "date": "2018-07-29T02:20:38Z",
+          "repository": "BigBoss",
+          "date": "2018-07-09T13:41:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -37652,22 +37652,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.trampoline",
+      "id": "com.yourepo.patrick-knauf.trampoline",
       "name": "Trampoline",
-      "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.trampoline/",
-      "shortDescription": "A trampoline for your Springboard",
+      "latest": "1.0",
+      "repository": "Patrick-Knauf Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.patrick-knauf.trampoline/",
+      "shortDescription": "The subtle but satisfying bounce your Springboard has needed. Makes your apps bounce when opening/closing applications, and opening/closing the app switcher.",
       "category": "Tweaks",
-      "author": "Patrick",
+      "author": "Patrick Knauf",
       "commercial": false,
-      "date": "2018-07-03T11:22:41Z",
+      "date": "2018-07-29T02:20:38Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.0",
           "iOSVersion": "11.3",
-          "repository": "BigBoss",
-          "date": "2018-07-09T13:41:22Z",
+          "repository": "Patrick-Knauf Source - YouRepo",
+          "date": "2018-07-29T02:20:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -37940,9 +37940,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
