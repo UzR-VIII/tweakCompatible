@@ -1,7 +1,7 @@
 {
   "id": "uuid",
   "name": "UUID Generator",
-  "latest": "1.6.0-2p",
+  "latest": "1.6.2",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/uuid/",
   "shortDescription": "universally unique identifiers",
@@ -179,6 +179,37 @@
           "date": "2018-11-04T21:20:06Z",
           "userName": "DarkZone-World",
           "issueNumber": 54616,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.2",
+      "iOSVersion": "11.4",
+      "repository": "Ricklantis",
+      "date": "2018-11-28T06:31:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-28T06:31:58Z",
+          "userName": "whitehouse2",
+          "issueNumber": 55763,
           "arch32": false
         }
       ]
