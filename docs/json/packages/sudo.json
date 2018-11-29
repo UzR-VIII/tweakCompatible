@@ -1,7 +1,7 @@
 {
   "id": "sudo",
   "name": "sudo",
-  "latest": "1.6.9p12-4p",
+  "latest": "1.8.23-2",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/sudo/",
   "shortDescription": "temporarily assume root priviledges",
@@ -300,9 +300,9 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2018-10-24T08:02:56Z",
+          "date": "2018-11-29T22:57:01Z",
           "userName": "MattieThurlow96",
-          "issueNumber": 53732,
+          "issueNumber": 55809,
           "arch32": false
         }
       ]
