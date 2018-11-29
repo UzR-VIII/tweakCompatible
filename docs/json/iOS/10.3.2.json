@@ -1188,7 +1188,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.5",
+      "latest": "3.1.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -1904,10 +1904,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.9.1",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -1937,10 +1937,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.6301",
+      "latest": "0.9.6301+dummy",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
+      "shortDescription": "MobileSubstrate Dummy Package",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -2675,10 +2675,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.6.0-31",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -3833,6 +3833,40 @@
       ]
     },
     {
+      "id": "com.julioverne.lowerinstall",
+      "name": "LowerInstall",
+      "latest": "0.0~beta3",
+      "repository": "julioverne's Repo",
+      "url": "http://cydia.saurik.com/package/com.julioverne.lowerinstall/",
+      "shortDescription": "Install Apps In Lower iOS Version",
+      "category": "Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "date": "2018-03-02T13:21:47Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0~beta3",
+          "iOSVersion": "10.3.2",
+          "repository": "julioverne's Repo",
+          "date": "2018-11-29T17:34:57Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ioscreatix.maize",
       "name": "Maize (iOS 10)",
       "latest": "1.0.5-1",
@@ -4541,7 +4575,7 @@
     {
       "id": "ch.mdaus.palette",
       "name": "Palette",
-      "latest": "1.1",
+      "latest": "1.1.1",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.palette/",
       "shortDescription": "Brighten up your notifications!",
@@ -4797,10 +4831,10 @@
     {
       "id": "com.dpkgdan.powertap",
       "name": "Power Tap",
-      "latest": "1.2.2",
+      "latest": "1.1.3-3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dpkgdan.powertap/",
-      "shortDescription": "Power Tap allows you to toggle the power down bar through different settings, such as \"reboot,\" \"respring,\" and \"safe mode.\" Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak \"Slide to Reboot.\"",
+      "shortDescription": "tap powerdown knob to reboot, respring, safe mode",
       "category": "Tweaks",
       "author": "Dan Saba",
       "commercial": false,
@@ -4810,6 +4844,40 @@
           "iOSVersion": "10.3.2",
           "repository": "BigBoss",
           "date": "2018-09-03T20:34:54Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.qiop1379.powerdown",
+      "name": "PowerDown",
+      "latest": "1.2.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
+      "shortDescription": "PowerDown rewritten for iOS 11",
+      "category": "Tweaks",
+      "author": "qwertyuiop1379",
+      "commercial": false,
+      "date": "2018-07-14T11:14:49Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.3.2",
+          "repository": "qwertyuiop1379's repo",
+          "date": "2018-08-25T13:55:28Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -4861,26 +4929,24 @@
       ]
     },
     {
-      "id": "com.qiop1379.powerdown",
-      "name": "PowerDown",
-      "latest": "1.1.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.qiop1379.powerdown/",
-      "shortDescription": "PowerDown updated for new iOS",
-      "category": "Tweaks",
-      "author": "qwertyuiop1379",
+      "id": "repo.biteyourapple.net.priorityhub",
+      "name": "Priority Hub 2 BETA",
+      "latest": "2.0-352+debug",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Organize your notifications!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-07-14T11:14:49Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "2.0-352+debug",
           "iOSVersion": "10.3.2",
-          "repository": "qwertyuiop1379's repo",
-          "date": "2018-08-25T13:55:28Z",
+          "repository": "repo.biteyourapple.net",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4909,38 +4975,6 @@
           "tweakVersion": "2.0-364+debug",
           "iOSVersion": "10.3.2",
           "repository": "Thomas Finch's repo",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.priorityhub",
-      "name": "Priority Hub 2 BETA",
-      "latest": "2.0-352+debug",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Organize your notifications!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0-352+debug",
-          "iOSVersion": "10.3.2",
-          "repository": "repo.biteyourapple.net",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5279,7 +5313,7 @@
     {
       "id": "com.kurrt.safeshutdown",
       "name": "SafeShutdown",
-      "latest": "1.35",
+      "latest": "1.39",
       "repository": "Kurrt's Repo",
       "url": "http://cydia.saurik.com/package/com.kurrt.safeshutdown/",
       "shortDescription": "Avoid re-jailbreaking when battery runs out.",
