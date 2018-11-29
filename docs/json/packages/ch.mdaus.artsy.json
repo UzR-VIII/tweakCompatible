@@ -1928,9 +1928,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1956,6 +1956,15 @@
           "date": "2018-08-08T08:42:46Z",
           "userName": "djpeacetr",
           "issueNumber": 40307,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2018-11-29T09:40:02Z",
+          "userName": "xxmata",
+          "issueNumber": 55786,
           "arch32": false
         }
       ]
