@@ -3566,39 +3566,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.2.2",
-          "repository": "BigBoss",
-          "date": "2018-07-08T23:26:59Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -3619,6 +3586,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.2.2",
+          "repository": "BigBoss",
+          "date": "2018-07-08T23:26:59Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7895,40 +7895,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "11.2.2",
-          "repository": "Xarold Repo",
-          "date": "2018-07-08T17:01:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.4-2",
@@ -7985,6 +7951,40 @@
             "good": 0,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "date": "2018-02-28T19:15:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "11.2.2",
+          "repository": "Xarold Repo",
+          "date": "2018-07-08T17:01:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8321,22 +8321,22 @@
       ]
     },
     {
-      "id": "sileoturkiye.luxury10",
+      "id": "com.sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-08T08:41:22Z",
+      "date": "2018-08-03T18:58:54Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-08T08:41:22Z",
+          "date": "2018-08-03T18:58:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8355,22 +8355,22 @@
       ]
     },
     {
-      "id": "com.sileoturkiye.luxury10",
+      "id": "sileoturkiye.luxury10",
       "name": "Luxury ios 11",
       "latest": "2.0",
       "repository": "Sileo Türkiye",
-      "url": "http://cydia.saurik.com/package/com.sileoturkiye.luxury10/",
+      "url": "http://cydia.saurik.com/package/sileoturkiye.luxury10/",
       "shortDescription": "Güzel ve Kaliteli bir Tema.",
       "category": "TR - Tema",
       "author": "Barış Çağlar",
       "commercial": false,
-      "date": "2018-08-03T18:58:54Z",
+      "date": "2018-08-08T08:41:22Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "11.2.2",
           "repository": "Sileo Türkiye",
-          "date": "2018-08-03T18:58:54Z",
+          "date": "2018-08-08T08:41:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11247,6 +11247,26 @@
           "iOSVersion": "11.2.2",
           "repository": "Alfhaily APT",
           "date": "2018-10-23T20:17:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.2.1",
+          "iOSVersion": "11.2.2",
+          "repository": "Alfhaily APT",
+          "date": "2018-11-29T09:36:25Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
