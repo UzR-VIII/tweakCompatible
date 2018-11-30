@@ -2249,20 +2249,20 @@
         },
         {
           "status": "partial",
-          "device": "iPhone10,2",
-          "issues": "Crashes occasionally when toggling Airplane Mode",
-          "date": "2018-10-21T00:27:47Z",
-          "userName": "buitim",
-          "issueNumber": 53520,
-          "arch32": false
-        },
-        {
-          "status": "partial",
           "device": "iPhone7,1",
           "issues": "",
           "date": "2018-10-27T14:08:34Z",
           "userName": "soum91",
           "issueNumber": 54059,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-11-30T00:22:43Z",
+          "userName": "buitim",
+          "issueNumber": 55821,
           "arch32": false
         }
       ]
