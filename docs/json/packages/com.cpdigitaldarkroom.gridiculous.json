@@ -396,6 +396,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.1~beta3",
+      "iOSVersion": "11.3",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "date": "2018-12-02T09:12:22Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-12-02T09:12:22Z",
+          "userName": "RedRain77",
+          "issueNumber": 55861,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
