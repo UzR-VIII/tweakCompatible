@@ -71,10 +71,10 @@
         {
           "status": "working",
           "device": "iPhone9,4",
-          "issues": "This for sure works I’ve tested it on two phones",
-          "date": "2018-11-05T23:22:09Z",
+          "issues": "",
+          "date": "2018-12-02T23:09:05Z",
           "userName": "wolferous",
-          "issueNumber": 54700,
+          "issueNumber": 55868,
           "arch32": false
         }
       ]
