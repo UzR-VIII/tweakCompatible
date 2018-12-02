@@ -922,10 +922,10 @@
       "date": "2018-07-07T03:13:58Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 88,
+        "percentage": 87,
         "good": 48,
         "bad": 0,
-        "total": 54,
+        "total": 55,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1419,6 +1419,15 @@
           "date": "2018-10-19T09:02:26Z",
           "userName": "king4q",
           "issueNumber": 53383,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-12-02T17:21:55Z",
+          "userName": "TJHxx",
+          "issueNumber": 55864,
           "arch32": false
         }
       ]
