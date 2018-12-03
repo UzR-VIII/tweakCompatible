@@ -770,22 +770,21 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.aevus1",
+      "id": "com.cryptedbytes.aevus",
       "name": "AEVUS",
-      "latest": "1.0-2-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.aevus1/",
+      "latest": "1.0-2+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.cryptedbytes.aevus/",
       "shortDescription": "Show seconds on statusbar.",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2018-10-26T09:58:06Z",
       "versions": [
         {
-          "tweakVersion": "1.0-2-debug",
+          "tweakVersion": "1.0-2+debug",
           "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-26T09:58:06Z",
+          "repository": "(null)",
+          "date": "2018-07-21T09:54:59Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -804,21 +803,22 @@
       ]
     },
     {
-      "id": "com.cryptedbytes.aevus",
+      "id": "com.yourepo.privatebackup.aevus1",
       "name": "AEVUS",
-      "latest": "1.0-2+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.cryptedbytes.aevus/",
+      "latest": "1.0-2-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.aevus1/",
       "shortDescription": "Show seconds on statusbar.",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
+      "date": "2018-10-26T09:58:06Z",
       "versions": [
         {
-          "tweakVersion": "1.0-2+debug",
+          "tweakVersion": "1.0-2-debug",
           "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-07-21T09:54:59Z",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-26T09:58:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3764,40 +3764,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.barmoji",
-      "name": "Barmoji",
-      "latest": "1.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barmoji/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "HYI - Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2018-03-18T09:15:30Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T06:04:10Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cpdigitaldarkroom.barmoji",
       "name": "Barmoji",
       "latest": "1.3.2",
@@ -3899,6 +3865,40 @@
             "good": 4,
             "bad": 0,
             "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.barmoji",
+      "name": "Barmoji",
+      "latest": "1.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barmoji/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "HYI - Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2018-03-18T09:15:30Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T06:04:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -15322,40 +15322,6 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "11.4",
-          "repository": "Spica T Repo",
-          "date": "2018-07-22T08:28:42Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
       "latest": "0.0.1-2",
@@ -15378,6 +15344,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-18T14:45:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.4",
+          "repository": "Spica T Repo",
+          "date": "2018-07-22T08:28:42Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17432,40 +17432,6 @@
       ]
     },
     {
-      "id": "com.dannyglover.hidelabels10",
-      "name": "HideLabels10",
-      "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
-      "shortDescription": "Hide app labels on iOS 10.",
-      "category": "Tweaks",
-      "author": "Danny Glover",
-      "commercial": false,
-      "date": "2018-03-04T20:02:05Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "11.4",
-          "repository": "Danny Glover's Repo",
-          "date": "2018-07-16T13:17:19Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.hidelabels10",
       "name": "HideLabels10",
       "latest": "1.0",
@@ -17488,6 +17454,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.dannyglover.hidelabels10",
+      "name": "HideLabels10",
+      "latest": "1.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.dannyglover.hidelabels10/",
+      "shortDescription": "Hide app labels on iOS 10.",
+      "category": "Tweaks",
+      "author": "Danny Glover",
+      "commercial": false,
+      "date": "2018-03-04T20:02:05Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4",
+          "repository": "Danny Glover's Repo",
+          "date": "2018-07-16T13:17:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -20210,22 +20210,22 @@
       ]
     },
     {
-      "id": "com.kdfly.kdlte4gpro",
+      "id": "com.yourepo.privatebackup.kdlte4gpro",
       "name": "KDLTE4G Pro",
-      "latest": "1.6-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.kdfly.kdlte4gpro/",
-      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE",
+      "latest": "1.6-3-debug",
+      "repository": "Private Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.kdlte4gpro/",
+      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE.",
       "category": "Tweaks",
       "author": "Sean Young",
-      "commercial": true,
-      "date": "2018-04-08T11:28:04Z",
+      "commercial": false,
+      "date": "2018-10-25T20:51:19Z",
       "versions": [
         {
-          "tweakVersion": "1.6-2",
+          "tweakVersion": "1.6-3-debug",
           "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-21T10:02:10Z",
+          "repository": "Private Repo - YouRepo",
+          "date": "2018-10-25T20:51:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20244,22 +20244,22 @@
       ]
     },
     {
-      "id": "com.yourepo.privatebackup.kdlte4gpro",
+      "id": "com.kdfly.kdlte4gpro",
       "name": "KDLTE4G Pro",
-      "latest": "1.6-3-debug",
-      "repository": "Private Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.privatebackup.kdlte4gpro/",
-      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE.",
+      "latest": "1.6-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.kdfly.kdlte4gpro/",
+      "shortDescription": "change your 3G/4G/LTE indicator to 4G/LTE",
       "category": "Tweaks",
       "author": "Sean Young",
-      "commercial": false,
-      "date": "2018-10-25T20:51:19Z",
+      "commercial": true,
+      "date": "2018-04-08T11:28:04Z",
       "versions": [
         {
-          "tweakVersion": "1.6-3-debug",
+          "tweakVersion": "1.6-2",
           "iOSVersion": "11.4",
-          "repository": "Private Repo - YouRepo",
-          "date": "2018-10-25T20:51:19Z",
+          "repository": "BigBoss",
+          "date": "2018-07-21T10:02:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25434,6 +25434,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.4",
+          "repository": "BigBoss",
+          "date": "2018-07-14T10:50:51Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -25454,39 +25487,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.4",
-          "repository": "BigBoss",
-          "date": "2018-07-14T10:50:51Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -25832,60 +25832,6 @@
       ]
     },
     {
-      "id": "nano",
-      "name": "nano",
-      "latest": "2.9.7",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/nano/",
-      "shortDescription": "completely free, modern clone of Pico",
-      "category": "Text Editors",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-03-03T04:55:57Z",
-      "versions": [
-        {
-          "tweakVersion": "2.9.7",
-          "iOSVersion": "11.4",
-          "repository": "Electra's iOS Utilities",
-          "date": "2018-07-21T10:03:53Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "2.9.8-1",
-          "iOSVersion": "11.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2018-10-24T08:05:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.mc.nano",
       "name": "nano",
       "latest": "3.0.0-3",
@@ -25922,6 +25868,60 @@
           "iOSVersion": "11.4",
           "repository": "MCApollo",
           "date": "2018-09-25T08:26:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "nano",
+      "name": "nano",
+      "latest": "2.9.7",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/nano/",
+      "shortDescription": "completely free, modern clone of Pico",
+      "category": "Text Editors",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-03T04:55:57Z",
+      "versions": [
+        {
+          "tweakVersion": "2.9.7",
+          "iOSVersion": "11.4",
+          "repository": "Electra's iOS Utilities",
+          "date": "2018-07-21T10:03:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "2.9.8-1",
+          "iOSVersion": "11.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2018-10-24T08:05:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26042,6 +26042,40 @@
       ]
     },
     {
+      "id": "net.dylanaraps.neofetch",
+      "name": "Neofetch",
+      "latest": "3.0.1-3",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/net.dylanaraps.neofetch/",
+      "shortDescription": "A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)",
+      "category": "Utilities",
+      "author": "Dylan Araps",
+      "commercial": false,
+      "date": "2018-10-31T21:59:15Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0.1-3",
+          "iOSVersion": "11.4",
+          "repository": "(null)",
+          "date": "2018-10-31T21:59:15Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.privatebackup.neofetch",
       "name": "Neofetch",
       "latest": "3.0.1-3-debug",
@@ -26078,40 +26112,6 @@
           "iOSVersion": "11.4",
           "repository": "Private Repo - YouRepo",
           "date": "2018-10-26T17:29:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "net.dylanaraps.neofetch",
-      "name": "Neofetch",
-      "latest": "3.0.1-3",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/net.dylanaraps.neofetch/",
-      "shortDescription": "A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)",
-      "category": "Utilities",
-      "author": "Dylan Araps",
-      "commercial": false,
-      "date": "2018-10-31T21:59:15Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0.1-3",
-          "iOSVersion": "11.4",
-          "repository": "(null)",
-          "date": "2018-10-31T21:59:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30588,40 +30588,6 @@
       ]
     },
     {
-      "id": "com.yourepo.qwertyuiop1379.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.0",
-      "repository": "qwertyuiop1379 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.qwertyuiop1379.powerdown/",
-      "shortDescription": "PowerDown, updated for more recent firmwares",
-      "category": "Tweaks",
-      "author": "qwertyuiop1379",
-      "commercial": false,
-      "date": "2018-07-15T04:23:00Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.4",
-          "repository": "qwertyuiop1379 Source - YouRepo",
-          "date": "2018-07-16T09:21:36Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.2.1",
@@ -30644,6 +30610,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.qwertyuiop1379.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.0",
+      "repository": "qwertyuiop1379 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.qwertyuiop1379.powerdown/",
+      "shortDescription": "PowerDown, updated for more recent firmwares",
+      "category": "Tweaks",
+      "author": "qwertyuiop1379",
+      "commercial": false,
+      "date": "2018-07-15T04:23:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.4",
+          "repository": "qwertyuiop1379 Source - YouRepo",
+          "date": "2018-07-16T09:21:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -31492,6 +31492,40 @@
           "iOSVersion": "11.4",
           "repository": "BigBoss",
           "date": "2018-09-28T07:28:42Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.smokin1337.quietapps",
+      "name": "QuietApps",
+      "latest": "1.0.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.smokin1337.quietapps/",
+      "shortDescription": "DND, LPM, Silent and hidden banners in selected apps !!",
+      "category": "Tweaks",
+      "author": "smokin1337",
+      "commercial": false,
+      "date": "2018-12-03T04:04:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.4",
+          "repository": "Packix",
+          "date": "2018-12-03T09:09:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
