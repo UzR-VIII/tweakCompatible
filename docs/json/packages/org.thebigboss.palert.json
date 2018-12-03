@@ -205,10 +205,10 @@
       "date": "2018-07-07T00:35:22Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 13,
+        "percentage": 51,
+        "good": 14,
         "bad": 0,
-        "total": 26,
+        "total": 27,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -450,6 +450,15 @@
           "date": "2018-08-07T22:41:08Z",
           "userName": "AdamBound",
           "issueNumber": 40196,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "Requires 0vigilate",
+          "date": "2018-12-03T05:22:50Z",
+          "userName": "kinect3000",
+          "issueNumber": 55872,
           "arch32": false
         }
       ]
