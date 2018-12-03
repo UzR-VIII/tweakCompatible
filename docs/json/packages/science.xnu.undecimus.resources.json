@@ -1,7 +1,7 @@
 {
   "id": "science.xnu.undecimus.resources",
   "name": "Unc0ver Jailbreak Resources",
-  "latest": "0.5",
+  "latest": "0.7",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
   "shortDescription": "Resources used by Unc0ver",
@@ -99,6 +99,37 @@
           "date": "2018-12-01T10:56:59Z",
           "userName": "rubbercake",
           "issueNumber": 55841,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.7",
+      "iOSVersion": "11.4",
+      "repository": "Bingner/Elucubratus",
+      "date": "2018-12-03T22:21:14Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-12-03T22:21:14Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 55889,
           "arch32": false
         }
       ]
