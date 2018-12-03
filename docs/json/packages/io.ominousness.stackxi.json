@@ -1,7 +1,7 @@
 {
   "id": "io.ominousness.stackxi",
   "name": "StackXI",
-  "latest": "0.3.0",
+  "latest": "0.3.1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/io.ominousness.stackxi/",
   "shortDescription": "Grouped notifications, iOS 12 style.",
@@ -263,6 +263,37 @@
           "date": "2018-12-01T19:46:17Z",
           "userName": "GhostenigmaX",
           "issueNumber": 55849,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.3.1",
+      "iOSVersion": "11.3.1",
+      "repository": "Nepeta",
+      "date": "2018-12-03T02:27:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2018-12-03T02:27:43Z",
+          "userName": "jimguff",
+          "issueNumber": 55869,
           "arch32": false
         }
       ]
