@@ -2664,11 +2664,11 @@
       "repository": "Global++ Tweaks",
       "date": "2018-12-04T06:10:50Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2685,6 +2685,15 @@
           "date": "2018-12-04T06:10:50Z",
           "userName": "lineararc",
           "issueNumber": 55897,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "Works, it’ll probably randomly crash but that appears to be the nature of the beast now",
+          "date": "2018-12-04T11:20:23Z",
+          "userName": "958ach",
+          "issueNumber": 55915,
           "arch32": false
         }
       ]
