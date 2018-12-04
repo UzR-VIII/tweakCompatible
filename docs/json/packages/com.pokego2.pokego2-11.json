@@ -1,7 +1,7 @@
 {
   "id": "com.pokego2.pokego2-11",
   "name": "PokeGo++ 2.0 for Electra!",
-  "latest": "2.0r-97",
+  "latest": "2.0r-98",
   "repository": "pokego2.com",
   "url": "http://cydia.saurik.com/package/com.pokego2.pokego2-11/",
   "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
@@ -2654,6 +2654,37 @@
           "date": "2018-11-30T09:30:47Z",
           "userName": "percyjk23",
           "issueNumber": 55825,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0r-98",
+      "iOSVersion": "11.3.1",
+      "repository": "Global++ Tweaks",
+      "date": "2018-12-04T06:10:50Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "STILL FUCKING BROKEN",
+          "date": "2018-12-04T06:10:50Z",
+          "userName": "lineararc",
+          "issueNumber": 55897,
           "arch32": false
         }
       ]
