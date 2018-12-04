@@ -4467,6 +4467,37 @@
           "arch32": true
         }
       ]
+    },
+    {
+      "tweakVersion": "3.6.0-31",
+      "iOSVersion": "10.3.3",
+      "repository": "TIGI Software",
+      "date": "2018-12-04T06:59:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone5,1",
+          "issues": "i use it on iphone 5 10.3.3 - 32bit",
+          "date": "2018-12-04T06:59:18Z",
+          "userName": "solione",
+          "issueNumber": 55898,
+          "arch32": true
+        }
+      ]
     }
   ]
 }
