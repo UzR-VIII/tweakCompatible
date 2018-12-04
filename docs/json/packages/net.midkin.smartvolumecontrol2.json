@@ -1,10 +1,10 @@
 {
   "id": "net.midkin.smartvolumecontrol2",
   "name": "SmartVolumeControl2",
-  "latest": "2.4",
+  "latest": "2.4.1",
   "repository": "midkin's repo",
   "url": "http://cydia.saurik.com/package/net.midkin.smartvolumecontrol2/",
-  "shortDescription": "iOS Most Advanced Volume Controller.",
+  "shortDescription": "iOS most advanced volume controller.",
   "category": "Tweaks",
   "author": "midkin",
   "commercial": false,
@@ -565,6 +565,37 @@
           "date": "2018-12-01T22:33:28Z",
           "userName": "Passsenger57",
           "issueNumber": 55852,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.4.1",
+      "iOSVersion": "11.3.1",
+      "repository": "midkin's repo",
+      "date": "2018-12-04T03:35:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "Working fine. ",
+          "date": "2018-12-04T03:35:00Z",
+          "userName": "atifchy",
+          "issueNumber": 55895,
           "arch32": false
         }
       ]
