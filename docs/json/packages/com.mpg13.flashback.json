@@ -204,6 +204,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.7",
+      "iOSVersion": "11.2.6",
+      "repository": "FlashBack for iOS!",
+      "date": "2018-12-04T08:21:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2018-12-04T08:21:19Z",
+          "userName": "CapnCodems",
+          "issueNumber": 55906,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
