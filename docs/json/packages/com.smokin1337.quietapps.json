@@ -1,7 +1,7 @@
 {
   "id": "com.smokin1337.quietapps",
   "name": "QuietApps",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.smokin1337.quietapps/",
   "shortDescription": "DND, LPM, Silent and hidden banners in selected apps !!",
@@ -68,6 +68,37 @@
           "date": "2018-12-03T09:09:09Z",
           "userName": "percyjk23",
           "issueNumber": 55875,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Packix",
+      "date": "2018-12-04T05:08:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-12-04T05:08:09Z",
+          "userName": "Karimo299",
+          "issueNumber": 55896,
           "arch32": false
         }
       ]
