@@ -1,7 +1,7 @@
 {
   "id": "com.pxcex.igvideo",
   "name": "IG Video",
-  "latest": "0.0.2",
+  "latest": "0.0.4",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.pxcex.igvideo/",
   "shortDescription": "Unlock upload video Instagram over 120 seconds.",
@@ -46,6 +46,37 @@
           "date": "2018-11-28T00:06:37Z",
           "userName": "starmega",
           "issueNumber": 55758,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-12-04T02:04:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-12-04T02:04:58Z",
+          "userName": "Yogpod",
+          "issueNumber": 55892,
           "arch32": false
         }
       ]
