@@ -1602,7 +1602,7 @@
     {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
-      "latest": "3.1-44",
+      "latest": "3.1-41",
       "repository": "Limneos Repo",
       "url": "http://limneos.net/repo/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -6742,21 +6742,22 @@
       ]
     },
     {
-      "id": "com.julioverne.ntspeed",
+      "id": "com.hackyouriphone.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta6a",
-      "repository": "ipad_kid's repo",
-      "url": "http://ipadkid.cf/",
+      "latest": "0.2~beta5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta6",
+          "tweakVersion": "0.2~beta5",
           "iOSVersion": "11.2.5",
-          "repository": "julioverne's Repo",
-          "date": "2018-07-30T14:47:02Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:50:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6775,22 +6776,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ntspeed",
+      "id": "com.julioverne.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
+      "latest": "0.2~beta6a",
+      "repository": "ipad_kid's repo",
+      "url": "http://ipadkid.cf/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta5",
+          "tweakVersion": "0.2~beta6",
           "iOSVersion": "11.2.5",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:50:18Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-07-30T14:47:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7152,7 +7152,7 @@
     {
       "id": "pincrush",
       "name": "pincrush",
-      "latest": "0.9.2-2",
+      "latest": "0.9.2-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/pincrush/",
       "shortDescription": "optimize PNGs just like Apple does",
@@ -9749,10 +9749,10 @@
     {
       "id": "com.cpdigitaldarkroom.taptapflip",
       "name": "TapTapFlip",
-      "latest": "1.3.3",
+      "latest": "1.4.2",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
-      "shortDescription": "Two taps to flip camera!",
+      "shortDescription": "Double tap to flip camera",
       "category": "Tweaks",
       "author": "CP Digital Darkroom",
       "commercial": false,
@@ -10769,7 +10769,7 @@
     {
       "id": "com.muirey03.zenith",
       "name": "Zenith",
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "repository": "repo.chariz.io",
       "url": "http://cydia.saurik.com/package/com.muirey03.zenith/",
       "shortDescription": "Organisation Done Right",
@@ -10783,6 +10783,26 @@
           "iOSVersion": "11.2.5",
           "repository": "repo.chariz.io",
           "date": "2018-12-01T17:36:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.2.5",
+          "repository": "Chariz",
+          "date": "2018-12-04T09:07:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
