@@ -200,11 +200,11 @@
       "repository": "beta.unlimapps.com",
       "date": "2018-07-09T05:20:33Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 42,
+        "calculatedStatus": "Not working",
+        "percentage": 37,
         "good": 3,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -275,6 +275,15 @@
           "date": "2018-10-24T18:23:15Z",
           "userName": "busadoki",
           "issueNumber": 53865,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-12-05T07:37:41Z",
+          "userName": "CokePokes",
+          "issueNumber": 55923,
           "arch32": false
         }
       ]
