@@ -2564,10 +2564,10 @@
       "date": "2018-07-08T21:21:21Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 77,
-        "good": 7,
+        "percentage": 80,
+        "good": 8,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2656,6 +2656,15 @@
           "date": "2018-08-18T18:23:27Z",
           "userName": "arayray",
           "issueNumber": 44904,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-12-05T16:53:36Z",
+          "userName": "JaRxY",
+          "issueNumber": 55927,
           "arch32": false
         }
       ]
