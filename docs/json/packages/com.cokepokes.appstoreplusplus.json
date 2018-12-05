@@ -1,7 +1,7 @@
 {
   "id": "com.cokepokes.appstoreplusplus",
   "name": "AppStore++",
-  "latest": "0.6-2",
+  "latest": "0.7-2",
   "repository": "cokepokes.github.io",
   "url": "http://cydia.saurik.com/package/com.cokepokes.appstoreplusplus/",
   "shortDescription": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11.",
@@ -1380,6 +1380,37 @@
           "date": "2018-10-30T02:36:01Z",
           "userName": "Grinzler",
           "issueNumber": 54258,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.7-2",
+      "iOSVersion": "11.3.1",
+      "repository": "cokepokes.github.io",
+      "date": "2018-12-05T07:47:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2018-12-05T07:47:15Z",
+          "userName": "CokePokes",
+          "issueNumber": 55924,
           "arch32": false
         }
       ]
