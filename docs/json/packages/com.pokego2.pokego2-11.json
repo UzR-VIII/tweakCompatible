@@ -2665,10 +2665,10 @@
       "date": "2018-12-04T06:10:50Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2703,6 +2703,15 @@
           "date": "2018-12-04T11:45:11Z",
           "userName": "kaushalj94",
           "issueNumber": 55916,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-12-05T02:37:57Z",
+          "userName": "franklin842",
+          "issueNumber": 55922,
           "arch32": false
         }
       ]
