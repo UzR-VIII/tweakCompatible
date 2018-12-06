@@ -1846,6 +1846,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "3.6.0-31",
+      "iOSVersion": "11.2.6",
+      "repository": "tigisoftware.com",
+      "date": "2018-12-06T19:20:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-12-06T19:20:15Z",
+          "userName": "xxHoBoZxx",
+          "issueNumber": 55956,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
