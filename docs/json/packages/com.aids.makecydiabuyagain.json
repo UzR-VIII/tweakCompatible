@@ -1858,11 +1858,11 @@
       "repository": "AidsMcGhee",
       "date": "2018-07-27T07:26:33Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1906,6 +1906,15 @@
           "date": "2018-09-28T18:48:13Z",
           "userName": "sullenfps",
           "issueNumber": 51766,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-12-06T19:23:01Z",
+          "userName": "xxHoBoZxx",
+          "issueNumber": 55962,
           "arch32": false
         }
       ]
