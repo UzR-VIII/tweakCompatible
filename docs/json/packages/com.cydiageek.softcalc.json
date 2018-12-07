@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.softcalc",
   "name": "SoftCalc",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.softcalc/",
   "shortDescription": "Smooth and Color options for your Calculator!",
@@ -68,6 +68,37 @@
           "date": "2018-10-23T19:31:44Z",
           "userName": "ceiliarose",
           "issueNumber": 53684,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "11.3.1",
+      "repository": "BigBoss",
+      "date": "2018-12-07T14:56:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Works great",
+          "date": "2018-12-07T14:56:31Z",
+          "userName": "XweAponX",
+          "issueNumber": 55989,
           "arch32": false
         }
       ]
