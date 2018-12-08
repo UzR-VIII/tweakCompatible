@@ -1,7 +1,7 @@
 {
   "id": "com.shiftcmdk.settingscollapse",
   "name": "SettingsCollapse",
-  "latest": "1.0",
+  "latest": "1.1",
   "repository": "shiftcmdk",
   "url": "http://cydia.saurik.com/package/com.shiftcmdk.settingscollapse/",
   "shortDescription": "Expand or hide individual sections in the Settings app.",
@@ -188,6 +188,37 @@
           "date": "2018-10-15T13:01:33Z",
           "userName": "BlackLolo95",
           "issueNumber": 53085,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "11.3.1",
+      "repository": "shiftcmdk",
+      "date": "2018-12-08T14:35:46Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "Crashes the settings app! Wish the dev would fix it!",
+          "date": "2018-12-08T14:35:46Z",
+          "userName": "soum91",
+          "issueNumber": 56006,
           "arch32": false
         }
       ]
