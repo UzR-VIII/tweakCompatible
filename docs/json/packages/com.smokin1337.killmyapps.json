@@ -62,12 +62,12 @@
       },
       "users": [
         {
-          "status": "working",
+          "status": "partial",
           "device": "iPhone10,3",
-          "issues": "",
-          "date": "2018-12-08T11:24:15Z",
+          "issues": "Add option to do not kill why for example i am on ehatsapp call",
+          "date": "2018-12-08T12:48:36Z",
           "userName": "GhostenigmaX",
-          "issueNumber": 56002,
+          "issueNumber": 56005,
           "arch32": false
         }
       ]
