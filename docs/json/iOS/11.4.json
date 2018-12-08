@@ -30782,40 +30782,6 @@
       ]
     },
     {
-      "id": "com.yourepo.qwertyuiop1379.powerdown",
-      "name": "PowerDown",
-      "latest": "1.0.0",
-      "repository": "qwertyuiop1379 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.qwertyuiop1379.powerdown/",
-      "shortDescription": "PowerDown, updated for more recent firmwares",
-      "category": "Tweaks",
-      "author": "qwertyuiop1379",
-      "commercial": false,
-      "date": "2018-07-15T04:23:00Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0",
-          "iOSVersion": "11.4",
-          "repository": "qwertyuiop1379 Source - YouRepo",
-          "date": "2018-07-16T09:21:36Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.qiop1379.powerdown",
       "name": "PowerDown",
       "latest": "1.2.1",
@@ -30838,6 +30804,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.qwertyuiop1379.powerdown",
+      "name": "PowerDown",
+      "latest": "1.0.0",
+      "repository": "qwertyuiop1379 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.qwertyuiop1379.powerdown/",
+      "shortDescription": "PowerDown, updated for more recent firmwares",
+      "category": "Tweaks",
+      "author": "qwertyuiop1379",
+      "commercial": false,
+      "date": "2018-07-15T04:23:00Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "11.4",
+          "repository": "qwertyuiop1379 Source - YouRepo",
+          "date": "2018-07-16T09:21:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -40130,9 +40130,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
