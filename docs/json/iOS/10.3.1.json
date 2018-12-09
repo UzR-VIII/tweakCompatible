@@ -2654,7 +2654,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.1.5",
+      "latest": "3.6",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -3596,6 +3596,40 @@
           "iOSVersion": "10.3.1",
           "repository": "BigBoss",
           "date": "2018-08-09T03:37:42Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.c1d3r.chargeanimations",
+      "name": "ChargeAnimations",
+      "latest": "1.2.2",
+      "repository": "C1d3r Repo",
+      "url": "http://cydia.saurik.com/package/com.c1d3r.chargeanimations/",
+      "shortDescription": "Beautiful animations when plugging in your device!",
+      "category": "Tweaks",
+      "author": "c1d3r",
+      "commercial": false,
+      "date": "2018-10-17T00:06:46Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.2",
+          "iOSVersion": "10.3.1",
+          "repository": "c1d3r's repo",
+          "date": "2018-12-09T00:10:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4720,10 +4754,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.9.1",
+      "latest": "1.1.32~b6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -6043,10 +6077,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.0-31",
+      "latest": "3.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -8153,7 +8187,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-210",
+      "latest": "1.8r-234",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -9006,7 +9040,7 @@
     {
       "id": "com.junesiphone.lockpluspro",
       "name": "LockPlus Pro",
-      "latest": "1.4.8.3",
+      "latest": "1.4.9.3",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.lockpluspro/",
       "shortDescription": "The ultimate lock screen tweak!",
@@ -11060,7 +11094,7 @@
     {
       "id": "ch.mdaus.palette",
       "name": "Palette",
-      "latest": "1.1",
+      "latest": "1.1.1",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.palette/",
       "shortDescription": "Brighten up your notifications!",
@@ -15396,7 +15430,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.68",
+      "latest": "1.0.69",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
