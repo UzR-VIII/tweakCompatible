@@ -276,6 +276,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "11.2.6",
+      "repository": "Kurrt's Repo",
+      "date": "2018-12-09T11:54:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-12-09T11:54:48Z",
+          "userName": "jeells102",
+          "issueNumber": 56042,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
