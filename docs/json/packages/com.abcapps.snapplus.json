@@ -380,6 +380,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.7r-58",
+      "iOSVersion": "11.3",
+      "repository": "beta.unlimapps.com",
+      "date": "2018-12-09T00:34:36Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2018-12-09T00:34:36Z",
+          "userName": "ImMaGiiCz",
+          "issueNumber": 56018,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
