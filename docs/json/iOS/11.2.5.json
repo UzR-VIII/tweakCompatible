@@ -868,7 +868,7 @@
     {
       "id": "com.cokepokes.appstoreplusplus",
       "name": "AppStore++",
-      "latest": "0.6-2",
+      "latest": "0.7-2",
       "repository": "cokepokes.github.io",
       "url": "http://cydia.saurik.com/package/com.cokepokes.appstoreplusplus/",
       "shortDescription": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11.",
@@ -4041,10 +4041,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.0-31",
+      "latest": "3.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
+      "shortDescription": "File Manager for iOS. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -4731,7 +4731,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-210",
+      "latest": "1.8r-234",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -6433,7 +6433,7 @@
     {
       "id": "com.laughingquoll.noctisxi",
       "name": "NoctisXI",
-      "latest": "1.6.2",
+      "latest": "1.6.3",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.laughingquoll.noctisxi/",
       "shortDescription": "Dark Mode for iOS 11",
@@ -6742,22 +6742,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ntspeed",
+      "id": "com.julioverne.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
+      "latest": "0.2~beta6a",
+      "repository": "ipad_kid's repo",
+      "url": "http://ipadkid.cf/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta5",
+          "tweakVersion": "0.2~beta6",
           "iOSVersion": "11.2.5",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:50:18Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-07-30T14:47:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6776,21 +6775,22 @@
       ]
     },
     {
-      "id": "com.julioverne.ntspeed",
+      "id": "com.hackyouriphone.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta6a",
-      "repository": "ipad_kid's repo",
-      "url": "http://ipadkid.cf/",
+      "latest": "0.2~beta5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta6",
+          "tweakVersion": "0.2~beta5",
           "iOSVersion": "11.2.5",
-          "repository": "julioverne's Repo",
-          "date": "2018-07-30T14:47:02Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:50:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10073,11 +10073,11 @@
           "repository": "BigBoss",
           "date": "2018-08-12T02:31:24Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
             "good": 1,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10364,7 +10364,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.68",
+      "latest": "1.0.69",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -10769,7 +10769,7 @@
     {
       "id": "com.muirey03.zenith",
       "name": "Zenith",
-      "latest": "1.0.1",
+      "latest": "\u0000\u0000\u0000\u0000\u0000",
       "repository": "repo.chariz.io",
       "url": "http://cydia.saurik.com/package/com.muirey03.zenith/",
       "shortDescription": "Organisation Done Right",

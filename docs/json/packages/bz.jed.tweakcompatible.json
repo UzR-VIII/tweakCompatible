@@ -7965,11 +7965,11 @@
       "repository": "BigBoss",
       "date": "2018-08-12T02:31:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -7986,6 +7986,15 @@
           "date": "2018-08-12T02:31:24Z",
           "userName": "liljonny53",
           "issueNumber": 42306,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Bottom part of Cydia overlaps tweakcompatible menu.",
+          "date": "2018-12-09T02:05:45Z",
+          "userName": "noonerules",
+          "issueNumber": 56023,
           "arch32": false
         }
       ]
