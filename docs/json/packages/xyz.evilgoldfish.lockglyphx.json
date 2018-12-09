@@ -234,10 +234,10 @@
       "date": "2018-07-08T02:35:45Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 14,
+        "percentage": 12,
         "good": 1,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -308,6 +308,15 @@
           "date": "2018-08-18T14:34:41Z",
           "userName": "tm5555",
           "issueNumber": 44846,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-12-09T16:58:09Z",
+          "userName": "AXiSft",
+          "issueNumber": 56054,
           "arch32": false
         }
       ]
