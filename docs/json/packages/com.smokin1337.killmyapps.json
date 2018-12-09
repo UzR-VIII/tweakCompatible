@@ -80,9 +80,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2018-12-09T17:37:03Z",
           "userName": "magicbandz",
           "issueNumber": 56085,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Please make the whatsapp to not kill on lockscreen when in call",
+          "date": "2018-12-09T18:28:25Z",
+          "userName": "GhostenigmaX",
+          "issueNumber": 56086,
           "arch32": false
         }
       ]
