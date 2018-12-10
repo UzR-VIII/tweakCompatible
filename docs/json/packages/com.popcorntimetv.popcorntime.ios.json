@@ -151,6 +151,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "3.2.20",
+      "iOSVersion": "11.1.2",
+      "repository": "Popcorn Time Repo",
+      "date": "2018-12-10T03:15:58Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Crashes as soon as you try and load",
+          "date": "2018-12-10T03:15:58Z",
+          "userName": "inhumanargue",
+          "issueNumber": 56097,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
