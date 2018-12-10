@@ -207,10 +207,10 @@
       "repository": "ModMyi (Archive)",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 91,
-        "good": 22,
+        "percentage": 92,
+        "good": 23,
         "bad": 0,
-        "total": 24,
+        "total": 25,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -434,6 +434,15 @@
           "date": "2018-09-25T09:37:43Z",
           "userName": "MoDzMonster1337",
           "issueNumber": 51479,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-10-17T16:53:26Z",
+          "userName": "inhumanargue",
+          "issueNumber": 53249,
           "arch32": false
         }
       ]
