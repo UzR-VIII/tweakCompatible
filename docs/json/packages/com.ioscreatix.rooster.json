@@ -18,9 +18,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 11,
+        "good": 12,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -127,6 +127,15 @@
           "date": "2018-03-08T05:51:52Z",
           "userName": "bs1471117",
           "issueNumber": 4951,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-10-17T16:51:53Z",
+          "userName": "inhumanargue",
+          "issueNumber": 53242,
           "arch32": false
         }
       ]
