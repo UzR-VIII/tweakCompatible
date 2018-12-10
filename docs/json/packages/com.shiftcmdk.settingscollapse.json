@@ -198,11 +198,11 @@
       "repository": "shiftcmdk",
       "date": "2018-12-08T14:35:46Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -219,6 +219,15 @@
           "date": "2018-12-08T14:35:46Z",
           "userName": "soum91",
           "issueNumber": 56006,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2018-12-10T04:23:39Z",
+          "userName": "zquack",
+          "issueNumber": 56098,
           "arch32": false
         }
       ]
