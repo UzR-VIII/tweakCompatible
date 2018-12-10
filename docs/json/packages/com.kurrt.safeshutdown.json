@@ -1,7 +1,7 @@
 {
   "id": "com.kurrt.safeshutdown",
   "name": "SafeShutdown",
-  "latest": "1.39",
+  "latest": "1.30",
   "repository": "Kurrt's Repo",
   "url": "http://cydia.saurik.com/package/com.kurrt.safeshutdown/",
   "shortDescription": "Avoid re-jailbreaking when battery runs out.",
@@ -182,9 +182,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -201,6 +201,15 @@
           "date": "2018-10-11T23:46:32Z",
           "userName": "psychic2ombie",
           "issueNumber": 52751,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-10-17T16:52:04Z",
+          "userName": "inhumanargue",
+          "issueNumber": 53243,
           "arch32": false
         }
       ]
