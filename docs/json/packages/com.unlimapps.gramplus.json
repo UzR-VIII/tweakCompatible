@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.gramplus",
   "name": "Instagram ++",
-  "latest": "1.8r-234",
+  "latest": "1.8r-194",
   "repository": "beta.unlimapps.com",
   "url": "http://beta.unlimapps.com/",
   "shortDescription": "Download & Copy Instagram media",
@@ -3677,9 +3677,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3696,6 +3696,15 @@
           "date": "2018-10-20T00:35:41Z",
           "userName": "redunikorn",
           "issueNumber": 53416,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2018-10-17T16:50:05Z",
+          "userName": "inhumanargue",
+          "issueNumber": 53235,
           "arch32": false
         }
       ]
