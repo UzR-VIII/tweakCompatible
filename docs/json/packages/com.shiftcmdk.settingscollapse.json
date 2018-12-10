@@ -213,21 +213,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone7,1",
-          "issues": "Crashes the settings app! Wish the dev would fix it!",
-          "date": "2018-12-08T14:35:46Z",
-          "userName": "soum91",
-          "issueNumber": 56006,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone8,1",
           "issues": "",
           "date": "2018-12-10T04:23:39Z",
           "userName": "zquack",
           "issueNumber": 56098,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2018-12-10T10:17:12Z",
+          "userName": "soum91",
+          "issueNumber": 56102,
           "arch32": false
         }
       ]
