@@ -671,10 +671,10 @@
       "date": "2018-07-07T22:07:08Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 38,
-        "good": 20,
+        "percentage": 39,
+        "good": 21,
         "bad": 0,
-        "total": 52,
+        "total": 53,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1150,6 +1150,15 @@
           "date": "2018-11-15T12:32:01Z",
           "userName": "ymbgames",
           "issueNumber": 55261,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2018-12-11T07:25:49Z",
+          "userName": "blackS2nd",
+          "issueNumber": 56111,
           "arch32": false
         }
       ]
