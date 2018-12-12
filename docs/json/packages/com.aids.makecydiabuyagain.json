@@ -1731,9 +1731,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1768,6 +1768,15 @@
           "date": "2018-09-28T03:24:10Z",
           "userName": "theskipster00",
           "issueNumber": 51698,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2018-12-12T12:23:16Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 56122,
           "arch32": false
         }
       ]
