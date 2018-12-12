@@ -4041,10 +4041,10 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.5.2-1",
+      "latest": "3.6.0-31",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
-      "shortDescription": "File Manager for iOS. Supports iOS 7+",
+      "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -4731,7 +4731,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-234",
+      "latest": "1.8r-237",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -6216,6 +6216,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.dwna.newawardsforoldreddit",
+      "name": "NewAwardsForOldReddit",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.dwna.newawardsforoldreddit/",
+      "shortDescription": "silver & platinum for Reddit 3.13.1, Narwhal",
+      "category": "Tweaks",
+      "author": "dwna",
+      "commercial": false,
+      "date": "2018-12-12T05:39:04Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "11.2.5",
+          "repository": "BigBoss",
+          "date": "2018-12-12T05:39:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -8984,7 +9018,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.0.2-2",
+      "latest": "1.0.1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -10364,7 +10398,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.0.69",
+      "latest": "1.0.72",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -10769,7 +10803,7 @@
     {
       "id": "com.muirey03.zenith",
       "name": "Zenith",
-      "latest": "\u0000\u0000\u0000\u0000\u0000",
+      "latest": "1.0.2",
       "repository": "repo.chariz.io",
       "url": "http://cydia.saurik.com/package/com.muirey03.zenith/",
       "shortDescription": "Organisation Done Right",
