@@ -4578,6 +4578,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.4.9.4",
+      "iOSVersion": "11.3.1",
+      "repository": "junesiphone.com",
+      "date": "2018-12-12T22:26:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "IPhone 6S",
+          "date": "2018-12-12T22:26:26Z",
+          "userName": "kid1carus",
+          "issueNumber": 56135,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
