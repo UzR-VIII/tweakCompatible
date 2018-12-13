@@ -626,6 +626,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.4.4",
+      "iOSVersion": "11.3",
+      "repository": "Nepeta",
+      "date": "2018-12-13T18:30:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-12-13T18:30:07Z",
+          "userName": "e-zaiD",
+          "issueNumber": 56177,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
