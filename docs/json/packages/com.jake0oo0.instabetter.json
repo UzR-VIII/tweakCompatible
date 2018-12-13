@@ -82,7 +82,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2018-09-11T10:49:34Z",
           "userName": "icureyes",
           "issueNumber": 50062,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-12-13T06:00:00Z",
+          "userName": "j0k3r",
+          "issueNumber": 56161,
           "arch32": false
         }
       ]
