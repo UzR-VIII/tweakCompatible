@@ -142,9 +142,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -179,6 +179,15 @@
           "date": "2018-12-13T02:55:34Z",
           "userName": "dmorse2112",
           "issueNumber": 56150,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-12-13T04:49:37Z",
+          "userName": "EPSYLON2K",
+          "issueNumber": 56156,
           "arch32": false
         }
       ]
