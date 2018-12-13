@@ -142,9 +142,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -170,6 +170,15 @@
           "date": "2018-12-07T21:09:17Z",
           "userName": "supyosup",
           "issueNumber": 55993,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2018-12-13T02:55:34Z",
+          "userName": "dmorse2112",
+          "issueNumber": 56150,
           "arch32": false
         }
       ]
