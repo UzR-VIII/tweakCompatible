@@ -446,9 +446,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -510,6 +510,15 @@
           "date": "2018-08-28T16:42:16Z",
           "userName": "jenyaxo",
           "issueNumber": 47838,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Some notifications don’t show up on lock screen, even though they are set to. ",
+          "date": "2018-12-13T01:16:05Z",
+          "userName": "basicide",
+          "issueNumber": 56144,
           "arch32": false
         }
       ]
