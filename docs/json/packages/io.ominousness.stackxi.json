@@ -648,12 +648,12 @@
       },
       "users": [
         {
-          "status": "working",
+          "status": "partial",
           "device": "iPhone9,3",
-          "issues": "",
-          "date": "2018-12-13T18:30:07Z",
+          "issues": "Some notifications are still getting lost. Restoring helps. ",
+          "date": "2018-12-13T18:35:21Z",
           "userName": "e-zaiD",
-          "issueNumber": 56177,
+          "issueNumber": 56178,
           "arch32": false
         }
       ]
